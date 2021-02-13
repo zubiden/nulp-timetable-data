@@ -9,6 +9,9 @@ Available at https://raw.githubusercontent.com/prettydude/nulp-timetable-data/da
 ### `institutes.json`
 Sorted JSON array with valid institutes
 
+### `institutes/INSTITUTE_NAME.json`
+Sorted JSON array with groups in that institute
+
 ### `groups.json`
 Sorted JSON array with all valid groups in university
 
@@ -41,7 +44,7 @@ Example structure of a lesson:
 
 `url` - URL for distance learning
 
-`type` - extracted type of a lesson
+`type` - extracted type of a lesson. Valid types: `practical`, `lab`, `lection`, `consultation` (last one is not used, as far as I know)
 
 `isFirstWeek` - whether this lesson is on odd numbered weeks (чисельник)
 
