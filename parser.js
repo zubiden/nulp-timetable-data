@@ -3,10 +3,14 @@ const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
 const NULP = "https://student.lpnu.ua/";
-const TIMETABLE_SUFFIX = "students_schedule";
+let timetableSuffix = "students_schedule";
+
+function setSuffix(suffix) {
+	timetableSuffix = suffix;
+}
 
 async function fetchHtml(params = {}) {
-	let baseUrl = NULP + TIMETABLE_SUFFIX;
+	let baseUrl = NULP + timetableSuffix;
 	const url = new URL(baseUrl);
 	for(let key in params) {
 		url.searchParams.set(key, params[key])
@@ -207,7 +211,8 @@ const parser = {
 	fetchHtml,
 	getInstitutes,
 	getGroups,
-	getTimetable
+	getTimetable,
+	setSuffix
 }
 
 module.exports = parser;

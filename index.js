@@ -8,9 +8,14 @@ const exportPath = path.join(__dirname, dir);
 const instituteDir = "institutes";
 const timetableDir = "timetables";
 
-doParsing();
+const selectiveDir = "selective";
+const selectiveSuffix = "schedule_selective";
 
-async function doParsing() {
+doStudentScheduleParsing();
+doSelectiveParsing();
+
+async function doStudentScheduleParsing() {
+    console.log("Downloading student schedule")
     let institutes = await getInstitutes().catch(err => {
         console.log("Got error while downloading institutes:", err);
         process.exit(1)
@@ -34,16 +39,33 @@ async function doParsing() {
 
     let groups2 = groups.splice(0, groups.length / 2);
 
-    await Promise.all([fetchTimetables(groups), fetchTimetables(groups2)]); // I/O works in async mode
+    // I/O works in async mode, so maybe splitting all requests into two separate queues helps with optimization?
+    await Promise.all([fetchTimetables(groups, timetableDir), fetchTimetables(groups2, timetableDir)]);
 
     console.log("Done!");
 }
 
-async function fetchTimetables(groups) {
+async function doSelectiveParsing() {
+    console.log("Downloading selective schedule")
+    parser.setSuffix(selectiveSuffix);
+
+    let groups = await getGroups().catch(err => {
+        console.log("Got error while downloading groups:", err);
+        process.exit(1)
+        return;
+    });
+    groups = groups.map(el => el.trim());
+    writeFile(path.join(exportPath, selectiveDir, "groups.json"), JSON.stringify(groups, null, 4));
+
+    await fetchTimetables(groups, paths.join(selectiveDir, timetableDir));
+    console.log("Done!")
+}
+
+async function fetchTimetables(groups, dir) {
     let failed = [];
     for (let group of groups) {
         await getTimetable(group).then(async timetable => {
-            writeFile(path.join(exportPath, timetableDir, group + ".json"), JSON.stringify(timetable, null, 4));
+            writeFile(path.join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
         }).catch(err => {
             console.log(`Failed to get timetable for ${group}. Retrying later`);
             failed.push(group);
