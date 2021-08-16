@@ -3,7 +3,7 @@ Timetable data for NULP in JSON format
 
 All data files are stored on `data` branch and updated every day on 3AM
 
-Available at https://raw.githubusercontent.com/prettydude/nulp-timetable-data/data/
+Available at https://raw.githubusercontent.com/zubiden/nulp-timetable-data/data/
 
 # Structure
 ### `institutes.json`
