@@ -66,7 +66,7 @@ async function fetchTimetables(groups, dir) {
     const requests = groups.map((group) => parser.prepareTimetableRequest(group));
 
     const response = await axiosParallel(requests, MAX_PARALLEL_REQUEST_PER_CPU);
-    response.forEach(element => {
+    for (let element of response) {
         const url = new URL(element.request.url);
         const group = url.searchParams.get('studygroup_abbrname_selective');
         console.log('Parsing ' + group);
@@ -81,7 +81,7 @@ async function fetchTimetables(groups, dir) {
             console.error(e);
             return;
         }
-    });
+    };
 }
 
 async function getGroups(institute) {
