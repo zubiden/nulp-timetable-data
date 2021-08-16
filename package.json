@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/prettydude/testrep#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "axios-parallel": "^1.1.2",
     "jsdom": "^16.4.0",
     "node-fetch": "^2.6.1"
   }

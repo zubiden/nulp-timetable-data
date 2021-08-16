@@ -1,7 +1,10 @@
 const fs = require('fs');
 const path = require('path');
+const axiosParallel = require('axios-parallel');
 
 const parser = require("./parser.js");
+
+const MAX_PARALLEL_REQUEST_PER_CPU = 30;
 
 const dir = "data";
 const exportPath = path.join(__dirname, dir);
@@ -14,7 +17,6 @@ const selectiveSuffix = "schedule_selective";
 doStudentScheduleParsing().then(() => {
     return doSelectiveParsing();
 });
-
 
 async function doStudentScheduleParsing() {
     console.log("Downloading student schedule")
@@ -39,10 +41,7 @@ async function doStudentScheduleParsing() {
     groups = groups.map(el => el.trim());
     writeFile(path.join(exportPath, "groups.json"), JSON.stringify(groups, null, 4));
 
-    let groups2 = groups.splice(0, groups.length / 2);
-
-    // I/O works in async mode, so maybe splitting all requests into two separate queues helps with optimization?
-    await Promise.all([fetchTimetables(groups, timetableDir), fetchTimetables(groups2, timetableDir)]);
+    fetchTimetables(groups, timetableDir);
 
     console.log("Done!");
 }
@@ -64,32 +63,25 @@ async function doSelectiveParsing() {
 }
 
 async function fetchTimetables(groups, dir) {
-    let failed = [];
-    for (let group of groups) {
-        await getTimetable(group).then(async timetable => {
+    const requests = groups.map((group) => parser.prepareTimetableRequest(group));
+
+    const response = await axiosParallel(requests, MAX_PARALLEL_REQUEST_PER_CPU);
+    response.forEach(element => {
+        const url = new URL(element.request.url);
+        const group = url.searchParams.get('studygroup_abbrname_selective');
+        console.log('Parsing ' + group);
+        if (element.error) {
+            console.error(error);
+            return;
+        }
+        try {
+            const timetable = parser.parseTimetable(element.data);
             writeFile(path.join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
-        }).catch(err => {
-            console.log(`Failed to get timetable for ${group}. Retrying later`);
-            failed.push(group);
-        })
-    }
-
-    for (let group of failed) {
-        await getTimetable(group).then(async timetable => {
-            writeFile(path.join(exportPath, timetableDir, group + ".json"), JSON.stringify(timetable, null, 4));
-        }).catch(err => {
-            console.log(`Failed again while trying to get timetable for ${group}. Error:`, err);
-        })
-    }
-}
-
-async function getTimetable(group) {
-    console.log("Downloading group " + group + " timetable")
-    return parser.getTimetable(group).catch(err => {
-        return parser.getTimetable(group).catch(err => { // try again
-            return parser.getTimetable(group); // and again
-        });
-    })
+        } catch (e) {
+            console.error(e);
+            return;
+        }
+    });
 }
 
 async function getGroups(institute) {

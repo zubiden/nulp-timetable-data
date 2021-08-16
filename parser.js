@@ -1,4 +1,5 @@
-const fetch = require("node-fetch");
+const axios = require('axios').default;
+const axiosParallel = require('axios-parallel');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
@@ -9,53 +10,61 @@ function setSuffix(suffix) {
 	timetableSuffix = suffix;
 }
 
-async function fetchHtml(params = {}) {
+function buildUrl(params = {}) {
 	let baseUrl = NULP + timetableSuffix;
 	const url = new URL(baseUrl);
-	for(let key in params) {
+	for (let key in params) {
 		url.searchParams.set(key, params[key])
 	}
+	return url;
+}
 
-	return fetch(url).then(response => {
-		if(!response.ok) throw Error(response.statusText);
-		return response.text()
-	})
+function fetchHtml(params = {}) {
+	return axios.get(buildUrl(params).toString(), {
+		responseType: 'text',
+	}).then(response => response.data);
 }
 
 async function getInstitutes() {
 	return fetchHtml().then(html => {
 		const select = parseAndGetOne(html, "#edit-departmentparent-abbrname-selective");
 		const institutes = Array.from(select.children)
-								.map(child => child.value)
-								.filter(inst => inst !== "All")
-								.sort((a, b) => a.localeCompare(b));
+			.map(child => child.value)
+			.filter(inst => inst !== "All")
+			.sort((a, b) => a.localeCompare(b));
 		return institutes;
 	})
 }
 
 async function getGroups(departmentparent_abbrname_selective = "All") {
-	return fetchHtml({departmentparent_abbrname_selective}).then(html => {
+	return fetchHtml({ departmentparent_abbrname_selective }).then(html => {
 		const select = parseAndGetOne(html, "#edit-studygroup-abbrname-selective");
 		const groups = Array.from(select.children)
-							.map(child => child.value)
-							.filter(inst => inst !== "All")
-							.sort((a, b) => a.localeCompare(b));
+			.map(child => child.value)
+			.filter(inst => inst !== "All")
+			.sort((a, b) => a.localeCompare(b));
 		return groups;
 	})
 }
 
-async function getTimetable(studygroup_abbrname_selective="All", departmentparent_abbrname_selective = "All" ) { // group, institute
-	return fetchHtml({
-		departmentparent_abbrname_selective,
-	 	studygroup_abbrname_selective,
-	  	semestrduration: 1, // Why, NULP?
-	}).then(html => {
-		const content = parseAndGetOne(html, ".view-content");
-		const days = Array.from(content.children)
-							.map(parseDay)
-							.flat(1);
-		return days;
-	})
+function prepareTimetableRequest(studygroup_abbrname_selective = "All", departmentparent_abbrname_selective = "All") { // group, institute
+	return {
+		method: 'GET',
+		url: buildUrl({
+			departmentparent_abbrname_selective,
+			studygroup_abbrname_selective,
+			semestrduration: 1, // Why, NULP?
+		}).toString(),
+		responseType: 'text',
+	}
+}
+
+function parseTimetable(html) { // group, institute
+	const content = parseAndGetOne(html, ".view-content");
+	const days = Array.from(content.children)
+		.map(parseDay)
+		.flat(1);
+	return days;
 }
 
 /*
@@ -71,7 +80,7 @@ async function getTimetable(studygroup_abbrname_selective="All", departmentparen
 
 function parseDay(day) {
 	const dayText = day.querySelector(".view-grouping-header");
-	if(!dayText) {
+	if (!dayText) {
 		throw Error("Got wrong DOM structure for day!");
 	}
 	const dayNumber = dayToNumber(dayText.textContent);
@@ -80,11 +89,11 @@ function parseDay(day) {
 	let dayLessons = [];
 
 	let currentLessonNumber = 0;
-	for(let i = 0; i < contentChildren.length; i++) {
+	for (let i = 0; i < contentChildren.length; i++) {
 		const child = contentChildren[i];
-		if(child.classList.contains("stud_schedule")) {
+		if (child.classList.contains("stud_schedule")) {
 			const lessons = parsePair(child);
-			if(currentLessonNumber === 0) console.warn("Lesson number is 0!", child)
+			if (currentLessonNumber === 0) console.warn("Lesson number is 0!", child)
 			lessons.forEach(lesson => {
 				lesson.day = dayNumber;
 				lesson.number = currentLessonNumber;
@@ -101,7 +110,7 @@ function parsePair(pair) {
 	const lessonElements = pair.querySelectorAll(".group_content");
 	const lessons = [];
 
-	for(let element of lessonElements) {
+	for (let element of lessonElements) {
 		const id = element.parentElement.id;
 		const meta = parseLessonId(id);
 
@@ -121,9 +130,9 @@ function parsePair(pair) {
 		*/
 
 		const lesson = {
-			...data, 
-			type: tryToGetType(data.location), 
-			...meta, 
+			...data,
+			type: tryToGetType(data.location),
+			...meta,
 			day: -1,
 			number: -1
 		};
@@ -137,11 +146,11 @@ function parseLessonData(element) {
 	const texts = []
 	let lessonUrl = "";
 	let br = false;
-	for(let node of Array.from(element.childNodes)) {
-		if(node.nodeName === "BR") {
-			if(br) texts.push(""); //sometimes text is skipped with sequenced <br/> 
+	for (let node of Array.from(element.childNodes)) {
+		if (node.nodeName === "BR") {
+			if (br) texts.push(""); //sometimes text is skipped with sequenced <br/> 
 			br = true;
-		} else if(node.nodeName==="SPAN") {
+		} else if (node.nodeName === "SPAN") {
 			lessonUrl = node.querySelector("a").href;
 			br = false;
 		} else {
@@ -161,13 +170,13 @@ function parseLessonId(id) {
 	const split = id.split("_");
 	let subgroup = "all";
 	let week = "full";
-	if(id.includes("sub")) {
+	if (id.includes("sub")) {
 		subgroup = Number.parseInt(split[1]);
 	}
-	week = split[split.length-1];
+	week = split[split.length - 1];
 	return {
-		isFirstWeek: week === "full" || week==="chys",
-		isSecondWeek: week === "full" || week==="znam",
+		isFirstWeek: week === "full" || week === "chys",
+		isSecondWeek: week === "full" || week === "znam",
 		isFirstSubgroup: subgroup === "all" || subgroup === 1,
 		isSecondSubgroup: subgroup === "all" || subgroup === 2,
 	}
@@ -175,14 +184,14 @@ function parseLessonId(id) {
 
 function tryToGetType(location) {
 	location = location.toLowerCase();
-	if(location.includes("практична")) return "practical";
-	if(location.includes("лабораторна")) return "lab";
-	if(location.includes("конс.")) return "consultation";
+	if (location.includes("практична")) return "practical";
+	if (location.includes("лабораторна")) return "lab";
+	if (location.includes("конс.")) return "consultation";
 	return "lection";
 }
 
 function dayToNumber(day) {
-	switch(day.toLowerCase()) {
+	switch (day.toLowerCase()) {
 		case "пн":
 			return 1;
 		case "вт":
@@ -198,7 +207,7 @@ function dayToNumber(day) {
 		case "нд":
 			return 7;
 		default:
-			return -1;		
+			return -1;
 	}
 }
 
@@ -211,8 +220,9 @@ const parser = {
 	fetchHtml,
 	getInstitutes,
 	getGroups,
-	getTimetable,
-	setSuffix
+	prepareTimetableRequest,
+	parseTimetable,
+	setSuffix,
 }
 
 module.exports = parser;
