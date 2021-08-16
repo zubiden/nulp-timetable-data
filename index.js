@@ -41,7 +41,7 @@ async function doStudentScheduleParsing() {
     groups = groups.map(el => el.trim());
     writeFile(path.join(exportPath, "groups.json"), JSON.stringify(groups, null, 4));
 
-    fetchTimetables(groups, timetableDir);
+    await fetchTimetables(groups, timetableDir);
 
     console.log("Done!");
 }
