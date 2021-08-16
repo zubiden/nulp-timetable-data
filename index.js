@@ -72,14 +72,14 @@ async function fetchTimetables(groups, dir) {
         console.log('Parsing ' + group);
         if (element.error) {
             console.error(error);
-            return;
+            continue;
         }
         try {
             const timetable = parser.parseTimetable(element.data);
             writeFile(path.join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
         } catch (e) {
             console.error(e);
-            return;
+            continue;
         }
     };
 }
