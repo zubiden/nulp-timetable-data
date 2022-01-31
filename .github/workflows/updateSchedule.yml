@@ -11,8 +11,8 @@ on:
 env:
   COMMIT_FOLDER: data
   PUSH_BRANCH: data
-  EMAIL: prettydude@users.noreply.github.com
-  NAME: prettydude
+  EMAIL: zubiden@users.noreply.github.com
+  NAME: zubiden
 jobs:
   update:
     runs-on: ubuntu-latest
