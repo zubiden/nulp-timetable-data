@@ -71,7 +71,7 @@ async function fetchTimetables(groups, dir) {
         const group = url.searchParams.get('studygroup_abbrname_selective');
         console.log('Parsing ' + group);
         if (element.error) {
-            console.error(error);
+            console.error(element.error);
             continue;
         }
         try {
