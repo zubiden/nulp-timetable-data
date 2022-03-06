@@ -42,7 +42,7 @@ Example structure of a lesson:
 
 `location` - location and type of a lesson
 
-`url` - URL for distance learning
+`urls` - list of URLs to join online
 
 `type` - extracted type of a lesson. Valid types: `practical`, `lab`, `lection`, `consultation` (last one is not used, as far as I know)
 
