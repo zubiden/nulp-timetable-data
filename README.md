@@ -25,7 +25,7 @@ Example structure of a lesson:
     "subject": "Програмування веб-кравлерів",
     "lecturer": "Пупкін В.І., ",
     "location": "213 V н.к.,  Практична",
-    "url": "https://us02web.zoom.us/j/******",
+    "urls": ["https://us02web.zoom.us/j/******"],
     "type": "practical",
     "isFirstWeek": true,
     "isSecondWeek": true,
