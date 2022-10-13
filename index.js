@@ -65,9 +65,9 @@ async function doSelectiveParsing() {
 async function fetchTimetables(groups, dir) {
     const requests = groups.map((group) => parser.prepareTimetableRequest(group));
 
-    const response = axiosParallel(requests, MAX_PARALLEL_REQUEST_PER_CPU);
+    const response = await axiosParallel(requests, MAX_PARALLEL_REQUEST_PER_CPU);
     for (let i = 0; i < response.length; i++) {
-        const element = await response[i];
+        const element = response[i];
         const url = new URL(element.request.url);
         const group = url.searchParams.get('studygroup_abbrname_selective');
         console.log('Parsing ' + group);
