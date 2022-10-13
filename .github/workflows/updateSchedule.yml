@@ -29,7 +29,7 @@ jobs:
       - name: Initialize and run node
         run: |
           npm install
-          node --max-old-space-size=7200 index.js
+          node --max-old-space-size=7500 index.js
 
 #      - name: "Echo all files in this directory"
 #        run: find $COMMIT_FOLDER -type f -printf "%f\n"
