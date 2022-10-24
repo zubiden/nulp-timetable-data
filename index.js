@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const axiosParallel = require('axios-parallel');
+const axios = require('axios');
 
 const parser = require("./parser.js");
 
-const MAX_PARALLEL_REQUEST_PER_CPU = 30;
+const MAX_PARALLEL_REQUESTS = 10;
 
 const dir = "data";
 const exportPath = path.join(__dirname, dir);
@@ -62,29 +62,39 @@ async function doSelectiveParsing() {
     console.log("Done!")
 }
 
-async function fetchTimetables(groups, dir) {
+async function fetchTimetables(groups) {
     const requests = groups.map((group) => parser.prepareTimetableRequest(group));
+    const requestQueue = [];
+    let currentPosition = 0;
+    for (; currentPosition < MAX_PARALLEL_REQUESTS; currentPosition++) {
+        requestQueue.push(axios(requests[currentPosition]));
+    }
 
-    const response = await axiosParallel(requests, MAX_PARALLEL_REQUEST_PER_CPU);
-    for (let i = 0; i < response.length; i++) {
-        const element = response[i];
-        const url = new URL(element.request.url);
-        const group = url.searchParams.get('studygroup_abbrname_selective');
-        console.log('Parsing ' + group);
-        if (element.error) {
-            console.error(element.error);
-            continue;
+    while (requestQueue.length) {
+        const request = await requestQueue.shift();
+        handleResponse(request);
+        if (currentPosition < requests.length) {
+            requestQueue.push(axios(requests[currentPosition]));
+            currentPosition++;
         }
-        try {
-            const timetable = parser.parseTimetable(element.data);
-            writeFile(path.join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
-        } catch (e) {
-            console.error(e);
-            continue;
-        } finally {
-            response[i] = undefined; // Hacky memory optimization
-        }
-    };
+    }
+}
+
+function handleResponse(element) {
+    const url = new URL(element.config.url);
+    const group = url.searchParams.get('studygroup_abbrname_selective');
+    console.log('Parsing ' + group);
+    if (element.error) {
+        console.error(element.error);
+        return;
+    }
+
+    try {
+        const timetable = parser.parseTimetable(element.data);
+        writeFile(path.join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
+    } catch (e) {
+        console.error(e);
+    }
 }
 
 async function getGroups(institute) {

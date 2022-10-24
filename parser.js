@@ -1,5 +1,4 @@
-const axios = require('axios').default;
-const axiosParallel = require('axios-parallel');
+const axios = require('axios');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 

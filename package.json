@@ -1,25 +1,17 @@
 {
-  "name": "testrep",
+  "name": "nulp-timetable-data",
   "version": "1.0.0",
-  "description": "Just for tests",
+  "description": "Data parser for nulp-timetable",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prettydude/testrep.git"
+    "url": "git+https://github.com/zubiden/nulp-timetable-data.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prettydude/testrep/issues"
-  },
-  "homepage": "https://github.com/prettydude/testrep#readme",
+  "homepage": "https://github.com/zubiden/nulp-timetable-data#readme",
   "dependencies": {
-    "axios": "^0.21.1",
-    "axios-parallel": "^1.1.2",
-    "jsdom": "^16.4.0",
-    "node-fetch": "^2.6.1"
+    "axios": "^1.1.3",
+    "jsdom": "^20.0.1"
   }
 }
