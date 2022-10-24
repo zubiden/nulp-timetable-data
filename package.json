@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Data parser for nulp-timetable",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zubiden/nulp-timetable-data.git"

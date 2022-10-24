@@ -1,11 +1,11 @@
-const axios = require('axios');
-const jsdom = require("jsdom");
+import axios from 'axios';
+import jsdom from "jsdom";
 const { JSDOM } = jsdom;
 
 const NULP = "https://student.lpnu.ua/";
 let timetableSuffix = "students_schedule";
 
-function setSuffix(suffix) {
+export function setSuffix(suffix) {
 	timetableSuffix = suffix;
 }
 
@@ -24,7 +24,7 @@ function fetchHtml(params = {}) {
 	}).then(response => response.data);
 }
 
-async function getInstitutes() {
+export async function getInstitutes() {
 	return fetchHtml().then(html => {
 		const select = parseAndGetOne(html, "#edit-departmentparent-abbrname-selective");
 		const institutes = Array.from(select.children)
@@ -35,7 +35,7 @@ async function getInstitutes() {
 	})
 }
 
-async function getGroups(departmentparent_abbrname_selective = "All") {
+export async function getGroups(departmentparent_abbrname_selective = "All") {
 	return fetchHtml({ departmentparent_abbrname_selective }).then(html => {
 		const select = parseAndGetOne(html, "#edit-studygroup-abbrname-selective");
 		const groups = Array.from(select.children)
@@ -46,7 +46,7 @@ async function getGroups(departmentparent_abbrname_selective = "All") {
 	})
 }
 
-function prepareTimetableRequest(studygroup_abbrname_selective = "All", departmentparent_abbrname_selective = "All") { // group, institute
+export function prepareTimetableRequest(studygroup_abbrname_selective = "All", departmentparent_abbrname_selective = "All") { // group, institute
 	return {
 		method: 'GET',
 		url: buildUrl({
@@ -58,7 +58,7 @@ function prepareTimetableRequest(studygroup_abbrname_selective = "All", departme
 	}
 }
 
-function parseTimetable(html) { // group, institute
+export function parseTimetable(html) { // group, institute
 	const content = parseAndGetOne(html, ".view-content");
 	const days = Array.from(content.children)
 		.map(parseDay)
@@ -224,4 +224,4 @@ const parser = {
 	setSuffix,
 }
 
-module.exports = parser;
+export default parser;
