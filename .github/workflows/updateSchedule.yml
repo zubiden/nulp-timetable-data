@@ -24,12 +24,12 @@ jobs:
 
       - uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'
 
       - name: Initialize and run node
         run: |
           npm install
-          node --max-old-space-size=7500 index.js
+          node index.js
 
 #      - name: "Echo all files in this directory"
 #        run: find $COMMIT_FOLDER -type f -printf "%f\n"
