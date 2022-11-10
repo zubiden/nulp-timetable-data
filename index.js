@@ -63,7 +63,7 @@ async function doSelectiveParsing() {
     console.log("Done!")
 }
 
-async function fetchTimetables(groups) {
+async function fetchTimetables(groups, dir) {
     const requests = groups.map((group) => prepareTimetableRequest(group));
     const requestQueue = [];
     let currentPosition = 0;
@@ -73,7 +73,7 @@ async function fetchTimetables(groups) {
 
     while (requestQueue.length) {
         const request = await requestQueue.shift();
-        handleResponse(request);
+        handleResponse(request, dir);
         if (currentPosition < requests.length) {
             requestQueue.push(axios(requests[currentPosition]));
             currentPosition++;
@@ -81,7 +81,7 @@ async function fetchTimetables(groups) {
     }
 }
 
-function handleResponse(element) {
+function handleResponse(element, dir) {
     const url = new URL(element.config.url);
     const group = url.searchParams.get('studygroup_abbrname_selective');
     console.log('Parsing ' + group);
