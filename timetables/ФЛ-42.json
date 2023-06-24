@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "Шийка Ю.І., 117 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/var-dohi-zgv"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 4",
+        "lecturer": "Романишин Н.І., 525 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76731641763?pwd=FGo9B0hE8Kfc1tb7XhoKSrDL9eWmUD.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Сабат С.І., 117 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://zoom.us/j/5775028181?pwd=ay9EaFl5YnlSNEpCRG5sUVhlT0xidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська мова), частина 2",
+        "lecturer": "Черниш Л.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/pvh-qdap-osu?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Коцан О.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/88352487509?pwd=c0JCYjlsVzlveTR0bXk1OHgrUGkwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Карасьов В.В., 132 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vbq-typq-ngu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Коцан О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83811524799?pwd=R2x4R0dCNTJaVHFha012REJVenFHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Коцан О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83811524799?pwd=R2x4R0dCNTJaVHFha012REJVenFHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Коцан О.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/88352487509?pwd=c0JCYjlsVzlveTR0bXk1OHgrUGkwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Іщук М.М., 116 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/uru-vjzo-xda?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 4",
+        "lecturer": "Альбота С.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9199273450?pwd=aHlOaXkwdmpHTjBVektDWGEwaTNjQT09%20%20Meeting%20ID:%20919%20927%203450%20Passcode:%20i95Gnq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Карасьов В.В., 132 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbh-cxij-dfk"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Сабат С.І., ",
+        "location": ", Практична",
+        "urls": [
+            "https://zoom.us/j/5775028181?pwd=ay9EaFl5YnlSNEpCRG5sUVhlT0xidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "Голтвян В.І., 525 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/ppd-koau-hbd?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Іщук М.М., 116 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/qqs-vmak-jbe?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=5421"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

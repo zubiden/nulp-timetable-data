@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., 109 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Сурмай М.І., 218 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., 109 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Сурмай М.І., 218 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вашкевич Р.В., 209 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73758979854?pwd=MvKvYIZT287F5NbVY0tAPZ0RhebyvV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вашкевич Р.В., 209 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71583196954?pwd=YXn2YHIwxm83ljX0Vt9X2QzBnZmDtv.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Максимович С.Б., 201 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Максимович С.Б., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вашкевич Р.В., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71207465227?pwd=aSkV6OXAYRn3zNbPCoqC5DaGARufTG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Барабаш В.М., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Максимович С.Б., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вашкевич Р.В., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77717020082?pwd=zTMaxJKB2PvjiGZ5nYQ3sasL2tPTqF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вашкевич Р.В., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74215446949?pwd=fZkiWCdhI7MuIZjIpsvKIdLyWvAiMY.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

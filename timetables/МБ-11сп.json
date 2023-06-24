@@ -1,0 +1,289 @@
+[
+    {
+        "subject": "Технології зварювання",
+        "lecturer": "Дзюбик А.Р., 7 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технології зварювання",
+        "lecturer": "Дзюбик А.Р., 7 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія різання та різальний інструмент",
+        "lecturer": "Грицай І.Є., 49 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія різання та різальний інструмент",
+        "lecturer": "Грицай І.Є., 49 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "Городняк Р.В., 80б XIV н.к. , ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електроніка та мікропроцесорна техніка",
+        "lecturer": "Зелінський І.Д., 80 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "Бойко М.В., 81 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теорія різання та різальний інструмент",
+        "lecturer": "Грицай І.Є., 59 XIV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Андрес А.С., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Теорія різання та різальний інструмент",
+        "lecturer": "Новіцький Ю.Я., 5-6 XV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія різання та різальний інструмент",
+        "lecturer": "Новіцький Ю.Я., 5-6 XV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Електроніка та мікропроцесорна техніка",
+        "lecturer": "Зелінський І.Д., 16 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології зварювання",
+        "lecturer": "Войтович А.А., 11 XVII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "Шеремета Р.М., 80а XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "Городняк Р.В., 83 XIV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "Шеремета Р.М., 80а XIV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "Городняк Р.В., 84 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Електроніка та мікропроцесорна техніка",
+        "lecturer": "Зелінський І.Д., 16 XIV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології зварювання",
+        "lecturer": "Войтович А.А., 11 XVII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Електроніка та мікропроцесорна техніка",
+        "lecturer": "Зелінський І.Д., 16 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Технології зварювання",
+        "lecturer": "Хомич І.Б., 10 XVII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

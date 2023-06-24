@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "Червінський Т.І., 309 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78366765689?pwd=Nsra8TkeLxDb2vt8HSfSVAErv6RN1b.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "Червінський Т.І., 309 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78366765689?pwd=Nsra8TkeLxDb2vt8HSfSVAErv6RN1b.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "Присяжний Ю.В., 317 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Обладнання і конструкційні матеріали",
+        "lecturer": "Присяжний Ю.В., 317 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Обладнання і конструкційні матеріали",
+        "lecturer": "Присяжний Ю.В., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auemlEIy80fZwNYDqc6jSOOKYV5G5Jx2BkG-oLTm-jR01%40thread.tacv2/1677059592386?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "Демчук Ю.Я., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "Топільницький П.І., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1677489973662?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "Пиш'єв С.В., Топільницький П.І., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa9485f09a1714d8bac3340375735397e%40thread.tacv2/1677406603916?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1682415154930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "Пиш'єв С.В., Топільницький П.І., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa9485f09a1714d8bac3340375735397e%40thread.tacv2/1677406603916?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1682414956562?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "Червінський Т.І., 309 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79551835844?pwd=DjMHffOvE2RXiqzkKJqX9RMq1ainNd.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "Червінський Т.І., 309 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79551835844?pwd=DjMHffOvE2RXiqzkKJqX9RMq1ainNd.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "Пиш'єв С.В., 320 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa9485f09a1714d8bac3340375735397e%40thread.tacv2/1677406816511?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

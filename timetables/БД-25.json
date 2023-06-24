@@ -1,0 +1,223 @@
+[
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "Шиндер В.К., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "Марків Т.Є., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "Марків Т.Є., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "Брайченко С.П., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "Брайченко С.П., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "Шиндер В.К., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Транспорт і шляхи сполучення",
+        "lecturer": "Новицький Ю.Л., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "Матлай І.І., 212 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "Новосад П.В., Русин Б.Г., 319 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "Гнатів Р.М., 106 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "Марків Т.Є., 416 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "Вовк Л.І., Матлай І.І., 106 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09",
+            "https://zoom.us/j/6387061538?pwd=MDM4REVpLzBZb2VJYU9GOEdkWGZ3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "Шиндер В.К., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "Гайда О.М., 416 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Транспорт і шляхи сполучення",
+        "lecturer": "Гідей В.В., 310 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

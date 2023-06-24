@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Гринів Т.Т., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Гринів Т.Т., 109 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

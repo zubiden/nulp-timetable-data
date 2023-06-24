@@ -1,0 +1,194 @@
+[
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "Куцик А.С., 1 тижд119 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "Куцик А.С., 2 тиж119 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "Куцик А.С., 1 тижд119 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "Куцик А.С., 2 тижд119 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизовані електроприводи гірничовидобувної промисловості",
+        "lecturer": "Маляр А.В., 043 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизовані електроприводи гірничовидобувної промисловості",
+        "lecturer": "Маляр А.В., 043 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизовані електроприводи гірничовидобувної промисловості",
+        "lecturer": "Маляр А.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "Куцик А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6Ta03IgMVvHqh7fmHA1qRuXlOpvcSJu9OXVy1HWe6BE1%40thread.tacv2/General?groupId=71adeef5-5768-4988-9c1f-7f898ff25131&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "Куцик А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQkG_sR5DBOd0FNm_1Ozke5ePwrYuZovz1OtKf4mF4ys1%40thread.tacv2/General?groupId=af9109cd-8f79-4279-a6e7-aa19c759094d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "Куцик А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6Ta03IgMVvHqh7fmHA1qRuXlOpvcSJu9OXVy1HWe6BE1%40thread.tacv2/General?groupId=71adeef5-5768-4988-9c1f-7f898ff25131&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизовані електроприводи гірничовидобувної промисловості",
+        "lecturer": "Цяпа В.Б., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Електромеханічні системи робототехнічних комплексів",
+        "lecturer": "Біляковський І.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a931cec7d53a34d9dab99f4d75c430c8f%40thread.tacv2/conversations?groupId=7c805d53-84e7-42dd-96bb-0c31897266fd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Електромеханічні системи робототехнічних комплексів",
+        "lecturer": "Біляковський І.Є., 116с Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a931cec7d53a34d9dab99f4d75c430c8f%40thread.tacv2/conversations?groupId=7c805d53-84e7-42dd-96bb-0c31897266fd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Електромеханічні системи робототехнічних комплексів",
+        "lecturer": "Біляковський І.Є., 116с Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

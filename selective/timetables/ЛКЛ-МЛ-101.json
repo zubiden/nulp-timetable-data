@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Логістичне консультування",
+        "lecturer": "Наконечна Т.В., Крикавський Є.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Логістичне консультування",
+        "lecturer": "Наконечна Т.В., 401а IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5ddc0e781b5c4cada1f49b88c4764679%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=51ce2a9a-a26d-40c6-8ab7-6972eac34e07&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

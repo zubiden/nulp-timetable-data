@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Фінансова статистика",
+        "lecturer": "Чубка О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6fdd731a768a4012a858705d3402fc97%40thread.tacv2/1676536239945?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3f344e-23b1-4f3c-8061-ac1692431764%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Корпорації і фінансова інфраструктура",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3accfa1852f1694ad6ba1b96317770ef60%40thread.tacv2/1676640961154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Корпорації і фінансова інфраструктура",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3accfa1852f1694ad6ba1b96317770ef60%40thread.tacv2/1676641018716?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінансова статистика",
+        "lecturer": "Чубка О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6fdd731a768a4012a858705d3402fc97%40thread.tacv2/1676536532874?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3f344e-23b1-4f3c-8061-ac1692431764%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Фінансова статистика",
+        "lecturer": "Чубка О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6fdd731a768a4012a858705d3402fc97%40thread.tacv2/1676536737500?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3f344e-23b1-4f3c-8061-ac1692431764%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фінансова статистика",
+        "lecturer": "Хома І.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6fdd731a768a4012a858705d3402fc97%40thread.tacv2/1676296191471?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295bc2ca3-9350-4bb7-afb8-70f469e93e65%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фінансова статистика",
+        "lecturer": "Хома І.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6fdd731a768a4012a858705d3402fc97%40thread.tacv2/1676296385339?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295bc2ca3-9350-4bb7-afb8-70f469e93e65%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Корпорації і фінансова інфраструктура",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3accfa1852f1694ad6ba1b96317770ef60%40thread.tacv2/1676641091724?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Корпорації і фінансова інфраструктура",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3accfa1852f1694ad6ba1b96317770ef60%40thread.tacv2/1676641564100?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фінанси зарубіжних корпорацій",
+        "lecturer": "Вівчар О.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae81adae97f12441790285f6843376305%40thread.tacv2/1676787981391?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220151449f-6131-4ca9-aa59-4b3e00e2b72a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фінанси зарубіжних корпорацій",
+        "lecturer": "Вівчар О.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae81adae97f12441790285f6843376305%40thread.tacv2/1676788372928?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220151449f-6131-4ca9-aa59-4b3e00e2b72a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фінанси зарубіжних корпорацій",
+        "lecturer": "Вівчар О.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae81adae97f12441790285f6843376305%40thread.tacv2/1676788885915?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220151449f-6131-4ca9-aa59-4b3e00e2b72a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Фінанси зарубіжних корпорацій",
+        "lecturer": "Вівчар О.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae81adae97f12441790285f6843376305%40thread.tacv2/1676789667235?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220151449f-6131-4ca9-aa59-4b3e00e2b72a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

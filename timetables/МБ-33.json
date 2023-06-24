@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "Городняк Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "Городняк Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "Городняк Р.В., 16 XV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Зінько Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76733557437?pwd=_MfWEvi1CR0C9iEjj2ex8q_5ff8Zf9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Зінько Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3927121462?pwd=WVM1LytMRHRuQmJZSWlSSVV5RVE3UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Випробування автотранспортних засобів",
+        "lecturer": "Бур'ян М.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86963649302?pwd=UWtqbGlYYkdtcVpHVExkMEpJaHI0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Випробування автотранспортних засобів",
+        "lecturer": "Бур'ян М.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86963649302?pwd=UWtqbGlYYkdtcVpHVExkMEpJaHI0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "Городняк Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Випробування автотранспортних засобів",
+        "lecturer": "Бур'ян М.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86963649302?pwd=UWtqbGlYYkdtcVpHVExkMEpJaHI0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Зінько Р.В., 16 XV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79025969666?pwd=iG7GvTxMwJR9wGRhMmhjZnGbgoXYGX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Зінько Р.В., 2 XV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76134992038?pwd=5zeVv5mOKCkjpLWVwkYBKGgXX9vKTi.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Зінько Р.В., 2 XV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75914444527?pwd=JJb7aqM7qYdvqngYiyPdojFMU9aSHm.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Випробування автотранспортних засобів",
+        "lecturer": "Бур'ян М.В., 81 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86963649302?pwd=UWtqbGlYYkdtcVpHVExkMEpJaHI0Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

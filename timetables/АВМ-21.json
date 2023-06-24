@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "Федоришин Р.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72971666683?pwd=Z2mtRPPghQsBKJN4rPDpbLxbil4cvq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Планування експерименту та опрацювання результатів досліджень",
+        "lecturer": "Мищишин В.М., 607а V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20m8B0bx)"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів",
+        "lecturer": "Наконечний А.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3563134043?pwd=U0NkTEdKZ3h0UzRKSm9LbEJUdEQwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Синтез цифрових систем керування",
+        "lecturer": "Лагун І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86158837658%20#Password%209DdrTv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Планування експерименту та опрацювання результатів досліджень",
+        "lecturer": "Мищишин В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20m8B0bx)"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Сигнальні процесори в системах автоматики",
+        "lecturer": "Бучма І.М., 711 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/lUAdPVmGQqWP"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Синтез цифрових систем керування",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86158837658%20#Password%209DdrTv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/93874716641%20%20#Passcode:%204GgYfV"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування та програмування мікропроцесорних пристроїв автоматики",
+        "lecturer": "Бучма І.М., 311 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/lUAdPVmGQqWP"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/93874716641%20%20#Passcode:%204GgYfV"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Синтез цифрових систем керування",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86158837658%20#Password%209DdrTv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проектування та програмування мікропроцесорних пристроїв автоматики",
+        "lecturer": "Бучма І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/lUAdPVmGQqWP"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Сигнальні процесори в системах автоматики",
+        "lecturer": "Бучма І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/lUAdPVmGQqWP"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

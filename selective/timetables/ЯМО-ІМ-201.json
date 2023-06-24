@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Японська мова",
+        "lecturer": "Козаченко Н.О., 14 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Японська мова",
+        "lecturer": "Федоришин М.С., 32 VII н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

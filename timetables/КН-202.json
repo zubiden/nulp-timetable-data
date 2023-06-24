@@ -1,0 +1,235 @@
+[
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Ковівчак Я.В., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "Павлюк О.М., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88551670174?pwd=YVI1L0dHS2Q0S3RWR1NIN0ZkYVFmUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Математичні методи дослідження операцій",
+        "lecturer": "Казимира І.Я., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Світлик В.В., корп.21 вул.Самчука.11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Кордіяка Ю.М., 804г V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математичні методи дослідження операцій",
+        "lecturer": "Ріпак Н.С., 511 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Кордіяка Ю.М., 804г V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичні методи дослідження операцій",
+        "lecturer": "Зварич511 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "Павлюк О.М., 104 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83573764319?pwd=TVh4dTVsSGhad1ZVSmp3QzQ1amsvdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "Павлюк О.М., 104 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83573764319?pwd=TVh4dTVsSGhad1ZVSmp3QzQ1amsvdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Зербіно Д.Д., 804б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Зербіно Д.Д., 804б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "Марцишин Р.С., 107a V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "Скрибайло-Леськів Д.Ю., 803 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/cbn-rfzm-tsg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Піх І.В., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "Обельовська К.М., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Фабрі Л.П., 802а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

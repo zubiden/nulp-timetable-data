@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Філософія",
+        "lecturer": "Вербова Р.М., 401 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6949009441?pwd=TE5ZSkhpNUVzZEYxWXBKZ0dMQ0JPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Лобур М.В., 325 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jam-ivht-xjv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Матвійків О.М., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gcq-nvyn-tto"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Іванина В.В., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Іванина В.В., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85745086523?pwd=d0hzeXBxNVUyK3RnUzRQN1k3VU43Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Бокла Н.І., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fuy-wene-kfq"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Бокла Н.І., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fuy-wene-kfq"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Маркелов О.Е., 321 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rfa-rxif-ivc"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

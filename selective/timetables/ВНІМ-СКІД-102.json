@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "Березко О.Л., ДКІБ-12520 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "Березко О.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Комунікації міста",
+        "lecturer": "Мазур Т.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Урбаністична конфліктологія і партисипація",
+        "lecturer": "Шульга Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6xMj-LrLmCuNWavAlqpN6At138XHdNFcIY7MkWhYvX01%40thread.tacv2/conversations?groupId=871b512c-fb75-4e27-b636-d6fe4135b59e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Байбакова І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/I3A3Diqu8RDG"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комунікації міста",
+        "lecturer": "Мазур Т.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Урбаністична конфліктологія і партисипація",
+        "lecturer": "Шульга Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aum0ewjg3lAjZQx6rTecI7cFT7-0QzD72_y7SxcpNZZY1%40thread.tacv2/conversations?groupId=47ebef33-7f1d-4944-b68a-db237d439549&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "Любицький Р.І., Петришин Г.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0a52563e018f436bbaf77b35eaa4f280%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=866f8bdc-c253-4e2d-91a7-f5b7b6215d46&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3afb602c0deecd4b2b8a0a07c328e96fad%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=581d5532-4138-4cc6-9826-3331abcedeab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "Любицький Р.І., Петришин Г.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0a52563e018f436bbaf77b35eaa4f280%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=866f8bdc-c253-4e2d-91a7-f5b7b6215d46&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3afb602c0deecd4b2b8a0a07c328e96fad%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=581d5532-4138-4cc6-9826-3331abcedeab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Урбаністична конфліктологія і партисипація",
+        "lecturer": "Онуфрів Я.О., Щегольська С.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDs9RJKju4xLYMhlv67ml5QKLxwpwNglIKbir6SVVhDU1%40thread.tacv2/conversations?groupId=ae8c9a04-8e28-4e63-8d27-9d8202d31e05&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Урбаністична конфліктологія і партисипація",
+        "lecturer": "Онуфрів Я.О., Щегольська С.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDs9RJKju4xLYMhlv67ml5QKLxwpwNglIKbir6SVVhDU1%40thread.tacv2/conversations?groupId=ae8c9a04-8e28-4e63-8d27-9d8202d31e05&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

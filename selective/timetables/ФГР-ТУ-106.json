@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "Василюк С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "Василюк С.В., 4 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

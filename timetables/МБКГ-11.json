@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUHwRUWqyW-hCx0todu2wtPct_OCeIv8m5auVXonQrv41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ce693fcd-86a0-4300-9c4d-9b756c5c7783&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Автоматика",
+        "lecturer": "Банга В.І., 77 XIV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Експериментальні дослідження та сертифікація автотраспорних засобів",
+        "lecturer": "Бур'ян М.В., 81 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83857913440?pwd=WEw2dXJxS2RCU09mUVhTc2pJbzBmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Експериментальні дослідження та сертифікація автотраспорних засобів",
+        "lecturer": "Бур'ян М.В., 81 XIV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "Майструк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg2MTkzMTQtNzgzNy00NDQyLWI5MmYtOWUwYzdjMzU3ODlm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Автоматика",
+        "lecturer": "Банга В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8951750334?pwd=cmF2ZUw1YXhTRy9URWFmZmZpZDdNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та розрахунок агрегатів і систем автомобіля",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88653349514?pwd=VjQ3bGRDdnBZaUw2YVQ3L3Vra3JIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія та розрахунок агрегатів і систем автомобіля",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86494860594?pwd=eWZIVjFCSmhRNG1zOG00OC80ekk3UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експериментальні дослідження та сертифікація автотраспорних засобів",
+        "lecturer": "Бур'ян М.В., 81 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87834121863?pwd=b1BGZVpCT2tXbXhPOUtEbWpDR1Nldz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "Майструк В.В., 81 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTE4ZTQyMmUtMWE2YS00YjFjLTllZWItNzgyMTc4MzRmYjFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та розрахунок агрегатів і систем автомобіля",
+        "lecturer": "Попович В.В., 81 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87956625134?pwd=RUZPc2dRZEN1aDdPazVqZVNGRnJ4UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUHwRUWqyW-hCx0todu2wtPct_OCeIv8m5auVXonQrv41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ce693fcd-86a0-4300-9c4d-9b756c5c7783&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Еволюційне програмування",
+        "lecturer": "Думин І.Б., 123б, XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0X2Q_CTLJvHd7uT2LuoYpyK4cuoBGKsh0tIU4Udk-dM1%40thread.tacv2/1683535134416?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2299537548-a8c4-48dc-9296-c961579a1051%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "Бойко Н.І., 127а, XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Видобування даних у Веб",
+        "lecturer": "Glacomo Flumara127а, XX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Еволюційне програмування",
+        "lecturer": "Думин І.Б., 201 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "Пелещишин О.П., 101 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Еволюційне програмування",
+        "lecturer": "Думин І.Б., 201 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "Пелещишин О.П., 101 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., 201 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ftr-ppzq-ojz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., 125, XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/ftr-ppzq-ojz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Видобування даних у Веб",
+        "lecturer": "230 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Видобування даних у Веб",
+        "lecturer": "230 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

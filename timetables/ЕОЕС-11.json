@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Стратегія адаптації до змін клімату",
+        "lecturer": "Попович О.Р., 113 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Дячок В.В., 012 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdhYTJiM2EtODljYy00Nzc1LWFmMDQtZjZkNGM3Yzc3MjJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Дячок В.В., 012 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdhYTJiM2EtODljYy00Nzc1LWFmMDQtZjZkNGM3Yzc3MjJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Концепція сталого розвитку державної кліматичної політики",
+        "lecturer": "Вронська Н.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3au0kox2LVATI_s9dXV5LoHv1yb-1cPeORLzpj_NC3c0w1%40thread.tacv2/1676571308479?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmVjOWNmMzktMzk4ZC00NmZlLTkxNDgtYjI5YmI1OTIxOTQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Стратегія адаптації до змін клімату",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQqg-aujFEaEMQKilk3DZQ9_8bgdqGYrmeg66wZokgzc1%40thread.tacv2/1677326831028?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "Одноріг З.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "Одноріг З.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "Одноріг З.С., 113 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "Одноріг З.С., 115 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Концепція сталого розвитку державної кліматичної політики",
+        "lecturer": "Вронська Н.Ю., 115 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

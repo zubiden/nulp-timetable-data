@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Безпека розподілених мереж і хмарних технологій",
+        "lecturer": "Партика А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azW3GemgLeSj-y0dyoPeBqYX_B5Ymk4mnmtU_zSxqkFo1%40thread.tacv2/1679136083197?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282bf90f8-39dd-4363-91e9-93613de2338d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні методи розроблення пристроїв кібербезпеки",
+        "lecturer": "Горпенюк А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Безпека розподілених мереж і хмарних технологій",
+        "lecturer": "Партика А.І., 212 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azW3GemgLeSj-y0dyoPeBqYX_B5Ymk4mnmtU_zSxqkFo1%40thread.tacv2/1679136317661?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282bf90f8-39dd-4363-91e9-93613de2338d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Безпека розподілених мереж і хмарних технологій",
+        "lecturer": "Партика А.І., 212 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azW3GemgLeSj-y0dyoPeBqYX_B5Ymk4mnmtU_zSxqkFo1%40thread.tacv2/1679136317661?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282bf90f8-39dd-4363-91e9-93613de2338d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "Микитин Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "Микитин Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "Микитин Г.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Високоровіневе програмування систем захисту комп`ютерних мереж",
+        "lecturer": "Тишик І.Я., 210 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS8tnhqjiGTOMDSy-yLodJhSh0o-or6VjSrU0eNjejt41%40thread.tacv2/1679339147501?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226524921c-9ad1-4075-b276-4ca24a51fd69%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Високоровіневе програмування систем захисту комп`ютерних мереж",
+        "lecturer": "Тишик І.Я., 210 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Високоровіневе програмування систем захисту комп`ютерних мереж",
+        "lecturer": "Тишик І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS8tnhqjiGTOMDSy-yLodJhSh0o-or6VjSrU0eNjejt41%40thread.tacv2/1679339256034?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226524921c-9ad1-4075-b276-4ca24a51fd69%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи розроблення пристроїв кібербезпеки",
+        "lecturer": "Зеляновський Ю.Є., 212 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 6,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні методи розроблення пристроїв кібербезпеки",
+        "lecturer": "Зеляновський Ю.Є., 212 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 4
+    }
+]

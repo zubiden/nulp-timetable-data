@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Економіка природокористування",
+        "lecturer": "Кучер Л.Ю., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Ландшафтна екологія",
+        "lecturer": "Гивлюд А.М., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71668518654"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "Шибанова А.М., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79990881978?pwd=bIbLfPpL09wVRjyE0AwwYFkqJa98bc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Ландшафтна екологія",
+        "lecturer": "Гивлюд А.М., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71668518654"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Екологічна безпека",
+        "lecturer": "Руда М.В., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72474820828?pwd=jS8L0s74QSpVZFwW1hS4wQS1QCulZU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Екологічна безпека",
+        "lecturer": "Руда М.В., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72474820828?pwd=jS8L0s74QSpVZFwW1hS4wQS1QCulZU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Екологічна безпека",
+        "lecturer": "Руда М.В., 230 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76525311886?pwd=bnaCrJpswOT0k0Ijd6QNa9QDHu2tFw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Природоохоронне законодавство та екологічне право",
+        "lecturer": "Тарнавська М.І., 230 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Ландшафтна екологія",
+        "lecturer": "Гивлюд А.М., 230 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71668518654"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "Шибанова А.М., 230 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73684247717?pwd=eiTaEBIq1hFt0WfmiB3QcIUQPjKb2X.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "Шибанова А.М., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75186283360?pwd=h4IybVZs0SmIn8IlaKwcxRGh7Ab0QT.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Природоохоронне законодавство та екологічне право",
+        "lecturer": "Тарнавська М.І., 230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Економіка природокористування",
+        "lecturer": "Стояновський А.Р., 230 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Світлик В.В., корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

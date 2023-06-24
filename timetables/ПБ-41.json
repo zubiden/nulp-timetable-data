@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "Перетятко Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "Перетятко Б.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 4",
+        "lecturer": "Данкевич І.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81930743766?pwd=NkdTaWtTWGs1bGZTUmdXWlk4TmtVdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 4",
+        "lecturer": "Данкевич І.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81930743766?pwd=NkdTaWtTWGs1bGZTUmdXWlk4TmtVdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 4",
+        "lecturer": "Данкевич І.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81930743766?pwd=NkdTaWtTWGs1bGZTUmdXWlk4TmtVdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Будівлі та споруди та їх поведінка в умовах пожежі, частина 2",
+        "lecturer": "Пелех А.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2077152328?pwd=Xt2bEiVa4jeJrpNTEjYdCbyrchyQyM.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Будівлі та споруди та їх поведінка в умовах пожежі, частина 2",
+        "lecturer": "Демчина Б.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "Перетятко Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "Перетятко Б.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Будівлі та споруди та їх поведінка в умовах пожежі, частина 2",
+        "lecturer": "Демчина Б.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 4",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

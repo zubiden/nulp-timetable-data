@@ -1,0 +1,189 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Вовчаста Н.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yaf-tavr-wfg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Вовчаста Н.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yaf-tavr-wfg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Бокало І.Ю., Гнідець Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Бокало І.Ю., Гнідець Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoFtVzClga1Pm-gGeSEcLuSLONEZfbc4ddhBpm3KCJis1%40thread.tacv2/conversations?groupId=aaf30aca-cb3e-4dbb-9245-19c87603c06a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Бевз М.В., Ясінський М.Р., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azpOuYOVphg3PO7g-GVdqhbOHI9aCDrF_GiuEn71zZX41%40thread.tacv2/conversations?groupId=4ecdaab5-6f4c-4cc2-a7ee-52654900e3f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології в архітектурному проектуванні",
+        "lecturer": "Кубай Р.М., Янчук К.В., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Соловій Л.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aLhcthM6sPXEs3_ocyhA14IGEkDPKoLMfqS5mt6tJjok1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=7956709f-178e-4a06-960a-158ff3827844&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Соловій Л.С., Хамар О.С., Кулик Х.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3asKk5sdpFLY1AgsBS87Dho7XYEGxRVZU0MmTBQOHoBys1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=57147d2a-c30e-45ac-8de1-c96374a839c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Ілляшенко М.О., Сільник О.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apdS6a-pofoqsQJ2jxx2QKupvlj2t7BCgI90qMwxmw0g1%40thread.tacv2/conversations?groupId=cb120ca4-0386-4592-8c68-c1a2af6d8635&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

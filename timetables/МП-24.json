@@ -1,0 +1,232 @@
+[
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "Кусий Я.М., 59 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78487598156?pwd=ZMP5aNUdaWyqph3T0F4YEIT3enhoTE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "Кусий Я.М., 59 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74810833522?pwd=8vwgaacvNw3ykX3CataYQa9bm1W0AH.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "Гурей В.І., 30 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amZQz69BmHRoSM0vSHERI7D71-5TKrAkIZPJNJ3WG0_g1%40thread.tacv2/1679851610099?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичні основи робототехніки",
+        "lecturer": "Дмитерко П.Р., 30 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTv7h6ISDkE5Fefs_R2b3MNjSdIjNzqIif2wKmCXOzlY1%40thread.tacv2/conversations?groupId=a19778b2-2775-44fe-9f51-0b2dfa929448&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "Гурей В.І., 8 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Математичні основи робототехніки",
+        "lecturer": "Дмитерко П.Р., 30 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTv7h6ISDkE5Fefs_R2b3MNjSdIjNzqIif2wKmCXOzlY1%40thread.tacv2/conversations?groupId=a19778b2-2775-44fe-9f51-0b2dfa929448&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Дмитерко П.Р., 56 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an7IkABApNxJ2FQXl9QWpL-x90xC8lyDMr2KBP6kiGqM1%40thread.tacv2/conversations?groupId=821eb3ff-71b2-4275-a07f-3dd2f1d6a447&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Дмитерко П.Р., 56 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an7IkABApNxJ2FQXl9QWpL-x90xC8lyDMr2KBP6kiGqM1%40thread.tacv2/conversations?groupId=821eb3ff-71b2-4275-a07f-3dd2f1d6a447&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Малащенко В.О., 303 VI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Гаврильченко О.В., 61 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjMzMDY2MjAtZmRlMy00MWJhLWIwMmUtNDg0NzMzNmFkZWI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Гаврильченко О.В., 72 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQ5OWZjMDEtNzRkMi00ODFmLWJmZDUtMGViODM1MjAzOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Гурський В.М., 30 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao5G87CgiMYaq0tgl7xiO9FZ2pLeJp0rJ-NeoMIOHi8I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c539131c-89d1-4407-9c72-a537ca374428&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Гурський В.М., 35 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao5G87CgiMYaq0tgl7xiO9FZ2pLeJp0rJ-NeoMIOHi8I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c539131c-89d1-4407-9c72-a537ca374428&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Предко Р.Я., 310 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Предко Р.Я., 310 VI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Павлось Р.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

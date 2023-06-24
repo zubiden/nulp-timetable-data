@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Вашкурак Ю.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "Атаманюк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDM2ZjVlMWQtZGJmYy00ZGY1LThkYjQtOWJjNmI1OGRiY2Uz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "Атаманюк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5MzU0ZDYtZmZjMy00YzA0LThhM2MtZGU3NTc2NjU2MGZk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "Атаманюк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEzZTUzMmUtM2Y3MS00NTllLWIwOGItYmJkOGM5NTVmNzI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84639945337?pwd=VW5KeURDd0JnZkM2UVh5R3RXMmlwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "Нагурський А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84639945337?pwd=VW5KeURDd0JnZkM2UVh5R3RXMmlwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Стасюк І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

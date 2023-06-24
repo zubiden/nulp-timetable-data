@@ -1,0 +1,322 @@
+[
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія косметичних засобів",
+        "lecturer": "Будішевська О.Г., Варваренко С.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkNDU4ODAtY2FjYS00OWQwLWI3NWUtMGQ2ZjU1ZjNjNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія косметичних засобів",
+        "lecturer": "Будішевська О.Г., Варваренко С.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkNDU4ODAtY2FjYS00OWQwLWI3NWUtMGQ2ZjU1ZjNjNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI3MmE0YWItZTFjMS00OWRmLTliMGMtYmFiN2U1Y2ZiZmMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Івасів В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Івасів В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Івасів В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Івасів В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "Панченко Ю.В., Стецишин Ю.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2x6e5RPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4AAAEA%3D%3D&conversationId=19:meeting_ODM4M2FjNWQtY2U1MC00YmFmLWI5NTktM2Q4NWRlZDAzNTRl@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "Панченко Ю.В., Стецишин Ю.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2x6e5RPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4AAAEA%3D%3D&conversationId=19:meeting_ODM4M2FjNWQtY2U1MC00YmFmLWI5NTktM2Q4NWRlZDAzNTRl@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Гринишин О.Б., Топільницький П.І., Пиш'єв С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aB5PjQ47gDKlKBJ5tHOf6PMBAo8u1NSbLbGgtNs7j9VA1%40thread.tacv2/1683486606952?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3arcK2wyo_B6hlYtypK-QJAXylFfbCn39zusCZMOCjv4w1%40thread.tacv2/1677154157208?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3azJWUwX_DL9xN6mMpD7cqnfbocT7PB7XuXVSKftZlDsE1%40thread.tacv2/1680047914570?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хімія і технологія косметичних засобів",
+        "lecturer": "Будішевська О.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI3MmE0YWItZTFjMS00OWRmLTliMGMtYmFiN2U1Y2ZiZmMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "Панченко Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2xnn5plAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH3wAAEA%3D%3D&conversationId=19:meeting_YTkwZjc3NmEtYzJhYy00ZjczLWFmOTAtZmFmYjYyZjBhZjQ3@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Реутський В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "Реутський В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Топільницький П.І., Гринишин О.Б., Пиш'єв С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aB5PjQ47gDKlKBJ5tHOf6PMBAo8u1NSbLbGgtNs7j9VA1%40thread.tacv2/1683486666487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3arcK2wyo_B6hlYtypK-QJAXylFfbCn39zusCZMOCjv4w1%40thread.tacv2/1677154899417?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3azJWUwX_DL9xN6mMpD7cqnfbocT7PB7XuXVSKftZlDsE1%40thread.tacv2/1680049322981?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розрахунок процесів органічного синтезу",
+        "lecturer": "Мельник Ю.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розрахунок процесів органічного синтезу",
+        "lecturer": "Мельник Ю.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

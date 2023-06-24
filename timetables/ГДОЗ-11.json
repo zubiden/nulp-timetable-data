@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Економіко-математичні методи і моделі в оцінці нерухомості",
+        "lecturer": "Губар Ю.П., 506 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі в оцінці нерухомості",
+        "lecturer": "Губар Ю.П., 506 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Планування та прогнозування розвитку ринку нерухомості",
+        "lecturer": "Винарчик Л.В., 506 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі в оцінці нерухомості",
+        "lecturer": "Губар Ю.П., 506 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Планування та прогнозування розвитку ринку нерухомості",
+        "lecturer": "Винарчик Л.В., 504 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75861912454?pwd=KjH8P5KwsjbtmPLszt4w54YFL9MFPv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Планування та прогнозування розвитку ринку нерухомості",
+        "lecturer": "Гулько О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72634284221?pwd=l0w6yOCQzUAPQkqXrcm7ypz31gLUaC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інституційне забезпечення ринку нерухомості",
+        "lecturer": "Винарчик Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інституційне забезпечення ринку нерухомості",
+        "lecturer": "Винарчик Л.В., 504 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інституційне забезпечення ринку нерухомості",
+        "lecturer": "Винарчик Л.В., 504 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., 132 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74202654720?pwd=mjDynuzO89QDcXOLQTVu0n1vau3dOn.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

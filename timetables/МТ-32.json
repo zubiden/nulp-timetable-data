@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Методи та засоби вимірювань, випробувань і контролю",
+        "lecturer": "Походило Є.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84116375862?pwd=bE5FSFhpWnVKNmF4aXNheEdhdGxpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи та засоби вимірювань, випробувань і контролю",
+        "lecturer": "Походило Є.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84116375862?pwd=bE5FSFhpWnVKNmF4aXNheEdhdGxpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Оцінювання відповідності продукції, послуг та персоналу",
+        "lecturer": "Байцар Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/zxj-bpsg-kcw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Єдність вимірювань у кібер-фізичних системах",
+        "lecturer": "Яцук В.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби вимірювань, випробувань і контролю",
+        "lecturer": "Походило Є.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82332097102?pwd=S2orQlZLNEZKY0UxTmI2UlZGLzllZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи та засоби вимірювань, випробувань і контролю",
+        "lecturer": "Походило Є.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82332097102?pwd=S2orQlZLNEZKY0UxTmI2UlZGLzllZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Типові технологічні об`єкти і процеси",
+        "lecturer": "Байцар Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/duu-hwds-xcy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Опрацювання результатів вимірювань, випробовувань та контролю",
+        "lecturer": "Дорожовець М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avJhJo3sigd_NIUys95wxsfjBcV6c8VkZBIX96PA--g01%40thread.tacv2/Og%25C3%25B3lny?groupId=8ab5003d-35be-4051-9943-d57857b859f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Типові технологічні об`єкти і процеси",
+        "lecturer": "Байцар Р.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/xrf-rbmm-cbt"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінювання відповідності продукції, послуг та персоналу",
+        "lecturer": "Байцар Р.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/kqx-cnwc-opv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Опрацювання результатів вимірювань, випробовувань та контролю",
+        "lecturer": "Дорожовець М.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avJhJo3sigd_NIUys95wxsfjBcV6c8VkZBIX96PA--g01%40thread.tacv2/Og%25C3%25B3lny?groupId=8ab5003d-35be-4051-9943-d57857b859f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Опрацювання результатів вимірювань, випробовувань та контролю",
+        "lecturer": "Дорожовець М.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avJhJo3sigd_NIUys95wxsfjBcV6c8VkZBIX96PA--g01%40thread.tacv2/Og%25C3%25B3lny?groupId=8ab5003d-35be-4051-9943-d57857b859f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Єдність вимірювань у кібер-фізичних системах",
+        "lecturer": "Скоропад П.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3ZDU0ZWMtODE4Ni00MDQ3LWI3MWYtN2Y5YjFmZGQxNTM0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Єдність вимірювань у кібер-фізичних системах",
+        "lecturer": "Скоропад П.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmE3NDNkMDUtZjIzNS00YmEwLWE2OWYtZTE1Njk4N2MxNTdj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Опрацювання результатів вимірювань, випробовувань та контролю",
+        "lecturer": "Дорожовець М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avJhJo3sigd_NIUys95wxsfjBcV6c8VkZBIX96PA--g01%40thread.tacv2/Og%25C3%25B3lny?groupId=8ab5003d-35be-4051-9943-d57857b859f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao%20%20Meeting%20ID:%20677%20580%202056%20Passcode:%20949115"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Маркетинг фінансових послуг",
+        "lecturer": "Таранський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "Рябкова О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обслуговування клієнта у сфері послуг",
+        "lecturer": "Наконечна Т.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad1b7d2d15b464df6a27fc19162e595f1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=828b9ec7-768f-4e11-9f44-9f185c73a40b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Обслуговування клієнта у сфері послуг",
+        "lecturer": "Наконечна Т.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad1b7d2d15b464df6a27fc19162e595f1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=828b9ec7-768f-4e11-9f44-9f185c73a40b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Обслуговування клієнта у сфері послуг",
+        "lecturer": "Наконечна Т.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad1b7d2d15b464df6a27fc19162e595f1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=828b9ec7-768f-4e11-9f44-9f185c73a40b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Обслуговування клієнта у сфері послуг",
+        "lecturer": "Наконечна Т.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad1b7d2d15b464df6a27fc19162e595f1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=828b9ec7-768f-4e11-9f44-9f185c73a40b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг фінансових послуг",
+        "lecturer": "Таранський І.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Маркетинг фінансових послуг",
+        "lecturer": "Таранський І.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

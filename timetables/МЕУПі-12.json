@@ -1,0 +1,166 @@
+[
+    {
+        "subject": "Управління комунікаціями проекту",
+        "lecturer": "Когут І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5217138069?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09%20%D0%BA%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Прийняття проектних рішень",
+        "lecturer": "Шишковський С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89298635746?pwd=c2tteDMxSWhzZmY3TFJvaHViQ3VMdz09%20%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%201111"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління міжнародними проектами та програмами",
+        "lecturer": "Шишковський С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87233495005?pwd=ZFpzTndHcVU2aVJpSXUyQ0Qya2FQdz09%20%20%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:1111"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "Ільчук П.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09%20%20Meeting%20ID:%20828%206371%201461%20Passcode:%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління комунікаціями проекту",
+        "lecturer": "Лебідь Т.В., 4 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління комунікаціями проекту",
+        "lecturer": "Лебідь Т.В., 5 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління міжнародними проектами та програмами",
+        "lecturer": "Шишковський С.В., 5 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління міжнародними проектами та програмами",
+        "lecturer": "Шишковський С.В., 4 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "Ільчук П.Г., 5 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Прийняття проектних рішень",
+        "lecturer": "Шишковський С.В., 4 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "Ільчук П.Г., 5 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Прийняття проектних рішень",
+        "lecturer": "Шишковський С.В., 4 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

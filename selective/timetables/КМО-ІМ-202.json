@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Китайська мова",
+        "lecturer": "Яструбська О.В., мн дс імітС2 Гуртожиток №08, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Китайська мова",
+        "lecturer": "Яструбська О.В., С3 Гуртожиток №08, ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

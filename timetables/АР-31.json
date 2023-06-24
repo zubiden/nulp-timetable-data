@@ -1,0 +1,191 @@
+[
+    {
+        "subject": "Комп`ютерні технології в архітектурному проектуванні",
+        "lecturer": "Хамар І.Г., Мельник З.Ю., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Кузан Г.С., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76324574529?pwd=LacND2PiBAtlNLrPGAR8hBeh0LbUm9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yaf-tavr-wfg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Данчак І.О., Хіблін Д.Ю., Соловій Л.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0iudl3bv4zPvbDelsxQc-Q7KPM3QaGdCkmQqyhmeIbk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=24f27414-4620-4643-af44-67c297113d7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aROf5qoCJvMwE0Tz6jx4iQMsRwxivxaPa1XiDygdL6QU1%40thread.tacv2/conversations?groupId=15a98900-df45-4c14-aa14-479d01a65982&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Кузан Г.С., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71539741797?pwd=NmmpBuEubMCSlURzhSSfNuxbbmbzVZ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Олексів Г.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yaf-tavr-wfg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afmChLFFOP6yEFyfxQOtUI61IJd3TR4dbblACwr3jYWk1%40thread.tacv2/conversations?groupId=ccb9a77b-3c8d-4645-a77c-06655151c486&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Гнесь І.П., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Бевз М.В., Ясінський М.Р., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Сільник О.І., Штендера А.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akEJZv1jH-J972Gd_Lh8KizNBLR0kPsmIs2ViuyaLC4E1%40thread.tacv2/conversations?groupId=083b562e-0b16-4918-b017-cc7f79193f1b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Фролова Ю.В., Чень Л.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3av7rjfl45f7bklGymR1PNC97Hg_FPxxcH4o_Ky-Z50xA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=5cbd87c8-766a-4bc3-81a2-19882ac73c4c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Фролова Ю.В., Чень Л.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3av7rjfl45f7bklGymR1PNC97Hg_FPxxcH4o_Ky-Z50xA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=5cbd87c8-766a-4bc3-81a2-19882ac73c4c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

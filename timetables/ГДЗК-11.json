@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "Хавар Ю.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Земельна політика та раціональне використання і охорона земель",
+        "lecturer": "Ступень Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75861912454?pwd=KjH8P5KwsjbtmPLszt4w54YFL9MFPv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "Хавар Ю.С., 504 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Земельна політика та раціональне використання і охорона земель",
+        "lecturer": "Ступень Н.М., 506 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "Хавар Ю.С., 506 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Земельна політика та раціональне використання і охорона земель",
+        "lecturer": "Ступень Н.М., 504 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., 236 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75540532091?pwd=f1aM6TrOkHpIuRMzqzRs8NntH89aii.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Прохоренко М.В., Согор А.Р., 611 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

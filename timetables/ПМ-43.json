@@ -1,0 +1,232 @@
+[
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "Алєксєєв В.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/udp-ofoi-pms"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "Алєксєєв В.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/udp-ofoi-pms"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Тесак І.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/hyk-pdem-qxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Тесак І.Є., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajoFWfamXYmDCyLwFReHN3AcDTYvlL-0BKKQXRXqc0YI1%40thread.tacv2/General?groupId=64d1fb65-842d-4187-8b67-1f27e4fe802e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajoFWfamXYmDCyLwFReHN3AcDTYvlL-0BKKQXRXqc0YI1%40thread.tacv2/General?groupId=64d1fb65-842d-4187-8b67-1f27e4fe802e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "Алєксєєв В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rkd-aiow-kdk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "Алєксєєв В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rkd-aiow-kdk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajoFWfamXYmDCyLwFReHN3AcDTYvlL-0BKKQXRXqc0YI1%40thread.tacv2/General?groupId=64d1fb65-842d-4187-8b67-1f27e4fe802e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajoFWfamXYmDCyLwFReHN3AcDTYvlL-0BKKQXRXqc0YI1%40thread.tacv2/General?groupId=64d1fb65-842d-4187-8b67-1f27e4fe802e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3adkFw7OH7Uszf7vlsAuNRYfGtqDvg3MJXLou8YEm1BaI1%40thread.tacv2/General?groupId=64dada56-7dbd-4e16-9c1f-41a20906e943&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3adkFw7OH7Uszf7vlsAuNRYfGtqDvg3MJXLou8YEm1BaI1%40thread.tacv2/General?groupId=64dada56-7dbd-4e16-9c1f-41a20906e943&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Операційні системи корпоративних мереж",
+        "lecturer": "Любінський Б.Б., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

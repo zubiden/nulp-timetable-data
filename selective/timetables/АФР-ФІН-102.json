@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Аналіз фінансових ринків",
+        "lecturer": "Сергеєв О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aE5p2IWWUGeA5YYSeUT0YpcP-HtY-VNptwjoJYm9-egs1%40thread.tacv2/1677078335377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз фінансових ринків",
+        "lecturer": "Курило О.Б., 418 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a08e252aa78f64f998c9df26b4a385ac6%40thread.tacv2/1682512950495?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e13230c4-2a91-4aff-b633-692057373c0a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз фінансових ринків",
+        "lecturer": "Курило О.Б., 418 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a08e252aa78f64f998c9df26b4a385ac6%40thread.tacv2/1682512950495?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e13230c4-2a91-4aff-b633-692057373c0a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

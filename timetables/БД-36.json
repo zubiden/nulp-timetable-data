@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Дорожні машини та обладнання",
+        "lecturer": "Стечишин С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTqXEBidxNlqosBCJNVko5f24JWzH-vY3J0EDLDAaLXA1%40thread.tacv2/1677351968376?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інженерне облаштування доріг і будівництво та експлуатація інженерних мереж, частина 1",
+        "lecturer": "Стечишин С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTqXEBidxNlqosBCJNVko5f24JWzH-vY3J0EDLDAaLXA1%40thread.tacv2/1677352035302?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Дорожні машини та обладнання",
+        "lecturer": "Балаян Н.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWIxYzViNTktYzIyYS00NWEzLWE0MDgtZmFjZWM3MDVlYTJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Виробничі підприємства",
+        "lecturer": "Гуняк О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBiNGQ0NGQtNWY4Ni00NTA0LWJiMWEtNzVhYzZhOTVjZDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Виробничі підприємства",
+        "lecturer": "Гуняк О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBiNGQ0NGQtNWY4Ni00NTA0LWJiMWEtNzVhYzZhOTVjZDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Дорожні машини та обладнання",
+        "lecturer": "Балаян Н.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Y5YTZjZWYtMTljMi00N2ZkLWFlY2YtNjA1YTMzZDc4NTJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Вишукування та проектування автомобільних доріг і проектування міських вулиць, частина 1",
+        "lecturer": "Балабух Я.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apdf970g7_GRU7c_KNTOzcVoqb-E_AgenztWm5NQwpwM1%40thread.tacv2/1677352412785?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Вишукування та проектування автомобільних доріг і проектування міських вулиць, частина 1",
+        "lecturer": "Бідось В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apdf970g7_GRU7c_KNTOzcVoqb-E_AgenztWm5NQwpwM1%40thread.tacv2/1677351416347?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223415e9c0-f2c3-48e1-847e-be4699e07b0e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRhNmYxMWEtYzQ2MS00OTJiLWIxYTYtYmFmYjNhYjdhZjI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Інженерне облаштування доріг і будівництво та експлуатація інженерних мереж, частина 1",
+        "lecturer": "Стечишин С.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTqXEBidxNlqosBCJNVko5f24JWzH-vY3J0EDLDAaLXA1%40thread.tacv2/1677352078345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Гідравліка, гідрологія, гідрометрія",
+        "lecturer": "Завойко Б.В., Попадюк І.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Гідравліка, гідрологія, гідрометрія",
+        "lecturer": "Вовк Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6387061538?pwd=MDM4REVpLzBZb2VJYU9GOEdkWGZ3Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153206066?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Інституційні основи ЄС",
+        "lecturer": "Рисін М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aA-UvaNVu0EsCyyr0dF0Xu4o_WtCbqt8-nI3KafHCvXY1%40thread.tacv2/1675851873627?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b33fbf1-841e-44d7-bfe6-7b99157ddefb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інституційні основи ЄС",
+        "lecturer": "Рисін М.В., 401 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

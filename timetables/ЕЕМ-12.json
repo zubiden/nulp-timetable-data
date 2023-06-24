@@ -1,0 +1,146 @@
+[
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "Яцейко А.Я., 312в V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3acoPEwnj99hRD2M3jmXXtOdR_-jwrmHVtmr2jOCgWu_k1%40thread.tacv2/conversations?groupId=04590434-7884-4886-80d4-d2445c2f363a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Розвиток електроенергетичних систем",
+        "lecturer": "Козовий А.Б., 305б V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "Яцейко А.Я., 312в V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3acoPEwnj99hRD2M3jmXXtOdR_-jwrmHVtmr2jOCgWu_k1%40thread.tacv2/conversations?groupId=04590434-7884-4886-80d4-d2445c2f363a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Перенапруги в електричних мережах",
+        "lecturer": "Яцейко А.Я., 305б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "Яцейко А.Я., 312в V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "Лисяк Г.М., 305б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751176643?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "Лисяк Г.М., 305б V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751294852?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Перенапруги в електричних мережах",
+        "lecturer": "Яцейко А.Я., 312в V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apz99NB-T1AGZFeXTvQLkgyN9E16GrYYMZXfRE0Qv0JU1%40thread.tacv2/conversations?groupId=057bed5d-5682-4067-a7ab-6ace2b943261&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розвиток електроенергетичних систем",
+        "lecturer": "Козовий А.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adf47a049f1094cea809c69e1eb8998e8%40thread.tacv2/1677570370634?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207c227f2-e327-4e08-9dbf-337acacc1d07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751689560?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

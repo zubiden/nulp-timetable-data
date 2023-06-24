@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620198312?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620299288?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621102723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621190028?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621295246?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки та охорони",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2ZlMThkMTAtYjcxOS00ODgxLWJlNjMtNTU4NWI3OTNjODMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222addeeae-234a-4328-b5c6-4c132fd2b218%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки та охорони",
+        "lecturer": "Булавінець Т.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ4NjhkODUtNTRjNC00MjU3LThlMTAtMGJkYzBlZjA5NjA4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222addeeae-234a-4328-b5c6-4c132fd2b218%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620555842?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "Микитюк З.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620664026?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "Микитюк З.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621441801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

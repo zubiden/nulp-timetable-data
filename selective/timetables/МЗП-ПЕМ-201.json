@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., 79 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., 79 XIV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

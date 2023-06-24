@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Баран Р.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89047120053?pwd=dWlsY05uc1NNcmcrT2pmVU9Ta2V0QT09%20%20Meeting%20ID:%20890%204712%200053%20Passcode:%208GLgqJ"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Баран Р.Д., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85768126717?pwd=SmZnVnhlUXZwV0dJbXMvRzROQ3FjZz09%20%20Meeting%20ID:%20857%206812%206717%20Passcode:%209QgVBU"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Стрямець С.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/8625524225?pwd=d3RibWZRZlJnSVd0ZTBGVUpSMHdwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

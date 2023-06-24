@@ -1,0 +1,112 @@
+[
+    {
+        "subject": "Методологія експериментальних та теоретичних досліджень тепло- і масообмінних процесів",
+        "lecturer": "Кіндзера Д.П., 028 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизована конструкторська та технологічна підготовка хімічного обладнання",
+        "lecturer": "Госовський Р.Р., 307 IX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Засади проектування хімічних установок, ч 2",
+        "lecturer": "Гузьова І.О., +ХТМ307 IX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теплотехнічне обладнання хімічних виробництв",
+        "lecturer": "Костів І.С., 028 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://join.skype.com/Hlymh4Gt0Mik"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теплотехнічне обладнання хімічних виробництв",
+        "lecturer": "Костів І.С., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/Hlymh4Gt0Mik"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методологія експериментальних та теоретичних досліджень тепло- і масообмінних процесів",
+        "lecturer": "Кіндзера Д.П., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aImXx8xtO0lwU2o6U33NaXfDwKMSMQ6F2DZE3DrRiznk1%40thread.tacv2/conversations?groupId=610b92d6-a9a3-4d6b-b171-e47311e05fee&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Засади проектування хімічних установок, ч 2",
+        "lecturer": "Гузьова І.О., +ХТМ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизована конструкторська та технологічна підготовка хімічного обладнання",
+        "lecturer": "Госовський Р.Р., +ХТМ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

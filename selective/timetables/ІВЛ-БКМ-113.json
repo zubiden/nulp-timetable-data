@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Ільницький Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Ільницький Б.М., 413 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

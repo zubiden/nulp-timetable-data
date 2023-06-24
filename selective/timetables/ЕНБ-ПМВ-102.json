@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "Зазуляк З.М., 311 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85613424149?pwd=d0RXYW1ycWNxb2gzYkYvUFlzRWhFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "Зазуляк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82846050219?pwd=WUVxa09DUW1EazZTcmdTY0UxVlM2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Виклюк Я.І., 201 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ttu-qxqk-nha"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Виклюк Я.І., 201 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ttu-qxqk-nha"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Виклюк Я.І., 201 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ttu-qxqk-nha"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Видобування великих даних",
+        "lecturer": "Вовк О.Б., 232 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Видобування великих даних",
+        "lecturer": "Вовк О.Б., 230 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Лясковська С.Є., 232 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJjNDgyMzMtZDkzOC00OGJjLWE0NmUtNjI3NThkYmU0NGQx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Лясковська С.Є., 232 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2EyNDcyOTUtNDNhNy00Njk4LWFjYzctN2ZmNGFjNWFmMzc4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Виклюк Я.І., 106 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ttu-qxqk-nha"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Виклюк Я.І., 106 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ttu-qxqk-nha"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Гайдучок О.В., 230 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZiMmMwMGEtYTIxZS00MDQzLWE1N2UtYTFhYjI0ZTc2MTY0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242ad2800-3477-433f-af7d-29c5257d459e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Гайдучок О.В., 230 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aq6KcQEYpd7KOP6Luj0AABG2C1X7JcXN5QOr2ZEhRL1Y1%40thread.tacv2/1677488449491?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242ad2800-3477-433f-af7d-29c5257d459e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Карівець І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1e38aaa502d4430ebdcd4ee5d39c6b73%40thread.tacv2/conversations?groupId=078de251-baa1-4b9d-b9ab-12bcc38161ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Карівець І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1e38aaa502d4430ebdcd4ee5d39c6b73%40thread.tacv2/conversations?groupId=078de251-baa1-4b9d-b9ab-12bcc38161ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Лясковська С.Є., 231 XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQ0Zjk5NzgtMmI2NS00YzM1LWFjOGQtNTc4ODNkNjYxYzVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Лясковська С.Є., 231 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZmZTQyNzEtNGIwYy00OTkxLThmZWMtNDk4NTZhMjJiOGE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

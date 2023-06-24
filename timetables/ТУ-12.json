@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Хрипач А.Г., корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

@@ -1,0 +1,313 @@
+[
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Возняк І.З., 130 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://meet.google.com/pri-bvjv-zgt"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Возняк І.З., 130 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://meet.google.com/pri-bvjv-zgt"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Марків О.О., 505 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Череповська О.А., корп.21 вул.Самчука.11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Кадикало А.М., 311 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Рішняк І.В., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 115 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 115 IV н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Северенчук І.П., 404 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 115 IV н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Северенчук І.П., 404 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Кадикало А.М., 406 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 318 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 130 IV н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 115 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Возняк І.З., 117 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://meet.google.com/pri-bvjv-zgt"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Возняк І.З., 117 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://meet.google.com/pri-bvjv-zgt"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Мисько І.Р., 208а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Северенчук І.П., 208а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Северенчук І.П., 208а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 318 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Нич Л.Я., 406 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

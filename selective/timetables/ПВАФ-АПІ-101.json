@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Проектування великопролітних архітектурних форм",
+        "lecturer": "Вознюк Л.І., 315 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aEHJPVObBuruh5oEVtZ860PPUDs8Pss2Qp7XiW1DO6FI1%40thread.tacv2/conversations?groupId=9fb6e963-30d8-4c84-90dc-4bbb14dcd918&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

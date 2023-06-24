@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Попадюк І.Ю., 105 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Попадюк І.Ю., 105 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

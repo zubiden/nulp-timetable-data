@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Використання комп`ютерних технологій у виробництві та переробленні полімерів",
+        "lecturer": "Масюк А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81145116242?pwd=MHN3VjZjc3NFOEZaU29OVEZYMy9NQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Використання комп`ютерних технологій у виробництві та переробленні полімерів",
+        "lecturer": "Масюк А.С., 028 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81145116242?pwd=MHN3VjZjc3NFOEZaU29OVEZYMy9NQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

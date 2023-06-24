@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Мукан Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Мукан Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Педагогічна компаративістика",
+        "lecturer": "Мукан Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Педагогічна компаративістика",
+        "lecturer": "Мукан Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Вибір, розробка, застосування дистанційних технологій навчання",
+        "lecturer": "Марків О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вибір, розробка, застосування дистанційних технологій навчання",
+        "lecturer": "Марків О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Гнатюк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

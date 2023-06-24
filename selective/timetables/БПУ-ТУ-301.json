@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "Когут І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76550878610?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09%20%D0%BA%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "Когут І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76550878610?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09%20%D0%BA%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%201"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

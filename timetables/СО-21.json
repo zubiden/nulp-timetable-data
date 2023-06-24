@@ -1,0 +1,262 @@
+[
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "Климанська Л.Д., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи збору соціологічної інформації, частина 1",
+        "lecturer": "Герус О.І., 205б XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Соціологія культури і релігії",
+        "lecturer": "Савка В.Є., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a00kbqO555WoR9NR7qxG0Fcv6ERIG5ej9P47t7jLqAfc1%40thread.tacv2/1676483117486?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Сінельнікова М.В., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "Климанська Л.Д., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Соціологія культури і релігії",
+        "lecturer": "Савка В.Є., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a00kbqO555WoR9NR7qxG0Fcv6ERIG5ej9P47t7jLqAfc1%40thread.tacv2/1676483280262?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Череповська О.А., корпус 21 в.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи збору соціологічної інформації, частина 1",
+        "lecturer": "Герус О.І., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "Климанська Л.Д., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Сінельнікова М.В., 207 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Соціологія культури і релігії",
+        "lecturer": "Савка В.Є., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a00kbqO555WoR9NR7qxG0Fcv6ERIG5ej9P47t7jLqAfc1%40thread.tacv2/1676483334365?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "Школяр М.В., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

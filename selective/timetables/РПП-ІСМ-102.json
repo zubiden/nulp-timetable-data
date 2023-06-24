@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Розподілене та паралельне програмування",
+        "lecturer": "Завущак І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/93706224468?from=addon"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розподілене та паралельне програмування",
+        "lecturer": "Завущак І.І., 208 VIa н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/93706224468?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Розподілене та паралельне програмування",
+        "lecturer": "Завущак І.І., 208 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/93706224468?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    }
+]

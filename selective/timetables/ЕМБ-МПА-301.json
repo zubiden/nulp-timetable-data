@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Економіка малого бізнесу",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afa155971875b4d99b04db3ef25eb83a5%40thread.tacv2/1676903147332?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228027bf7f-b55c-40ea-8bd0-4d8ac645413a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Економіка малого бізнесу",
+        "lecturer": "Ситник Й.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afa155971875b4d99b04db3ef25eb83a5%40thread.tacv2/1676903147332?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228027bf7f-b55c-40ea-8bd0-4d8ac645413a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

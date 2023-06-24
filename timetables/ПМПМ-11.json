@@ -1,0 +1,172 @@
+[
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., 215 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "Токовий Ю.В., 215 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., 215 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "Токовий Ю.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "Токовий Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aV7QzmfT9rd4z6haZrUCxfNgj10DyM_OOgshDgiwXSa01%40thread.tacv2/conversations?groupId=3e27a6c0-4b19-4944-a126-aa83f3d9804e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичніі моделі термомеханіки",
+        "lecturer": "Дробенко Б.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ocm-cjkj-twt"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Математичні моделі в механіці деформівного твердого тіла",
+        "lecturer": "Кушнір Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA3MmY2ODAtYmIyMy00MzlmLThhMDEtOTdlNTRlNTRiMTc0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b8015ba6-9b26-46f5-b3c4-8cf7a3ef4411%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі в механіці деформівного твердого тіла",
+        "lecturer": "Кушнір Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA3MmY2ODAtYmIyMy00MzlmLThhMDEtOTdlNTRlNTRiMTc0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b8015ba6-9b26-46f5-b3c4-8cf7a3ef4411%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичні моделі в механіці деформівного твердого тіла",
+        "lecturer": "Кушнір Р.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rfv-nwhb-eow"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

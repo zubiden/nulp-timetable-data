@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "Гулай В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71675008730?pwd=9nmQvDQOFGybD1ynnB33bwRv5EQPco.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

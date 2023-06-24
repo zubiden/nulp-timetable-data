@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Державна інвестиційна та інноваційна політика",
+        "lecturer": "Тревого О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Безпека держави та національного виробника",
+        "lecturer": "Данилович-Кропивницька М.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз діяльності суб`єктів господарювання на товарних ринках",
+        "lecturer": "Іличок Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aee42987abed74341aa5f45eb59b6e783%40thread.tacv2/conversations?groupId=539586dd-4bb9-40c5-87de-be51a7c6c508&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Антикризове управління",
+        "lecturer": "Пушак Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3686228972?pwd=dkZqUFRwYTM4dWx6OGNTWjh5aTJCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "Комаринець С.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи трансферу технологій",
+        "lecturer": "Дума О.І., Дальхофф-Нільсен Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71305864057?pwd=GxJS8LiLwMXMDDajQ8JREXknkIJPSE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека держави та національного виробника",
+        "lecturer": "Данилович-Кропивницька М.Л., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи трансферу технологій",
+        "lecturer": "Дума О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71305864057?pwd=GxJS8LiLwMXMDDajQ8JREXknkIJPSE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Антикризове управління",
+        "lecturer": "Пушак Г.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3686228972?pwd=dkZqUFRwYTM4dWx6OGNTWjh5aTJCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Антикризове управління",
+        "lecturer": "Пушак Г.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3686228972?pwd=dkZqUFRwYTM4dWx6OGNTWjh5aTJCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Державна інвестиційна та інноваційна політика",
+        "lecturer": "Тревого О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз діяльності суб`єктів господарювання на товарних ринках",
+        "lecturer": "Іличок Б.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aee42987abed74341aa5f45eb59b6e783%40thread.tacv2/conversations?groupId=539586dd-4bb9-40c5-87de-be51a7c6c508&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз діяльності суб`єктів господарювання на товарних ринках",
+        "lecturer": "Іличок Б.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aee42987abed74341aa5f45eb59b6e783%40thread.tacv2/conversations?groupId=539586dd-4bb9-40c5-87de-be51a7c6c508&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "Комаринець С.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "Комаринець С.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз діяльності суб`єктів господарювання на товарних ринках",
+        "lecturer": "Іличок Б.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aee42987abed74341aa5f45eb59b6e783%40thread.tacv2/conversations?groupId=539586dd-4bb9-40c5-87de-be51a7c6c508&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "Комаринець С.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

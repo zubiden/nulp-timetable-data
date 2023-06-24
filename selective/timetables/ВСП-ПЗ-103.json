@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uwi-cnyi-mrb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "Федорчук Є.Н., 809 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/yvh-dbpp-byu"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

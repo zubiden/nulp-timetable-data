@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Відкрита наука в екології",
+        "lecturer": "Тимчук І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIY2GMt_XMK9Mnc85onzF7twZhJv_Rj1zVXd2P9DeiAU1%40thread.tacv2/1677676850147?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226898a3c8-f48c-47cc-8fac-fe031ef6d147%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Відкрита наука в екології",
+        "lecturer": "Тимчук І.С., 115 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "Галишич Р.Я., 224 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

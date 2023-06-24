@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Філософія",
+        "lecturer": "Вербова Р.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6949009441?pwd=TE5ZSkhpNUVzZEYxWXBKZ0dMQ0JPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Іванина В.В., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83064752739?pwd=WVVoSlNEUXoyUTZsdkM1N0Y3Z1lJQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Іванина В.В., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88011386885?pwd=c2Z3NDNzUzgxUHNhSnVMbE5mRFFuQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Лобур М.В., 325 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jam-ivht-xjv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "Матвійків О.М., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gcq-nvyn-tto"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "Маркелов О.Е., 321 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rfa-rxif-ivc"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Фармага І.В., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Шмігельський П.І., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pmk-drhr-osz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Оксентюк В.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pmk-drhr-osz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Шмігельський П.І., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/oka-jwdm-qxq"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "Оксентюк В.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/oka-jwdm-qxq"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

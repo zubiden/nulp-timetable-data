@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78850815657?pwd=vXtfUwK0iiWHMP0f8F9ahk24Ylq9UD.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи метеорології та кліматології",
+        "lecturer": "Заблоцький Ф.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vok-cpbj-fqb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи комп`ютерних технологій в картографії",
+        "lecturer": "Ярема Н.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/seu-hgfq-cyt"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Картографування природного середовища за космічними зображеннями",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Солтисік Р.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/2403339334?pwd=NUw4VHFDQUd6N3VzTjBNQlFEb1ZtUT09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20240%20333%209334%20%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%20423251"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Солтисік Р.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2403339334?pwd=NUw4VHFDQUd6N3VzTjBNQlFEb1ZtUT09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20240%20333%209334%20%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%20423251"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи комп`ютерних технологій в картографії",
+        "lecturer": "Ярема Н.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/seu-hgfq-cyt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Структурно-системне моделювання в картографії",
+        "lecturer": "Бридун А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Структурно-системне моделювання в картографії",
+        "lecturer": "Бридун А.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи математичної картографії",
+        "lecturer": "Прохоренко М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи математичної картографії",
+        "lecturer": "Прохоренко М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи математичної картографії",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Картографування природного середовища за космічними зображеннями",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи метеорології та кліматології",
+        "lecturer": "Заблоцький Ф.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vok-cpbj-fqb"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи метеорології та кліматології",
+        "lecturer": "Заблоцький Ф.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vok-cpbj-fqb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

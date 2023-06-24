@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "Данилович-Кропивницька М.Л., 214 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "Данилович-Кропивницька М.Л., 214 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

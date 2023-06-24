@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avpLcTSt-iCbNWzlw_1NzaDf5HyWsTtda3pg6wUKW8fk1%40thread.tacv2/1677421859299?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avpLcTSt-iCbNWzlw_1NzaDf5HyWsTtda3pg6wUKW8fk1%40thread.tacv2/1677421722987?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Пиріг Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/cfh-gcxb-vpa"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Фаст В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/wpm-izkt-dte?hs=122&authuser=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Забезпечення надійності радіоелектронних засобів",
+        "lecturer": "Озірковський Л.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ijy-xgpv-zim"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "Гнатчук М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "Гнатчук М.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "Гнатчук М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "Гнатчук М.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1677452393712?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Климаш М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dvm-npwy-vvi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Протасевич В.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ioo-pjyo-ava"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Фаст В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dqn-qvup-ptm?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Матієшин Ю.М., Протасевич В.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/xwg-qmpw-hrg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Забезпечення надійності радіоелектронних засобів",
+        "lecturer": "Озірковський Л.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/goe-ixzf-ovn"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avpLcTSt-iCbNWzlw_1NzaDf5HyWsTtda3pg6wUKW8fk1%40thread.tacv2/1677424621278?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

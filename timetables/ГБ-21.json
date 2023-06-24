@@ -1,0 +1,205 @@
+[
+    {
+        "subject": "Водна інженерія",
+        "lecturer": "Гнатів Р.М., 112а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Водні технології",
+        "lecturer": "Мацієвська О.О., 112а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "Матлай І.І., 112а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Геологія та гідрогеологія",
+        "lecturer": "Віхоть Ю.М., Ціхонь С.І., 507 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "Матлай І.І., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Водна інженерія",
+        "lecturer": "Гнатів Р.М., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Водна інженерія",
+        "lecturer": "Гнатів Р.М., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Механіка грунтів, основи та фундаменти",
+        "lecturer": "Була С.С., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Водні технології",
+        "lecturer": "Мацієвська О.О., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Водні технології",
+        "lecturer": "Мацієвська О.О., 112а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Геологія та гідрогеологія",
+        "lecturer": "Ціхонь С.І., 507 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Механіка грунтів, основи та фундаменти",
+        "lecturer": "Була С.С., 224 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "Завойко Б.В., Матлай І.І., 105 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09",
+            "https://us05web.zoom.us/j/7888300501?pwd=Rmh4S0xSeHFwSHlvYWFUVDRHcFQ4dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

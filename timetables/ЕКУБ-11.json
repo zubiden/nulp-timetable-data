@@ -1,0 +1,123 @@
+[
+    {
+        "subject": "Інженерія вартості у будівництві",
+        "lecturer": "Мельник В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2773473622?pwd=eDQyWFZWQjhJWDhzNk5pei9YWVlsQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінансовий менеджмент та оподаткування у будівництві",
+        "lecturer": "Баланська О.І., Селюченко Н.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "http://meet.google.com/par-hzmt-zig",
+            "https://us04web.zoom.us/j/9053124370?pwd=a3psL0VaNjEwWGdZTjlGUVBsT1Bsdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Нормування та управління ресурсами у будівництві",
+        "lecturer": "Гавриляк А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ринок будівельних контрактів та договірні відносини у будівництві",
+        "lecturer": "Загорецька О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4532953156?pwd=RXBUc3Q1cGd1MW9FZ2JKeGY5UTRTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інженерія вартості у будівництві",
+        "lecturer": "Мельник В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2773473622?pwd=eDQyWFZWQjhJWDhzNk5pei9YWVlsQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Ринок будівельних контрактів та договірні відносини у будівництві",
+        "lecturer": "Загорецька О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4532953156?pwd=RXBUc3Q1cGd1MW9FZ2JKeGY5UTRTQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фінансовий менеджмент та оподаткування у будівництві",
+        "lecturer": "Баланська О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9053124370?pwd=a3psL0VaNjEwWGdZTjlGUVBsT1Bsdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Нормування та управління ресурсами у будівництві",
+        "lecturer": "Гавриляк А.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

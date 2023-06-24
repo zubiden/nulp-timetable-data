@@ -1,0 +1,251 @@
+[
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Мінзюк В.В., 207 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/der-xmag-myc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Мінзюк В.В., 207 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/der-xmag-myc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "Сторож В.Г., 114 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/yyx-astt-edc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "Сторож В.Г., 114 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/yyx-astt-edc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "Прудиус І.Н., 114 XI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Лавренчук М.В., 17 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72787749895?pwd=8ibdFx1pTpDVt8wxnMf2NdUxjeypXc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., 311 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_eJHKpKcxbILu6nmzV_U5U23en72CAilZV-3WapW9rE1%40thread.tacv2/1676388472583?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gkr-ywig-kix"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jod-zkoy-nis"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wcy-xqgv-jmn"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Телевізійні системи та пристрої відображення інформації",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ekk-rjrk-kqv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "Шаповалов Ю.І., 114 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "Прудиус І.Н., 114 XI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Мінзюк В.В., 114 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/der-xmag-myc"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "Шаповалов Ю.І., 214 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "Шаповалов Ю.І., 214 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

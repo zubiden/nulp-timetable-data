@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/tsp-gjbv-iip"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/eag-qjmx-wuc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/oik-wxzz-afu"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676622895885?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vgw-wasd-vcs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/zgo-gajk-qjr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676623341264?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676623391984?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "Марусенкова Т.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676623440790?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

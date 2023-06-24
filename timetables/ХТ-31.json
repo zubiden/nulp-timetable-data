@@ -1,0 +1,273 @@
+[
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "Магорівська Г.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Хімічна технологія сполук Нітрогену",
+        "lecturer": "Курилець О.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aok2OvOHg6ZZL8LvTRh8v1PNd_S6af7D65GZ7FwxFaBo1%40thread.tacv2/1677068183439?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "Магорівська Г.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хімічна технологія сполук Нітрогену",
+        "lecturer": "Курилець О.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aok2OvOHg6ZZL8LvTRh8v1PNd_S6af7D65GZ7FwxFaBo1%40thread.tacv2/1677068183439?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "Кунтий О.І., Слюзар А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімічна технологія основних солей та мінеральних добрив",
+        "lecturer": "Буклів Р.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoyvqj4wfoG6PmwoM4BIXzMYT4yVwLlroLP5tl-j_oSQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61658c11-2eb8-4354-8ebf-070323b29606&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і обладнання виробництва в`яжучих речовин, частина 2",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія сполук Нітрогену",
+        "lecturer": "Курилець О.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aok2OvOHg6ZZL8LvTRh8v1PNd_S6af7D65GZ7FwxFaBo1%40thread.tacv2/1677068517640?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і обладнання виробництва в`яжучих речовин, частина 2",
+        "lecturer": "Луцюк І.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "Слюзар А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "Слюзар А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Хміль Р.Є., 224а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Хміль Р.Є., 224а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Хміль Р.Є., 224а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Хміль Р.Є., 224а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Верба В.Б., 224а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Верба В.Б., 224а II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Бобало Т.В., 308 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Бобало Т.В., 308 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Бобало Т.В., 308 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Бобало Т.В., 308 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Марціхів Х.Р., 21 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "Ромців О.І., 302 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "Ромців О.І., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "Литвин О.Г., 411 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "Колодій І.С., 709 XXXVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Адміністративне право і процес",
+        "lecturer": "Сливка М.М., 405 XXXVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77826214384?pwd=7Q8zsSOIbWGLXGrwHeWwltlvhg8Lun.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "Колодій І.С., 705 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "Колодій І.С., 705 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Світлик В.В., Самчука 11. 8.00-9.30",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Марціхів Х.Р., 17 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Романова А.С., 302 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Романова А.С., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративне право і процес",
+        "lecturer": "Сливка М.М., 405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71518018363?pwd=3QAxKOqb4DoQgGURwR6Re2Iy4OlGbh.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Адміністративне право і процес",
+        "lecturer": "Сливка М.М., 405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75358084542?pwd=MnRa1PWsGf63mIkWlQD7xX7WTPOZ5m.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Марціхів Х.Р., 32 XXXIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Адміністративне право і процес",
+        "lecturer": "Сливка М.М., 402 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79957663114?pwd=1ZZpaJBKzpVp3cFt5UjbbvJYHtIUv4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

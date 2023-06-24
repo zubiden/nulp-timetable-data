@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Коментатор і оглядач радіо- і телемовлення",
+        "lecturer": "Гоцур О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Коментатор і оглядач радіо- і телемовлення",
+        "lecturer": "Гоцур О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія політичного процесу",
+        "lecturer": "Пасічний Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72559960341?pwd=tZV1wLaB52QIPFybOBkkmNIs1GcLdV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психологія журналістської творчості",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77562512388?pwd=TWpBIVRueiduAEMli3mz3wy39wWt7G.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77134907596?pwd=Yp6EDmM93ajOThRWX3s6OqO4CE0IE8.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77134907596?pwd=Yp6EDmM93ajOThRWX3s6OqO4CE0IE8.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Коментатор і оглядач радіо- і телемовлення",
+        "lecturer": "Гоцур О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Коментатор і оглядач радіо- і телемовлення",
+        "lecturer": "Гоцур О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологія політичного процесу",
+        "lecturer": "Пасічний Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Психологія журналістської творчості",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73782739957?pwd=WZw4yd0oyGWbncAu0G97iiXzwlzYpx.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

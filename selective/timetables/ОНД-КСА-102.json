@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Мичуда З.Р., 608 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azPFFkAJage9ddmZnHfpD9NmOnB7Y1tztdAPvN0wrnH01%40thread.tacv2/conversations?groupId=0c67414d-0d50-49ac-bec9-404b10b24d9f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Мичуда З.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azPFFkAJage9ddmZnHfpD9NmOnB7Y1tztdAPvN0wrnH01%40thread.tacv2/conversations?groupId=0c67414d-0d50-49ac-bec9-404b10b24d9f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

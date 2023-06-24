@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "Гавран В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "Гавран В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Просович О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75679937921?pwd=FjoiSktX36Ve9HuROlMUjFJNa3YfSd.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Просович О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75679937921?pwd=FjoiSktX36Ve9HuROlMUjFJNa3YfSd.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20%20Meeting%20ID:%20605%20861%203984%20Passcode:%207777"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20%20Meeting%20ID:%20605%20861%203984%20Passcode:%207777"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "Гавран В.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "Гавран В.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Кулиняк І.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73917283439?pwd=oLelVPp59hgaEbxRVzqcjyMSWVBoeL.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85603621161?pwd=UWxIVms2ZkVnN2xEdU5peFBIbGtzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Просович О.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75679937921?pwd=FjoiSktX36Ve9HuROlMUjFJNa3YfSd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86054550264?pwd=b2EzWmhwdkRmWitPQXNybkU5SjdSQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "Просович О.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75679937921?pwd=FjoiSktX36Ve9HuROlMUjFJNa3YfSd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

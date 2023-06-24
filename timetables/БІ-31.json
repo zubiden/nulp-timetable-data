@@ -1,0 +1,298 @@
+[
+    {
+        "subject": "Механічні впливи та захист біомедичних апаратів",
+        "lecturer": "Лозинський В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/wkr-pbjb-vax"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Механічні впливи та захист біомедичних апаратів",
+        "lecturer": "Лозинський В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/wkr-pbjb-vax"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 2 тижд",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "Смердова Т.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/tvj-qfyg-gpc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "Смердова Т.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/tvj-qfyg-gpc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "Смердова Т.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ghh-wqux-axv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "Смердова Т.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/bpc-xfne-jxk"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Біомедичні вимірювальні перетворювачі для інтернету речей",
+        "lecturer": "Заячук Д.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "Смердова Т.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/ghh-wqux-axv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Біомедичні вимірювальні перетворювачі для інтернету речей",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Біомедичні вимірювальні перетворювачі для інтернету речей",
+        "lecturer": "Заячук Д.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ayfU6NtBh_r3amwP9eDJ7sbTqefje51PXByL-tCZmWhk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ab14c06b-bffd-4706-87ce-5cd7de9a6f4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "Смердова Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/xik-vgcr-cvz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "Смердова Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vvc-hszx-wgv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Біомедичні вимірювальні перетворювачі для інтернету речей",
+        "lecturer": "Голяка Р.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи інтроскопії в біомедичних системах",
+        "lecturer": "Сторчун Є.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи інтроскопії в біомедичних системах",
+        "lecturer": "Сторчун Є.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 3тижд.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 1тижд.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Біомедичні вимірювальні перетворювачі для інтернету речей",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

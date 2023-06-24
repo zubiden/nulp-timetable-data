@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uqp-uhge-svx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи підтримки прийняття рішень в автоматизованому проектуванні",
+        "lecturer": "Корпильов Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/viw-bnco-ids?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., 323 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., 323 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи підтримки прийняття рішень в автоматизованому проектуванні",
+        "lecturer": "Корпильов Д.В., 322 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/mfh-aqwz-wwp?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи підтримки прийняття рішень в автоматизованому проектуванні",
+        "lecturer": "Корпильов Д.В., 322 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/mfh-aqwz-wwp?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування інтелектуальних вбудованих систем",
+        "lecturer": "Кособуцький П.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "Маркелов О.Е., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "Денисюк П.Ю., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація проектування інтелектуальних вбудованих систем",
+        "lecturer": "Кособуцький П.С., 319 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація проектування інтелектуальних вбудованих систем",
+        "lecturer": "Кособуцький П.С., 319 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

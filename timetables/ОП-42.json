@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Податковий і митний контроль",
+        "lecturer": "Воскресенська Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Податковий і митний контроль",
+        "lecturer": "Воскресенська Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "Тесак О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86373168281?pwd=bE5IU3ZLd1ZjdTdHNk42Ump3UVltUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "Тесак О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86373168281?pwd=bE5IU3ZLd1ZjdTdHNk42Ump3UVltUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз за видами економічної діяльності",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз за видами економічної діяльності",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Податковий і митний контроль",
+        "lecturer": "Воскресенська Т.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Податковий і митний контроль",
+        "lecturer": "Воскресенська Т.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "Тесак О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85293836722?pwd=bEo3UFNVWEwxMUpKbCsrYXNLclhQQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "Тесак О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85293836722?pwd=bEo3UFNVWEwxMUpKbCsrYXNLclhQQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз за видами економічної діяльності",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз за видами економічної діяльності",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

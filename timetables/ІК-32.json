@@ -1,0 +1,313 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 2 тижд",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2172335081?pwd=Z3ZmSHUvSG9MYmsxeDFFVWdoTVpqUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 4 тижд",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Чухрай А.І., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/cgg-rmif-tjh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "lecturer": "Шубин Б.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/zhx-uprp-vcn"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4BNTPwW5dZMziGfYMRA9i5yskY6YXA9Z95I0pWcGgqg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=73077cc1-c77d-43c4-9077-3e711b5cacab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "Андруник В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 3 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tio-huwb-zsw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Чухрай А.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pvy-uffq-yoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Чухрай А.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pvy-uffq-yoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/wwd-fhyx-pnb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wwd-fhyx-pnb"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/whe-yobw-bny"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/whe-yobw-bny"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "Андруник В.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "Марків О.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rtd-ixsh-gpy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "Андрущак В.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ydr-awxc-ouw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "lecturer": "Шубин Б.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

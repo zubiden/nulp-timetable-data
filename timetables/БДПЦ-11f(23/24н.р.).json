@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Англійська мова (за професійним спрямуванням)",
+        "lecturer": "Баглай О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9036768266?pwd=6rgINZ8pVKK1obbDlmyi03ZxQPHdja.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Технічна експертиза та паспортизація будівель і споруд",
+        "lecturer": "Титаренко Р.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83761881659?pwd=bElCS1lncFptYlBaL3dxZDBxaExOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експертиза та паспортизація будівель і споруд",
+        "lecturer": "Титаренко Р.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83761881659?pwd=bElCS1lncFptYlBaL3dxZDBxaExOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування металевих конструкцій",
+        "lecturer": "Була С.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Проектування основ і фундаментів",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування основ і фундаментів",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування конструкцій з дерева та пластмас",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Економічна оцінка інноваційних технологій та проектих рішень у будівництві",
+        "lecturer": "Мельник В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2773473622?pwd=eDQyWFZWQjhJWDhzNk5pei9YWVlsQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Економічна оцінка інноваційних технологій та проектих рішень у будівництві",
+        "lecturer": "Мельник В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2773473622?pwd=eDQyWFZWQjhJWDhzNk5pei9YWVlsQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проектування конструкцій з дерева та пластмас",
+        "lecturer": "Хміль Р.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проектування металевих конструкцій",
+        "lecturer": "Була С.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Українська мова як іноземна",
+        "lecturer": "Бойко Г.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8926651311?pwd=K2wvY0RCZnJTOHFrTlZGbFNEVC9zZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

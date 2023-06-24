@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Системи технічного зору",
+        "lecturer": "Грицик В.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи технічного зору",
+        "lecturer": "Грицик В.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/sxp-tgzz-oyk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ync-syah-hjc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 803 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/bsq-dzmz-xbn"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 803 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/ajv-bfjp-egb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "Цмоць І.Г., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "Цмоць І.Г., 804а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "Цмоць І.Г., 804а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Надійність систем та програмного забезпечення",
+        "lecturer": "Медиковський М.О., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjU2ZGFmNTctOTc4Ny00ZDQ2LThhOWYtYmM3MzM0YzY2MzI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22622e515b-cf7f-4799-ae90-b560d856082c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Надійність систем та програмного забезпечення",
+        "lecturer": "Медиковський М.О., 807 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи технічного зору",
+        "lecturer": "Грицик В.В., 107a V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи технічного зору",
+        "lecturer": "Грицик В.В., 107a V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

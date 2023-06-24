@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Компонування обладнання в технології органічного синтезу",
+        "lecturer": "Лудин А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTU2G2IFLrgD9hGDUmh_QPMGTmE3YgSodlWWNs-ZtMNU1%40thread.tacv2/1676040083906?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Компонування обладнання в технології органічного синтезу",
+        "lecturer": "Лудин А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTU2G2IFLrgD9hGDUmh_QPMGTmE3YgSodlWWNs-ZtMNU1%40thread.tacv2/1676039884103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Обладнання виробництв органічного синтезу",
+        "lecturer": "Мельник С.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Обладнання виробництв органічного синтезу",
+        "lecturer": "Мельник С.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Щеглюк М.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82815975074?pwd=OFdyVjYrbzlsS3haNW9YQlArVW5XQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Компонування обладнання в технології органічного синтезу",
+        "lecturer": "Лудин А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTU2G2IFLrgD9hGDUmh_QPMGTmE3YgSodlWWNs-ZtMNU1%40thread.tacv2/1676041204467?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Компонування обладнання в технології органічного синтезу",
+        "lecturer": "Лудин А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWQ1ODgyODEtZDNlYi00M2FjLWEyZWYtZTE4MGFkMTA4YWZm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обладнання виробництв органічного синтезу",
+        "lecturer": "Мельник С.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Обладнання виробництв органічного синтезу",
+        "lecturer": "Мельник С.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Промислова екологія в технології органічного синтезу",
+        "lecturer": "Шевчук Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Промислова екологія в технології органічного синтезу",
+        "lecturer": "Шевчук Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Стасюк І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

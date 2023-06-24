@@ -1,0 +1,246 @@
+[
+    {
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "lecturer": "Баранович Д.Б., 240 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae39fbac1c19a43859eadf32a93aa58e7%40thread.tacv2/1677566520068?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Процеси та апарати біохімічної інженерії",
+        "lecturer": "Цюра Н.Я., 025 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/2446399231?pwd=cnVOeXRmSFNncFlRSGRsQmd3TkJ0Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Процеси та апарати біохімічної інженерії",
+        "lecturer": "Костів І.С., 025 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://join.skype.com/JwTP39stmif2"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформатика",
+        "lecturer": "Будз І.С., Глинський Я.М., 503 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Червецова В.Г., 240 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3am7vt5ZtJ_TB55cR8K4Up9yNNaU-xyojg8WrAqKEvnck1%40thread.tacv2/1677391070316?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Червецова В.Г., 240 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3am7vt5ZtJ_TB55cR8K4Up9yNNaU-xyojg8WrAqKEvnck1%40thread.tacv2/1677391279387?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2",
+        "lecturer": "Гумінілович Р.Р., 226 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформатика",
+        "lecturer": "Будз І.С., 101 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Крвавич А.С., Федоришин О.М., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Федоришин О.М., Крвавич А.С., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2",
+        "lecturer": "Стаднік В.Є., Гумінілович Р.Р., Цюпко Ф.І., Полюжин І.П., 218 IX н.к., 220 IX н.к., 228 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2",
+        "lecturer": "Гумінілович Р.Р., Стаднік В.Є., Цюпко Ф.І., Полюжин І.П., 218 IX н.к., 220 IX н.к., 228 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Крвавич А.С., Федоришин О.М., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Загальна мікробіологія і вірусологія",
+        "lecturer": "Федоришин О.М., Крвавич А.С., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Блавт О.З., корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2",
+        "lecturer": "Гумінілович Р.Р., 226 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Процеси та апарати біохімічної інженерії",
+        "lecturer": "Гнатів З.Я., 110 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "lecturer": "Баранович Д.Б., 240 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

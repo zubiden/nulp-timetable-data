@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "Підбережник Н.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "Підбережник Н.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Особисті якості",
+        "lecturer": "Дзяна Г.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Особисті якості",
+        "lecturer": "Дзяна Г.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи підприємництва",
+        "lecturer": "Козак І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6723495966?pwd=c1Z0OFloblQrMDArV2hoTUN2WDM3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи підприємництва",
+        "lecturer": "Козак І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6723495966?pwd=c1Z0OFloblQrMDArV2hoTUN2WDM3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи підприємництва",
+        "lecturer": "Козак І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6723495966?pwd=c1Z0OFloblQrMDArV2hoTUN2WDM3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "Підбережник Н.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Особисті якості",
+        "lecturer": "Дзяна Г.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

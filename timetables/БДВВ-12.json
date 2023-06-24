@@ -1,0 +1,234 @@
+[
+    {
+        "subject": "Аналіз природних і стічних вод та методи їх очищення",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання та водовідведення промислових підприємств",
+        "lecturer": "Мацієвська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Кропивницька Т.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація систем водопостачання та водовідведення",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обробка та утилізація осадів стічних вод",
+        "lecturer": "Вербовський О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Соболь Х.С., Бліхарський Я.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTMzY2Q4NDAtOWViMi00OGQwLTk4MTAtMWY2N2JlZmRlZTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Кущенко В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Лободанов М.М., 308 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Лободанов М.М., 308 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Гоголь М.М., 309 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7UhB5HdS-vl8QAghWrEv_9IHl_SPKuOupKDBkMHPNAU1%40thread.tacv2/conversations?groupId=b50b3aba-c39d-4c16-9f1e-cc993d509da3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Бідось В.М., 309 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Камінський А.Т., 209 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBjYE3RaPkE0S3JV2LcvOGyqc2tYKhuzighONhz4JmLc1%40thread.tacv2/1680852018791?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2271b50a43-241c-4277-9017-ee4c62a0d681%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Камінський А.Т., 209 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBjYE3RaPkE0S3JV2LcvOGyqc2tYKhuzighONhz4JmLc1%40thread.tacv2/1680852018791?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2271b50a43-241c-4277-9017-ee4c62a0d681%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання та водовідведення промислових підприємств",
+        "lecturer": "Мацієвська О.О., 209 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація систем водопостачання та водовідведення",
+        "lecturer": "Попадюк І.Ю., 417 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Обробка та утилізація осадів стічних вод",
+        "lecturer": "Вербовський О.В., 413 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

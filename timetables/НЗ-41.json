@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Картознавство",
+        "lecturer": "Голубінка Ю.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4985568578?pwd=GNn4H3yWkghj6YGWUGXe1hPWJwt7Qe.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Картознавство",
+        "lecturer": "Голубінка Ю.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4985568578?pwd=GNn4H3yWkghj6YGWUGXe1hPWJwt7Qe.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Картографування природнього середовища за космічними зображеннями",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Картографування природнього середовища за космічними зображеннями",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Структурно-системне моделювання в картографії",
+        "lecturer": "Бридун А.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Структурно-системне моделювання в картографії",
+        "lecturer": "Бридун А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація та управління робіт в картографії",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація та управління робіт в картографії",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, укладання та видання карт",
+        "lecturer": "Марченко Д.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77339992545?pwd=brnPIHpsH6i2KrZV3jx614uAmobBNs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування, укладання та видання карт",
+        "lecturer": "Марченко Д.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79008194084?pwd=GvZSHZCELbus21faJzbVX3raBtFduG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи WEB-картографії",
+        "lecturer": "Юрків М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи WEB-картографії",
+        "lecturer": "Юрків М.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, укладання та видання карт",
+        "lecturer": "Марченко Д.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77658822240?pwd=smLYeOnTCzimQBcjSQsPfjb27SkM6X.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

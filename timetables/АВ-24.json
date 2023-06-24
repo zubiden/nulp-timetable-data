@@ -1,0 +1,251 @@
+[
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "Вашкурак Ю.З., 82 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Федоришин Р.М., 82 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Програмування для систем реального часу",
+        "lecturer": "Демків І.Б., 508 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація технологічних процесів",
+        "lecturer": "Васильківський І.С., 78 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76588922800?pwd=kyrtZAZelltJYVefNrtbupXBQvOZIM.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація технологічних процесів",
+        "lecturer": "Васильківський І.С., 82 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74946449408?pwd=TUFS09vKUaRuaU2IeGhzOzOF6qfegq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Булатов О.М., корпус 21 в.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація технологічних процесів",
+        "lecturer": "Васильківський І.С., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73385034495?pwd=BIeaAytepX4L0j4MtlZCp4QPnJ6j5P.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація технологічних процесів",
+        "lecturer": "Васильківський І.С., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73385034495?pwd=BIeaAytepX4L0j4MtlZCp4QPnJ6j5P.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "Федоришин Р.М., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Програмування для систем реального часу",
+        "lecturer": "Федоришин Р.М., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/79135020962?pwd%3D8F5gqmYaZe3eZfwWiWob8DSIzQ6VMu.1&sa=D&source=calendar&ust=1678015950337814&usg=AOvVaw3QxDBGVnbLB_Upnk3943xb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Химко О.М., 82 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Федоришин Р.М., 86 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Химко О.М., 409 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація технологічних процесів",
+        "lecturer": "Васильківський І.С., 71 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73385034495?pwd=BIeaAytepX4L0j4MtlZCp4QPnJ6j5P.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "Федоришин Р.М., 71 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Крих Г.Б., 71 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Крих Г.Б., 71 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

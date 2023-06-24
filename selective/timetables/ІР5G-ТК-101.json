@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/jgb-duds-vwg?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jgb-duds-vwg?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/cpe-ohmk-ytv?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

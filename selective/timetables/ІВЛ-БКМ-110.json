@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Вашкевич Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77008777034?pwd=qwtIUmfkCNb3ZW8agAwipWVzxcmebs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Вашкевич Р.В., 313 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78695044565?pwd=wiVCy0x61j7SnUjnffCubbTSLZbQsq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

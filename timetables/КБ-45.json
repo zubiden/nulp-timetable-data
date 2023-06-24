@@ -1,0 +1,230 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Хвостенко В.С., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Хвостенко В.С., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Хвостенко В.С., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Хвостенко В.С., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Безпека мобільних технологій",
+        "lecturer": "Опірський І.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3cc8770dd421476cb9be2eb921bb0675%40thread.tacv2/conversations?groupId=eee9a40b-6b56-44af-ae53-1023c84a03c9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

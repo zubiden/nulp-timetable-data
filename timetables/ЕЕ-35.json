@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3nTuECZ9l0Fgjo5GtOKYBsw0Br8Z2aXEZqZtvaCjKIY1%40thread.tacv2/conversations?groupId=386ca72b-d401-46bd-a218-4f78dd1c645e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3nTuECZ9l0Fgjo5GtOKYBsw0Br8Z2aXEZqZtvaCjKIY1%40thread.tacv2/conversations?groupId=386ca72b-d401-46bd-a218-4f78dd1c645e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "Яцейко А.Я., 213 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "Яцейко А.Я., 213 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "Коновал В.С., 212a V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3asCkatoBFWANO4XCrhJcDRR56i_sEswIOsglkbx5AJ3U1%40thread.tacv2/General?groupId=65b39cad-1ebf-4d81-9afd-c8cdd21d6245&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Енергоощадність та основи екології виробництва, розподілу та використання електроенергії",
+        "lecturer": "Лисяк В.Г., 212a V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ada2fd9a61099421c9be63962e0831d1c%40thread.tacv2/1674757782597?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Енергоощадність та основи екології виробництва, розподілу та використання електроенергії",
+        "lecturer": "Лисяк В.Г., 212a V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ada2fd9a61099421c9be63962e0831d1c%40thread.tacv2/1674757782597?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Енергоощадність та основи екології виробництва, розподілу та використання електроенергії",
+        "lecturer": "Лисяк В.Г., 205в V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ada2fd9a61099421c9be63962e0831d1c%40thread.tacv2/1677750626194?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Енергоощадність та основи екології виробництва, розподілу та використання електроенергії",
+        "lecturer": "Лисяк В.Г., 205в V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ada2fd9a61099421c9be63962e0831d1c%40thread.tacv2/1674757616147?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Енергоощадність та основи екології виробництва, розподілу та використання електроенергії",
+        "lecturer": "Лисяк В.Г., 211 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ada2fd9a61099421c9be63962e0831d1c%40thread.tacv2/1674757616147?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "Яцейко А.Я., 210 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "Яцейко А.Я., 210 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "Яцейко А.Я., 210 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

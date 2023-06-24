@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., 322 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., 322 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

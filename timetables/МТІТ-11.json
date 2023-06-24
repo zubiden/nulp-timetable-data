@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Сучасні технології проектування інформаційних приладобудівних систем",
+        "lecturer": "Івахів О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a78b23b337648434e99f93af1c6ac3c71%40thread.tacv2/1676287058587?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології проектування інформаційних приладобудівних систем",
+        "lecturer": "Івахів О.В., 119 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a78b23b337648434e99f93af1c6ac3c71%40thread.tacv2/1676287182557?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676215463937?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676216098266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "Гірняк Ю.Б., 119 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676216290803?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "Гірняк Ю.Б., 119 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676215651544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування мехатронних та робототехнічних систем",
+        "lecturer": "Тихан М.О., 115 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "Гірняк Ю.Б., 119 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676217324930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "Гірняк Ю.Б., 119 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676216806953?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування мехатронних та робототехнічних систем",
+        "lecturer": "Тихан М.О., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування мехатронних та робототехнічних систем",
+        "lecturer": "Тихан М.О., 115 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "Гірняк Ю.Б., 119 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676217629507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Інженерно-геодезичний моніторинг і контроль в будівництві",
+        "lecturer": "Віват А.Й., 507 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інженерно-геодезичний моніторинг і контроль в будівництві",
+        "lecturer": "Віват А.Й., 507 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інженерно-геодезичний моніторинг і контроль в будівництві",
+        "lecturer": "Віват А.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/lookup/ge52bnctlt"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

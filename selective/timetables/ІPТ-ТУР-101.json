@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "Теребух А.А., 313 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72915833481?pwd=6b4wCj5WRxxHMww4kOzpSRCJ3irfFO.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "Лущик М.В., 311 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

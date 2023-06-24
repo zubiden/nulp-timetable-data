@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Концепція сталого розвитку державної кліматичної політики",
+        "lecturer": "Вронська Н.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3au0kox2LVATI_s9dXV5LoHv1yb-1cPeORLzpj_NC3c0w1%40thread.tacv2/1676571308479?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Концепція сталого розвитку державної кліматичної політики",
+        "lecturer": "Вронська Н.Ю., 115 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

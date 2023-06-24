@@ -1,0 +1,131 @@
+[
+    {
+        "subject": "Теплогенеруючі установки теплоелектростанцій та режими їх роботи",
+        "lecturer": "Заяць М.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Системи власних потреб атомних електростанцій",
+        "lecturer": "Василів К.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Системи керування електричними станціями",
+        "lecturer": "Покровський К.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Координація ізоляції в електроустановках",
+        "lecturer": "Ференсович Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aa5d1b1aea9954e349656f361c3d23186%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=532a80f4-deb6-494e-806a-c0ecaafa8769&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теплогенеруючі установки теплоелектростанцій та режими їх роботи",
+        "lecturer": "Заяць М.Ф., 57 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування електричними станціями",
+        "lecturer": "Покровський К.Б., 405 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теплогенеруючі установки теплоелектростанцій та режими їх роботи",
+        "lecturer": "Заяць М.Ф., 211 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Координація ізоляції в електроустановках",
+        "lecturer": "Ференсович Р.Я., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи власних потреб атомних електростанцій",
+        "lecturer": "Василів К.М., 405 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

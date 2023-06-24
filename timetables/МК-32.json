@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Маркетингова політика розподілу",
+        "lecturer": "Косар Н.С., Питуляк Н.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2464757338?pwd=N1dFaEpvUHIzN0d3dTRMV1lxQTBLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Поведінка споживача",
+        "lecturer": "Таранський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Болібрух Б.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4-txxOutyLcVcOdNSyXy-A3KA6lTKlXyzewBTQ5kOgA1%40thread.tacv2/1677422746148?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cee63320-7cb7-40c3-9ff0-94b7fb8e5352%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Маркетинг послуг",
+        "lecturer": "Васильців Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89660794100?pwd=TTQzbEVNbENyRWcrcThiWmFsMzdmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління продажами в сфері інтернет-маркетингу",
+        "lecturer": "Лихолат С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89468680355?pwd=c0F1RHFQSndtaVNobHFueXZJM0lGdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Маркетинг послуг",
+        "lecturer": "Васильців Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82950497066?pwd=bHVSSmJsMHJDT3p3eFdQSEhNN0lXUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингова політика розподілу",
+        "lecturer": "Питуляк Н.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2464757338?pwd=N1dFaEpvUHIzN0d3dTRMV1lxQTBLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг послуг",
+        "lecturer": "Васильців Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82950497066?pwd=bHVSSmJsMHJDT3p3eFdQSEhNN0lXUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Поведінка споживача",
+        "lecturer": "Таранський І.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління продажами в сфері інтернет-маркетингу",
+        "lecturer": "Лихолат С.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75779210073?pwd=HBEOIqzP1N1joTrt9aPdjobwgQ4qHV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFxTAY4JrpAlnoQMLDSWA1Bb8reJJCRTkpolk0Lw1Pgo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8750ffa9-b4c8-4565-a3f3-4acd41812f46&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

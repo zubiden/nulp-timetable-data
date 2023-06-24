@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "Возняк О.Т., 401 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afr6SgbU87SYBeDOsJ_jMKFV4xL71cYY3Zd2MtIEbXcU1%40thread.tacv2/conversations?groupId=3c57fce4-c5bf-4bce-b76d-d7c25fd7e117&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

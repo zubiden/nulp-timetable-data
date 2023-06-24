@@ -1,0 +1,255 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Крилова Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZRe6Ewcdx0b59F2wQBdfw9K2L9uhX99bqMEktA2gz041%40thread.tacv2/1677342959432?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b63c1e0-9d67-4080-a93d-9a87a77bcdc6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Крилова Г.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahgV3s_lEK30ugi42UwvK_nH0Y_En3TaznXez1IizWkY1%40thread.tacv2/1677343807525?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b63c1e0-9d67-4080-a93d-9a87a77bcdc6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Крилова Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5YZxaUDuHSDP690uuWWixOPPAJzAVFU5p1WuEj7e2mw1%40thread.tacv2/1677343439205?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b63c1e0-9d67-4080-a93d-9a87a77bcdc6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "Шкраб Р.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76556296770?pwd=waVfbDcKkqDaNb5t4qjfAmuZMwXD09.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "Шкраб Р.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76556296770?pwd=waVfbDcKkqDaNb5t4qjfAmuZMwXD09.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Нагурський О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2_diEEsdAFVueC41nIVsTEVq82l0CIM3VkvXJJlFa4c1%40thread.tacv2/1677074631176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "Тушницький Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Матвіїв Б.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWY2ZjVjNTEtZjFkOS00MDI1LWI2OWYtMjVjYTEzNTZkMDY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22eeb116c1-efb9-4760-93d7-8d3b3d609264%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Матвіїв Б.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVhYjkzYmQtMzk2YS00YjhmLTk2YWQtOGMyOWVlYjdkNWRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22eeb116c1-efb9-4760-93d7-8d3b3d609264%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "Шкраб Р.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76556296770?pwd=waVfbDcKkqDaNb5t4qjfAmuZMwXD09.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "Шкраб Р.Р., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "Симець І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

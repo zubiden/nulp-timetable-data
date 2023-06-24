@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "Кіндій М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87809946554?pwd=NzR2TkxFelRnNVR2TGg1ZE1vUy8zUT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20878%200994%206554%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201akqNJ"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "Кузяк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72966813357?pwd=SVgrB1Dbps5HQuOk85Lij2GwENBkDm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Застосування GNSS-технологій в геодезії, картографії і земельному кадастрі",
+        "lecturer": "Янків-Вітковська Л.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2jvpSle0O8kg7hNKY5IsuaJGklyW4FA7bkmx1uQAn3I1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0e1d8cd6-fb10-49a0-b462-393af25d0d9d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Застосування GNSS-технологій в геодезії, картографії і земельному кадастрі",
+        "lecturer": "Янків-Вітковська Л.М., Джуман Б.Б., 605 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

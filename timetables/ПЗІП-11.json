@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Управління ризиками в інженерії програмного забезпечення",
+        "lecturer": "Грицюк Ю.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Івасенко І.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби наукових досліджень в інженерії програмного забезпечення",
+        "lecturer": "Марусенкова Т.А., 809 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інженерія систем зберігання та опрацювання даних",
+        "lecturer": "Мельник Р.А., 809 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інженерія систем зберігання та опрацювання даних",
+        "lecturer": "Мельник Р.А., 809 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління ризиками в інженерії програмного забезпечення",
+        "lecturer": "Грицюк Ю.І., 809 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками в інженерії програмного забезпечення",
+        "lecturer": "Грицюк Ю.І., 809 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Івасенко І.Б., 809 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Івасенко І.Б., 809 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інженерія систем зберігання та опрацювання даних",
+        "lecturer": "Мельник Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби наукових досліджень в інженерії програмного забезпечення",
+        "lecturer": "Федасюк Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uwi-cnyi-mrb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

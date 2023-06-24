@@ -1,0 +1,362 @@
+[
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Паракуда В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXqo6bfdF2oZVrqD4Sxaf99g5tNTQCW-RNrRWNmbTCvw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=efef17e4-af8f-40a8-b08a-7ed05adcd7ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Журавель І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHhpswnIb1Il45Nea7vwgkNZ1ZFXXaavK2__jo7qQUfI1%40thread.tacv2/conversations?groupId=2e1c8727-6ed6-40a3-922a-63e9eb12752e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "Банах Р.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abmHXS55y9FkZMw9H59mubUGmt3bb-QG-NSIf84VJqhY1%40thread.tacv2/1677426718725?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXr5LgchsNC2HIQ_iv_EieVnW2fH8u_Qu0ZBx4QsjDpY1%40thread.tacv2/conversations?groupId=a3114fcf-302d-4ffd-a975-47cf915ad9d0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "Банах Р.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abmHXS55y9FkZMw9H59mubUGmt3bb-QG-NSIf84VJqhY1%40thread.tacv2/1677426718725?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXr5LgchsNC2HIQ_iv_EieVnW2fH8u_Qu0ZBx4QsjDpY1%40thread.tacv2/conversations?groupId=a3114fcf-302d-4ffd-a975-47cf915ad9d0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горячий О.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apG0q8in0IcFGNpOyRANkG4WVgkcjHozPbv0CPVJ3lps1%40thread.tacv2/conversations?groupId=e98098b5-8aa3-42ed-bc4f-7ac70e788e21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "Банах Р.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abmHXS55y9FkZMw9H59mubUGmt3bb-QG-NSIf84VJqhY1%40thread.tacv2/1677426718725?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "Банах Р.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abmHXS55y9FkZMw9H59mubUGmt3bb-QG-NSIf84VJqhY1%40thread.tacv2/1677426718725?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "Совин Я.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горячий О.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apG0q8in0IcFGNpOyRANkG4WVgkcjHozPbv0CPVJ3lps1%40thread.tacv2/conversations?groupId=e98098b5-8aa3-42ed-bc4f-7ac70e788e21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Шабатура М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89763367043?pwd=SXh4WHA5MmgxcVRSRkVxVEg2YUNodz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Шабатура М.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горячий О.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apG0q8in0IcFGNpOyRANkG4WVgkcjHozPbv0CPVJ3lps1%40thread.tacv2/conversations?groupId=e98098b5-8aa3-42ed-bc4f-7ac70e788e21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Шабатура М.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горячий О.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apG0q8in0IcFGNpOyRANkG4WVgkcjHozPbv0CPVJ3lps1%40thread.tacv2/conversations?groupId=e98098b5-8aa3-42ed-bc4f-7ac70e788e21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "Семенюк С.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdkM2E0YTMtZDY5Zi00NTlhLThkMzQtNDI4ZWM5MjZmMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222799b3cd-0042-43a7-87fc-8f5ca80ad16b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Шабатура М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679387894338?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "Шабатура М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ank9ORgBua7JTpEhXs08c-0nxss_NJYGHpOzHlZGDvjA1%40thread.tacv2/1677007767666?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

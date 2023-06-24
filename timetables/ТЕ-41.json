@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Нові методи використання низькоякісних палив",
+        "lecturer": "Заяць М.Ф., 213 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Паливне та золожужелеве господарство теплових електричних станцій",
+        "lecturer": "Матіко Г.Ф., 213 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація об`єктів теплоенергетики",
+        "lecturer": "Матіко Г.Ф., 213 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи автоматики і автоматизації енергетичних об`єктів",
+        "lecturer": "Химко О.М., 318 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Нові методи використання низькоякісних палив",
+        "lecturer": "Заяць М.Ф., 213 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нові методи використання низькоякісних палив",
+        "lecturer": "Заяць М.Ф., 211 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нові методи використання низькоякісних палив",
+        "lecturer": "Заяць М.Ф., 211 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація об`єктів теплоенергетики",
+        "lecturer": "Матіко Г.Ф., 207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Паливне та золожужелеве господарство теплових електричних станцій",
+        "lecturer": "Матіко Г.Ф., 57 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатація об`єктів теплоенергетики",
+        "lecturer": "Матіко Г.Ф., 57 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., +АЕ207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFMXbAsR5cjK3BY3KqzngSUo6npE5-0OqznrAS63aVo41%40thread.tacv2/conversations?groupId=2809b2a5-eaba-4923-9cc4-8c248bf6761e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи автоматики і автоматизації енергетичних об`єктів",
+        "lecturer": "Брилинський Р.Б., 115 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація об`єктів теплоенергетики",
+        "lecturer": "Матіко Г.Ф., 211 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avSDmSCmUwGHpyMgvvcleVkln5QEw14U4dx4H2fg4FYE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fa780b00-dbd1-4833-8d7f-f592ef40fc56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Моторнюк У.І., 209 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFhNLLUMX7K4UvXrZjVmxWb3wlI-SRVfNtqhnHd1HOV01%40thread.tacv2/conversations?groupId=51ad0684-5b9c-45aa-b380-ce0ca4b61585&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

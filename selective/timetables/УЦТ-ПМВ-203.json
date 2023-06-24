@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "Марковець О.В., Вовк Н.С., 207 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "Турчин Я.Б., 116 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

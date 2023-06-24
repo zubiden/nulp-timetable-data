@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "Лиса Н.К., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "Лиса Н.К., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., 132 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXID4pEZOFReTBKinoBUmjV0X_XUrawRHYpaZTLv06iY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b4035ead-4346-459c-8a77-13a969a2ec2c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., 132 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXID4pEZOFReTBKinoBUmjV0X_XUrawRHYpaZTLv06iY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b4035ead-4346-459c-8a77-13a969a2ec2c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Планування експериментів",
+        "lecturer": "Кузьмін О.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7726294918?pwd=a2thSGp0N3U3dUY5d0xpS0RTMHh3Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Планування експериментів",
+        "lecturer": "Кузьмін О.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7726294918?pwd=a2thSGp0N3U3dUY5d0xpS0RTMHh3Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aHh0m28hNDplxzrcqne3JcwUL2O6Wsklcf3_mSoO0CyM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0af1c814-623e-4667-8cb7-dfdec4d92f4a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., 4 тижд.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aHh0m28hNDplxzrcqne3JcwUL2O6Wsklcf3_mSoO0CyM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0af1c814-623e-4667-8cb7-dfdec4d92f4a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Качан С.І., 2тижд.",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "Лиса Н.К., 802б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "Лиса Н.К., 104 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Планування експериментів",
+        "lecturer": "Кузьмін О.В., 804г V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7726294918?pwd=a2thSGp0N3U3dUY5d0xpS0RTMHh3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Планування експериментів",
+        "lecturer": "Кузьмін О.В., 802б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7726294918?pwd=a2thSGp0N3U3dUY5d0xpS0RTMHh3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    }
+]

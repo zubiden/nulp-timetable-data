@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Інтелектуальні транспортні системи",
+        "lecturer": "Гурей Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac98WfJ0XIWpgiZewM2tzhtJDBtw4P5DpLmngtkRW35Y1%40thread.tacv2/1677234815427?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Управління транспортними потоками в центрі міст, частина 1",
+        "lecturer": "Ковалишин В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajtDeVtYy8KVx3SyeF3jzrtOweYbEzNuRmk0ok7jSyuI1%40thread.tacv2/conversations?groupId=0ea154eb-1330-4f65-b34f-d0cd3a902c4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": "Постранський Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJVi6QoS52paGPMS-VIOpReI2BiPf9LmDkBhrkQTqx8A1%40thread.tacv2/conversations?groupId=76ad3227-a1f7-49ae-ad97-04d4fd40793b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальні транспортні системи",
+        "lecturer": "Гурей Т.А., 207 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac98WfJ0XIWpgiZewM2tzhtJDBtw4P5DpLmngtkRW35Y1%40thread.tacv2/1679347776862?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальні транспортні системи",
+        "lecturer": "Гурей Т.А., 207 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac98WfJ0XIWpgiZewM2tzhtJDBtw4P5DpLmngtkRW35Y1%40thread.tacv2/1679347776862?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальні транспортні системи",
+        "lecturer": "Гурей Т.А., 204 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac98WfJ0XIWpgiZewM2tzhtJDBtw4P5DpLmngtkRW35Y1%40thread.tacv2/1679347831630?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління транспортними потоками в центрі міст, частина 1",
+        "lecturer": "Ковалишин В.В., 205 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajtDeVtYy8KVx3SyeF3jzrtOweYbEzNuRmk0ok7jSyuI1%40thread.tacv2/conversations?groupId=0ea154eb-1330-4f65-b34f-d0cd3a902c4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання вантажних перевезень",
+        "lecturer": "Гілевич В.В., 205 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління транспортними потоками в центрі міст, частина 1",
+        "lecturer": "Ковалишин В.В., 204 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajtDeVtYy8KVx3SyeF3jzrtOweYbEzNuRmk0ok7jSyuI1%40thread.tacv2/conversations?groupId=0ea154eb-1330-4f65-b34f-d0cd3a902c4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": "Бойків Р.В., 204 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання вантажних перевезень",
+        "lecturer": "Гілевич В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDr1cXM-w3V2Z6mpF0_hnhHNmatEfn8xQHWX3QW9Va_01%40thread.tacv2/conversations?groupId=7cadb1e5-34d4-446a-a643-4eb596488542&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання вантажних перевезень",
+        "lecturer": "Гілевич В.В., 204 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології утилізації спеціальних відходів",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdAqvoq5UtEBkW5Z4uQsPrwlUlK_ZljVdvcMO7gst4s1%40thread.tacv2/1677232539623?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації спеціальних відходів",
+        "lecturer": "Попович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdAqvoq5UtEBkW5Z4uQsPrwlUlK_ZljVdvcMO7gst4s1%40thread.tacv2/1677232746419?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Петрушка К.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79241899871?pwd=RsLnTfVlPicnfaBaHzLtnhmwWOE2tg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Петрушка К.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79241899871?pwd=RsLnTfVlPicnfaBaHzLtnhmwWOE2tg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Гуглич С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBmNTUzNmMtODMyYy00MDM3LTg5Y2EtNzY3OTlkYTViN2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6b64762-5ccb-4a05-a573-08669466e1ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи створення екобезпечних виробництв",
+        "lecturer": "Гуглич С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBmNTUzNmMtODMyYy00MDM3LTg5Y2EtNzY3OTlkYTViN2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6b64762-5ccb-4a05-a573-08669466e1ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Петрушка К.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79241899871?pwd=RsLnTfVlPicnfaBaHzLtnhmwWOE2tg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Петрушка К.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79241899871?pwd=RsLnTfVlPicnfaBaHzLtnhmwWOE2tg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи створення екобезпечних виробництв",
+        "lecturer": "Гуглич С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBmNTUzNmMtODMyYy00MDM3LTg5Y2EtNzY3OTlkYTViN2Vl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6b64762-5ccb-4a05-a573-08669466e1ec%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "Дячок В.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації спеціальних відходів",
+        "lecturer": "Попович О.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdAqvoq5UtEBkW5Z4uQsPrwlUlK_ZljVdvcMO7gst4s1%40thread.tacv2/1677233114968?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації спеціальних відходів",
+        "lecturer": "Попович О.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdAqvoq5UtEBkW5Z4uQsPrwlUlK_ZljVdvcMO7gst4s1%40thread.tacv2/1677233114968?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

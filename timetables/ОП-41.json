@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Височан О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/91455911731?pwd=b0QwVWRWSWdqQ1VWUUtUVmJSUUxiQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Височан О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/91455911731?pwd=b0QwVWRWSWdqQ1VWUUtUVmJSUUxiQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73422491827?pwd=heHSAEoLPyWYax8lYFag4S1ahJimbE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73422491827?pwd=heHSAEoLPyWYax8lYFag4S1ahJimbE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Височан О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/91455911731?pwd=b0QwVWRWSWdqQ1VWUUtUVmJSUUxiQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Височан О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/91455911731?pwd=b0QwVWRWSWdqQ1VWUUtUVmJSUUxiQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74812093440?pwd=hX8foD3LWOIkafrtJLD2Uvh4uJvFic.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74812093440?pwd=hX8foD3LWOIkafrtJLD2Uvh4uJvFic.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

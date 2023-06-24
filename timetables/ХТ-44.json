@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Екотехнології і ресурсозбереження в нафтопереробній промисловості",
+        "lecturer": "Присяжний Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTZmYTg0MmMtYTUyMi00Y2IyLTlhYzEtMjE1MWNmZWIzMWI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Пиш'єв С.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Пиш'єв С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aeYyZtdRI102q_COh2GejIQhhTdxSv2c9Vi4Gzdp6DiU1%40thread.tacv2/1677404857169?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Присяжний Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZkMGUyNGUtYmRiMy00MGVjLWI3ZGUtMGYyMzA3YTc4NTMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Присяжний Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZkMGUyNGUtYmRiMy00MGVjLWI3ZGUtMGYyMzA3YTc4NTMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Вашкурак Ю.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Пиш'єв С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aeYyZtdRI102q_COh2GejIQhhTdxSv2c9Vi4Gzdp6DiU1%40thread.tacv2/1677404993568?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія переробки нафти і газу, частина 3",
+        "lecturer": "Пиш'єв С.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aeYyZtdRI102q_COh2GejIQhhTdxSv2c9Vi4Gzdp6DiU1%40thread.tacv2/1677404993568?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Екотехнології і ресурсозбереження в нафтопереробній промисловості",
+        "lecturer": "Присяжний Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FlY2Q5MTAtNDZhNS00NmEyLTk1MWQtNmRiNjFlZTU4NThk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "Демчук Ю.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Стасюк І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

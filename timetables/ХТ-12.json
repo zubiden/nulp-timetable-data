@@ -1,0 +1,231 @@
+[
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Кунтий О.І., 101 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Кунтий О.І., 101 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "Дончак В.А., 101 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "Дончак В.А., 101 IX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова за професійним спрямуванням",
+        "lecturer": "Кирик Г.І., 403 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "Пабирівська Н.В., 211 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "Пабирівська Н.В., 211 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина2",
+        "lecturer": "Вільховченко Н.П., 32 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Сухацький Ю.В., 204 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Курилець О.Г., 205 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Сухацький Ю.В., 204 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Неорганічна хімія, частина 2",
+        "lecturer": "Курилець О.Г., 205 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Череповська О.А., корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "Шевчук О.М., Гевусь О.І., Когут А.М., 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "Шевчук О.М., Гевусь О.І., Когут А.М., 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "Пабирівська Н.В., 410 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "Пабирівська Н.В., 403 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

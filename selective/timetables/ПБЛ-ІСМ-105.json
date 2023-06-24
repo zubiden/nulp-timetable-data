@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Технології проектування систем бізнес-логіки",
+        "lecturer": "Рибчак З.Л., 126б IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології проектування систем бізнес-логіки",
+        "lecturer": "Рибчак З.Л., 126б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології проектування систем бізнес-логіки",
+        "lecturer": "Рибчак З.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

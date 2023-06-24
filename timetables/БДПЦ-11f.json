@@ -1,0 +1,238 @@
+[
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Хміль Р.Є., 201 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування залізобетонних та мурованих конструкцій",
+        "lecturer": "Хміль Р.Є., 201 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектування залізобетонних та мурованих конструкцій",
+        "lecturer": "Титаренко Р.Ю., 201 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83761881659?pwd=bElCS1lncFptYlBaL3dxZDBxaExOQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології в будівництві",
+        "lecturer": "Бобало Т.В., 201 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Вегера П.І., 218 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82760936310?pwd=UnBSdVd0SzJhUkNGeitDMUxIaW9GZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Вегера П.І., 218 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88398297075?pwd=ZWN6ODFTQmh0Yjd4VHFZck9DMWVkUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Русин Б.Г., 319 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Верба В.Б., 109 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Верба В.Б., 109 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Гуняк О.М., 309 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87909159251?pwd=c1Q3NGpiOVRwOWFjVExWNk55enRmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Гуняк О.М., 309 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87909159251?pwd=c1Q3NGpiOVRwOWFjVExWNk55enRmdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "Гайда О.М., 413 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahqu7ycbQRhqIwa0sxJxLcwiyQHwcn2qnfwLmQaFUgUY1%40thread.tacv2/1677664612243?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bbaa8b4-957a-46a2-80d0-28c5bf118e73%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "Гайда О.М., 413 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології в будівництві",
+        "lecturer": "Бобало Т.В., 109 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Саницький М.А., 403 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73640700056?pwd=27B9HHt2nC1vhbapJg14KlhgvFjWFU.1#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "Хміль Р.Є., 109 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

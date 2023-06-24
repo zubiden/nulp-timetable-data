@@ -1,0 +1,226 @@
+[
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Квасниця Р.Б., кп",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Квасниця Р.Б., кп",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи мультимедійного дизайну",
+        "lecturer": "Штець В.О., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Квасниця Р.Б., кп",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз у дизайні візуальних комунікацій",
+        "lecturer": "Павлів А.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOg94nCKtiIvzh1DmlIH7EVpI5eWzJ6DDKOAvWaV3iV01%40thread.tacv2/conversations?groupId=4741d3eb-71bb-4d8d-993d-8f5ffe1a15ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Мельник О.Я., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3AgxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Мельник О.Я., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3AgxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи мультимедійного дизайну",
+        "lecturer": "Штець В.О., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз у дизайні візуальних комунікацій",
+        "lecturer": "Мельник О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axKuVil_B0cbzPZhf_D8WsiuRV57mmxIkm32TqSvv3fw1%40thread.tacv2/conversations?groupId=3ebc0613-dd94-40f9-885e-dabe7ab89912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Кузьмич В.І., Лінда С.М., Мільчевич С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYZ3OE3naf_kd-AKKkiPkSAoMoiB3RdQI2v-QRUuoGJk1%40thread.tacv2/1677425751471?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Кузьмич В.І., Лінда С.М., Мільчевич С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYZ3OE3naf_kd-AKKkiPkSAoMoiB3RdQI2v-QRUuoGJk1%40thread.tacv2/1677425751471?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Кузьмич В.І., Лінда С.М., Мільчевич С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYZ3OE3naf_kd-AKKkiPkSAoMoiB3RdQI2v-QRUuoGJk1%40thread.tacv2/1677425751471?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Кузьмич В.І., Челомбітько О.І., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aERas8RsnuNM-9AF5WKI9QP6ZIPbMalcXBpxxDPLkfRY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=30f246bf-b925-47fc-a02e-a748d352cde0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3aERas8RsnuNM-9AF5WKI9QP6ZIPbMalcXBpxxDPLkfRY1%40thread.tacv2/1677426301626?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Кузьмич В.І., Челомбітько О.І., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aERas8RsnuNM-9AF5WKI9QP6ZIPbMalcXBpxxDPLkfRY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=30f246bf-b925-47fc-a02e-a748d352cde0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3adKsdlu1M60LAdzmqi8Xnk2OIQClUbUOFO-aZBStF4dw1%40thread.tacv2/1677425420220?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Кузьмич В.І., Челомбітько О.І., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aERas8RsnuNM-9AF5WKI9QP6ZIPbMalcXBpxxDPLkfRY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=30f246bf-b925-47fc-a02e-a748d352cde0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3adKsdlu1M60LAdzmqi8Xnk2OIQClUbUOFO-aZBStF4dw1%40thread.tacv2/1677425420220?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

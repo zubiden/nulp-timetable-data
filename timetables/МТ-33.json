@@ -1,0 +1,372 @@
+[
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "Ключковський С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aab39ea5c4559406dadb7938db3a12aa8%40thread.tacv2/1677492661143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bcf0a0e7-0727-4685-bccc-1b6c856d33c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли мехатроніки",
+        "lecturer": "Тихан М.О., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли мехатроніки",
+        "lecturer": "Тихан М.О., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи точності мехатронних засобів",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676216639558?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія мехатронних засобів",
+        "lecturer": "Дейнека Р.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676217014692?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія мехатронних засобів",
+        "lecturer": "Дейнека Р.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли мехатроніки",
+        "lecturer": "Тихан М.О., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "Ключковський С.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли мехатроніки",
+        "lecturer": "Тихан М.О., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "Ключковський С.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "Бойко Т.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи точності мехатронних засобів",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи точності мехатронних засобів",
+        "lecturer": "Бойко Т.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9236161623?pwd=d2tubU4zb1BhY25ndHFKUHJtcjZnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218113622?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676217994680?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218426112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія мехатронних засобів",
+        "lecturer": "Дейнека Р.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "Гірняк Ю.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218538301?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологія мехатронних засобів",
+        "lecturer": "Дейнека Р.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

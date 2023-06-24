@@ -1,0 +1,159 @@
+[
+    {
+        "subject": "GNSS -метеорологія",
+        "lecturer": "Заблоцький Ф.Д., 613 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/nir-buwy-jco"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Геотектоніка",
+        "lecturer": "Доскіч С.В., 346 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "GNSS -метеорологія",
+        "lecturer": "Заблоцький Ф.Д., 613 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/nir-buwy-jco"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Геотектоніка",
+        "lecturer": "Доскіч С.В., 346 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Космічний моніторинг Землі",
+        "lecturer": "Джуман Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dec-bwcu-cec"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "GNSS -метеорологія",
+        "lecturer": "Заблоцький Ф.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/nir-buwy-jco"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи і ДЗЗ",
+        "lecturer": "Бурштинська Х.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Геотектоніка",
+        "lecturer": "Савчук С.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ygo-zvtc-dsb"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи і ДЗЗ",
+        "lecturer": "Бурштинська Х.В., Кузик З.О., 619а II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Космічний моніторинг Землі",
+        "lecturer": "Джуман Б.Б., 346 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Космічний моніторинг Землі",
+        "lecturer": "Джуман Б.Б., 346 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

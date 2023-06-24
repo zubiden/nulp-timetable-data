@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Карий О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74923958943?pwd=tb3GMFEOR3BpOJMicaXzTbi8EH2grj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "Войцеховська Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82864911415?pwd=Rk04STh0Uk5LZFhlTlB1c2ZxNlFKQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "Прокопишин-Рашкевич Л.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5929510908?pwd=bFNBdkd5LzhFQjVIT3k1eEtPSGVHZz09%20(Meeting%20ID:592%20951%200908;%20Passcode:3fsd8k)"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Прокопишин-Рашкевич Л.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20(Meeting%20ID:605%20861%203984;%20Passcode:%207777)"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81606944976?pwd=NzBxemF5aWdpUmNOUmRmSXhWT1Q0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "Чухрай Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83651734183?pwd=a0pYTGxNSERQUU9wTjkxM0ZIRTErUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "Кулиняк І.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78245998603?pwd=4LHoR67oRGo3Orj9JXt0CcwUmH8lpX.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82298176283?pwd=TFhKMUw1QTRyTmkxbmt5bGdReFdZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "Кулініч Т.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78960953370?pwd=GbkEtjGkqL3ZwGjSIJzbwvMFCmDTar.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

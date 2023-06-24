@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2e531f34255245bcaea0306550705043%40thread.tacv2/conversations?groupId=65817600-7ff2-4cc4-91f5-45f33c3b1af1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "Литвин І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79463160733?pwd=QYZ9hTaCxReoatXbxGHrB2V7HksHo9.1%20%20Meeting%20ID:%20794%206316%200733%20Passcode:%20EsPp3G"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Сай Л.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77860735180"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Сай Л.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77860735180"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "Ясінська Т.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a84B4Z0AkgAWzVRqPoSJ6BWAmjTCpSi3_toPA-ZchW681%40thread.tacv2/conversations?groupId=1ae536a9-0500-429d-881b-d48a51d3e533&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "Ясінська Т.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a84B4Z0AkgAWzVRqPoSJ6BWAmjTCpSi3_toPA-ZchW681%40thread.tacv2/conversations?groupId=1ae536a9-0500-429d-881b-d48a51d3e533&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "Ванькович Л.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "Ванькович Л.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "lecturer": "Кара Н.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "lecturer": "Кара Н.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "lecturer": "Кара Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Сай Л.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72498739755"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "Цимбалюк І.Р., 103 XI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Лавренчук М.В., 17 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72787749895?pwd=8ibdFx1pTpDVt8wxnMf2NdUxjeypXc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., 311 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_eJHKpKcxbILu6nmzV_U5U23en72CAilZV-3WapW9rE1%40thread.tacv2/1676388472583?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "Цимбалюк І.Р., 103 XI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., 214 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ezb-yitk-vut?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології та протоколи радіотехнічних і телекомунікаційних систем",
+        "lecturer": "Горбатий І.В., 103 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., 214 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/act-bjfh-dyc?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології та протоколи радіотехнічних і телекомунікаційних систем",
+        "lecturer": "Горбатий І.В., 103 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "Бенч А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoDNYKxm5geMxgESkOydX_VPvRUWjMjxAfM8lH36z5AA1%40thread.tacv2/1677594321460?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технології та протоколи радіотехнічних і телекомунікаційних систем",
+        "lecturer": "Горбатий І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/key-czoi-bev"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/yei-iozr-rgk?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0PKyxxaoX_EybHl-thccsGHdBj1ksPFNFf5maUuSmL41%40thread.tacv2/1677094292209?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

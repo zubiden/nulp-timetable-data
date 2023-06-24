@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677152537091?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677152626858?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Металеві мости",
+        "lecturer": "Мельник І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJjMzk1YTAtNTAxNS00ZmU5LWE3ODQtNDcxYjdhNGY3ODY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Гідрологія та гідрометрія",
+        "lecturer": "Гнатів Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Металеві мости",
+        "lecturer": "Мельник І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU4YzBiODYtZDdiYi00ZjU5LWEzNzYtNWVkNzU5NWQyNzll%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Металеві мости",
+        "lecturer": "Мельник І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTljYTIzYjctMzVhZS00ZDJhLTk4MzktYWVmNjFjYjc4ZDUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Гідрологія та гідрометрія",
+        "lecturer": "Гнатів Р.М., Завойко Б.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Харченко Є.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRhNmYxMWEtYzQ2MS00OTJiLWIxYTYtYmFmYjNhYjdhZjI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Бутринський І.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677153063200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677153063200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153206066?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

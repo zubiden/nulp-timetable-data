@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

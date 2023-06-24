@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Обліково-аналітичне забезпечення економічної безпеки на підприємстві",
+        "lecturer": "Сокіл О.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-аналітичне забезпечення економічної безпеки",
+        "lecturer": "Мартинюк В.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/csm-czep-fjm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комплексне забезпечення фінансово-економічної безпеки",
+        "lecturer": "Карковська В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74719203907?pwd=UGlDjZXOxOjQh6LZrxBmCq3S6hjha9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Страховий менеджмент",
+        "lecturer": "Білик О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72806103361?pwd=QYBeiLjbFdANtiVf9vxHdT9EpR9zVc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Страховий менеджмент",
+        "lecturer": "Білик О.І., 3 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74064519837?pwd=ZOpzhVMqwk5nvXmjDqlfnyV5U2dAdp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Страховий менеджмент",
+        "lecturer": "Брич Л.В., 13 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комплексне забезпечення фінансово-економічної безпеки",
+        "lecturer": "Гурей І.І., 13 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9552603840?pwd=RXh0R1k2amdLbUtOV3RIbmZRKzhRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комплексне забезпечення фінансово-економічної безпеки",
+        "lecturer": "Дзюрах Ю.М., 3 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74610181275?pwd=VpejZWcx8NsvOCd68m2W7spYAiOyCW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-аналітичне забезпечення економічної безпеки",
+        "lecturer": "Мартинюк В.П., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/bbc-ekxf-fhj"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Обліково-аналітичне забезпечення економічної безпеки на підприємстві",
+        "lecturer": "Сокіл О.Г., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

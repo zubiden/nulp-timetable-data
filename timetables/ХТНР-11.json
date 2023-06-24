@@ -1,0 +1,155 @@
+[
+    {
+        "subject": "Хіміко-технологічні процеси у підготовці природних вод",
+        "lecturer": "Курилець О.Г., Мних Р.В., 317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "Блажівський К.І., 205 IX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хіміко-технологічні процеси у підготовці природних вод",
+        "lecturer": "Курилець О.Г., Мних Р.В., 317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології неорганічних речовин (частина 2)",
+        "lecturer": "Зозуля Г.І., + ХТМ207 IX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології неорганічних речовин (частина 2)",
+        "lecturer": "Зозуля Г.І., + ХТМ207 IX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хіміко-технологічні процеси у підготовці природних вод",
+        "lecturer": "Мних Р.В., 207 IX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології неорганічних речовин (частина 2)",
+        "lecturer": "Зозуля Г.І., 1 раз в місяцць317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології неорганічних речовин (частина 2)",
+        "lecturer": "Зозуля Г.І., 1 раз в місяць317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "Блажівський К.І., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIMo2Zo9gRpKyPY9Sa9QQUIreZ-XYDL_mDIflm4enqio1%40thread.tacv2/1678036053259?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d157b3bf-c706-4fc1-b813-2fc832254c84%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технології неорганічних речовин (частина 1)",
+        "lecturer": "Курилець О.Г., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdMJslJqs3lEsUlwgaV3GQKR857DOlX5waHRSl7kGSk1%40thread.tacv2/1682339871763?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Хіміко-технологічні процеси у підготовці природних вод",
+        "lecturer": "Курилець О.Г., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIdMJslJqs3lEsUlwgaV3GQKR857DOlX5waHRSl7kGSk1%40thread.tacv2/1677069604931?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Низькотемпературні технології в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Низькотемпературні технології в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Алгоритмізація розв`язування інженерних задач",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWIzNTA0ZjMtNmI5Ny00Y2JjLTg4MDItZGQzODRlMjhjMjE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Алгоритмізація розв`язування інженерних задач",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmJlMjhkZmYtMWI3YS00ZjFjLTk0OTgtMDZmYzRiY2VmOTFi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Алгоритмізація розв`язування інженерних задач",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM4NzUxYjAtZGUwMS00YTcxLTgyNTktYTQ0MzY3NWE1NzM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Алгоритмізація розв`язування інженерних задач",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjUzNjYxODItZTdmZS00NDc5LTgwNDUtY2QxNWU1YjE5MWU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "Кузін М.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "Кузін М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

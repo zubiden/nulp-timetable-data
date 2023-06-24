@@ -1,0 +1,200 @@
+[
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Ткачук В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ackzZjTT3nqi0jK9lkJSfvi_ymk7rUwpbc84IGAkbEAs1%40thread.tacv2/1676457119617?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Ткачук В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ackzZjTT3nqi0jK9lkJSfvi_ymk7rUwpbc84IGAkbEAs1%40thread.tacv2/1676457119617?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Біляковський І.Є., 116 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Біляковський І.Є., 116с Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Біляковський І.Є., 116 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "Біляковський І.Є., 116 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Контролери електромехатроних систем та основи їх програмування",
+        "lecturer": "Копчак Б.Л., 141 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Контролери електромехатроних систем та основи їх програмування",
+        "lecturer": "Копчак Б.Л., 141 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації та керування електромехатронних систем",
+        "lecturer": "Хай М.В., 119а Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1AX83l4s38Sl5HB1YJrqT7KpY0IeEer8ZJwvdoSmCpE1%40thread.tacv2/conversations?groupId=adcec660-1d98-43ca-a7f4-c03120d53580&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технічні засоби автоматизації та керування електромехатронних систем",
+        "lecturer": "Хай М.В., 119а Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1AX83l4s38Sl5HB1YJrqT7KpY0IeEer8ZJwvdoSmCpE1%40thread.tacv2/conversations?groupId=adcec660-1d98-43ca-a7f4-c03120d53580&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Електромеханічні перетворювачі мехатронних систем",
+        "lecturer": "Харчишин Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRZRa3mmEoOCoLBmQuc__vBjOOvxVF3ZTmXgKZmKiG3A1%40thread.tacv2/1676375813487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22097c901e-cea6-4703-bc30-49980d263fa2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Контролери електромехатроних систем та основи їх програмування",
+        "lecturer": "Копчак Б.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9735cb19773545ba949db496cc569d98%40thread.tacv2/conversations?groupId=3cae6195-812c-4d56-8c71-d280b2221741&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби автоматизації та керування електромехатронних систем",
+        "lecturer": "Хай М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1AX83l4s38Sl5HB1YJrqT7KpY0IeEer8ZJwvdoSmCpE1%40thread.tacv2/conversations?groupId=adcec660-1d98-43ca-a7f4-c03120d53580&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Електромеханічні перетворювачі мехатронних систем",
+        "lecturer": "Харчишин Б.М., 307 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRZRa3mmEoOCoLBmQuc__vBjOOvxVF3ZTmXgKZmKiG3A1%40thread.tacv2/1676375949805?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22097c901e-cea6-4703-bc30-49980d263fa2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

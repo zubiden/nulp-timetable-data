@@ -1,0 +1,270 @@
+[
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "Пуйда В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/84666210782?pwd=UVp4OFAwN0U2ckltMEQrSStzeStVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "Пуйда В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/84666210782?pwd=UVp4OFAwN0U2ckltMEQrSStzeStVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "Лашко О.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "Парамуд Я.С., 504 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73412128228?pwd=QStzR2JwUysrc2Z4WjFFR3VPWGZMQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "Лашко О.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "Лашко О.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "Парамуд Я.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73412128228?pwd=QStzR2JwUysrc2Z4WjFFR3VPWGZMQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "Лашко О.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "Лашко О.Л., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

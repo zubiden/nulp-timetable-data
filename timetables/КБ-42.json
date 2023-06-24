@@ -1,0 +1,240 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYyODBjNWYtYWE0Yi00YTMyLTkyOTYtOTg4OWU5YjkwOThj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI2M2E3YmMtZmY2NC00Y2ZiLWJiMzQtYWU3NDIzYmIzMjk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjNkN2FiNzQtNTAzMi00OTdhLWFiNzEtNjQwZTdkNjhiMWQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBhNjMzNTAtZjIxMy00NzEzLTg0YjctNjk3ZTEzNjA0MDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "Совин Я.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jdj-jhxm-uid"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ivv-azdf-dye"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ivv-azdf-dye"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/bep-syku-ouc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/why-owst-nmb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/why-owst-nmb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/bzn-idzv-aka"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Системи керування проектами",
+        "lecturer": "Селюченко М.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/bzn-idzv-aka"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

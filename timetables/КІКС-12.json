@@ -1,0 +1,189 @@
+[
+    {
+        "subject": "Проектування реконфігурованих комп`ютерних систем",
+        "lecturer": "Бачинський Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93535056282?pwd=K2xyaU1EbTVlV0IwRldhUlBKd09Idz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Організація обчислювальних процесів у паралельних системах",
+        "lecturer": "Бочкарьов О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77017048594?pwd=MGUogg2DbYoQXUupVz5ObGoheVrjVt.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Бочкарьов О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72056636666?pwd=Wme5JWsTzWlPasBmQRCca5bSTPYFFf.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/scq-ervk-tnj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/stk-risr-vyz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Бочкарьов О.Ю., 905 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79696080182?pwd=H7a1cTT3RcJ25pxeXnZfmnUpT1c0HL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Бочкарьов О.Ю., 905 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79696080182?pwd=H7a1cTT3RcJ25pxeXnZfmnUpT1c0HL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація обчислювальних процесів у паралельних системах",
+        "lecturer": "Бочкарьов О.Ю., 905 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76183005909?pwd=qbLzgRMtDQboBWFlNq9A1MEGrCYqle.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація обчислювальних процесів у паралельних системах",
+        "lecturer": "Бочкарьов О.Ю., 905 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76183005909?pwd=qbLzgRMtDQboBWFlNq9A1MEGrCYqle.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Пуйда Д.В., 905 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Пуйда Д.В., 905 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Проектування реконфігурованих комп`ютерних систем",
+        "lecturer": "Цигилик Л.О., 510 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування реконфігурованих комп`ютерних систем",
+        "lecturer": "Цигилик Л.О., 510 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

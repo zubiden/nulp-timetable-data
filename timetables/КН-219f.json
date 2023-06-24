@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "Буров Є.В., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87972887118?pwd=UFN4a0wzTXQzNi9Tb1JLVkdTVW0xZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "Буров Є.В., 207 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82304986231?pwd=K3JQTVBlM0RXNUZSN2VBbzk2bEpJdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Буров Є.В., 208 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89275455493?pwd=WU9FblRjWkhQbldiR2RJUUdPcUViUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Буров Є.В., 208 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86798226986?pwd=bDFLZFhzTFc1VDR1M0pWOENFU2MzUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Буров Є.В., 208 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86798226986?pwd=bDFLZFhzTFc1VDR1M0pWOENFU2MzUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичні методи дослідження операцій",
+        "lecturer": "Войтишин В.В., 802б V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTU1ZDc0MjMtNzIxYy00M2NhLWIyMTgtMTcwY2Y5MzUxM2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc94c96b-79f7-414a-9e6b-ef36b4008105%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичні методи дослідження операцій",
+        "lecturer": "Войтишин В.В., 802б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTU1ZDc0MjMtNzIxYy00M2NhLWIyMTgtMTcwY2Y5MzUxM2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc94c96b-79f7-414a-9e6b-ef36b4008105%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Шестакевич Т.В., 123 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=9549"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "Шестакевич Т.В., 123 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=9549"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Українська мова як іноземна, частина 4",
+        "lecturer": "Моторний А.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова як іноземна, частина 4",
+        "lecturer": "Моторний А.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Кривий Р.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/zwf-mhzv-eqr"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Кривий Р.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/zwf-mhzv-eqr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Веб-технології та веб-дизайн",
+        "lecturer": "Кривий Р.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/zwf-mhzv-eqr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

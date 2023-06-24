@@ -1,0 +1,405 @@
+[
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "Заболотна Н.Я., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79866860278?pwd=zk4FameYqSiwej9XlVs03lgLr6GjIJ.1%20%20Meeting%20ID:%20798%206686%200278%20Passcode:%20X8NY5k"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Романова А.С., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ocn-ukdn-pyy?authuser=5&pli=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Романова А.С., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/drf-qwac-aob?authuser=5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "Романова А.С., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "Пивовар М.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/guq-iunu-xtq?authuser=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Кримінально-виконавче право",
+        "lecturer": "Шай Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "Зільник Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "Василів С.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "Ортинська Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87558645592?pwd=L1ZIeGMrU3lhVk5aRE5oMFhSQ3FjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Васійчук В.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak3sW-79CJFFTnrN0KzT3S4BjBKlLqeR2zeqmSE0pZsc1%40thread.tacv2/conversations?groupId=3d44261c-f3ca-4170-8737-17cad3360f1a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71254158694?pwd=86bnn1ZxTTCa769MaQs2ocB8p3zbmN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79189385539?pwd=TyqWkQtzDWmGyh2Z6zek9dqwMxOgHa.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "Хомишин І.Ю., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77283746432?pwd=UWHShW8PHfOXJWbhblEbUPzBLQeR0r.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Кримінально-виконавче право",
+        "lecturer": "Гумін О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78010781557?pwd=4gta56yL3c2yqH5WFJDgaZJRxXNn3J.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "Цилюрик І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74093528479?pwd=SE4FlbqDI4rdu5SFKBZuTz65xuFa3d.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "Бльок Н.В., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73810695754?pwd=BziN3iYc1xQHgGNeqm2lEte5E1w01x.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "Гузела М.В., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "Гузела М.В., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "Гузела М.В., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "Бльок Н.В., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77032759943?pwd=8XqvuJYlzVwg063sB1aGeLOnxPpU0f.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "Цилюрик І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72840698514?pwd=beqTm6UaypaSAq28a1LRXnKSpfFwuo.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "Бльок Н.В., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77002625273?pwd=fWqqSuUKB0u5HLNraa7n185WHaQD1U.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "Цилюрик І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74380976620?pwd=jQbRaqmvEN2rkX88Pzana4YwIdBuFi.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "Заболотна Н.Я., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79788993204?pwd=GpYUb6K1ytxw5fZz86Ukq6dVR9um0S.1%20%20Meeting%20ID:%20797%208899%203204%20Passcode:%200sttYE"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "Заболотна Н.Я., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79511880195?pwd=AvxdUiIczqvTytaDDntLeIiMvqzYpm.1%20%20Meeting%20ID:%20795%201188%200195%20Passcode:%20jK65u0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Шепіда М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac5x4X6Cv6JiixXPErCLNSjJ73zSDnhqshmAf05x3LhA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0211783c-658e-4aee-9b1b-5cce73bab646&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Шепіда М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKZDf_OGlXmMpQeCxTfrO1PEn8HikDmPHOSBOlIeD8C81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=45e274bc-7b7a-4e95-9051-85e134aa9ed6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

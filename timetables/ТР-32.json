@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSebpBZFoVaEyOg5mw6xaT1kOeJAa1LEjM4vQPJHPKA81%40thread.tacv2/conversations?groupId=47689a65-1785-47e1-b02b-de0cac2666a8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Пиріг Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/kjk-gjat-sdb"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Бази даних в інфокомунікаційних системах",
+        "lecturer": "Гліненко Л.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001289587?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання інфокомунікаційних систем",
+        "lecturer": "Гліненко Л.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001397820?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання інфокомунікаційних систем",
+        "lecturer": "Гліненко Л.К., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001480752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1677452393712?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Климаш М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dvm-npwy-vvi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Протасевич В.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ioo-pjyo-ava"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Фаст В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dqn-qvup-ptm?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aST6As6x26yUDub_Z8kAP04Ta-Db8yOeuFvHrozr_3rI1%40thread.tacv2/1677451694728?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Матієшин Ю.М., Протасевич В.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/xwg-qmpw-hrg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Бази даних в інфокомунікаційних системах",
+        "lecturer": "Гліненко Л.К., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001698353?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aST6As6x26yUDub_Z8kAP04Ta-Db8yOeuFvHrozr_3rI1%40thread.tacv2/1677451436505?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних в інфокомунікаційних системах",
+        "lecturer": "Гліненко Л.К., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001778731?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aST6As6x26yUDub_Z8kAP04Ta-Db8yOeuFvHrozr_3rI1%40thread.tacv2/1677451566536?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання інфокомунікаційних систем",
+        "lecturer": "Гліненко Л.К., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0_qOe0BrA7fvj0FMUnlrG2b7XiePkdLDXU4MZo2yPU1%40thread.tacv2/1677001935548?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

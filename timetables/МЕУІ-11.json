@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "Харчук В.Ю., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahDIuMjMAt0AR-nh4ifM3oEOSZrEDZwdpgNLRjs5-f441%40thread.tacv2/General?groupId=2fe92d37-2e5e-473e-8b5a-58934c04421b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "Харчук В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajdw9Agtonr2-0qqGPFTaAiLOdk3UOoe0pGEKjpplaKM1%40thread.tacv2/General?groupId=f4bf1e64-d069-4467-82a1-6b9ab9aba279&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Системне управління інноваційною діяльністю",
+        "lecturer": "Шуляр Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3acb94793b1d2442c89a9be4b1ceccc2cb%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4689cdc7-cd4a-4808-8b7c-c91a051fb1b4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-управлінські системи в бізнес-структурах",
+        "lecturer": "Одрехівський М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aDWpvmBseFefcCM0CJX4tCNxx_ziVX2sBT4-H2fMbago1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b9ae6db5-69a2-49ec-86ee-0fd606c26c12&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "lecturer": "Литвин І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75390756824?pwd=EuQjsLhIFD5bq7DqNHXGe2L8krWsta.1%20%20Meeting%20ID:%20753%209075%206824%20Passcode:%20Pp4b3j"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-управлінські системи в бізнес-структурах",
+        "lecturer": "Чапран С.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0nBaJaNovkIadShAioWjnMacyNN1IPSRUiZwVGfY_ak1%40thread.tacv2/conversations?groupId=87a685b6-e186-4e01-90f8-53585c4d264a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-управлінські системи в бізнес-структурах",
+        "lecturer": "Чапран С.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0nBaJaNovkIadShAioWjnMacyNN1IPSRUiZwVGfY_ak1%40thread.tacv2/conversations?groupId=87a685b6-e186-4e01-90f8-53585c4d264a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "Харчук В.Ю., Чапран С.П., анг. мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahDIuMjMAt0AR-nh4ifM3oEOSZrEDZwdpgNLRjs5-f441%40thread.tacv2/General?groupId=2fe92d37-2e5e-473e-8b5a-58934c04421b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "Брич М.Т., Оконченко О.М., 105б Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "Олешко О.П., Топилко С.І., 105а Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Знак А.В., Федиків І.П., 337 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Мер'є О.В., 337 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100595069?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Знак А.В., Федиків І.П., 337 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Мер'є О.В., 337 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100726982?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Морська Н.О., 24 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/LRBaZyywZjHp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 2",
+        "lecturer": "Крамарчук Х.П., 105а Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 2",
+        "lecturer": "Крамарчук Х.П., 105а Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Знак А.В., Федиків І.П., 337 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "Мер'є О.В., 337 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100726982?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "Кульчицька Х.Б., Федак А.Я., 216 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aw_6SGfgmWfCUs5c1kSCOzgyhRM-LAFi_8Iajabei7gU1%40thread.tacv2/conversations?groupId=23ba5860-b363-4c13-9f96-f98681e1362d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Композиція та формотворення у дизайні, частина 2",
+        "lecturer": "Лисенко О.Ю., Сеньків З.Я., 105б Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Композиція та формотворення у дизайні, частина 2",
+        "lecturer": "Лисенко О.Ю., Сеньків З.Я., 105б Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Пономарьов С.В., 21кор.вул.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 2",
+        "lecturer": "Білінська О.Б., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 2",
+        "lecturer": "Білінська О.Б., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "Курдина Ю.М., 216 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "Муравська С.В., 225 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Морська Н.О., 14 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/LRBaZyywZjHp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

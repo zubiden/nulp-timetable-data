@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Управління товарним асортиментом",
+        "lecturer": "Прокопишин-Рашкевич Л.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління товарним асортиментом",
+        "lecturer": "Стернюк О.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agrqBwRbNsz3ahChHe4gr39zitblzPkk9Y8vCqMcDpnw1%40thread.tacv2/1677352786615?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління товарним асортиментом",
+        "lecturer": "Стернюк О.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agrqBwRbNsz3ahChHe4gr39zitblzPkk9Y8vCqMcDpnw1%40thread.tacv2/1677352786615?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

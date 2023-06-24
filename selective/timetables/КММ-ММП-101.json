@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aZKJx9TSMW5TJXXa1-7DxK_vj6pzhx2RXj3f_chnVU0k1%40thread.tacv2/conversations?groupId=3bb978a0-7dc3-4d02-90d2-618acf307d55&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "Гнилянська Л.Й., МЕБА-11425 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

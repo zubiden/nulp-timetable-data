@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75861912454?pwd=KjH8P5KwsjbtmPLszt4w54YFL9MFPv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Наукові дослідження в моделюванні прикладних задач геодезії",
+        "lecturer": "Заяць І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ak8mPKUrBkMtROFjs2WZdbz2yvSIrPUtIP_eUJcZUsys1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=20c2c809-bc51-4146-b1b1-fff1b6ec32f9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні інженерно-геодезичні технології",
+        "lecturer": "Кордуба Ю.Г., Віват А.Й., 302 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/lookup/hhm5k23qzd"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні інженерно-геодезичні технології",
+        "lecturer": "Кордуба Ю.Г., Віват А.Й., 302 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/lookup/hhm5k23qzd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні інженерно-геодезичні технології",
+        "lecturer": "Віват А.Й., 302 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/lookup/hhm5k23qzd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в моделюванні прикладних задач геодезії",
+        "lecturer": "Заяць І.В., Заяць О.С., 302 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ak8mPKUrBkMtROFjs2WZdbz2yvSIrPUtIP_eUJcZUsys1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=20c2c809-bc51-4146-b1b1-fff1b6ec32f9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Согор А.Р., Прохоренко М.В., 609 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., 137 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74969247788?pwd=8x7TeHk14DvN1rPJyCEp1wr9MBYcuQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

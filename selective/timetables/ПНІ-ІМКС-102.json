@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Проблемні питання новітньої історії та культури України",
+        "lecturer": "Лехнюк Р.О., 209 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3871631655?pwd=MW16TUdBTWlnNFR3dU5KT0FRQ250UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проблемні питання новітньої історії та культури України",
+        "lecturer": "Лехнюк Р.О., ДКІБ-12(2 студ)204 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

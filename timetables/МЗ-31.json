@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aF2ucZ63NuIxXFya6uhWi_p5pO5ERJ8Q-_2Q1atsD6sI1%40thread.tacv2/1677480492575?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22649f937c-6af7-43b4-ae44-6154c3b8947a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aF2ucZ63NuIxXFya6uhWi_p5pO5ERJ8Q-_2Q1atsD6sI1%40thread.tacv2/1677480537802?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22649f937c-6af7-43b4-ae44-6154c3b8947a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aF2ucZ63NuIxXFya6uhWi_p5pO5ERJ8Q-_2Q1atsD6sI1%40thread.tacv2/1677480622468?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22649f937c-6af7-43b4-ae44-6154c3b8947a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Поверхнева обробка та відновлення виробів",
+        "lecturer": "Богун Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a99aad_UDuF0vPHExneKkyYgWLQY-4w8gn8qNOLGM-wY1%40thread.tacv2/conversations?groupId=b633ea9a-dd51-4b22-b803-c209af6a1712&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Поверхнева обробка та відновлення виробів",
+        "lecturer": "Богун Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a99aad_UDuF0vPHExneKkyYgWLQY-4w8gn8qNOLGM-wY1%40thread.tacv2/conversations?groupId=b633ea9a-dd51-4b22-b803-c209af6a1712&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "Лютий П.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTZhZjMyMTYtYzVlNC00YmIxLTg0ZTItNzI4Yzg1ZmY3NDk0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "Лютий П.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDk0MTBkYTEtY2Q1ZC00NTM1LTllNDEtNmFkYjYyNDFhMjVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ливарне виробництво",
+        "lecturer": "Кулик В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1%40thread.tacv2/1676134015974?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Ливарне виробництво",
+        "lecturer": "Кулик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1%40thread.tacv2/1676134106767?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "Лютий П.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE4M2ViMGUtMzFlMC00NTYzLTg2NzItZGEwMjM2N2M3ZTNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "Лютий П.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE0MzVlNDctMGZjZC00NzY5LWJhZTMtMDZmOGRiZjFkMjQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Поверхнева обробка та відновлення виробів",
+        "lecturer": "Богун Л.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a99aad_UDuF0vPHExneKkyYgWLQY-4w8gn8qNOLGM-wY1%40thread.tacv2/conversations?groupId=b633ea9a-dd51-4b22-b803-c209af6a1712&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Діагностика та дефектоскопія виробів",
+        "lecturer": "Кречковська Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77476644752?pwd=w7MoenuBXsAY2JliOzhbC42OjHvyLF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Діагностика та дефектоскопія виробів",
+        "lecturer": "Кречковська Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71211994473?pwd=VR5EAFFfAM3zb0Nq8ZkmdRJIlobwkY.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

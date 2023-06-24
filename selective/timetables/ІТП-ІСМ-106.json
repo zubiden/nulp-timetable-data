@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "ІT-право",
+        "lecturer": "Цебенко С.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84582990558?pwd=ZFErTjNreWhyY0RJODJNdm9ZVVNrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "ІT-право",
+        "lecturer": "Німак М.О., 127 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "ІT-право",
+        "lecturer": "Німак М.О., 127 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    }
+]

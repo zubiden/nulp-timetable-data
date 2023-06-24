@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "Івасечко О.Я., ІТ-11сп313 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "Турчин Я.Б., 319 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

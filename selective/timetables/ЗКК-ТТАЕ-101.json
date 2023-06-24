@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "Римар Т.І., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "Римар Т.І., 57 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

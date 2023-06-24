@@ -1,0 +1,300 @@
+[
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "Хлібишин Ю.Я., Мельник С.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09",
+            "https://us05web.zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія хлібопекарських дріжджів",
+        "lecturer": "Березовська Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Мікробіологія продуктів бродіння і  виноробства",
+        "lecturer": "Паляниця Л.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "Кічура Д.Б., 117 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "Кічура Д.Б., 117 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/meeting#/pmi/6848862999"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія хлібопекарських дріжджів",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія хлібопекарських дріжджів",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "Хлібишин Ю.Я., 323 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "Хлібишин Ю.Я., 323 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., 117 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., 117 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Мікробіологія продуктів бродіння і  виноробства",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікробіологія продуктів бродіння і  виноробства",
+        "lecturer": "Паляниця Л.Я., 322 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікробіологія продуктів бродіння і  виноробства",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікробіологія продуктів бродіння і  виноробства",
+        "lecturer": "Паляниця Л.Я., 322 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "Дзіняк Б.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8481447582?pwd=OU11TkdMWnFrTVVBVW9FS0pQTEd0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "Мельник С.Р., Хлібишин Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09",
+            "https://us05web.zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія хлібопекарських дріжджів",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Технологія хлібопекарських дріжджів",
+        "lecturer": "Березовська Н.І., 322 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20578%20949%201218%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%201256"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Технологія ферментних препаратів",
+        "lecturer": "Субтельний Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

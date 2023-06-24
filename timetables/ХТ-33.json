@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "Баран Н.М., Масюк А.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87414950416?pwd=cERwV3ptYzZxamVGK0IwNDFPL2srQT09",
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "Баран Н.М., Масюк А.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87414950416?pwd=cERwV3ptYzZxamVGK0IwNDFPL2srQT09",
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування хімічного обладнання, частина 2",
+        "lecturer": "Чижович Р.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZmOWFkYjAtNWE1OS00ZDMzLWEwNTgtZWRkYTJiZWY2NWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220be4ec5d-95e7-476a-bc52-d78709bdde88%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розрахунок і конструювання машин та апаратів хімічної технології, частина 1",
+        "lecturer": "Гаврилів Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/AYNJxAhmx6dJ"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування хімічного обладнання, частина 2",
+        "lecturer": "Іващук О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afVvhLuZJQOsvDJrhw2cte8A2pdDjwRsqdAh_CmYd6HM1%40thread.tacv2/1677489744286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "Гуменецький Т.В., Баран Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72276570601?pwd=AIV45Iquap4t1pal3G0YMAokG8obon.1",
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "Гуменецький Т.В., Баран Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79288466193?pwd=TRL2sUI7SbNZOaCNwaM65QrOAvbApP.1",
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інженерний аналіз та підготовка виробництва хімічного обладнання, частина 1",
+        "lecturer": "Чижович Р.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTE3N2FiNTUtMzY2ZC00OTg1LTg1YmItYzQ2YTAyZjUwNGYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220be4ec5d-95e7-476a-bc52-d78709bdde88%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розрахунок і конструювання машин та апаратів хімічної технології, частина 1",
+        "lecturer": "Гаврилів Р.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/AYNJxAhmx6dJ"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи виробництва і перероблення пластичних мас",
+        "lecturer": "Гриценко О.М., Братичак М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1",
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77535647807?pwd%3DgCPzffiKhxDhYNxlEb8E8S5GcE7glp.1&sa=D&source=calendar&usd=2&usg=AOvVaw2OguxxvZa073lPQJXbbRp8"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інженерний аналіз та підготовка виробництва хімічного обладнання, частина 1",
+        "lecturer": "Іващук О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afVvhLuZJQOsvDJrhw2cte8A2pdDjwRsqdAh_CmYd6HM1%40thread.tacv2/1677490086785?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи виробництва і перероблення пластичних мас",
+        "lecturer": "Гриценко О.М., Братичак М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1",
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/75577872182?pwd%3DxX0p3KG3TSeF7QJD2ipUxpmllZTv7K.1&sa=D&source=calendar&usd=2&usg=AOvVaw3YzIyFKTgJzCNl_hNwJYBv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "Масюк А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87143933005?pwd=blNBQ1A3U3ZVVU14Z2lzZ0dzblpEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

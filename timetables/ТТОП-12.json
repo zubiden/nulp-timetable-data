@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "Ковальчук В.В., 206 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Макромоделювання в середовищі PTV VISUM",
+        "lecturer": "Півторак Г.В., 207 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "Афонін М.О., 204 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Макромоделювання в середовищі PTV VISUM",
+        "lecturer": "Півторак Г.В., 207 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "Афонін М.О., 204 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Транспортне планування великих та значних міст",
+        "lecturer": "Плесак М.А., 204 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "Афонін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "Ковальчук В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Транспортне планування великих та значних міст",
+        "lecturer": "Артимович П.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Макромоделювання в середовищі PTV VISUM",
+        "lecturer": "Півторак Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3anSIUx8U2SIODKMJ-UPAPAJrMsuyCfLYsp058z1ZqlqI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=68d71c69-6000-4776-9a97-69d5c003d92c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

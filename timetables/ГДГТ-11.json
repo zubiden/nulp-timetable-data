@@ -1,0 +1,123 @@
+[
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75861912454?pwd=KjH8P5KwsjbtmPLszt4w54YFL9MFPv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "Бурштинська Х.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/conversations?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Согор А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Геоінформаційний аналіз",
+        "lecturer": "Колб І.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8e2e5ab53ec241228c2cecd2f9b3b671%40thread.tacv2/conversations?groupId=05f1d00a-33fc-4560-9c33-7f3031a99a63&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Геоінформаційний аналіз",
+        "lecturer": "Колб І.З., Кузик З.О., 619а II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8e2e5ab53ec241228c2cecd2f9b3b671%40thread.tacv2/conversations?groupId=05f1d00a-33fc-4560-9c33-7f3031a99a63&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інфраструктура геопросторових даних",
+        "lecturer": "Согор А.Р., Бридун А.М., 611 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1",
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "Витрикуш Н.М., 137 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77985127260?pwd=oFVRsaSvgTv5JFhaWLIqUt0uId1anS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "Бабій Л.В., Процик М.Т., 616б II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/conversations?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Організація і моніторинг дистрибуції на транспорті",
+        "lecturer": "Качмар Р.Я., 001а VI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Організація і моніторинг дистрибуції на транспорті",
+        "lecturer": "Кіндрацький Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "Різник В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/sxp-tgzz-oyk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ync-syah-hjc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "Різник В.В., 802а V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "lecturer": "Дорошенко А.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74488830821?pwd=bmz4kwjSTBil8qZTarmS89FNAZRueK.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "lecturer": "Дорошенко А.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74488830821?pwd=bmz4kwjSTBil8qZTarmS89FNAZRueK.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 908 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/qhh-osot-rck"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Ткаченко Р.О., 908 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/ntr-qtih-kxw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "lecturer": "Дорошенко А.В., 804а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76580078908?pwd=K4FFh5QGOqB4gblvk9kbT7akevBhw9.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "lecturer": "Дорошенко А.В., 804а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76580078908?pwd=K4FFh5QGOqB4gblvk9kbT7akevBhw9.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "Сікора Л.С., 311 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75579286563?pwd=jVmkOGfz8hN9KD9yP4uOROi49JOh2g.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "Сікора Л.С., 802а V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75579286563?pwd=jVmkOGfz8hN9KD9yP4uOROi49JOh2g.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

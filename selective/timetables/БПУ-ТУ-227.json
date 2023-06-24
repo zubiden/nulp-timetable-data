@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "Шишковський С.В., 116 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "Якимів А.І., ІЕСК+ІАРД403 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

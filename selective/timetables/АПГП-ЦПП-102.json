@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "Павлюк Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "Павлюк Н.М., 301 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "Павлюк Н.М., 301 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

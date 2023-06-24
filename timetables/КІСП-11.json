@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Бочкарьов О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72056636666?pwd=Wme5JWsTzWlPasBmQRCca5bSTPYFFf.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/scq-ervk-tnj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/stk-risr-vyz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології паралельного програмування",
+        "lecturer": "Муляревич О.В., 905 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології паралельного програмування",
+        "lecturer": "Муляревич О.В., 905 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Фастюк Є.І., 505а2 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTI4MWRhZTctNGUwMi00OTA4LWJjOTEtNjE3NzBjYmZhNDY5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522e2c21b3d-4af1-43bb-be85-9e6fc343004c%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=f4a3f35a-ef3f-4bc8-b38a-37e6f5eec125&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування віртуальних машин",
+        "lecturer": "Фастюк Є.І., 505а2 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTI4MWRhZTctNGUwMi00OTA4LWJjOTEtNjE3NzBjYmZhNDY5%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522e2c21b3d-4af1-43bb-be85-9e6fc343004c%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=f4a3f35a-ef3f-4bc8-b38a-37e6f5eec125&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології паралельного програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проектування операційних систем, утиліт і драйверів",
+        "lecturer": "Клименко В.А., 508 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86488883211?pwd=Ykl6dWxxdDBmVGp0QURwb082ZmcrZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Проектування операційних систем, утиліт і драйверів",
+        "lecturer": "Клименко В.А., 508 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86488883211?pwd=Ykl6dWxxdDBmVGp0QURwb082ZmcrZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., 905 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/qek-nbbw-nkm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Гаваньо Б.І., 905 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/wkn-fvmd-etk"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проектування операційних систем, утиліт і драйверів",
+        "lecturer": "Клименко В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86488883211?pwd=Ykl6dWxxdDBmVGp0QURwb082ZmcrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 1
+    }
+]

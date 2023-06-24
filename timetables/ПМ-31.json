@@ -1,0 +1,285 @@
+[
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "Бандирський Б.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abcbd400607514cd492a9af1a442cb02b%40thread.tacv2/1677071132706?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "Пізюр Я.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8d4ec3220c2b4a7a805ab83e63f63090%40thread.tacv2/conversations?groupId=d681d293-2fdb-4e9b-a4f3-e16027db611b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Крос-платформне програмування",
+        "lecturer": "Сеник А.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gxb-feon-vkz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Крос-платформне програмування",
+        "lecturer": "Сеник А.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gxb-feon-vkz"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Математичні основи штучного інтелекту",
+        "lecturer": "Алєксєєв В.І., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "Пізюр Я.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем",
+        "lecturer": "Уханська О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tde-kmyb-kwf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "Пізюр Я.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Крос-платформне програмування",
+        "lecturer": "Ментинський С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYHFGOpzMf7um7D7pkWAKOjjQeXO3VY8beKnoKGrd9kQ1%40thread.tacv2/1677506642492?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Нейронні мережі",
+        "lecturer": "Польовий В.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Нейронні мережі",
+        "lecturer": "Польовий В.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "Бундз Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72002937360?pwd=APaednM0uwPjJOedWJtw0IRozkHwh7.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Математичні основи штучного інтелекту",
+        "lecturer": "Пабирівський В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5613515488?pwd=BJaKk0UVCpGoDYQklj3a9omnjBPdqE.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Математичне моделювання систем",
+        "lecturer": "Уханська О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/san-bspn-eaw"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "Пізюр Я.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8a6460d99ee5431e93cc56d913f7ee65%40thread.tacv2/conversations?groupId=ab88819a-d090-4802-8057-c4f102d9cc23&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "Бундз Р.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71344743093?pwd=9lRk2uazb8P5k6WlSUwoFqMjwFkHkb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Нейронні мережі",
+        "lecturer": "Польовий В.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математичні основи штучного інтелекту",
+        "lecturer": "Сеник А.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gxb-feon-vkz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Нейронні мережі",
+        "lecturer": "Польовий В.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

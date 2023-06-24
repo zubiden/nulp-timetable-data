@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "Кіт Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20536%20097%205860%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%200SRUf5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "Кіт Ю.В., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20536%20097%205860%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%200SRUf5"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

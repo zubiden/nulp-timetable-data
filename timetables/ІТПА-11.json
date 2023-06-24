@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Керування інфраструктурою та конфігурацією інформаційних-комунікаційних систем",
+        "lecturer": "Бешлей М.І., 305 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/rev-npbh-gft"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Мережеві інформаційно - комунікаційні технології",
+        "lecturer": "Медвецький М.Б., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/dtt-gbjx-inn"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Керування інфраструктурою та конфігурацією інформаційних-комунікаційних систем",
+        "lecturer": "Бешлей М.І., 305 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/rev-npbh-gft"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Тестування та керування якістю програмного забезпечення інформаційно-комунікаційних мереж",
+        "lecturer": "Коваль Б.В., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJoIkZa77iHPoTJgNh8tfE-hEQqNl9XTeo930JY65mxQ1%40thread.tacv2/General?groupId=8f7e8319-5c2f-4f48-8b4a-f2d9c18edbb4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мережеві інформаційно - комунікаційні технології",
+        "lecturer": "Медвецький М.Б., 305 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/aqo-thwz-nbu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кунанець Н.Е., 108 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кунанець Н.Е., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектування та розгортання інформаційно-комунікаційних мереж",
+        "lecturer": "Красько О.В., 305 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pkj-ejgh-srz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/jgb-duds-vwg?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування та розгортання інформаційно-комунікаційних мереж",
+        "lecturer": "Красько О.В., 305 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pkj-ejgh-srz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jgb-duds-vwg?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Тестування та керування якістю програмного забезпечення інформаційно-комунікаційних мереж",
+        "lecturer": "Коваль Б.В., 305 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJoIkZa77iHPoTJgNh8tfE-hEQqNl9XTeo930JY65mxQ1%40thread.tacv2/General?groupId=8f7e8319-5c2f-4f48-8b4a-f2d9c18edbb4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кунанець Н.Е., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Тестування та керування якістю програмного забезпечення інформаційно-комунікаційних мереж",
+        "lecturer": "Коваль Б.В., 305 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJoIkZa77iHPoTJgNh8tfE-hEQqNl9XTeo930JY65mxQ1%40thread.tacv2/General?groupId=8f7e8319-5c2f-4f48-8b4a-f2d9c18edbb4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування та розгортання інформаційно-комунікаційних мереж",
+        "lecturer": "Красько О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/zik-movq-kai"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інтернет речей та 5G технології",
+        "lecturer": "Максимюк Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/cpe-ohmk-ytv?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Керування інфраструктурою та конфігурацією інформаційних-комунікаційних систем",
+        "lecturer": "Бешлей М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fde-qxqo-bjn"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Мережеві інформаційно - комунікаційні технології",
+        "lecturer": "Бешлей М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dwz-efuz-rar"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

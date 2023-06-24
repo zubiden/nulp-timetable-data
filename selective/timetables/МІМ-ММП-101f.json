@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Міжнародний інноваційний менеджмент",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний інноваційний менеджмент",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

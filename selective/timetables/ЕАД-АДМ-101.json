@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Експлуатація автомобільних доріг, аеродромів і штучних споруд на автомобільних дорогах",
+        "lecturer": "Балабух Я.А., 310 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRmOWRiYWMtNmZjZi00YmM4LTk5NjItYTgwMzA5YzE0ZWMy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація автомобільних доріг, аеродромів і штучних споруд на автомобільних дорогах",
+        "lecturer": "Балабух Я.А., 310 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRmOWRiYWMtNmZjZi00YmM4LTk5NjItYTgwMzA5YzE0ZWMy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація автомобільних доріг, аеродромів і штучних споруд на автомобільних дорогах",
+        "lecturer": "Балабух Я.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmUzYjg0ZWQtYzY2ZS00M2VhLWIwNTgtZTI1ODZlMGViNjE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

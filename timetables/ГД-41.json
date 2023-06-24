@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Інженерна графіка і проектування",
+        "lecturer": "Заяць О.С., Шило Є.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awURKR69xOUViUjuB_wF4Sew16aKWbI4KjmAUhXNXJgQ1%40thread.tacv2/1677520117773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Заяць І.В., Шило Є.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Заяць І.В., Шило Є.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Сучасні  методи опрацювання інженерно-геодезичних спостережень",
+        "lecturer": "Заяць О.С., Заяць І.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3A40MBiOp4Oo69oLVF5KXNQaB_A4jyZIb58edJoKFyUzo1%40thread.tacv2/conversations?groupId=2bda13bc-f489-484e-b1ec-3521bb57cd02&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні  методи опрацювання інженерно-геодезичних спостережень",
+        "lecturer": "Заяць О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3A40MBiOp4Oo69oLVF5KXNQaB_A4jyZIb58edJoKFyUzo1%40thread.tacv2/conversations?groupId=2bda13bc-f489-484e-b1ec-3521bb57cd02&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні  методи опрацювання інженерно-геодезичних спостережень",
+        "lecturer": "Заяць І.В., Заяць О.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a40MBiOp4Oo69oLVF5KXNQaB_A4jyZIb58edJoKFyUzo1%40thread.tacv2/conversations?groupId=2bda13bc-f489-484e-b1ec-3521bb57cd02&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна геодезія, ч.2",
+        "lecturer": "Заяць О.С., Смірнова О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ahm-qwrn-dni?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динамічна геодезія",
+        "lecturer": "Церклевич А.Л., Шило Є.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3an896jJn6zUMHn7fK6Jqkj8KsRjrPVsN_UX7fOlZBxDs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=adde16d5-c492-4219-8fd0-9e2b79cb0de8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Шило Є.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519685599?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інженерні вишукування для комплексного вивчення території",
+        "lecturer": "Кордуба Ю.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/lookup/g7bdnsvq4d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна графіка і проектування",
+        "lecturer": "Шило Є.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awURKR69xOUViUjuB_wF4Sew16aKWbI4KjmAUhXNXJgQ1%40thread.tacv2/1677520246187?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна геодезія, ч.2",
+        "lecturer": "Смірнова О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/nce-cdjr-zfi?authuser=0&pli=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Динамічна геодезія",
+        "lecturer": "Церклевич А.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3an896jJn6zUMHn7fK6Jqkj8KsRjrPVsN_UX7fOlZBxDs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=adde16d5-c492-4219-8fd0-9e2b79cb0de8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інженерні вишукування для комплексного вивчення території",
+        "lecturer": "Кордуба Ю.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/lookup/g7bdnsvq4d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інженерні вишукування для комплексного вивчення території",
+        "lecturer": "Кордуба Ю.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/lookup/g7bdnsvq4d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

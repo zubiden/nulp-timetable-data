@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Організація і контроль якості інженерно-геодезичних робіт",
+        "lecturer": "Церклевич А.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aff8ece73b4cb47f98407224506038762%40thread.tacv2/conversations?groupId=b0621f5d-9c6c-480e-8482-9994e36102a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Організація і контроль якості інженерно-геодезичних робіт",
+        "lecturer": "Церклевич А.Л., Мудра Ю.Р., 014 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3WJMVpnjgtnBWd6v3fw64QWJpWSOZKZCXAyGEHMt8hI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6ae7e41d-d269-447f-99bd-67d30a386988&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

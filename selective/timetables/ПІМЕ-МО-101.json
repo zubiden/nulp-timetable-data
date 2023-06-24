@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 229 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5443591836?pwd=YU92N2VjVmM2R1llWk9YcmI5OU1qUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

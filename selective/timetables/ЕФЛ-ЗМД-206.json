@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Моторнюк У.І., 206 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Передало Х.С., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a_U4BGo24He9YfQsYj1uTW5Uk2-OHxETpnKlJpqMQopk1%40thread.tacv2/conversations?groupId=2fe88355-3704-4139-b938-db7aa256abff&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

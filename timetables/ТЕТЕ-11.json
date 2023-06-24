@@ -1,0 +1,165 @@
+[
+    {
+        "subject": "Діагностика обладнання теплових електростанцій",
+        "lecturer": "Матіко Г.Ф., 57 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6jMD9kUiD_q5tBuPPZnqNxurzHjnu_NJmepceBefR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13a0bbbd-5328-49d7-ac8b-e8a3e90b41ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи реконструкції та модернізації об`єктів теплоенергетики",
+        "lecturer": "Шепітчак В.Б., 115 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи реконструкції та модернізації об`єктів теплоенергетики",
+        "lecturer": "Шепітчак В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Налагодження об`єктів теплоенергетики",
+        "lecturer": "Юрасова О.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://join.skype.com/Dmtanp5yHxsY"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Діагностика обладнання теплових електростанцій",
+        "lecturer": "Матіко Г.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6jMD9kUiD_q5tBuPPZnqNxurzHjnu_NJmepceBefR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13a0bbbd-5328-49d7-ac8b-e8a3e90b41ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Налагодження об`єктів теплоенергетики",
+        "lecturer": "Юрасова О.Г., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/Dmtanp5yHxsY"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Налагодження об`єктів теплоенергетики",
+        "lecturer": "Юрасова О.Г., 207 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Захист від корозії та консервування теплоенергетичного устаткування",
+        "lecturer": "Заяць М.Ф., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проектування об`єктів теплоенергетики",
+        "lecturer": "Мартиняк-Андрушко М.А., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75389669218?pwd=ehUEqfb0uZoTxLChAvMxsyFJaIjLmg.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проектування об`єктів теплоенергетики",
+        "lecturer": "Мартиняк-Андрушко М.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75389669218?pwd=ehUEqfb0uZoTxLChAvMxsyFJaIjLmg.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Захист від корозії та консервування теплоенергетичного устаткування",
+        "lecturer": "Заяць М.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

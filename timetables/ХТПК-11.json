@@ -1,0 +1,155 @@
+[
+    {
+        "subject": "Технологія формування виробів з еластомерів",
+        "lecturer": "Семенюк Н.Б., Дудок Г.Д., +ХТМ023 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія формування виробів з еластомерів",
+        "lecturer": "Дудок Г.Д., Семенюк Н.Б., +ХТМ023 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "Гриценко О.М., 026 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75837770092?pwd=SXfrBYjvQawg4h0kRYm3SQSxZaafIw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "Гриценко О.М., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72898326679?pwd=r9ovnPIIcyuJaJ9c69E9rqdEumxRUC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів",
+        "lecturer": "Мельник Ю.Я., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2NjYWNlNjItMGFiZi00ZjJlLTg4YzgtMTI5OTU5NTE3YzE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdf7dfde-98a9-4ea9-bbbe-b823486bf197%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія формування виробів з еластомерів",
+        "lecturer": "Семенюк Н.Б., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74954208882?pwd=T0rqEjTw59guZKI7khIaWaB3ayr4ub.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів",
+        "lecturer": "Семенюк Н.Б., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75640299929?pwd=hdgyEBP37KNZaaOVQTVPGhkMvFYRZf.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів",
+        "lecturer": "Чопик Н.В., Дудок Г.Д., +ХТМ023 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів",
+        "lecturer": "Чопик Н.В., Дудок Г.Д., +ХТМ023 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів",
+        "lecturer": "Семенюк Н.Б., Дудок Г.Д., +ХТМ319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів",
+        "lecturer": "Дудок Г.Д., Семенюк Н.Б., +ХТМ319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

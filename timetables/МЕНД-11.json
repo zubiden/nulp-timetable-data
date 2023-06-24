@@ -1,0 +1,172 @@
+[
+    {
+        "subject": "Електронний документообіг",
+        "lecturer": "Домша О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7422212312?pwd=SjZrOWJXMk9IS2lEU1RnbmlqR2Jkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Спеціальні технології та інструменти управління проектами",
+        "lecturer": "Гарбариніна В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи іміджології",
+        "lecturer": "Шевчук Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5395450988?pwd=M05YaDR0SFJsZlk0ZVlaVkYwVjg5QT09%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20539%20545%200988%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%202021"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг проекту",
+        "lecturer": "Борщук Є.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6182373439?pwd=NFB4WHM2N0F2UHZRRzBtVVJyOUNOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Закупівлі та контракти в проектах",
+        "lecturer": "Нєма О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4057230612?pwd=ZzVqS1NmdGRxdUwzZ1VZQkczb25sUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація виконання проектів і програм",
+        "lecturer": "Козак І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6723495966?pwd=c1Z0OFloblQrMDArV2hoTUN2WDM3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг проекту",
+        "lecturer": "Борщук Є.М., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Спеціальні технології та інструменти управління проектами",
+        "lecturer": "Гарбариніна В.Ю., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Закупівлі та контракти в проектах",
+        "lecturer": "Нєма О.С., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація виконання проектів і програм",
+        "lecturer": "Козак І.І., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи іміджології",
+        "lecturer": "Шевчук Б.М., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5395450988?pwd=M05YaDR0SFJsZlk0ZVlaVkYwVjg5QT09%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20539%20545%200988%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%202021"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Електронний документообіг",
+        "lecturer": "Домша О.В., 315 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

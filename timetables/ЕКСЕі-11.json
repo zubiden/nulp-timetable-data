@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Основи моделювання явищ і процесів на ринку праці",
+        "lecturer": "Степура Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1bbf0459f26e4908b2b95210fe61632b%40thread.tacv2/1677688053708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи прийняття управлінських рішень",
+        "lecturer": "Степура Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a12d60824387148b8ac48cf2e29bfffa2%40thread.tacv2/1677685533537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Методи управління якістю",
+        "lecturer": "Садова У.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3Ac072f453e3bf4810848327764c1dadd4%40thread.tacv2/1677351724140?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Стратегічний аналіз розвитку територій",
+        "lecturer": "Садова У.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af84b7112d27c4edf89c762e61dee42db%40thread.tacv2/1677486092208?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22277dcf8b-67d2-47de-a3cc-e747de964435%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи моделювання явищ і процесів на ринку праці",
+        "lecturer": "Степура Т.М., 205 I н.к.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1bbf0459f26e4908b2b95210fe61632b%40thread.tacv2/1677688053708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи прийняття управлінських рішень",
+        "lecturer": "Степура Т.М., 205 I н.к.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a12d60824387148b8ac48cf2e29bfffa2%40thread.tacv2/1677685533537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи управління якістю",
+        "lecturer": "Садова У.Я., 205 I н.к.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3Ac072f453e3bf4810848327764c1dadd4%40thread.tacv2/1677351724140?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d45819db-5bdc-4567-80fc-e024cf5b1ceb%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Стратегічний аналіз розвитку територій",
+        "lecturer": "Садова У.Я., 205 I н.к.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af84b7112d27c4edf89c762e61dee42db%40thread.tacv2/1677486260000?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22277dcf8b-67d2-47de-a3cc-e747de964435%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

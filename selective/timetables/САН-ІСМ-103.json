@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Бублик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88933867398?pwd=ZENrd2cwVk83RVE3dXUrcHdiQ1p5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Бублик М.І., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Стратегічний аналіз",
+        "lecturer": "Бублик М.І., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

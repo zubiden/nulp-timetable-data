@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Автоматизоване проектування елементів та пристроїв електронної техніки",
+        "lecturer": "Яремчук І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-1Tr8zjUTeOp3rJ8_utcVKu_DXvy9pQah0_w05ru-4o1%40thread.tacv2/1677137182593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222d04dd59-18fd-4108-9394-c92a2d4b07c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування елементів та пристроїв електронної техніки",
+        "lecturer": "Яремчук І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-1Tr8zjUTeOp3rJ8_utcVKu_DXvy9pQah0_w05ru-4o1%40thread.tacv2/1677137277298?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222d04dd59-18fd-4108-9394-c92a2d4b07c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aNcZjbOZRg1Cat26TWxLwa7XA2KopvCMpi-hVB8B48sg1%40thread.tacv2/1676890070237?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Електронні системи",
+        "lecturer": "Фітьо В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969687890?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні системи",
+        "lecturer": "Фітьо В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969760229?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні системи",
+        "lecturer": "Фітьо В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969760229?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування елементів та пристроїв електронної техніки",
+        "lecturer": "Куцій С.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aU7bBStuxVUkpYe0iAfrjwlWxF__UvEhEEKNf9ePE5kw1%40thread.tacv2/1677578343978?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 1 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677156354779?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 2тижд.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677158264897?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 4тижд.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677158264897?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "Барило Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/conversations?groupId=0b16d994-5a5f-4443-82b7-74f23684f38c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "Барило Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/conversations?groupId=0b16d994-5a5f-4443-82b7-74f23684f38c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування елементів та пристроїв електронної техніки",
+        "lecturer": "Куцій С.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aU7bBStuxVUkpYe0iAfrjwlWxF__UvEhEEKNf9ePE5kw1%40thread.tacv2/1677578343978?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби представлення та обробки інформації",
+        "lecturer": "Шимчишин О.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agSiNGazhs7VyC1o2uTbJTjOE0qGTNCyKyXmJ1hOpM7c1%40thread.tacv2/1677686278230?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235a219e0-8aa3-4db0-b04a-2f32617c6a1e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби представлення та обробки інформації",
+        "lecturer": "Шимчишин О.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agSiNGazhs7VyC1o2uTbJTjOE0qGTNCyKyXmJ1hOpM7c1%40thread.tacv2/1677686531538?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235a219e0-8aa3-4db0-b04a-2f32617c6a1e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби представлення та обробки інформації",
+        "lecturer": "Шимчишин О.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agSiNGazhs7VyC1o2uTbJTjOE0qGTNCyKyXmJ1hOpM7c1%40thread.tacv2/1677686677471?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235a219e0-8aa3-4db0-b04a-2f32617c6a1e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "Куцій С.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/1677578508041?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "Куцій С.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/1677578508041?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

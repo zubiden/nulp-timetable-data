@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "Дзюбіна А.В., +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "Войцеховська Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81512452510?pwd=M04vb2w3MEQ4d0xpLy9Kd2k0UUxYUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "Рачинська Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85643080499?pwd=dDhhWUJxcFJBOUhtbWExVFprbE90UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "Кулиняк І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71160473907?pwd=OLQxJuJnapZXcZgVEadYzFQlmwxKZX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "Кулиняк І.Я., 515 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72243600457?pwd=qw29ge3AqNInvyau8enfSNSUrhlpKV.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "Войцеховська Ю.В., 515 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85226296882?pwd=UmZ6VVNZcHZBei9kRThISkxsOWF2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "Рачинська Г.В., 420 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72243600457?pwd=qw29ge3AqNInvyau8enfSNSUrhlpKV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "Дзюбіна А.В., 425 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

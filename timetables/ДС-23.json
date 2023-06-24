@@ -1,0 +1,252 @@
+[
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., 216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., 216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Гладчук М.Ю., 216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Козіброда Л.В., 21кор.вул.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Штець В.О., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., Мотиль Р.Я., Павлів А.П., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., Мотиль Р.Я., Павлів А.П., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Бродовінська Ю.В., Радомська В.Р., 309 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Скиба Б.Н., 309 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Штець В.О., Квасниця Р.Б., кп224 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4taLIIdrUvPc9g4oqmrZOdBOG5nf1GG9hW0uLgHy2mY1%40thread.tacv2/1677499961153?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Штець В.О., Квасниця Р.Б., кп224 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4taLIIdrUvPc9g4oqmrZOdBOG5nf1GG9hW0uLgHy2mY1%40thread.tacv2/1677499961153?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Штець В.О., Квасниця Р.Б., кп224 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4taLIIdrUvPc9g4oqmrZOdBOG5nf1GG9hW0uLgHy2mY1%40thread.tacv2/1677499961153?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Гладчук М.Ю., Мільчевич С.І., кп216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Гладчук М.Ю., Мільчевич С.І., кп216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Бродовінська Ю.В., Радомська В.Р., 309 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Скиба Б.Н., 309 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Бродовінська Ю.В., Радомська В.Р., 309 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Скиба Б.Н., 309 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

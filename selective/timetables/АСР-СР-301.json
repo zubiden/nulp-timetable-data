@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Антигноблення у соціальній роботі",
+        "lecturer": "Тюріна Т.Г., СО-31+СР-31",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82646315179?pwd=ajcxNzd6WmxCclUvclpvTFlYQUwwdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Антигноблення у соціальній роботі",
+        "lecturer": "Тюріна Т.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87338725675?pwd=Ym9mM1JNYjlHclpxeFRhdUFkbC9Ydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

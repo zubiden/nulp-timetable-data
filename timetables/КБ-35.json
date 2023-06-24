@@ -1,0 +1,330 @@
+[
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aff12ae5080154f479c26cfe7718e770f%40thread.tacv2/conversations?groupId=137c925c-70b4-44dd-86aa-12d06574ce0c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горпенюк А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auxU9ff_GXRe7xgJ28OSxwzHKXRo9MALOeNvrdjSZUNA1%40thread.tacv2/conversations?groupId=d774f507-c6f9-42d8-8dd4-8bb31537de3c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0ZDK_3Qoutf4kAP5DBwZWL8-mToamWK4UKlLODWRySs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=af089311-04fd-43cb-9e93-106781c4b420&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Етичний хакінг в комп`ютерних системах і мережах",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3IZug9DhAw3QbH5bOkMw1UA4vdxyQR7hVJ6V4FfUyVs1%40thread.tacv2/conversations?groupId=e0061007-46ee-46c9-9a92-f6ce706453cf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7rQLd9Xpmv0TCc9IIkMWTFCwYUeU0_2k9irIsYsRhkg1%40thread.tacv2/conversations?groupId=8d0fe115-260a-4b84-bf9f-fea4c09ccb25&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Етичний хакінг в комп`ютерних системах і мережах",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3IZug9DhAw3QbH5bOkMw1UA4vdxyQR7hVJ6V4FfUyVs1%40thread.tacv2/conversations?groupId=e0061007-46ee-46c9-9a92-f6ce706453cf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-dFWFm7ST_O8EJEQAvW7ULbUabSggc10OxgrZ-MUWDQ1%40thread.tacv2/conversations?groupId=3ec43a3f-5238-422f-ac28-6fdca97fc374&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Руда Х.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a72XOcrqqFjt46nNKlmeKDfN71Jcj2Ne9xrBJPB5_KYQ1%40thread.tacv2/conversations?groupId=51a528e9-b049-40b4-b876-b82abdbf5738&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Етичний хакінг в комп`ютерних системах і мережах",
+        "lecturer": "Піскозуб А.З., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3IZug9DhAw3QbH5bOkMw1UA4vdxyQR7hVJ6V4FfUyVs1%40thread.tacv2/conversations?groupId=e0061007-46ee-46c9-9a92-f6ce706453cf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Михайлова О.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Руда Х.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a72XOcrqqFjt46nNKlmeKDfN71Jcj2Ne9xrBJPB5_KYQ1%40thread.tacv2/conversations?groupId=51a528e9-b049-40b4-b876-b82abdbf5738&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Михайлова О.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Петровська І.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Етичний хакінг в комп`ютерних системах і мережах",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3IZug9DhAw3QbH5bOkMw1UA4vdxyQR7hVJ6V4FfUyVs1%40thread.tacv2/conversations?groupId=e0061007-46ee-46c9-9a92-f6ce706453cf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "Лах Ю.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Руда Х.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a72XOcrqqFjt46nNKlmeKDfN71Jcj2Ne9xrBJPB5_KYQ1%40thread.tacv2/conversations?groupId=51a528e9-b049-40b4-b876-b82abdbf5738&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Етичний хакінг в комп`ютерних системах і мережах",
+        "lecturer": "Піскозуб А.З., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3IZug9DhAw3QbH5bOkMw1UA4vdxyQR7hVJ6V4FfUyVs1%40thread.tacv2/conversations?groupId=e0061007-46ee-46c9-9a92-f6ce706453cf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Руда Х.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a72XOcrqqFjt46nNKlmeKDfN71Jcj2Ne9xrBJPB5_KYQ1%40thread.tacv2/conversations?groupId=51a528e9-b049-40b4-b876-b82abdbf5738&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Крет Т.Б., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

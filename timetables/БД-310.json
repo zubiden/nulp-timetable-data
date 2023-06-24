@@ -1,0 +1,213 @@
+[
+    {
+        "subject": "Гідравліка каналів і споруд, частина 2",
+        "lecturer": "Босак М.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5153014321?pwd=d0M4dDliTlRvL3g3VEQxSzI3QWNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Мережі водопостачання",
+        "lecturer": "Чернюк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мережі водопостачання",
+        "lecturer": "Чернюк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Бліхарський Я.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzdkN2U5NjctZTI4Yi00ODQ4LTg3MDItNDgyMmNmYTJhMzg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220376808f-06bd-49a9-a935-96e9b0bee760%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Насосні та повітродувні станції",
+        "lecturer": "Завойко Б.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7888300501?pwd=Rmh4S0xSeHFwSHlvYWFUVDRHcFQ4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мережі водопостачання",
+        "lecturer": "Гнатів Р.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677152845420?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Насосні та повітродувні станції",
+        "lecturer": "Піцишин Б.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Насосні та повітродувні станції",
+        "lecturer": "Піцишин Б.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Тепломасообмін у водопостачанні та водовідведенні",
+        "lecturer": "Жук В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82015676801?pwd=eHFMRmlsNnZjSVNtb1d0K0VuWGdpQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRhNmYxMWEtYzQ2MS00OTJiLWIxYTYtYmFmYjNhYjdhZjI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Гідравліка каналів і споруд, частина 2",
+        "lecturer": "Вовк Л.І., Гнатів Р.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09",
+            "https://zoom.us/j/6387061538?pwd=MDM4REVpLzBZb2VJYU9GOEdkWGZ3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Тепломасообмін у водопостачанні та водовідведенні",
+        "lecturer": "Жук В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82015676801?pwd=eHFMRmlsNnZjSVNtb1d0K0VuWGdpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Гідравліка каналів і споруд, частина 2",
+        "lecturer": "Босак М.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5153014321?pwd=d0M4dDliTlRvL3g3VEQxSzI3QWNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

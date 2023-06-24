@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Нейромережеві технології та їх застосування",
+        "lecturer": "Гурбич О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQ3ODUxNTAtNDliNi00YmNiLTkwYzctNzUwZmYxZTQ5MzM4%40thread.v2/0?context=%7b%22Tid%22%3a%2276dc805f-cd02-4f90-92d9-ee160c1a8dcb%22%2c%22Oid%22%3a%22dd38ec1a-7b1d-4f58-ab93-22a0adfaa0be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Нейромережеві технології та їх застосування",
+        "lecturer": "Гурбич О.В., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Нейромережеві технології та їх застосування",
+        "lecturer": "Гурбич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

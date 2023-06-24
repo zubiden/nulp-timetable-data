@@ -1,0 +1,110 @@
+[
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "Пасічник В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4907397832?pwd=eTJKSXlBMkxhczRONWhBNUxSWWRUQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "Петровський П.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Система публічного управління та адміністрування",
+        "lecturer": "Дзяна Г.О., 220 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Система публічного управління та адміністрування",
+        "lecturer": "Дзяна Г.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління розвитком територій",
+        "lecturer": "Бліщук К.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "Пасічник В.М., 220 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "Дробот І.О., 220 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Управління розвитком територій",
+        "lecturer": "Бліщук К.М., 220 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

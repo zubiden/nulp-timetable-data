@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Проблеми здійснення адміністративного судочинства в Україні",
+        "lecturer": "Сливка М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73944119705?pwd=XAIUF6dCaGVqNL0pIIHGbtpm9boIFI.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми здійснення адміністративного судочинства в Україні",
+        "lecturer": "Сливка М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71930160827?pwd=Nim8IxbnaxgUOKOXjhI3ZwzBgHEqNa.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проблеми здійснення адміністративного судочинства в Україні",
+        "lecturer": "Сливка М.М., 301 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73759179959?pwd=ha8a5jpmcJtT0aatqWtcUkYbu0eyOd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проблеми здійснення адміністративного судочинства в Україні",
+        "lecturer": "Сливка М.М., 301 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71909094700?pwd=vKbNA0PvzsmID5dnmbzprZAbNStIp8.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

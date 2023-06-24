@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Медична статистика",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aAvsPOnGqowUaGgIIUQpgrIDMpmbUbqZxXKbnUF3_Rjw1%40thread.tacv2/1677092229761?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Рентгенівські медичні технології",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/87986891103?pwd%3Dd3BtcGNPajdVU2RmUGp0bmFLbE9adz09&sa=D&source=calendar&ust=1677589308891292&usg=AOvVaw2Kc8kL2iZL9TcRSVtppiL9"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Рентгенівські медичні технології",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3abiac_ppedxHP5EmWv0TdJ9CAiyghd_BhSu6nc4hG_641%40thread.tacv2/conversations?groupId=ec624e49-1a95-416f-8963-21457b1b1e84&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Біофізичні основи інструментальної фізіотерапії",
+        "lecturer": "Сторчун Є.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Біофізичні основи інструментальної фізіотерапії",
+        "lecturer": "Сторчун Є.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Економіка і управління підприємством",
+        "lecturer": "Сорочак О.З., 232 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87443332559?pwd=QytjVGgrNDdoZzJ3YXlkMmtoVzRBZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Економіка і управління підприємством",
+        "lecturer": "Сорочак О.З., 232 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88055559304?pwd=Q2RFQ21Fb2ozT0VuczNuRFpLa2hCUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Медична статистика",
+        "lecturer": "Товстюк К.К., 312 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aAvsPOnGqowUaGgIIUQpgrIDMpmbUbqZxXKbnUF3_Rjw1%40thread.tacv2/1677487839078?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5443591836?pwd=YU92N2VjVmM2R1llWk9YcmI5OU1qUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Заячук Д.М., 310 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3abiac_ppedxHP5EmWv0TdJ9CAiyghd_BhSu6nc4hG_641%40thread.tacv2/conversations?groupId=ec624e49-1a95-416f-8963-21457b1b1e84&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

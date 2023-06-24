@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "Кричковська А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG-EtDV2rlqZ0I0CzYp-XP3Ezu25xQa9-pvFNSoy6TYk1%40thread.tacv2/1678905156217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "Кричковська А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG-EtDV2rlqZ0I0CzYp-XP3Ezu25xQa9-pvFNSoy6TYk1%40thread.tacv2/1678905076977?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фармацевтичне товарознавство",
+        "lecturer": "Журахівська Л.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фармацевтичне товарознавство",
+        "lecturer": "Журахівська Л.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи невідкладної домедичної допомоги",
+        "lecturer": "Журахівська Л.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи невідкладної домедичної допомоги",
+        "lecturer": "Журахівська Л.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "Болібрух Л.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1bZuKkQ4B7XtnJ93Z0M3smBT-nUQ04p2bwMq9ZxQ3U1%40thread.tacv2/1677431625594?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "Половкович С.В., Кричковська А.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_CUQKJL4hJ1fL-G6oFh8-hsbmgf8gPz06qZ9Q4Nv7Hw1%40thread.tacv2/1678554775425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "Кричковська А.М., Половкович С.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_CUQKJL4hJ1fL-G6oFh8-hsbmgf8gPz06qZ9Q4Nv7Hw1%40thread.tacv2/1678554841403?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "Болібрух Л.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1bZuKkQ4B7XtnJ93Z0M3smBT-nUQ04p2bwMq9ZxQ3U1%40thread.tacv2/1677433232979?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "Кричковська А.М., Лобур І.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amQMAeKfoB_Sn-CePZk7imfrUCq0godNyM_xZjf37FG01%40thread.tacv2/1678554005022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "Кричковська А.М., Лобур І.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amQMAeKfoB_Sn-CePZk7imfrUCq0godNyM_xZjf37FG01%40thread.tacv2/1678554128023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Фармацевтичне товарознавство",
+        "lecturer": "Журахівська Л.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Уявні та реальні соціальні спільноти",
+        "lecturer": "Савка В.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akhnaYqwrvTuu4yfPiTBCp971jWlN8g-DDV5-Wx771Ps1%40thread.tacv2/1676482505847?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Уявні та реальні соціальні спільноти",
+        "lecturer": "Савка В.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akhnaYqwrvTuu4yfPiTBCp971jWlN8g-DDV5-Wx771Ps1%40thread.tacv2/1676482340198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "Мишок Р.Р., 205б XXIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "Мишок Р.Р., 205б XXIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "Мишок Р.Р., 205б XXIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "Мишок Р.Р., 205б XXIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "Мишок Р.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 236 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76979108849?pwd=s6N4CJGl4bLnbjTdpbU0AHqTe2HlEZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "Климанська Л.Д., 004 XXIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "Яцишин У.В., 205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "Яцишин У.В., 205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., 302 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0sLneu4Est1X41_SmYSDkgCDG52YtDhdi5kBeRVgZIQ1%40thread.tacv2/1676623804168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., 302 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0sLneu4Est1X41_SmYSDkgCDG52YtDhdi5kBeRVgZIQ1%40thread.tacv2/1676623804168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

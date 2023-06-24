@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Гаваньо Б.І., 904б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gzt-hycy-xec"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Гаваньо Б.І., 904б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gzt-hycy-xec"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mzn-munc-xpg"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

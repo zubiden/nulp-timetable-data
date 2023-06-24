@@ -1,0 +1,186 @@
+[
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "Афонін М.О., Бойків Р.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "Афонін М.О., Бойків Р.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "Бойків Р.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "Афонін М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6cccbe78c4594a55a8896e87abd19f2d%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "Рогальський Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "Рогальський Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "Давідіч Ю.О., Понкратов Д.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3argX-ZkLIwJfU2BVo-Zr8b-TF9FMJw-rJrq26ZvjGJwA1%40thread.tacv2/1676285428072?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22da45de82-5db8-4d9a-81c2-b6a4f11f36af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "Давідіч Ю.О., Понкратов Д.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3argX-ZkLIwJfU2BVo-Zr8b-TF9FMJw-rJrq26ZvjGJwA1%40thread.tacv2/1676285428072?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22da45de82-5db8-4d9a-81c2-b6a4f11f36af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "Давідіч Ю.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "Давідіч Ю.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "Давідіч Ю.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "Рогальський Р.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

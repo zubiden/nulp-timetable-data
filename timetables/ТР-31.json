@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Пиріг Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yit-rqqj-tve"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajOd50h4Fs6-7KDf7qDfEDhRBneM93Zh9EU_R4VW7sLw1%40thread.tacv2/conversations?groupId=04bcdd2f-969f-487d-a749-2ffad84ac96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Методи кодування інформації в телекомунікаціях",
+        "lecturer": "Коваль Б.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aBGOaIV4V4GEgZS9dfR7-rdrwwVmc-q_Iu8Ai8fgAk401%40thread.tacv2/General?groupId=da8c6314-7592-4a35-9d89-da1b87eb710a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2ztSuEW-bbNzxra7lwqDmtPNqIuHWt4raqd83qCYEcQ1%40thread.tacv2/1677446040555?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "Ратич А.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pfz-jbub-gkt"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., 201 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2ztSuEW-bbNzxra7lwqDmtPNqIuHWt4raqd83qCYEcQ1%40thread.tacv2/1677446174444?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "Ратич А.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pfz-jbub-gkt"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методи кодування інформації в телекомунікаціях",
+        "lecturer": "Коваль Б.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aBGOaIV4V4GEgZS9dfR7-rdrwwVmc-q_Iu8Ai8fgAk401%40thread.tacv2/General?groupId=da8c6314-7592-4a35-9d89-da1b87eb710a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методи кодування інформації в телекомунікаціях",
+        "lecturer": "Коваль Б.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aBGOaIV4V4GEgZS9dfR7-rdrwwVmc-q_Iu8Ai8fgAk401%40thread.tacv2/General?groupId=da8c6314-7592-4a35-9d89-da1b87eb710a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1677452393712?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Климаш М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dvm-npwy-vvi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Протасевич В.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ioo-pjyo-ava"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Фаст В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dqn-qvup-ptm?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "Климаш М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/exv-fgvd-ych"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "Климаш М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/xqa-nsqb-hqn"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2ztSuEW-bbNzxra7lwqDmtPNqIuHWt4raqd83qCYEcQ1%40thread.tacv2/1677447452055?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Матієшин Ю.М., Протасевич В.Г., 201 XI н.к., 206 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gsm-tavn-yxx"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

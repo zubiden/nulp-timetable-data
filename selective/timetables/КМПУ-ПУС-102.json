@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Комунікації в публічному управлінні",
+        "lecturer": "Дробот І.О., 231 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комунікації в публічному управлінні",
+        "lecturer": "Дзяна Г.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

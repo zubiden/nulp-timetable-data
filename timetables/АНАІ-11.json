@@ -1,0 +1,275 @@
+[
+    {
+        "subject": "Вбудовані системи авіоніки",
+        "lecturer": "Вус Б.С., 312 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRHW-BUuaRL0BabvxYtWyfJImtuoYif11ycCJCPwTHww1%40thread.tacv2/General?groupId=7e3f0a8d-dbda-48e0-b30d-811aa8641f40&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вбудовані системи авіоніки",
+        "lecturer": "Вус Б.С., 310 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.meet.google.com/qgp-hnxa-txj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Супутникові системи навігації",
+        "lecturer": "Міськів В.В., 206 XI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління проектами створення та сертифікації інформаційних авіаційних систем та комплексів",
+        "lecturer": "Гліненко Л.К., 310 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apUafAn1j-H4nKMJDsCJtrAtH-sTBZ2Ot6GfKB89wKrk1%40thread.tacv2/1677001587305?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 108 XI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні технології аерокосмічних систем",
+        "lecturer": "Павлиш В.А., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aCRuwVRXxbLJv240bCOzTkz_XxugoK8r-BOwBxADHaZk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=68d7017e-1ea5-4b91-967d-0a87c0bb5575&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Програмні засоби інтегрованих аеронавігаційних систем",
+        "lecturer": "Бачик Д.Р., 207 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/yek-dnfh-aoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Програмні засоби інтегрованих аеронавігаційних систем",
+        "lecturer": "Бачик Д.Р., 207 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/yek-dnfh-aoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Програмні засоби інтегрованих аеронавігаційних систем",
+        "lecturer": "Бачик Д.Р., 201 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/smh-pkoo-swq"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Аеронавігаційні системи та їх моделювання",
+        "lecturer": "Пашкевич В.З., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ctk-iptg-dch?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5443591836?pwd=YU92N2VjVmM2R1llWk9YcmI5OU1qUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні технології аерокосмічних систем",
+        "lecturer": "Гоблик В.В., 306 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85082020743?pwd=RHlYTFR4ZG5nOVY1MlpxNTVUSUZDZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Аеронавігаційні системи та їх моделювання",
+        "lecturer": "Пашкевич В.З., 311 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Супутникові системи навігації",
+        "lecturer": "Міськів В.В., 205 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Супутникові системи навігації",
+        "lecturer": "Міськів В.В., 205 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні технології аерокосмічних систем",
+        "lecturer": "Гоблик В.В., 311 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85082020743?pwd=RHlYTFR4ZG5nOVY1MlpxNTVUSUZDZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аеронавігаційні системи та їх моделювання",
+        "lecturer": "Пашкевич В.З., 311 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами створення та сертифікації інформаційних авіаційних систем та комплексів",
+        "lecturer": "Гліненко Л.К., 306 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apUafAn1j-H4nKMJDsCJtrAtH-sTBZ2Ot6GfKB89wKrk1%40thread.tacv2/1677000804110?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами створення та сертифікації інформаційних авіаційних систем та комплексів",
+        "lecturer": "Гліненко Л.К., 306 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apUafAn1j-H4nKMJDsCJtrAtH-sTBZ2Ot6GfKB89wKrk1%40thread.tacv2/1677000804110?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

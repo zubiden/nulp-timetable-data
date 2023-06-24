@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Гурський В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao5G87CgiMYaq0tgl7xiO9FZ2pLeJp0rJ-NeoMIOHi8I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c539131c-89d1-4407-9c72-a537ca374428&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Магерус Н.І., 35 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODAxNDIyNWMtZjNlMy00ODI5LWI1YzItNzIxYjIyZWQ0OGJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

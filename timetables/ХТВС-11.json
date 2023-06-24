@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Нові технології у виробництві високомолекулярних сполук",
+        "lecturer": "Моравський В.С., Дудок Г.Д., +ХТМ301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Нові технології у виробництві високомолекулярних сполук",
+        "lecturer": "Дудок Г.Д., Моравський В.С., +ХТМ301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "Гуменецький Т.В., Дудок Г.Д., +ХТМ301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71265966837?pwd=GmsRR0e3rQonbiax070v0Lq7sjXRZf.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології формування виробів з пласмас",
+        "lecturer": "Дудок Г.Д., Масюк А.С., +ХТМ023 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83840891428?pwd=YmtDV3ByTTd6NGwrZkpjZXNSaVlSdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нові технології у виробництві високомолекулярних сполук",
+        "lecturer": "Моравський В.С., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&amp;sa=D&amp;source=calendar&amp;ust=1635158277529646&amp;usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія виробництва синтетичного каучуку",
+        "lecturer": "Семенюк Н.Б., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73605021502?pwd=zBolaFjpjpZA1R8jAmPaBrFANZcFaS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології формування виробів з пласмас",
+        "lecturer": "Дудок Г.Д., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82949638800?pwd=VHJ4bUs4SEVZQ3AzSkh1RUZiVXkvZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "Гуменецький Т.В., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77112924346?pwd=4jEebgwDnrywRgyXWTq3w0EP2qT35d.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія виробництва синтетичного каучуку",
+        "lecturer": "Семенюк Н.Б., Дудок Г.Д., +ХТМ319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія виробництва синтетичного каучуку",
+        "lecturer": "Дудок Г.Д., Семенюк Н.Б., +ХТМ319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Експлуатація водогосподарських споруд",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатація водогосподарських споруд",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Рибогосподарські споруди",
+        "lecturer": "Гнатів Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "Чернюк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "Чернюк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "Чернюк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "Фасуляк В.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7415991180?pwd=UHI1eks4bitXZzhHdUlOL0Y4L2h3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "Фасуляк В.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7415991180?pwd=UHI1eks4bitXZzhHdUlOL0Y4L2h3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація водогосподарських споруд",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Рибогосподарські споруди",
+        "lecturer": "Гнатів Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Рибогосподарські споруди",
+        "lecturer": "Гнатів Р.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація водогосподарських споруд",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

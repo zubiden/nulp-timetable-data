@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "Рачинська Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "Рачинська Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

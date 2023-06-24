@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Тесак І.Є., Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Тесак І.Є., Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/hyk-pdem-qxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

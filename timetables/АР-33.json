@@ -1,0 +1,192 @@
+[
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Погранична І.І., Демків М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFn1SY0DsU1KQ5PzOpv7lEdZ23bBTKFnZJ1g9WpuAVw1%40thread.tacv2/1677168468698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c302fe76-65d2-496d-9de4-9f7465aee024%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Погранична І.І., Демків М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFn1SY0DsU1KQ5PzOpv7lEdZ23bBTKFnZJ1g9WpuAVw1%40thread.tacv2/1677168468698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c302fe76-65d2-496d-9de4-9f7465aee024%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Баб'як В.І., Соловій Л.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZhY0o4Ho_ZpFDI2ehZJ5l-N2H-e9zVD8V44e5JSzPOg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ff5a3cb5-ce03-429a-9a10-27dfe48c30be&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Висоцька Р.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us06web.zoom.us/j/6174554655?pwd=dExjdFhUNEJ4cVRYUkJwSjdjUzIydz09%20%20Meeting%20ID:%20617%20455%204655%20Passcode:%20504422"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в архітектурному проектуванні",
+        "lecturer": "Каушанський О.Д., Хіблін Д.Ю., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aAsITUd6ZmoWKL3XqsWZUcKRq64AONXXYj-2wpmtJIPM1%40thread.tacv2/conversations?groupId=32c5b925-ffbd-4996-bffa-68b8418bb840&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "Шулдан Л.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afmChLFFOP6yEFyfxQOtUI61IJd3TR4dbblACwr3jYWk1%40thread.tacv2/conversations?groupId=ccb9a77b-3c8d-4645-a77c-06655151c486&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Гнесь І.П., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "Бевз М.В., Ясінський М.Р., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Морська Н.О., ",
+        "location": ", Практична",
+        "urls": [
+            "https://join.skype.com/Dy2hLD9NOTyB"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Морська Н.О., ",
+        "location": ", Практична",
+        "urls": [
+            "https://join.skype.com/Dy2hLD9NOTyB"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "Висоцька Р.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us06web.zoom.us/j/6174554655?pwd=dExjdFhUNEJ4cVRYUkJwSjdjUzIydz09%20%20Meeting%20ID:%20617%20455%204655%20Passcode:%20504422"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "Гнат Г.О., Смалійчук А.Д., Сільник О.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/teamDashboard/%D0%90%D0%A0-33_%D0%9A%D0%9F_%D0%95%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F%20%D0%B6%D0%B8%D1%82%D0%BB%D0%B0_%D0%90%D0%9F%20%D0%B6%D0%B8%D1%82%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D1%83%20%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D1%97%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96_2023/19:UHV0BJJFLF9ldQWmCZR3MKrtww9zw60xHGFPcdI5-bQ1@thread.tacv2/td.members",
+            "https://teams.microsoft.com/l/team/19%3aUHV0BJJFLF9ldQWmCZR3MKrtww9zw60xHGFPcdI5-bQ1%40thread.tacv2/conversations?groupId=d1821a64-73cd-48a0-b9fe-2dceabc6bd7e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

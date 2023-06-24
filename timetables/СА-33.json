@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Web-технології та Web-дизайн",
+        "lecturer": "Сало А.М., 504 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8626793258?pwd=N2ZGR3cxM1hnKzJwaTBsRE5NSW9mQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Web-технології та Web-дизайн",
+        "lecturer": "Сало А.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8626793258?pwd=N2ZGR3cxM1hnKzJwaTBsRE5NSW9mQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нереляційні бази даних",
+        "lecturer": "Юринець Р.В., 126а IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нереляційні бази даних",
+        "lecturer": "Юринець Р.В., 126а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "Кравченко Г.В., 406 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Нереляційні бази даних",
+        "lecturer": "Берко А.Ю., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні технології",
+        "lecturer": "Тарасов Д.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a130fd327df584203bd15c8ea63477e26%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F2022-23?groupId=0df1874e-28cf-4116-b49d-7156db735e8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "Цмоць О.І., 124 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні технології",
+        "lecturer": "Тарасов Д.О., 522 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a130fd327df584203bd15c8ea63477e26%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F2022-23?groupId=0df1874e-28cf-4116-b49d-7156db735e8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Юринець Р.В., 123 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "Цмоць О.І., 124 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Юринець Р.В., 123 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні технології",
+        "lecturer": "Тарасов Д.О., 522 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a130fd327df584203bd15c8ea63477e26%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F2022-23?groupId=0df1874e-28cf-4116-b49d-7156db735e8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Мудрий В.Я., 406 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77620077764?pwd=L4bABtbUY7SJ570EkCocgRcu9V4TWk.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Web-технології та Web-дизайн",
+        "lecturer": "Лозицький О.А., 406 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

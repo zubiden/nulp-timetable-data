@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "Каша Л.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "Каша Л.В., ТЕТЕ116 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2RJpQGTgGITEWNzWYLO8RPDwiBRnh04uyk5nv4F4vOU1%40thread.tacv2/1679511645198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

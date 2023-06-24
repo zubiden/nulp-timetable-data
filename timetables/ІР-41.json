@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324%20#Passcode%201234"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09%20%20Meeting%20ID:%20872%20059%208837%20Passcode:%208ycTp9"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09%20%20Meeting%20ID:%20872%20059%208837%20Passcode:%208ycTp9"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "ІТ-право",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "ІТ-право",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324%20#Passcode%201234"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324%20#Passcode%201234"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324%20#Passcode%201234"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби штучного інтелекту",
+        "lecturer": "Лагун І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83942886324%20#Passcode%201234"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "Самотий В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8071001668?pwd=MDYwNjhmVFhDNFA4bFZ6dGRlWWJhZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "ІТ-право",
+        "lecturer": "Степаняк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

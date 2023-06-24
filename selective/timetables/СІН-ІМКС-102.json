@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Студії з історії та наукової спадщини львівської політехніки",
+        "lecturer": "Павлишин А.М., ДКІБ-12(2ст) 220-гол.к.",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/98554014562?pwd=aEtGL1VVMWx6VFZrdjFVZmY1dDFFUT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20985%205401%204562%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%205rcFci"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Студії з історії та наукової спадщини львівської політехніки",
+        "lecturer": "Павлишин А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/98554014562?pwd=aEtGL1VVMWx6VFZrdjFVZmY1dDFFUT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20985%205401%204562%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%205rcFci"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

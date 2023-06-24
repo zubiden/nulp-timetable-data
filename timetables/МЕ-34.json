@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9L7Kl3auGMahwQ86tknlHKse00S-_FDcj9cGHWZx75M1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=1cd44b09-cdfc-4132-99c8-8cc0531f72ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Бочко О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a55vYxE7gTIUxOuJXWWOAtuS-3HYFN8EH5P_Nn1TeqiQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8b3163c0-6145-42e7-93ad-4f62855c13a0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Демко М.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5088420764?pwd=aVNOUnFxQTg3VDBZaHlQQ0hGTUt2Zz09%20Meeting%20ID:%20508%20842%200764%20Passcode:%204ZSayG"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Калинець К.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5088420764?pwd=aVNOUnFxQTg3VDBZaHlQQ0hGTUt2Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3asM35ACifKV2-2JGL4y1QRnBvb2AhuMeOqhz2bj75nEo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6e01311b-aede-4ff7-b700-653d4e4d649c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3asM35ACifKV2-2JGL4y1QRnBvb2AhuMeOqhz2bj75nEo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6e01311b-aede-4ff7-b700-653d4e4d649c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Лихолат С.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89783292811?pwd=UG94eVRvM1piMnZJTDZsR2tLUjVtZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avAwFU0mQFT1mzVBdeLKGz2DBz9G8attiMpxRUaQDhZs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd084a3a-2dcc-4277-ad5a-ee8cb0e2f91a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління комунікаціями туристичних організацій",
+        "lecturer": "Ярмола К.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTU3NDlkZTktOGMyMi00YTJmLTlkOWYtM2Y4ZmQ4Yjk5OTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226d417e1f-2014-4d67-9ccb-fd382338f387%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи інвентики та дизайн-мислення",
+        "lecturer": "Беспалюк Х.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77534122452?pwd=3GAoYhapA9wnqboXgNWDZj1SJKBzGq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління якістю інноваційних туристичних і рекреаційних продуктів",
+        "lecturer": "Смолінська Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77861594375?pwd=VxKBh0vdCFyboiA0Zz62jDYo8odEw1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління комунікаціями туристичних організацій",
+        "lecturer": "Огінок С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Управління якістю інноваційних туристичних і рекреаційних продуктів",
+        "lecturer": "Грибик І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73375750011?pwd=3gqUOqjzbqtMnE26kNAbaPC8PQ4q2F.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи інвентики та дизайн-мислення",
+        "lecturer": "Беспалюк Х.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77534122452?pwd=3GAoYhapA9wnqboXgNWDZj1SJKBzGq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

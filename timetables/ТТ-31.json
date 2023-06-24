@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "Шраменко Н.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3am5v5jZYqyKjp4-i8y0YVUngHGbjrTfo4rN5POpVyL5Y1%40thread.tacv2/1677253480934?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "Прасоленко О.В., Форнальчик Є.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "Прасоленко О.В., Форнальчик Є.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "Шраменко Н.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a27TIk7pJkT49W22EPsGTs04WgibHVQ_l1cI7RYfWWog1%40thread.tacv2/1677253713482?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Транспортні навантажувально-розвантажувальні засоби",
+        "lecturer": "Вікович І.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB43JeCyIHLzNzhIz9IrypnupjUVgkiV_m4OqwPdwc8A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b7a8c59b-409f-4ccb-bee4-296def1b0b29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Система технічного сервісу транспортних засобів",
+        "lecturer": "Сьласкі Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ecg-nzfn-tpp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "Ройко Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatjc6tdci6ls6BYtnfnR2wl_-Cp3IuMk5k6-JN6Jlg81%40thread.tacv2/conversations?groupId=96ece5aa-7787-48c8-9d51-ee23c4da510b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "Осташук М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:uxFwDnCeG1FniOBFxCtYcpp5_yzDYhJmzHpfIohRlwA1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "Осташук М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:TxI0A7fHKeBhjb_cuweC3E_fi3waLgOHKOP6BCdsqVs1@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "Ройко Ю.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Система технічного сервісу транспортних засобів",
+        "lecturer": "Форнальчик Є.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZdwdp11wNu2LZ3YAPu_gB2RxGqzkREFMzobq1d1lqPM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3320242a-4304-4eab-aa2f-0669747125ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Транспортні навантажувально-розвантажувальні засоби",
+        "lecturer": "Вікович І.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB43JeCyIHLzNzhIz9IrypnupjUVgkiV_m4OqwPdwc8A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b7a8c59b-409f-4ccb-bee4-296def1b0b29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

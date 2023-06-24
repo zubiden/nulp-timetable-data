@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71996532303?pwd=gqQppafizeKPCNyz1NR6a6mefabjQV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., 704 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72579771591?pwd=zBWbY8An24e03hYAY5NPy7lbvkFQvY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

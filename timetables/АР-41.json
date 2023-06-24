@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Якубовський В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aGsqL5288l-rc_JnIq5cb6v-phinJh2ASzdO_2PSH2f81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3af8cbed-87b3-4f9c-81fa-2d6ad256ce55&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83786844882?pwd=U3Y5SEQ0NTRRSUpNZjZZWVprUXpPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYVo5E1V1thorHoLOazPBRsp0zMcgBQ2TCU2eMebF_mA1%40thread.tacv2/1677152716351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "Гнідець Р.Б., Дацишин Є.В., Дида О.А., Хамар І.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adz7Gm97ABWvdhKZJLk0A9MsLdBPkHOyPxMIyeBQ1kgo1%40thread.tacv2/conversations?groupId=f109f9e2-784a-4881-8d10-19e522834937&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "Гнідець Р.Б., Дацишин Є.В., Дида О.А., Хамар І.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adz7Gm97ABWvdhKZJLk0A9MsLdBPkHOyPxMIyeBQ1kgo1%40thread.tacv2/conversations?groupId=f109f9e2-784a-4881-8d10-19e522834937&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 1 тижд",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81796095816?pwd=NEFaMFBMTkdGSzBHY1M4MVptV2k2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 2тижд",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81796095816?pwd=NEFaMFBMTkdGSzBHY1M4MVptV2k2Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 4 тижд",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81796095816?pwd=NEFaMFBMTkdGSzBHY1M4MVptV2k2Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Демчина Х.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoZ3QWeqsBfV9YJDAxd1vLbwmz3DmWtwHbwoKeNsx9mk1%40thread.tacv2/conversations?groupId=52d07e7d-7ec2-4b3f-ab4e-d239d875139b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "Ковальчук І.В., Пекарчук О.П., Покладок О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/1677014249559?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d",
+            "https://teams.microsoft.com/l/team/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/conversations?groupId=189b1803-186b-4a54-ae8a-5552b0974590&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "Ковальчук І.В., Пекарчук О.П., Покладок О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/1677014374783?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d",
+            "https://teams.microsoft.com/l/team/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/conversations?groupId=189b1803-186b-4a54-ae8a-5552b0974590&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Якубовський В.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3arNO2W2qKO-tA8bOIvq-XHJ0pSHNPMlmba8JiFW1N08c1%40thread.tacv2/conversations?groupId=d25786f9-b489-4469-b8d6-03f996b1e5d7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

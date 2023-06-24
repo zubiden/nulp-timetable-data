@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "Кропивницька Т.П., 403 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "Кропивницька Т.П., 403 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "Саницький М.А., Кропивницька Т.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

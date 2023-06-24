@@ -1,0 +1,164 @@
+[
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "Борковський А.А., 35 XXXIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "Борковський А.А., 35 XXXIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Самчука 11, 14.40-16.10",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Медіабезпека",
+        "lecturer": "Павлишин Н.І., 308 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Соціологія і журналістика",
+        "lecturer": "Іваницька Б.В., 308 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/75182855985?pwd%3DcelXDBvwtSvXRgxXLtBPjCalyIroWr.1&sa=D&source=calendar&usd=2&usg=AOvVaw2lL9a4fK7aUJIfWMyC9TqB"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Хвойницька-Перейма Х.М., 27 XXXIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практична стилістика української мови",
+        "lecturer": "Шмілик І.Д., 328 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практична стилістика української мови",
+        "lecturer": "Шмілик І.Д., 328 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "Кузнецова О.Д., 34 XXXIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Хвойницька-Перейма Х.М., 34 XXXIII н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Медіабезпека",
+        "lecturer": "Павлишин Н.І., 34 XXXIII н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Соціологія і журналістика",
+        "lecturer": "Іваницька Б.В., 34 XXXIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/75182855985?pwd%3DcelXDBvwtSvXRgxXLtBPjCalyIroWr.1&sa=D&source=calendar&usd=2&usg=AOvVaw2lL9a4fK7aUJIfWMyC9TqB"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

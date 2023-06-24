@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Функційне та логічне програмування",
+        "lecturer": "Мокрицька О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74573950264?pwd=sb71DVCuaoKzbdxeCVMOhDoS3jh7jQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Функційне та логічне програмування",
+        "lecturer": "Мокрицька О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74573950264?pwd=sb71DVCuaoKzbdxeCVMOhDoS3jh7jQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Функційне та логічне програмування",
+        "lecturer": "Мокрицька О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74573950264?pwd=sb71DVCuaoKzbdxeCVMOhDoS3jh7jQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

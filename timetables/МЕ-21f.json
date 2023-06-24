@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "Коць І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmExZGQ4ZGUtMGUwNC00ZDE0LTkzY2YtMjg1ODRjZTRjMzNl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "Моторнюк У.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNJLnewbaSWPVobM3KDaJciu4hd9CX6N-t-BrUqhF1jI1%40thread.tacv2/conversations?groupId=76eaa5f1-f842-4af4-aee3-2dc0f575b555&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "Войцеховська Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86281405321?pwd=YlRMUUtBNmxsZjlyQWxPOFBxL0l2Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "Войцеховська Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81366288376?pwd=aEc4czR3S3NUa20zSTA3dURzVS91QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85914858762?pwd=bUZyQWxzOW4xUlh2dnVpUEczVkx1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "Адамовський О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "Адамовський О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Винничук Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Логістика",
+        "lecturer": "Мащак Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77007616793?pwd=qtpLY6fAKXJ07vfycMn7Bi8RQISSJv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "Двуліт З.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Логістика",
+        "lecturer": "Мащак Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74885014205?pwd=XdYKWqLdkQ4OGZsbH6aIFeBAxvSsGE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "Двуліт З.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "Двуліт З.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Юрченко Г.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2907226575?pwd=aFFHUTdBcURLWmJWRUdnak1sUHJqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Українська мова як іноземна, частина 4",
+        "lecturer": "Бойко Г.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8926651311?pwd=K2wvY0RCZnJTOHFrTlZGbFNEVC9zZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Українська мова як іноземна, частина 4",
+        "lecturer": "Бойко Г.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8926651311?pwd=K2wvY0RCZnJTOHFrTlZGbFNEVC9zZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

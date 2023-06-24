@@ -1,0 +1,181 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 4",
+        "lecturer": "Баглай О.І., 32 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 4",
+        "lecturer": "Баглай О.І., 32 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Політологія",
+        "lecturer": "Кукарцев О.В., 207 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Політологія",
+        "lecturer": "Гетьманчук М.П., 309 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8855380809?pwd=cmRTTUQ2UHArTDZuOUwvSHFWRHE2dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "Хома І.Я., 309 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Дротенко В.І., +СК209 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "Хома І.Я., 407 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Незгода С.П., корпус 21 в.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "Хома І.Я., 204 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи інформаційних технологій",
+        "lecturer": "Федушко С.С., 524 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:h59a3xMhzjym-YU4dEXK-roXqOXsgKfcpjWcIpb5v5c1@thread.tacv2/1677148716605?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=8fb957ab-1fd9-46b4-87c9-6a33795fef8b&parentMessageId=1677148716605&teamName=%D0%A1%D0%A2-21&channelName=General&createdTime=1677148716605&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Дротенко В.І., 526а IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "Хома І.Я., 517 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи інформаційних технологій",
+        "lecturer": "Трач О.Р., 517 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:h59a3xMhzjym-YU4dEXK-roXqOXsgKfcpjWcIpb5v5c1@thread.tacv2/1677228956299?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=8fb957ab-1fd9-46b4-87c9-6a33795fef8b&parentMessageId=1677228956299&teamName=%D0%A1%D0%A2-21&channelName=General&createdTime=1677228956299&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

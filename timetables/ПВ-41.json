@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Господарський процес",
+        "lecturer": "Комарницька І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9649089415?pwd=pc0yQqDAmxMXYfVXLbjzBMrwpYNPjO.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "Сибірна Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "Софінська І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83120740535?pwd=WnBZQUJWcGdib0diblRrYURKL2p0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "Баїк О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75113636214?pwd=pojb9os1rY8wXy5l06EGGRA2QvbZXq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "Софінська І.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83678869647?pwd=cUxFd1lqWHE3OXhydmhWRU5NWEI3Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "Дашо Т.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74443477991?pwd=rrv6S0ZnnAKvTziFMuOdXfvJXB3IDk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "Маськовіта М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71889484863?pwd=rqvQQbV61KDsGEsg8R6qpIbz35z5U1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "Шульган І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82958529126?pwd=bWlHNE0vVjVkWkdRdTJQOCtJZDRRdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "Малець М.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72978456510?pwd=a2Z94ubpoZco9YX8RWxbraqqIspFbO.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "Шульган І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81922445555?pwd=Y0NJVWZ5clhpVmxzbjl3NWtXKzdRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "Малець М.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79041655669?pwd=bdabkVCsXaOQ8K2Lb7ZF4CvlztwOAb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "Добош З.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89584644991?pwd=NHR4SzFha0RVaUdkZDdERWVWbjVldz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

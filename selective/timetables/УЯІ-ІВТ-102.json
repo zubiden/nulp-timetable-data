@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "Бубела Т.З., 702 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1678967310465?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "Куць В.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1677680901536?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Застосування продуктів органічного синтезу",
+        "lecturer": "Субтельний Р.О., 331 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Застосування продуктів органічного синтезу",
+        "lecturer": "Субтельний Р.О., 331 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Розрахунок реакторів",
+        "lecturer": "Мельник С.Р., +ХТМ325 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розрахунок реакторів",
+        "lecturer": "Мельник С.Р., +ХТМ325 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "Хлібишин Ю.Я., +ХТМ325 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "Хлібишин Ю.Я., +ХТМ325 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "Кічура Д.Б., 117 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "Кічура Д.Б., 117 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "Кічура Д.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Каталіз в органічному синтезі",
+        "lecturer": "Івасів В.В., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Застосування продуктів органічного синтезу",
+        "lecturer": "Субтельний Р.О., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Застосування продуктів органічного синтезу",
+        "lecturer": "Субтельний Р.О., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "subject": "Системи автоматизованого проектування в мікро- та наносистемній техніці",
+        "lecturer": "Бурий О.А., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 1 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677154882792?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Прикладні програми мікро- та наносистемної техніки",
+        "lecturer": "Бурий О.А., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 2 тижд.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677157553464?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 4 тижд.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677157553464?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Системи автоматизованого проектування в мікро- та наносистемній техніці",
+        "lecturer": "Бурий О.А., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Системи автоматизованого проектування в мікро- та наносистемній техніці",
+        "lecturer": "Бурий О.А., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aNcZjbOZRg1Cat26TWxLwa7XA2KopvCMpi-hVB8B48sg1%40thread.tacv2/1676890070237?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "Дружинін А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/9068448895?pwd=YzhUeFd3QWx2RHpvT1l3OVdPd3RCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "Греб В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "Греб В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "Лях-Кагуй Н.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "Дружинін А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/9068448895?pwd=YzhUeFd3QWx2RHpvT1l3OVdPd3RCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "Греб В.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "Нічкало С.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad8ce907c955b4abe8c273e334800f228%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=9ab013cb-35e3-41af-abab-f3ee5d6d6c4c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Прикладні програми мікро- та наносистемної техніки",
+        "lecturer": "Бурий О.А., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "Греб В.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "Нічкало С.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad8ce907c955b4abe8c273e334800f228%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=9ab013cb-35e3-41af-abab-f3ee5d6d6c4c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Прикладні програми мікро- та наносистемної техніки",
+        "lecturer": "Бурий О.А., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Прикладні програми мікро- та наносистемної техніки",
+        "lecturer": "Бурий О.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи автоматизованого проектування в мікро- та наносистемній техніці",
+        "lecturer": "Бурий О.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

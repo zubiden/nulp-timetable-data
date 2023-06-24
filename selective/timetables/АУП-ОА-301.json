@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "Гринів Т.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8n7AAlCyW6VcK5OlQebs7cC0Jii0QwQiVd9OvMGAmZM1%40thread.tacv2/conversations?groupId=aaec4e2d-3e0c-47c8-9a21-451610894111&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "Гринів Т.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8n7AAlCyW6VcK5OlQebs7cC0Jii0QwQiVd9OvMGAmZM1%40thread.tacv2/conversations?groupId=aaec4e2d-3e0c-47c8-9a21-451610894111&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "Бойчук А.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4783946740?pwd=ZHFXVE9tVVBESDVMTkVHWER2NHlBZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

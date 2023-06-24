@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова як іноземна",
+        "lecturer": "Моторний А.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Сорока С.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Бундз Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75496278685?pwd=LyB15SG9VwvrIivg20HE49asgSNYEd.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82225744017?pwd=TnFLaSt3eTBtT0ZyUG9oL2l5MEtiQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82225744017?pwd=TnFLaSt3eTBtT0ZyUG9oL2l5MEtiQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Сорока С.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "subject": "Споруди для утилізації відходів",
+        "lecturer": "Вербовський О.В., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Споруди для утилізації відходів",
+        "lecturer": "Вербовський О.В., 209 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація водогосподарських об`єктів",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Наукові дослідження в гідротехніці",
+        "lecturer": "Лободанов М.М., 209 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в гідротехніці",
+        "lecturer": "Кущенко В.М., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в гідротехніці",
+        "lecturer": "Лободанов М.М., 209 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Керування поверхневим стоком",
+        "lecturer": "Жук В.М., 411 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89737304118?pwd=Y2U4Zzd3V1duTTBkeGxlL3FqQ3REUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Керування поверхневим стоком",
+        "lecturer": "Жук В.М., 411 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89737304118?pwd=Y2U4Zzd3V1duTTBkeGxlL3FqQ3REUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Природоохоронні споруди",
+        "lecturer": "Гвоздецький О.Г., 411 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8196660944?pwd=QTYwSUtSaWNlRGFINUVXQU5PSkdFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Природоохоронні споруди",
+        "lecturer": "Гвоздецький О.Г., 411 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8196660944?pwd=QTYwSUtSaWNlRGFINUVXQU5PSkdFUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

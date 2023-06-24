@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Ризик-менеджмент",
+        "lecturer": "Білик О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77937588603?pwd=urWw8RKE94BBF7Tr3z9bwuesKq3XZ8.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Ризик-менеджмент",
+        "lecturer": "Дзюрах Ю.М., +МЕРІ-123 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72685116037?pwd=la7O0dbjqc9MKW8Qk24omRHuurCzSM.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

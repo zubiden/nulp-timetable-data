@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0X2Q_CTLJvHd7uT2LuoYpyK4cuoBGKsh0tIU4Udk-dM1%40thread.tacv2/1683535134416?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2299537548-a8c4-48dc-9296-c961579a1051%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальний аналіз тексту та тональності тексту",
+        "lecturer": "Думин І.Б., 123б, XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання та оптимізація для глибинного навчання",
+        "lecturer": "Матвійчук Я.М., 127а, XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNhODFjYWUtZjM2YS00MGNlLWIzZTctY2M4NGE5ODRkMTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224dbc480c-17f9-47ac-ba1e-f5feec033345%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "Косаревич Р.Я., 127а, XX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVJ6g8-LSFljli-SZu1vXH6UpHLhMfp1QPnN1s2LdBCc1%40thread.tacv2/1676657316796?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259484230-f915-4831-acc8-19e28e808fec%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальний аналіз тексту та тональності тексту",
+        "lecturer": "Думин І.Б., 231 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Моделювання та оптимізація для глибинного навчання",
+        "lecturer": "Матвійчук Я.М., 124 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNhODFjYWUtZjM2YS00MGNlLWIzZTctY2M4NGE5ODRkMTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224dbc480c-17f9-47ac-ba1e-f5feec033345%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання та оптимізація для глибинного навчання",
+        "lecturer": "Матвійчук Я.М., 230 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNhODFjYWUtZjM2YS00MGNlLWIzZTctY2M4NGE5ODRkMTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224dbc480c-17f9-47ac-ba1e-f5feec033345%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальний аналіз тексту та тональності тексту",
+        "lecturer": "Думин І.Б., 231 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8070182929?pwd=SWtFZ29BN3NKbkhFaEpBSm9tY3c2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., 120 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ozr-ymby-prr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "Косаревич Р.Я., 200 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:95676ce1f1474f45baa599a7040cb3c4@thread.tacv2/1678349968772?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%2259484230-f915-4831-acc8-19e28e808fec%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Штучний інтелект в ігрових застосуваннях",
+        "lecturer": "Гентош Л.І., 120 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/ozr-ymby-prr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "Косаревич Р.Я., 200 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a95676ce1f1474f45baa599a7040cb3c4%40thread.tacv2/1676659877970?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259484230-f915-4831-acc8-19e28e808fec%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Глобальні проблеми світового господарства та міжнародних економічних відносин",
+        "lecturer": "Скибінський О.С., Колінко Н.О., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Глобальні проблеми світового господарства та міжнародних економічних відносин",
+        "lecturer": "Скибінський О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3915443a716747d4ac3e899d96705140%40thread.tacv2/1676386472911?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277268260-be84-427d-b412-64a7f23110c5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

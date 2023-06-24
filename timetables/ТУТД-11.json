@@ -1,0 +1,375 @@
+[
+    {
+        "subject": "Управління якістю туристичних послуг",
+        "lecturer": "Ільницька-Гикавчук Г.Я., б. 01",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77335633435"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "Теребух А.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72915833481?pwd=6b4wCj5WRxxHMww4kOzpSRCJ3irfFO.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних туристичної галузі",
+        "lecturer": "Кузь О.Н., б.02",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85318830902?pwd=dnFwc3lINzd4VVhXWk0wdUt6QU9xUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління сталим розвитком туризму",
+        "lecturer": "Паньків Н.Є., б.01111 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74406052536?pwd=ddhLEK2JbvPFpDBifb8G0jE82LQEls.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Управління сталим розвитком туризму",
+        "lecturer": "Паньків Н.Є., б.01111 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74406052536?pwd=ddhLEK2JbvPFpDBifb8G0jE82LQEls.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Макар О.П., б.01311 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Макар О.П., б.01311 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний туризм",
+        "lecturer": "Макар О.П., б.02",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний туризм",
+        "lecturer": "Макар О.П., б.02303 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72054348217?pwd=Po9fNJ27rbSIocEl4Fzj0rAcoX2CyG.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "Габа М.І., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjBhZmQ3YzMtMDk2Mi00YjY1LThiZjQtNTkzM2ZhNWE1NTMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "Габа М.І., 313 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYzODMyYjgtNjk0OS00OThiLWFlY2UtODQ2NTQxZWUzMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні глобалізаційні трансформації в туризмі",
+        "lecturer": "Габа М.І., б.02313 III н.к., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzVlNjViMmQtNjliZi00ZGQ0LWE2YWUtMjU1OWE5ZmRlN2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні глобалізаційні трансформації в туризмі",
+        "lecturer": "Габа М.І., б.02313 III н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWEzYmRiNTgtYjRlNi00Y2E5LWI5NmEtMTcxYTkxYTQ3YTJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Макар О.П., б.01230 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних туристичної галузі",
+        "lecturer": "Руда М.В., б.02311 III н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76275487282?pwd=3ozvxs2S0GrEPTCyjBA9jpbkwf9UJ5.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "Макар О.П., б.01311 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних туристичної галузі",
+        "lecturer": "Руда М.В., б.02313 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75920892607?pwd=LQY6uVt82yq6mvzOMuMGRai0ra0K7m.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних туристичної галузі",
+        "lecturer": "Голодовська О.Я., б.02313 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління якістю туристичних послуг",
+        "lecturer": "Роїк О.Р., б.01311 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76735414572?pwd=9bmu84181IWPx8ZzsmVr9yOL57UhDJ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "Підвальний М.В., б.02303 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdiZWU2ODAtNTg3MC00NTU5LThlZmItOGQ1NDJhYzM1YWM3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний туризм",
+        "lecturer": "Макар О.П., б.02313 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "Підвальний М.В., б.01303 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdiZWU2ODAtNTg3MC00NTU5LThlZmItOGQ1NDJhYzM1YWM3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний туризм",
+        "lecturer": "Макар О.П., б.02311 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління якістю туристичних послуг",
+        "lecturer": "Роїк О.Р., б.01311 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76735414572?pwd=9bmu84181IWPx8ZzsmVr9yOL57UhDJ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління якістю туристичних послуг",
+        "lecturer": "Роїк О.Р., б.01311 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76735414572?pwd=9bmu84181IWPx8ZzsmVr9yOL57UhDJ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

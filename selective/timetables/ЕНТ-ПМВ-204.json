@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "Турчин Я.Б., ЕЕ-11сп АВ-11сп114 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "Цебенко О.О., ЕЕ-11сп АВ-11сп206 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

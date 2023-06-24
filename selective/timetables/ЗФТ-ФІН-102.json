@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Fintech: основи та застосування фінансових технологій",
+        "lecturer": "Мазур А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9bf1c42db61b48368c62614b19e3bf7f%40thread.tacv2/1677498561750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Fintech: основи та застосування фінансових технологій",
+        "lecturer": "Мазур А.В., 412 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9bf1c42db61b48368c62614b19e3bf7f%40thread.tacv2/1678282729182?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Fintech: основи та застосування фінансових технологій",
+        "lecturer": "Мазур А.В., 412 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9bf1c42db61b48368c62614b19e3bf7f%40thread.tacv2/1678282778797?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

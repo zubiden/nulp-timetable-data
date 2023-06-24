@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Менеджмент персоналу торговельного підприємства",
+        "lecturer": "Данько Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:LmtCXp78oifvsUhyfH_liIxANOfAFDkuPVAJ2KcBEBs1@thread.tacv2/1677585883832?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=780f8ab8-ec15-4f1d-966f-014b63e2a197&parentMessageId=1677585883832&teamName=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%83%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%D0%B0&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677585883832&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент персоналу торговельного підприємства",
+        "lecturer": "Данько Т.І., 405 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

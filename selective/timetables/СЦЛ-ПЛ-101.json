@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Соціолінгвістика",
+        "lecturer": "Левченко О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tbv-jupr-fdp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

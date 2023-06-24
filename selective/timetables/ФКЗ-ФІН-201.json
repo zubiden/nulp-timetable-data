@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "Сергеєв О.М., 404 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "Сергеєв О.М., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

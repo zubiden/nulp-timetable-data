@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "Сватюк О.Р., 202 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "Сватюк О.Р., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBTXo-6oprO433AmmumNVWeaTDuOCzDy2pRl8Qph6QXs1%40thread.tacv2/1677082947889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

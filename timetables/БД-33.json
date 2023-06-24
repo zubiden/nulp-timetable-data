@@ -1,0 +1,243 @@
+[
+    {
+        "subject": "Будівельно-конструктивні рішення будівель міського господарства",
+        "lecturer": "Юхман Л.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7926945992?pwd=0vnwhmtZPactXCbdSWBRXZAsGVZOFP.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інженерна підготовка міських територій",
+        "lecturer": "Парнета Б.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXM-qYVnQSsgJDzwejDYquzsBX5CvBlnolts5XHQ3IFI1%40thread.tacv2/conversations?groupId=eafa7340-8dab-47a6-9620-63b1f91cf56c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "Пелешко І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи технічного нагляду в будівництві",
+        "lecturer": "Пенцак А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Будівельно-конструктивні рішення будівель міського господарства",
+        "lecturer": "Юхман Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7926945992?pwd=0vnwhmtZPactXCbdSWBRXZAsGVZOFP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна підготовка міських територій",
+        "lecturer": "Парнета Б.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXM-qYVnQSsgJDzwejDYquzsBX5CvBlnolts5XHQ3IFI1%40thread.tacv2/conversations?groupId=eafa7340-8dab-47a6-9620-63b1f91cf56c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmFhM2YxYmItMWFiNy00MWRlLWIwNjEtNDJhZmYyMzRlZjc3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "Брайченко С.П., Маргаль І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77946977445?pwd=AGIxVh327f79b3x4x4B2ptbkIYdKWU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "Брайченко С.П., Маргаль І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77946977445?pwd=AGIxVh327f79b3x4x4B2ptbkIYdKWU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "Маргаль І.В., Сидор Н.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:Zzwrltw3Yoih-bNtFzmBhb3o1pMXxraFNZ3y3Qr4esM1@thread.tacv2&ctx=channel",
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи технічного нагляду в будівництві",
+        "lecturer": "Пенцак А.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "Брайченко С.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76881111869?pwd=dbzvldZNGrt4bu905mdyOaRLOf7wOH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "Пелешко І.Д., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76881111869?pwd=dbzvldZNGrt4bu905mdyOaRLOf7wOH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "Пелешко І.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "Брайченко С.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153141254?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Сурмай М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вегера П.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83248345890?pwd=Vy95RTRPaUFqTkRNN0FPdS8xVGE1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Вегера П.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83248345890?pwd=Vy95RTRPaUFqTkRNN0FPdS8xVGE1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Барабаш В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Бліхарський З.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adb2b6f44ef814c5a8bb93fcfaa4a2a46%40thread.tacv2/1676995462347?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b45eb37-658f-41f5-baf5-98929d6891d8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Ільницький Б.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6170809843?pwd=UCtCTWM4UGFaSFdJTzB3Q2Q5VkNxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Кунанець Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87615542487?pwd=WDlleG90WkM4VVlVRVRCaHRsRlpWQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Кунанець Ю.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87615542487?pwd=WDlleG90WkM4VVlVRVRCaHRsRlpWQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Демчина Б.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7w0DE5ymWntinlnrdhmezovI11ECHy8vXaBS9HmXljc1%40thread.tacv2/conversations?groupId=a0e7dedd-6648-4307-8627-64d10c8ac560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "Барабаш В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "Демчина Б.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7w0DE5ymWntinlnrdhmezovI11ECHy8vXaBS9HmXljc1%40thread.tacv2/conversations?groupId=a0e7dedd-6648-4307-8627-64d10c8ac560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Бліхарський З.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adb2b6f44ef814c5a8bb93fcfaa4a2a46%40thread.tacv2/1676996744717?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b45eb37-658f-41f5-baf5-98929d6891d8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "Бліхарський З.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adb2b6f44ef814c5a8bb93fcfaa4a2a46%40thread.tacv2/1676996831110?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b45eb37-658f-41f5-baf5-98929d6891d8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

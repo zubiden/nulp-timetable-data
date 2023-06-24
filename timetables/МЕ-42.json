@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "Матвій І.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "Матвій І.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "Огінок С.В., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20%20Meeting%20ID:%20605%20861%203984%20Passcode:%207777"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Гвоздь М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20%20Meeting%20ID:%20605%20861%203984%20Passcode:%207777"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "Мірошник Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84974937459?pwd=bU9BQ0xkaWpYTC9HVlZtUkhuc1NTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "Огінок С.В., анг. мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "Кулиняк І.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76434462729?pwd=H6VxDJJcOJkxnaaS4yxlUTCh9Xg9ZF.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "Мірошник Р.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84920422532?pwd=S1Q1blJ2LzYxdkhGTFVhUm5EZi90Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "Мірошник Р.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83075868126?pwd=SUJYWHo4ckZycXZkcm9JVzltcWpjdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "Мірошник Р.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84517759174?pwd=U2k3L01EaE5LNUo4OVp3a2dwWFp1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "Матвій І.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "Матвій І.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

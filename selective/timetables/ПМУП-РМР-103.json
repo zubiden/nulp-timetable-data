@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Паблік менеджмент: управління персоналом та лідерство",
+        "lecturer": "Борщук Є.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Паблік менеджмент: управління персоналом та лідерство",
+        "lecturer": "Гарбариніна В.Ю., 237 смт.Брюховичі, ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

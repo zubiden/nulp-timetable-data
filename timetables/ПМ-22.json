@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Алєксєєв В.І., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ccv-atig-bnf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ймовірності",
+        "lecturer": "Костробій П.П., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "Каленюк П.І., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Онищук О.В., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теорія ймовірності",
+        "lecturer": "Рижа І.А., 221 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Теорія ймовірності",
+        "lecturer": "Рижа І.А., 221 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Онищук О.В., 509 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "Топилко П.І., 225а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "Ліснічук А.Є., 225б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "Топилко П.І., 225c IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "Ліснічук А.Є., 225c IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "Антонова Т.М., 215 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88647442989?pwd=YVpaODhFU0svUi9mcnQyRmh3bXd6QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Алєксєєв В.І., 225а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gyw-cxis-nnh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Польовий В.Є., 225б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "Янішевський В.С., 225а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "Чистяк В.І., 225б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "Каленюк П.І., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Теорія ймовірності",
+        "lecturer": "Костробій П.П., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Алєксєєв В.І., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/yan-qpoi-too"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "Топилко П.І., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pkp-bmtn-ffy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "Янішевський В.С., 214 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/71041548413?pwd%3DInva8S0w5lp2q9CyWa5P8GNrlnrZ8f.1&sa=D&source=calendar&ust=1681793771460415&usg=AOvVaw1K9gC6MQ_386_Q41BGoki_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

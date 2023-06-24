@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Кущенко В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Пенцак А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Бутринський І.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Пенцак А.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Кущенко В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmFhM2YxYmItMWFiNy00MWRlLWIwNjEtNDJhZmYyMzRlZjc3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Кунанець Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88925452126?pwd=VTB4TWJlT3FKV0wzcEpDb1VVQTVYUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Кунанець Ю.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88925452126?pwd=VTB4TWJlT3FKV0wzcEpDb1VVQTVYUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Метали та зварювання в будівництві",
+        "lecturer": "Дзюбик А.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73935305888?pwd=9G1L5EHBydRsXaac8n7HB8Iki2dpC7.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Метали та зварювання в будівництві",
+        "lecturer": "Дзюбик А.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73935305888?pwd=9G1L5EHBydRsXaac8n7HB8Iki2dpC7.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Іванейко І.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Іванейко І.Д., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Кущенко В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Метали та зварювання в будівництві",
+        "lecturer": "Дзюбик А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73935305888?pwd=9G1L5EHBydRsXaac8n7HB8Iki2dpC7.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сертифікація та акредитація",
+        "lecturer": "Данкевич І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82410272472?pwd=ZWMxNmZENlhFTkl2ZDZqeWV1YlZ3UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Бутринський І.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Іванейко І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153141254?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

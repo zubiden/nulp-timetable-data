@@ -1,0 +1,241 @@
+[
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., 311 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPJXV_JlA3g-MhzDCizUy5dvyZoLxzpO1WblBAQWlHqg1%40thread.tacv2/1676386016950?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., 303 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Байбакова І.М., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., 303 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/jwa-oewt-hof"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Байбакова І.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tgz-ubbm-tvx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Журавель С.С., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Журавель С.С., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технології мереж мобільного зв`язку",
+        "lecturer": "Яремко О.М., 303 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fvv-gvge-fkv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Журавель С.С., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології мереж мобільного зв`язку",
+        "lecturer": "Яремко О.М., 303 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/sor-yibw-dac"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Журавель С.С., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0PKyxxaoX_EybHl-thccsGHdBj1ksPFNFf5maUuSmL41%40thread.tacv2/1677094292209?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/iwj-bnkh-tym"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "lecturer": "Селюченко М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/iwj-bnkh-tym"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології мереж мобільного зв`язку",
+        "lecturer": "Максимюк Т.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології мереж мобільного зв`язку",
+        "lecturer": "Максимюк Т.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jgb-duds-vwg?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

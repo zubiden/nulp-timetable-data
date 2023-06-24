@@ -1,0 +1,149 @@
+[
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "Куць В.Р., Походило Є.В., 703 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82332097102?pwd=S2orQlZLNEZKY0UxTmI2UlZGLzllZz09",
+            "https://us05web.zoom.us/j/86725233759?pwd=RDNMOGtXYUx5REI5Z1JGY09nRkdQdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "Походило Є.В., 712в V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "Куць В.Р., 712в V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83226624623?pwd=SGs2NDUrcVhrcS96SWhUcjVhTHN2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "Походило Є.В., 712в V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані системи управління",
+        "lecturer": "Куць В.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86524902976?pwd=eDE1OGNyc1FFUDdmV21PbzVGV3kxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізовані системи управління",
+        "lecturer": "Куць В.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82818361373?pwd=T05rMnUzM0VOU2xrNEF2ajl6QjhTQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системний аналіз об`єктів кваліметрії",
+        "lecturer": "Бубела Т.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQ4OWRlYTMtZjc4OC00ZGI1LTljODctOTVlODM4OGY1YTA5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз об`єктів кваліметрії",
+        "lecturer": "Крайовський В.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzExYzM0OWUtZGZhNy00MmQ4LTliZjctMWEyOWUxMjg3NjRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Системи екологічного управління та сталий розвиток",
+        "lecturer": "Іванишин А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1@thread.tacv2/1677758895806?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи екологічного управління та сталий розвиток",
+        "lecturer": "Іванишин А.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1@thread.tacv2/1677758895806?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

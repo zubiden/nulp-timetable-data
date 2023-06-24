@@ -1,0 +1,206 @@
+[
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., 104 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., 104 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Математична теорія ризику в інформаційних технологіях",
+        "lecturer": "Антонова Т.М., 225c IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Просторове моделювання екологічних процесів",
+        "lecturer": "Бунь Р.А., 225а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akZQ1Oo87OwPtXmJw1DCkgDqKSPeoXgxWTkzaL7jpQ4k1%40thread.tacv2/conversations?groupId=41f5bec9-0802-4ef3-9472-f728de016ffc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Просторове моделювання екологічних процесів",
+        "lecturer": "Бунь Р.А., 225а IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akZQ1Oo87OwPtXmJw1DCkgDqKSPeoXgxWTkzaL7jpQ4k1%40thread.tacv2/conversations?groupId=41f5bec9-0802-4ef3-9472-f728de016ffc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Математична теорія ризику в інформаційних технологіях",
+        "lecturer": "Сеник А.П., 225c IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gxb-feon-vkz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Математична теорія ризику в інформаційних технологіях",
+        "lecturer": "Сеник А.П., 104 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gxb-feon-vkz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичні моделі екологічних процесів",
+        "lecturer": "Бунь Р.А., 511 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8xmijttLtD7U07ze2ihBt2F_xIUaHAD-InJUNtTikYQ1%40thread.tacv2/conversations?groupId=e88f563a-d69c-4db5-a35a-ec676c6cea0a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rfv-nwhb-eow"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Математичні моделі екологічних процесів",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8xmijttLtD7U07ze2ihBt2F_xIUaHAD-InJUNtTikYQ1%40thread.tacv2/conversations?groupId=e88f563a-d69c-4db5-a35a-ec676c6cea0a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Просторове моделювання екологічних процесів",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akZQ1Oo87OwPtXmJw1DCkgDqKSPeoXgxWTkzaL7jpQ4k1%40thread.tacv2/conversations?groupId=41f5bec9-0802-4ef3-9472-f728de016ffc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Просторове моделювання екологічних процесів",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akZQ1Oo87OwPtXmJw1DCkgDqKSPeoXgxWTkzaL7jpQ4k1%40thread.tacv2/conversations?groupId=41f5bec9-0802-4ef3-9472-f728de016ffc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

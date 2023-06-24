@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Сокіл О.Г., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Чепіль Б.А., 225 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

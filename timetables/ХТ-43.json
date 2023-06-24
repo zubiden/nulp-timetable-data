@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "Семеген Р.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "Семеген Р.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "Семеген Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "Семеген Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Магорівська Г.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Щеглюк М.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87674981037?pwd=TEdmZGdSTmFTanhtMzFaMkJDek1qZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Магорівська Г.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "Магорівська Г.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Стасюк І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

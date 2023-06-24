@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Основи теорії надійності",
+        "lecturer": "Ріпак Н.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/mru-bubq-pnz"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології та стандарти захисту персональних даних",
+        "lecturer": "Дорошенко А.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74611088869?pwd=mIs7YTBeDqPRojmOG5tjB75G6sqH77.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Шуневич О.Б., 107a V н.к., 802б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83733965748?pwd=b3ZFdzRJekMrYkJMU3h1Y3RtNXBmUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Скорохода О.В., 802б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73919317949?pwd=aYAo3wQFIuaB6GZ0GS4GdTalu6AG2D.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "Опотяк Ю.В., 802а V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Шуневич О.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89173591150?pwd=WFlRaWlXRlo4MnZGWEZWeHgxUGlnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Скрибайло-Леськів Д.Ю., 802б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/cbn-rfzm-tsg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 407 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології та стандарти захисту персональних даних",
+        "lecturer": "Дорошенко А.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78320482373?pwd=KhFbn0nDoAaDLUtQOun3xxRw3Y9YJb.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "Опотяк Ю.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "Опотяк Ю.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 218 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії надійності",
+        "lecturer": "Павлюк О.М., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86323717105?pwd=OHgzckJlWVc1bXY1YzdjNFZHdGtpdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Різник О.Я., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Скорохода О.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Скорохода О.В., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

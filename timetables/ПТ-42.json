@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Міжнародні трансферні операції та контракти",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні трансферні операції та контракти",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління трансфером та комерційною діяльністю",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні трансферні операції та контракти",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Документальний супровід комерційної діяльності",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Документальний супровід комерційної діяльності",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні трансферні операції та контракти",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні трансферні операції та контракти",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Управління трансфером та комерційною діяльністю",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 4 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677157707748?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., 4 тижд.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abp8GgFayrdnUkHeGbhSeyo7jA2O8-9e5szPSxJUDPa81%40thread.tacv2/1677157707748?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d058667a-ab2d-40a7-a308-0130bfd74296%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи радіолокації",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/syx-ixzt-bru"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/pqt-gavk-vep"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Телекомунікаційні мережі в авіації",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/cnm-efiw-fey"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електронні системи управління типовим літаком",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/sin-kggw-act"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електронні системи управління типовим літаком",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/sin-kggw-act"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "Павлиш В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0c3c851a9f9343e9ad3839dbe622bc2a%40thread.tacv2/conversations?groupId=0a3443f6-9702-49c3-a169-3f005c81be2f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_0TbylQEVxR_rWTNTwpnDHE9FRjgsjnbbc2KdWzer5k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b8ea4d22-4365-49e6-8b95-c5421864fa76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи радіолокації",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fgy-trbm-jti"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/hgc-recn-psj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/spp-hcbv-eww"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/siw-yoew-ecp"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Телекомунікаційні мережі в авіації",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/qou-phnv-znj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

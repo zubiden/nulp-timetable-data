@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Педагогіка і методика викладання у вищій школі",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

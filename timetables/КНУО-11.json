@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Цифрові методи обробки сигналів та аналізу зображень",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/93874716641%20%20#Passcode:%204GgYfV"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів та аналізу зображень",
+        "lecturer": "Лагун І.І., 611д V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/93874716641%20%20#Passcode:%204GgYfV"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів та аналізу зображень",
+        "lecturer": "Наконечний А.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3563134043?pwd=U0NkTEdKZ3h0UzRKSm9LbEJUdEQwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Давачі автомобільних систем",
+        "lecturer": "Гаранюк І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні електронні автомобільні технології",
+        "lecturer": "Мищишин В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20m8B0bx)"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування та програмування бортових комп`ютерних систем",
+        "lecturer": "Модла Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20841%202893%201377%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%207J5tSF"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальні системи керування в сучасних електромобілях",
+        "lecturer": "Модла Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78513511681?pwd=Kdod2TtZbLqLwC8OSVH3fgU8CJxhHh.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20785%201351%201681%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20J22uCa"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні електронні автомобільні технології",
+        "lecturer": "Мищишин В.М., 607а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20m8B0bx)"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні електронні автомобільні технології",
+        "lecturer": "Мищишин В.М., 607а V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20m8B0bx)"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Давачі автомобільних систем",
+        "lecturer": "Гаранюк І.П., 607а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні електронні автомобільні технології",
+        "lecturer": "Мищишин В.М., 607а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/4954696524%20(%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20m8B0bx)"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Давачі автомобільних систем",
+        "lecturer": "Гаранюк І.П., 607а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальні системи керування в сучасних електромобілях",
+        "lecturer": "Модла Р.М., 608 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78513511681?pwd=Kdod2TtZbLqLwC8OSVH3fgU8CJxhHh.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20785%201351%201681%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20J22uCa"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Проектування та програмування бортових комп`ютерних систем",
+        "lecturer": "Модла Р.М., 609 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20841%202893%201377%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%207J5tSF"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

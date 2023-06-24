@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Ізонін І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Ізонін І.В., 120 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

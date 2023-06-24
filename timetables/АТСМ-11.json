@@ -1,0 +1,118 @@
+[
+    {
+        "subject": "Телеметрія на автомобільному транспорті",
+        "lecturer": "Бритковський В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83318814464?pwd=cFNlaytYdk5NRkJlR2RUSC8rb2dZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Телеметрія на автомобільному транспорті",
+        "lecturer": "Бритковський В.М., 214 VI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Гібридні та електричні приводи автомобілів",
+        "lecturer": "Пороховський Ю.В., 114 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88064213381?pwd=cTFpVjJ6dGlhTkNsRnhDSGFhQ2ttZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз і синтез мехатронних систем автомобілів",
+        "lecturer": "Літвін Р.Г., 105 VI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління якістю і сертифікація автомобілів",
+        "lecturer": "Нємий С.В., 216 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86168665717?pwd=QlBMNExaYVNLSU9UajlnMUk3UnN1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Аналіз і синтез мехатронних систем автомобілів",
+        "lecturer": "Кіндрацький Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Гібридні та електричні приводи автомобілів",
+        "lecturer": "Пороховський Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6967491849?pwd=a2g3ZGRGREtZWHI4dWlkVFhHU21sUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю і сертифікація автомобілів",
+        "lecturer": "Нємий С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86168665717?pwd=QlBMNExaYVNLSU9UajlnMUk3UnN1QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

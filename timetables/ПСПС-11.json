@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Групова психотерапія та психокорекція",
+        "lecturer": "Дорожкін В.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86936720309?pwd=OTROUUZHcXIxWnhmV2QwMmkrQUdmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Практична психологія",
+        "lecturer": "Сняданко І.І., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjZhZjA1NDItMzg1Yy00MTc2LWFjOWMtM2FmMGE2YTY3NTc5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e02b5089-120b-4024-a5f7-03c54ed4e4d7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "Ткалич М.Г., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Практична психологія",
+        "lecturer": "Сняданко І.І., 68 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Психологічне консультування з основами психотерапії, частина 2",
+        "lecturer": "Савка І.М., 68 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7021aa19a55c36743d901000000000000000010000000f9103e9453d90243ba2824ef538415f6&conversationId=19:1tPjIWesZeu3Tl-mrsMadTHlB0ApE_KyPF49IB5ey4U1@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Exception&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сімейна психотерапія",
+        "lecturer": "Кудряшова А.В., 116 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "Ткалич М.Г., вибіркова68 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Сімейна психотерапія",
+        "lecturer": "Сняданко І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjZhZjA1NDItMzg1Yy00MTc2LWFjOWMtM2FmMGE2YTY3NTc5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e02b5089-120b-4024-a5f7-03c54ed4e4d7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психологічне консультування з основами психотерапії, частина 2",
+        "lecturer": "Савка І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології психологічного тренінгу",
+        "lecturer": "Хазратова Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk0ODA5YTItNjNmZi00YjA3LThlZjYtZjA2MzAxMzYxNjA4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9c3ba05-0391-4387-8215-43f23788bcf6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технології психологічного тренінгу",
+        "lecturer": "Стадник Н.В., 68 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Групова психотерапія та психокорекція",
+        "lecturer": "Дорожкін В.Р., 108 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86936720309?pwd=OTROUUZHcXIxWnhmV2QwMmkrQUdmdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

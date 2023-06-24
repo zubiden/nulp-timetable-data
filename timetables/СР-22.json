@@ -1,0 +1,211 @@
+[
+    {
+        "subject": "Питання неповносправності в соціальній роботі",
+        "lecturer": "Козак М.Я., 205б XXIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJzbZKgNEVr3Rp2lwBcVH4cy_JDGpEg0K-ujWNIcljRI1%40thread.tacv2/1681055804558?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e21dbae9-b132-46d5-a912-41e0d32b4468%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "Дудок К.С., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86031374992?pwd=QS9FRzA5MDlBY3hMR0czaXpVZHQxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "Дудок К.С., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86031374992?pwd=QS9FRzA5MDlBY3hMR0czaXpVZHQxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Сінельнікова М.В., 205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "Яцишин У.В., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "Яцишин У.В., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Практика дорадництва в соціальній роботі",
+        "lecturer": "Бік О.Я., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81934906098?pwd=U2IyUmdlblN6V0tyWkxwQjlsbE9WUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Питання неповносправності в соціальній роботі",
+        "lecturer": "Козак М.Я., 107 XXIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика дорадництва в соціальній роботі",
+        "lecturer": "Бік О.Я., 205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/81934906098?pwd=U2IyUmdlblN6V0tyWkxwQjlsbE9WUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Заліско О.К., корпус 21 в.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "Яцишин У.В., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Питання неповносправності в соціальній роботі",
+        "lecturer": "Козак М.Я., 205б XXIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81571369574?pwd=Q2cxd0tjbDZic2JHazZGUGFXM0M5UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Питання неповносправності в соціальній роботі",
+        "lecturer": "Козак М.Я., 205а XXIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "Зеленко Н.М., 209 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDbbv2a4MWASkoDmWMoPEolfhJJ_Wii0HnkTO3HRO2YU1%40thread.tacv2/1676282961410?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Сінельнікова М.В., 207 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

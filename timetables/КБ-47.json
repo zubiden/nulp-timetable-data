@@ -1,0 +1,234 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9ohomAw-2nK9YVh0SLNvgeiDwQmyIQ2DcAz2pC6KFJ41%40thread.tacv2/conversations?groupId=09783381-68f9-4ffe-a8d0-1ada7f925fa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9ohomAw-2nK9YVh0SLNvgeiDwQmyIQ2DcAz2pC6KFJ41%40thread.tacv2/conversations?groupId=09783381-68f9-4ffe-a8d0-1ada7f925fa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Костів Ю.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Костів Ю.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:Vhd99B5V6eeaphRPp-mRbglExs16ZsP1JgERNt8pyzw1@thread.tacv2/1681907261656?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22363816ce-8d64-407b-933e-8c8091ad9ad2%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:Vhd99B5V6eeaphRPp-mRbglExs16ZsP1JgERNt8pyzw1@thread.tacv2/1681907261656?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22363816ce-8d64-407b-933e-8c8091ad9ad2%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Костів Ю.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Костів Ю.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Кухарська Н.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 6,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби криптоаналізу",
+        "lecturer": "Русинко М.К., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 3
+    }
+]

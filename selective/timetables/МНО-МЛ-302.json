@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Маркетинг неприбуткових організацій",
+        "lecturer": "Білик І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aIBM0z0YTwETx8eKPzR2LuvgSWJm60H_NA2ySRP7ni_o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cffc8804-a7da-48fc-bc96-1f3634d8a970&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Маркетинг неприбуткових організацій",
+        "lecturer": "Білик І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aIBM0z0YTwETx8eKPzR2LuvgSWJm60H_NA2ySRP7ni_o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cffc8804-a7da-48fc-bc96-1f3634d8a970&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    }
+]

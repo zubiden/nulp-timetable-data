@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Інтеграційні технології в автоматизованих системах керування",
+        "lecturer": "Сорокун В.Г., 78 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/6330691952?pwd=eWprcXNGR3YydE4vRUtWakJmTkJFUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування програмного забезпечення комп`ютерно-інтегрованих систем керування",
+        "lecturer": "Костик І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83937780235?pwd=OVY2VTA3L1Q3Vkw5LzdUdGpUTTM5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "Федоришин Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77141881119?pwd%3DIMwft3mt4qEHrUPjg7w8rbBHCEqqnO.1&sa=D&source=calendar&ust=1678015469242870&usg=AOvVaw0pPDdvlfpF1H_qzpdlv4Wm"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування програмного забезпечення комп`ютерно-інтегрованих систем керування",
+        "lecturer": "Костик І.В., 82 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології розроблення та управління життєвим циклом програмного забезпечення",
+        "lecturer": "Лесовой Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "Федоришин Р.М., 82 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології розроблення та управління життєвим циклом програмного забезпечення",
+        "lecturer": "Лесовой Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "Федоришин Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77141881119?pwd%3DIMwft3mt4qEHrUPjg7w8rbBHCEqqnO.1&sa=D&source=calendar&ust=1678015469242870&usg=AOvVaw0pPDdvlfpF1H_qzpdlv4Wm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтеграційні технології в автоматизованих системах керування",
+        "lecturer": "Матіко Ф.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae3aa1da9c02d43d59572d5b7aec4327c%40thread.tacv2/1677327401005?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Соціогуманітарні проблеми сучасного українського суспільства",
+        "lecturer": "Макух О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Соціогуманітарні проблеми сучасного українського суспільства",
+        "lecturer": "Макух О.Є., СРСО-12205б XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

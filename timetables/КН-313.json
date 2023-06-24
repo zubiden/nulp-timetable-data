@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Гентош Л.І., 215 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:U2klIPEUtnYbf1Oe-B7E7lfEJXLx3q1FUcfhK5Bxrc41@thread.tacv2/1680509881842?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%2299537548-a8c4-48dc-9296-c961579a1051%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Гентош Л.І., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aU2klIPEUtnYbf1Oe-B7E7lfEJXLx3q1FUcfhK5Bxrc41%40thread.tacv2/1683542382075?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2299537548-a8c4-48dc-9296-c961579a1051%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 406 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Бойчук А.Р., 232 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTI3MjhkYzQtZDM5MC00NjcwLTk2OTUtMmEwNzI3MmEyY2Fk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b14ad340-8b70-43c2-bd22-6025d60df843%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Вовк О.Б., 232 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79697410594?pwd=m0UslBVmWEj4GPfBfz1kwrsGhe5k3I.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Вовк О.Б., 232 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78634883040?pwd=en72v3s31O6vCzUfPx4OZ67mj7oXWP.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Шамуратов О.Ю., 101 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.live.com/meet/9459598876523?p=ztpV5gLqwwRGQhSwqd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Гентош Л.І., 125, XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/hap-hvmf-gwz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Шамуратов О.Ю., 101 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.live.com/meet/9441623499254"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "Гентош Л.І., 125, XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/hap-hvmf-gwz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Шиманський В.М., 101 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCY8CHN9Y67MbUbOFwibCaOu5-eYTfeyyQiFoRn62T-k1%40thread.tacv2/1677224801743?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e33d7748-e91a-4220-ba4f-9974ed62802c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Чурсінова О.Ю., 525 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Машинне навчання",
+        "lecturer": "Бойчук А.Р., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a41a41c7ef70442989de4c49f5e1f10e8%40thread.tacv2/1677618786112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b14ad340-8b70-43c2-bd22-6025d60df843%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "Яковина В.С., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6ttBa0H2TJ_O6WJUkt_k3Pwwt7gUeCUmkbaCNJNzkH41%40thread.tacv2/1677766790931?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2269749394-701f-41f1-aa81-a6acc2d4246f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Шамуратов О.Ю., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.live.com/meet/9460493793596"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Аналітичні сховища даних",
+        "lecturer": "Шамуратов О.Ю., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.live.com/meet/9424755920186"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

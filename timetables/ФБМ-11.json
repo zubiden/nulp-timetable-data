@@ -1,0 +1,238 @@
+[
+    {
+        "subject": "Портфельний менеджмент",
+        "lecturer": "Кондрат І.Ю., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af4bcab6cf5e545d2b7b8cc72c27ae57e%40thread.tacv2/1677064023783?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "Гориславець П.А., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1677323830830?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "Алєксєєв І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad44b754a60a64c89900a6948cd839cc1%40thread.tacv2/1677083860001?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2226572fdb-e2e6-4032-a164-68a9e1318632%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "Мазур А.В., анг.мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abdcd1333dd334dabad5d1effe4cc9ce1%40thread.tacv2/1677498145957?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Фінансове проектування",
+        "lecturer": "Ливдар М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad5993ccc669f4ffb82d2d2ef9f0b82b4%40thread.tacv2/1678211895468?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Управління фінансовою санацією підприємств",
+        "lecturer": "Бондарчук М.К., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a280e74494d9c47d38a929bd78628d4d5%40thread.tacv2/1677064407973?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d0097ea9-128b-45bb-987a-68ae505b204b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "Сергеєв О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2638QHRxEijU8hX_4WzeN3HrtLZKNIj-3vYkdAU-xVM1%40thread.tacv2/1677081422623?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "Сергеєв О.М., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2638QHRxEijU8hX_4WzeN3HrtLZKNIj-3vYkdAU-xVM1%40thread.tacv2/1677081243986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "Гориславець П.А., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1678235290038?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "Курило О.Б., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad44b754a60a64c89900a6948cd839cc1%40thread.tacv2/1681900482891?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e13230c4-2a91-4aff-b633-692057373c0a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління фінансовою санацією підприємств",
+        "lecturer": "Желізняк Р.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a280e74494d9c47d38a929bd78628d4d5%40thread.tacv2/1678213124684?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f330a9c-43ef-4a55-a811-de098e038a0d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "Бондарчук М.К., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Портфельний менеджмент",
+        "lecturer": "Кондрат І.Ю., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af4bcab6cf5e545d2b7b8cc72c27ae57e%40thread.tacv2/1678188568860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "Гориславець П.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1678235400824?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Фінансове проектування",
+        "lecturer": "Ливдар М.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "Мазур А.В., анг.мовою",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abdcd1333dd334dabad5d1effe4cc9ce1%40thread.tacv2/1678282637611?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

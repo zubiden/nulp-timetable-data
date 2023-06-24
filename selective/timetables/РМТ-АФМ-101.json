@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Ризик-менеджмент",
+        "lecturer": "Білик О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77937588603?pwd=urWw8RKE94BBF7Tr3z9bwuesKq3XZ8.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Ризик-менеджмент",
+        "lecturer": "Білик О.І., МЕФБ-1123 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77937588603?pwd=urWw8RKE94BBF7Tr3z9bwuesKq3XZ8.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

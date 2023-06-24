@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Ільчук П.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09%20%20Meeting%20ID:%20831%209256%203037%20Passcode:%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Ільчук П.Г., 5 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Ільчук П.Г., 5 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

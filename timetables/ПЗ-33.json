@@ -1,0 +1,255 @@
+[
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "Іванов С.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Горечко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Журавчак Л.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Журавчак Л.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "Іванов С.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Горечко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "Іванов С.А., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Івасько Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Івасько Н.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Івасенко І.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Івасенко І.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Івасенко І.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "Івасенко І.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Івасько Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "Курапов П.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/bxj-hzww-mxo"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "Курапов П.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/dtn-dqgw-ypb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "Івасько Н.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

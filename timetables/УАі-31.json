@@ -1,0 +1,324 @@
+[
+    {
+        "subject": "Міжнародна економіка",
+        "lecturer": "Гладун Т.М., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "Корчинська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79295224010?pwd=eVDDOIazB5D9IbEzeYsucgpYK9KLZe.1%20%20Meeting%20ID:%20792%209522%204010%20Passcode:%20k28aKY"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76815576007?pwd=aZOBfy9InDRgGV8FAhBwa9UfMoeC5g.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розроблення цінової політики",
+        "lecturer": "Сокіл О.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи трансферу технологій",
+        "lecturer": "Дума О.І., Дальхофф-Нільсен Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71305864057?pwd=GxJS8LiLwMXMDDajQ8JREXknkIJPSE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "Андрушків І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83078080244?pwd=cmREaUFDdHNIcGE5VUg3RE5ubzlPUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "Корчинська О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78286792452?pwd=4hm03zf0aHh7EvCrOtSXGbr3yugobT.1%20%20Meeting%20ID:%20782%208679%202452%20Passcode:%20EAsAj0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78395676286?pwd=wP3fDboRov5jq9eMVb2aaIWDihJQrb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "Гурей І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9552603840?pwd=RXh0R1k2amdLbUtOV3RIbmZRKzhRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "Гурей І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9552603840?pwd=RXh0R1k2amdLbUtOV3RIbmZRKzhRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78395676286?pwd=wP3fDboRov5jq9eMVb2aaIWDihJQrb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75685966840?pwd=HX8rHsacHbPn68hJpMDorT9PTNHTKh.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи трансферу технологій",
+        "lecturer": "Дума О.І., Дальхофф-Нільсен Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71305864057?pwd=GxJS8LiLwMXMDDajQ8JREXknkIJPSE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розроблення цінової політики",
+        "lecturer": "Сокіл О.Г., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "Дзюрах Ю.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71692828030?pwd=JucZivT6hif3VhhstzgPhMzWAOztSl.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна економіка",
+        "lecturer": "Гладун Т.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72885346406?pwd=DHeNbKYMx95GanYcT0jRfca0g7VeGu.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розроблення цінової політики",
+        "lecturer": "Познякова О.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77210193672?pwd=HWRPnmBzl6JrxCEBxz4MaSBgHtZw6n.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна економіка",
+        "lecturer": "Гладун Т.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "Дзяний Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72885346406?pwd=DHeNbKYMx95GanYcT0jRfca0g7VeGu.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення цінової політики",
+        "lecturer": "Познякова О.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77210193672?pwd=HWRPnmBzl6JrxCEBxz4MaSBgHtZw6n.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна економіка",
+        "lecturer": "Гладун Т.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

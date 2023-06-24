@@ -1,0 +1,228 @@
+[
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/85115192311?pwd%3DcWloWkdvUWlRTFJDc0R2Y0JPaVVrZz09&sa=D&source=calendar&ust=1677588816023868&usg=AOvVaw0-QvbRJihbyIEcYtswqVan"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сигнали та коди в телекомунікаційних системах",
+        "lecturer": "Пашкевич В.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/zkb-xvyv-oqs?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сигнали та коди в телекомунікаційних системах",
+        "lecturer": "Пашкевич В.З., 311 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0PKyxxaoX_EybHl-thccsGHdBj1ksPFNFf5maUuSmL41%40thread.tacv2/1676392087151?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aaoW8z6TFfPzlajNN4KHzwjaY9FzIRHUTgspQ3-y08mo1%40thread.tacv2/1676389691802?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Байбакова І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/qn5QE5xneTL7"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сигнали та коди в телекомунікаційних системах",
+        "lecturer": "Пашкевич В.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/buc-ijne-ewd?pli=1&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Глобальні системи інфокомунікацій",
+        "lecturer": "Васьків Г.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сигнали та коди в телекомунікаційних системах",
+        "lecturer": "Пашкевич В.З., 111 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інтерфейси прикладного програмування",
+        "lecturer": "Яковенко Є.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83800438067?pwd=RUdZajQ5TTg2RzA1Wm44YStPOWkyUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтерфейси прикладного програмування",
+        "lecturer": "Пашкевич В.З., 111 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88115145990?pwd=RlJNbTc5cUZCaXhINnBjdmZTNE8vdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Інтерфейси прикладного програмування",
+        "lecturer": "Пашкевич В.З., 111 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81016720030?pwd=MW9mYlUrZGp4dHJCZGcwQTFYenBQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87036882322?pwd=MDdYTGZHaE9GTEJRcGw5dldOVWNEZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., 3 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

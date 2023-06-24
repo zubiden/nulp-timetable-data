@@ -1,0 +1,261 @@
+[
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Понкало С.І., Проскуряков О.В., кп224 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Понкало С.І., Проскуряков О.В., кп224 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Лясковський О.Й., Понкало С.І., 105 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Знак А.В., 105 Гол. н.к., 322 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Козіброда Л.В., 21кор.вул.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Штець В.О., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., Мотиль Р.Я., Павлів А.П., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Казанцева Т.Є., Мотиль Р.Я., Павлів А.П., 304 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Штець В.О., 224 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Понкало С.І., Проскуряков О.В., кп108 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "Понкало С.І., Проскуряков О.В., 108 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Гладчук М.Ю., Мільчевич С.І., кп216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали у графічному дизайні",
+        "lecturer": "Гладчук М.Ю., Мільчевич С.І., кп216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Лясковський О.Й., Понкало С.І., 105 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Знак А.В., 105 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Лясковський О.Й., Понкало С.І., 105 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "Знак А.В., 105 Гол. н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Мотиль Р.Я., 109 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "Мотиль Р.Я., 109 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

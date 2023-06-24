@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "Павлюк Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "Павлюк Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "Павлюк Н.М., 308 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "Павлюк Н.М., 308 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

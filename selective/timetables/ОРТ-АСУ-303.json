@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Стрямець С.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/8625524225?pwd=d3RibWZRZlJnSVd0ZTBGVUpSMHdwdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Стрямець С.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/8625524225?pwd=d3RibWZRZlJnSVd0ZTBGVUpSMHdwdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи робототехніки",
+        "lecturer": "Стрямець С.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/8625524225?pwd=d3RibWZRZlJnSVd0ZTBGVUpSMHdwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

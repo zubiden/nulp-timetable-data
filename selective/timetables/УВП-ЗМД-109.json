@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "Залізна Л.В., 514 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "Жежуха В.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ave8KdLNH18WpmpoLXSj0PPsnHmOUXprY4an3LhTRTGw1%40thread.tacv2/conversations?groupId=0f22efd1-4bb3-4285-a694-adcb56e82635&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

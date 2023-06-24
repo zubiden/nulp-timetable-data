@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Протипожежне водопостачання",
+        "lecturer": "Мисак І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7888300501?pwd=Rmh4S0xSeHFwSHlvYWFUVDRHcFQ4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Протипожежне водопостачання",
+        "lecturer": "Завойко Б.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7888300501?pwd=Rmh4S0xSeHFwSHlvYWFUVDRHcFQ4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Насосні станції",
+        "lecturer": "Завойко Б.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Насосні станції",
+        "lecturer": "Піцишин Б.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Бурова справа",
+        "lecturer": "Босак М.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5153014321?pwd=d0M4dDliTlRvL3g3VEQxSzI3QWNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Бурова справа",
+        "lecturer": "Босак М.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5153014321?pwd=d0M4dDliTlRvL3g3VEQxSzI3QWNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне водопониження та дренаж",
+        "lecturer": "Жук В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87900372998?pwd=WWc1NzQ5ZXNvTGpvV0xZazZyRTJWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне водопониження та дренаж",
+        "lecturer": "Жук В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87900372998?pwd=WWc1NzQ5ZXNvTGpvV0xZazZyRTJWUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мала гідроенергетика",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мала гідроенергетика",
+        "lecturer": "Попадюк І.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Гідромеліорація",
+        "lecturer": "Матлай І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідромеліорація",
+        "lecturer": "Матлай І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

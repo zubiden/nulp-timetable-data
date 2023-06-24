@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Управління витратами суб`єктів зовнішньоекономічної діяльності",
+        "lecturer": "Адамів М.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aE6R28VUq3i8gitfDeZ6_17_Zm7ozClwuFGaINKrceIA1%40thread.tacv2/conversations?groupId=4c170a5f-712b-4772-a423-235ffbbd9ed2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління витратами суб`єктів зовнішньоекономічної діяльності",
+        "lecturer": "Адамів М.Є., 527 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aE6R28VUq3i8gitfDeZ6_17_Zm7ozClwuFGaINKrceIA1%40thread.tacv2/conversations?groupId=4c170a5f-712b-4772-a423-235ffbbd9ed2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Документально-інформаційне забезпечення митної діяльності",
+        "lecturer": "Мукан О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmVhMjEwNjYtOWYxYi00MTQ5LWJmYWUtYjM0NDUzNDVmZjFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2256cb9c08-7470-451b-b8db-3650aaef489e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Митна вартість товарів",
+        "lecturer": "Микитин О.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза в митній справі та зовнішньоекономічній діяльності",
+        "lecturer": "Микитин О.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза в митній справі та зовнішньоекономічній діяльності",
+        "lecturer": "Микитин О.З., 308 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Документально-інформаційне забезпечення митної діяльності",
+        "lecturer": "Бортнікова М.Г., 420 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awHipyZ6OKuL1SYzLzIBOmDFMaRJ3DBLTKmHgIZ073YY1%40thread.tacv2/1677171805002?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза в митній справі та зовнішньоекономічній діяльності",
+        "lecturer": "Микитин О.З., 420 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Документально-інформаційне забезпечення митної діяльності",
+        "lecturer": "Бортнікова М.Г., 308 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awHipyZ6OKuL1SYzLzIBOmDFMaRJ3DBLTKmHgIZ073YY1%40thread.tacv2/1677171873078?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Митна вартість товарів",
+        "lecturer": "Микитин О.З., 308 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Митна вартість товарів",
+        "lecturer": "Микитин О.З., 308 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

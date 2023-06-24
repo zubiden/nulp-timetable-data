@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "МЕМС та НЕМС у пристроях мікро- та наносистемної техніки",
+        "lecturer": "Ховерко Ю.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2259920431?pwd=ODNBaU9PKzAwRDd3cmwxbFI1TDRLQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління структурою і властивостями напівпровідникових матеріалів і приладів",
+        "lecturer": "Лях-Кагуй Н.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фізичні основи магнітоелектроніки",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1677226811727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Діелектричні матерали квантової та оптоелектроніки",
+        "lecturer": "Бурий О.А., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Давачі на основі напівпровідникових мікро та нанокристалів",
+        "lecturer": "Греб В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фізичні основи магнітоелектроніки",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1677226931816?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Діелектричні матерали квантової та оптоелектроніки",
+        "lecturer": "Бурий О.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Управління структурою і властивостями напівпровідникових матеріалів і приладів",
+        "lecturer": "Лях-Кагуй Н.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atOC4k4KNjiQMB9lfj5Aim2YbTVm7Dis7dwMjIfkz3wE1%40thread.tacv2/1684921342840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atOC4k4KNjiQMB9lfj5Aim2YbTVm7Dis7dwMjIfkz3wE1%40thread.tacv2/1685525122363?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "МЕМС та НЕМС у пристроях мікро- та наносистемної техніки",
+        "lecturer": "Ховерко Ю.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2259920431?pwd=ODNBaU9PKzAwRDd3cmwxbFI1TDRLQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Давачі на основі напівпровідникових мікро та нанокристалів",
+        "lecturer": "Греб В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

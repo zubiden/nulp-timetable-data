@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Передало Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aKnS8cd3cZIX6V4uyvzokIA8tDCLJAZ4-9et4w9oieDU1%40thread.tacv2/conversations?groupId=0179aed3-d0bb-4e54-b432-7ac0ef4f230b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "Передало Х.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3YYqgL2SPMQSY19cU-MX_2NTJd-yH1EhNt2eIc1u7w1%40thread.tacv2/conversations?groupId=399e75ad-bbc6-4cfe-99e8-da3a28b2438a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

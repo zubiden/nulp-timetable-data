@@ -1,0 +1,310 @@
+[
+    {
+        "subject": "Математичний аналіз та диференціальні рівняння",
+        "lecturer": "Нитребич З.М., 404 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWOnUNMgi0_rEvThLauPbGxANnPZ8JDpQMxu_2K7ZXR41%40thread.tacv2/conversations?groupId=d18e4d8c-a569-4f3e-a4bd-0c3e294c69ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Алгоритмізація та програмування, частина 2",
+        "lecturer": "Яцук Ю.В., 611а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи схемотехніки",
+        "lecturer": "Мичуда З.Р., 605а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a68_Eb6m4fk9ap_LL9UrOmvMt4nHyHTq6InP8keqxk3s1%40thread.tacv2/conversations?groupId=ce9af2eb-655b-43c7-9b0b-b145c2a1daad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Алгоритмізація та програмування, частина 2",
+        "lecturer": "Яцук Ю.В., 608 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи схемотехніки",
+        "lecturer": "Мичуда З.Р., 713 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a68_Eb6m4fk9ap_LL9UrOmvMt4nHyHTq6InP8keqxk3s1%40thread.tacv2/conversations?groupId=ce9af2eb-655b-43c7-9b0b-b145c2a1daad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Українська мова за професійним спрямуванням",
+        "lecturer": "Середницька А.Я., 901 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Дзелендзяк У.Ю., 608 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математичний аналіз та диференціальні рівняння",
+        "lecturer": "Нитребич З.М., 404 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWOnUNMgi0_rEvThLauPbGxANnPZ8JDpQMxu_2K7ZXR41%40thread.tacv2/conversations?groupId=d18e4d8c-a569-4f3e-a4bd-0c3e294c69ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Нагачевська О.О., 17 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Партико Н.В., 14 VII н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "http://zoom.us/j/7178940677?pwd=Vk5lcFBRNGIUek4yeGJZaXFIT2h3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Булатов О.М., 8.000-9.30 корп.21 Самчука 11,",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Дзелендзяк У.Ю., 608 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова за професійним спрямуванням",
+        "lecturer": "Середницька А.Я., 609 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Нагачевська О.О., 26 VII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Партико Н.В., 16 VII н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "http://zoom.us/j/7178940677?pwd=Vk5lcFBRNGIUek4yeGJZaXFIT2h3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Математичний аналіз та диференціальні рівняння",
+        "lecturer": "Нитребич З.М., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOhZ7TDP0TdXcNtrB9hYZpIRS65R24edhZewCu780jlM1%40thread.tacv2/conversations?groupId=cd11cf0a-2132-409f-a52d-ae9bc73455c0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Дзелендзяк У.Ю., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Алгоритмізація та програмування, частина 2",
+        "lecturer": "Яцук Ю.В., 322 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи схемотехніки",
+        "lecturer": "Мичуда З.Р., 322 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a68_Eb6m4fk9ap_LL9UrOmvMt4nHyHTq6InP8keqxk3s1%40thread.tacv2/conversations?groupId=ce9af2eb-655b-43c7-9b0b-b145c2a1daad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи схемотехніки",
+        "lecturer": "Мичуда З.Р., 322 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a68_Eb6m4fk9ap_LL9UrOmvMt4nHyHTq6InP8keqxk3s1%40thread.tacv2/conversations?groupId=ce9af2eb-655b-43c7-9b0b-b145c2a1daad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Дзелендзяк У.Ю., 322 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Алгоритмізація та програмування, частина 2",
+        "lecturer": "Яцук Ю.В., 322 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

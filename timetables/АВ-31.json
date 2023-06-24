@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "Васильківський І.С., 318II78 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71424680191?pwd=EgAvbqMXgQtzdeSZy88QLmG01bKbA1.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "Васильківський І.С., 318II78 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71424680191?pwd=EgAvbqMXgQtzdeSZy88QLmG01bKbA1.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Химко О.М., 72 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "Николин Г.А., 72 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 86 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 86 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Федоришин Р.М., 71 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/98829848131?pwd=cFJwc3d5ak5heDdWMHVMdE05VVNpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Хмарні технології та глобальні бази даних",
+        "lecturer": "Роман В.І., 51 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83911647504?pwd=OGpPZ2JVUERxdGtCWFIxTjk4Tm9Ndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 207 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "Николин Г.А., 51 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні технології та глобальні бази даних",
+        "lecturer": "Варищук В.І., 86 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75070624167?pwd=56qUEsQ6bO2WI3c2JJaN7spekuaUxL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Химко О.М., 78 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні технології та глобальні бази даних",
+        "lecturer": "Варищук В.І., 86 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77176759435?pwd=SiNArUOQfzpPFazSuxKKrUuH6DWx26.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Химко О.М., 78 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 86 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 71 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Парнета О.З., 86 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/98829848131?pwd=cFJwc3d5ak5heDdWMHVMdE05VVNpQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Парнета О.З., 86 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/98829848131?pwd=cFJwc3d5ak5heDdWMHVMdE05VVNpQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Програмування додатків систем автоматизації",
+        "lecturer": "Демків І.Б., 86 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "Крих Г.Б., 210 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "Крих Г.Б., 209 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "Николин Г.А., 209 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

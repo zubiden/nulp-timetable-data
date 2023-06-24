@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Карий О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74923958943?pwd=tb3GMFEOR3BpOJMicaXzTbi8EH2grj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Прокопишин-Рашкевич Л.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20(Meeting%20ID:605%20861%203984;%20Passcode:%207777)"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

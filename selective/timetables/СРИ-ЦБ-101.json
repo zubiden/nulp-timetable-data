@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Страхування професійних ризиків",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFS8WoqOsxo03DwXO7ctDuSCgSg7tctJ-kauNNlTruV41%40thread.tacv2/1676624414005?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Страхування професійних ризиків",
+        "lecturer": "Литвиняк О.Я., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

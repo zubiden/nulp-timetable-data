@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Первинні перетворювачі фізичних величин",
+        "lecturer": "Ришковський О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73377302680?pwd=xnhzjPkN0a2hJsQbl9fXcdJAx4FZcJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Первинні перетворювачі фізичних величин",
+        "lecturer": "Ришковський О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74611118835?pwd=0KiA44n83tGlsAxUR2KPxB8dDi5xZA.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Первинні перетворювачі фізичних величин",
+        "lecturer": "Яцишин С.П., 713 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "Питель І.Д., 706 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "Питель І.Д., 706 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Віртуальні вимірювальні прилади",
+        "lecturer": "Микитин І.П., 702 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Віртуальні вимірювальні прилади",
+        "lecturer": "Микитин І.П., 702 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Метрологічні вимірювання в кіберфізичних системах",
+        "lecturer": "Скоропад П.І., 033  гл.к",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzllOTJmN2EtYmMwMC00NzU5LTkyNDktMjhiNTAzMzUwNWY0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Метрологічні вимірювання в кіберфізичних системах",
+        "lecturer": "Скоропад П.І., 033  гл.к",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U2ZjljYWUtZDM5YS00YWQ4LWIyMTYtY2JjOTFiZjMyZjhi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Віртуальні вимірювальні прилади",
+        "lecturer": "Микитин І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Метрологічні вимірювання в кіберфізичних системах",
+        "lecturer": "Скоропад П.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2IzYjllNWUtNGVhZS00N2E4LTk4ZDctMzM0ZWYzMTRhOTgz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "Питель І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

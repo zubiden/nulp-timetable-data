@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Актуальні проблеми міжнародного приватного права",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Актуальні проблеми міжнародного приватного права",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Актуальні проблеми міжнародного приватного права",
+        "lecturer": "Ортинська Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87558645592?pwd=L1ZIeGMrU3lhVk5aRE5oMFhSQ3FjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

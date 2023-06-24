@@ -1,0 +1,237 @@
+[
+    {
+        "subject": "3D моделювання",
+        "lecturer": "Габрель Т.М., Селіванов І.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aaw0-U_0KD8c6TjHcER2HsWK-t8q0pa0oY02IAHrkHRw1%40thread.tacv2/1676279808155?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2245bb03c3-1c5b-4683-9346-b9662c6b1ef4%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3aaw0-U_0KD8c6TjHcER2HsWK-t8q0pa0oY02IAHrkHRw1%40thread.tacv2/1676291718440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2245bb03c3-1c5b-4683-9346-b9662c6b1ef4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "Гладчук М.Ю., Мотиль Р.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3acc53b30cc7484f9595c7441437d34748%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-34?groupId=6cd173c8-3069-4cac-8fc8-8748349bf61e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3a14xqarfqxt8gXnwRVLuQNDRY9IESDsL4PNT2ADS88Iw1%40thread.tacv2/1677087292609?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260ff81a-034f-4c31-8188-b24108b40c81%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Ландшафтний дизайн",
+        "lecturer": "Топилко С.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "Габрель Т.М., Селіванов І.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aaw0-U_0KD8c6TjHcER2HsWK-t8q0pa0oY02IAHrkHRw1%40thread.tacv2/1676279902124?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2245bb03c3-1c5b-4683-9346-b9662c6b1ef4%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3aaw0-U_0KD8c6TjHcER2HsWK-t8q0pa0oY02IAHrkHRw1%40thread.tacv2/1676291718440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2245bb03c3-1c5b-4683-9346-b9662c6b1ef4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "Петровська Ю.Р., Щербаков І.Л., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asY0dS64YydCZs7m8KbuU6EHQRBLPA2bGKVVbyuyxQHs1%40thread.tacv2/1677068038452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "Петровська Ю.Р., Щербаков І.Л., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asY0dS64YydCZs7m8KbuU6EHQRBLPA2bGKVVbyuyxQHs1%40thread.tacv2/1677068038452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "Квасниця Р.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSOQyHc7BopaAQp7lpxpOzQ5FAyNy0LeG_NCIXlsS-WM1%40thread.tacv2/1676652127282?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "Бойко Х.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4cbHPjQ3MGYme-Jx447_0SWzwJgI3C153AfMZ2ryqtU1%40thread.tacv2/1677572839742?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce4d380e-8a5e-4585-8b72-0e718d69bc62%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "Мотиль Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a7f40de62ca594b9e9a50fb9e9a40c9d1%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C%2520%25D0%2594%25D0%25A1-3?groupId=c7cd46b6-8499-4f67-85ce-e0b57d6a6d98&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Ландшафтний дизайн",
+        "lecturer": "Топилко С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3acl60zUv7SnrLXdQ63NGoqvsd6wOd26NH1NJSDgsEpAA1%40thread.tacv2/conversations?groupId=ff0e8e33-4fa7-4c0f-bb60-bfa280e045a1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "Проскуряков О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPE_wkaOOmyK_U36hZN9rPiIyIsQ1J23PIDAkzMvQSEE1%40thread.tacv2/1677747837021?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "Бойко Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFgvNT8h7Ty9ZaTgazsw8yTUYLl9tF0ZR5qWbgEHD15w1%40thread.tacv2/conversations?groupId=55dcec4b-c35a-4cb7-9a67-e085d8de4c6d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

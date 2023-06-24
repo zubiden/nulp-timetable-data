@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Криміналістичні експертизи",
+        "lecturer": "Бараняк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/4886457805?pwd=MlJRdWxvTjVCOVZsZ0I0N0FYbGtsUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Криміналістичні експертизи",
+        "lecturer": "Бараняк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/4886457805?pwd=MlJRdWxvTjVCOVZsZ0I0N0FYbGtsUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Криміналістичні експертизи",
+        "lecturer": "Крижановський А.С., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Криміналістичні експертизи",
+        "lecturer": "Крижановський А.С., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

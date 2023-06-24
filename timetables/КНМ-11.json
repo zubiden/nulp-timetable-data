@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "Артищук І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/nxn-ufnc-yoz"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "Опотяк Ю.В., 802б V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "Опотяк Ю.В., 802б V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "Опотяк Ю.В., 804а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Казимира І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/nwr-vzcg-ioz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Казимира І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/nwr-vzcg-ioz"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "Соколовський Я.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSN6GLtxg-5B8eUTFdpPRDzgBu5aM-P60LPmKKW7MRB81%40thread.tacv2/1685334113637?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "Соколовський Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSN6GLtxg-5B8eUTFdpPRDzgBu5aM-P60LPmKKW7MRB81%40thread.tacv2/1685939047219?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "Фармага І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "Кустра Н.О., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

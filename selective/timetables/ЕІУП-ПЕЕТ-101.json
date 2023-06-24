@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Економічні інструменти управління проектами і програмами розвитку підприємства",
+        "lecturer": "Стояновський А.Р., 137 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Економічні інструменти управління проектами і програмами розвитку підприємства",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

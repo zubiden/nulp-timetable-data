@@ -1,0 +1,317 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Федевич О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3abYgZdUGCMbUdMx3iIYghSEmhCX-3u9eH_gtCQxmflzA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=44605cff-1e91-4cee-8cb0-6509b329f577&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронне та електричне обладнання автомобілів",
+        "lecturer": "Бритковський В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81625956164?pwd=S2JSanp0WElVM0MzeGFob1JPclczdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "Пельо Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "Коцюмбас О.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83243914072?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронне та електричне обладнання автомобілів",
+        "lecturer": "Мастикаш О.Л., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронне та електричне обладнання автомобілів",
+        "lecturer": "Мастикаш О.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "Коцюмбас О.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87692766565?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронне та електричне обладнання автомобілів",
+        "lecturer": "Мастикаш О.Л., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Федевич О.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3abYgZdUGCMbUdMx3iIYghSEmhCX-3u9eH_gtCQxmflzA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=44605cff-1e91-4cee-8cb0-6509b329f577&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Стець Р.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85636149485?pwd=d3daZEVHNTJHNzI2b1hjS21jMGRTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "Коцюмбас О.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82351912009?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "Пельо Р.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "Пельо Р.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Охоронні системи та системи комфорту автомобілів",
+        "lecturer": "Миськів Т.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "Дмитрів І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73182091258?pwd=PAxPTHoae1d7DMgAHHcxo8CrxWh5VQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "Кіндрацький Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Охоронні системи та системи комфорту автомобілів",
+        "lecturer": "Коцюмбас О.Й., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82125404927?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "Пельо Р.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "Літвін Р.Г., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72265505444?pwd=aLT49x0jgIpsVnPKDBJhCrTjZaON39.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "Літвін Р.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72265505444?pwd=aLT49x0jgIpsVnPKDBJhCrTjZaON39.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "Літвін Р.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72265505444?pwd=aLT49x0jgIpsVnPKDBJhCrTjZaON39.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

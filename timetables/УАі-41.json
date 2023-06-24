@@ -1,0 +1,189 @@
+[
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Паска О.В., 3 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Паска О.В., 3 V н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Білоус Н.Б., 23 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82826458781?pwd=UjJ2SWIwaXNjTHh2Vm5DNmJ1M3Z5dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Білоус Н.Б., 23 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85611178881?pwd=Y29EVmZCME44c2FuRElna3JFZWYrUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Паска О.В., 3 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Паска О.В., 3 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 4 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 4 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 23 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 23 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 23 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Стрес-менеджмент",
+        "lecturer": "Дорош І.М., 23 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "Паска О.В., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72557408654?pwd=EyRI5xFgSmv4PQlo9aAZKk86UbanLX.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

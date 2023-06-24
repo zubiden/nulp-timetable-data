@@ -1,0 +1,123 @@
+[
+    {
+        "subject": "Економічні механізми трансформацій бізнесу",
+        "lecturer": "Панченко А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mqf-sbkt-jsc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "Залуцька Х.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "Кіржецька М.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "Яневич Н.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rjw-egpt-ujd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "Залуцька Х.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "Кіржецька М.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "Кривцун І.М., Яневич Н.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/faw-fzuk-tqu",
+            "https://meet.google.com/rvc-bonf-tba"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Економічні механізми трансформацій бізнесу",
+        "lecturer": "Панченко А.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/thb-douy-owo"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

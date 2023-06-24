@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Харчук В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2803481874?pwd=YmpVRGtrcWRYbHZxdW5va3NCMVc5UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72494390183?pwd=ZgopAav3Xn5fv7zK0JrRatwC1Bm08G.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіка бізнес-структур",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіка бізнес-структур",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Англійська мова (за професійним спрямуванням)",
+        "lecturer": "Баглай О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9036768266?pwd=6rgINZ8pVKK1obbDlmyi03ZxQPHdja.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова як іноземна",
+        "lecturer": "Бойко Г.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8926651311?pwd=K2wvY0RCZnJTOHFrTlZGbFNEVC9zZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72443529794?pwd=BwnuxDskpkAqn3mqrcokcctdQHgdmy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72443529794?pwd=BwnuxDskpkAqn3mqrcokcctdQHgdmy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Ділове адміністрування",
+        "lecturer": "Адамовський О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8626324378?pwd=bmducFowbWwzekdKQW4zSUJjNldCdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Лема Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88161944503?pwd=WmxDUGsvbENEQk5QZEVHU0h3SFlTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Хоменко А.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81133103338?pwd=dlpLV2VTbUNaa2xJalgxeEhJbzBZZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ділове адміністрування",
+        "lecturer": "Адамовський О.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8626324378?pwd=bmducFowbWwzekdKQW4zSUJjNldCdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бондаренко Ю.Г., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Економіка бізнес-структур",
+        "lecturer": "Другов О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Ділове адміністрування",
+        "lecturer": "Адамовський О.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8626324378?pwd=bmducFowbWwzekdKQW4zSUJjNldCdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    }
+]

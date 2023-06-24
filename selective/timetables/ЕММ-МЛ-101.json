@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Економіко-математичні методи і моделі у маркетингу",
+        "lecturer": "Крикавський Є.В., Леонова С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZjlsKIJsy9VG0SWsSCcJgwAb5pKFDaEowtStDPAbyeY1%40thread.tacv2/1677828267383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223c15790b-2b88-4aca-88c1-fb91d04558d7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі у маркетингу",
+        "lecturer": "Леонова С.В., 201 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

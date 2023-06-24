@@ -1,0 +1,157 @@
+[
+    {
+        "subject": "Геодезія в геотехнічному інжинірінгу",
+        "lecturer": "Петров С.Л., Віват А.Й., 510 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інженерна геодинаміка територій промислово-міських агломерацій",
+        "lecturer": "Заяць І.В., Бубняк І.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aIyoPZcLYuupBWWCk3TEjTz5vawunbuHxdDRLRyAmo0U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0343ec83-e271-4eac-a5cd-82c96ce33272&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інженерно-геологічні та гідрологічні вишукування",
+        "lecturer": "Ціхонь С.І., Віхоть Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "Заяць І.В., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "Заяць І.В., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "Заяць І.В., Бубняк І.М., 302 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://classroom.google.com/c/NTk1NjIwODczNDM5?cjc=yzekkbj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "Заяць І.В., Бубняк І.М., 014 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ugp-rriw-jwo"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "Бубняк І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ugp-rriw-jwo"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інженерна геодинаміка територій промислово-міських агломерацій",
+        "lecturer": "Заяць І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aIyoPZcLYuupBWWCk3TEjTz5vawunbuHxdDRLRyAmo0U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0343ec83-e271-4eac-a5cd-82c96ce33272&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інженерно-геологічні та гідрологічні вишукування",
+        "lecturer": "Ціхонь С.І., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Геодезія в геотехнічному інжинірінгу",
+        "lecturer": "Петров С.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

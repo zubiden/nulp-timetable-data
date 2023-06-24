@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій",
+        "lecturer": "Федасюк Д.В., 809 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

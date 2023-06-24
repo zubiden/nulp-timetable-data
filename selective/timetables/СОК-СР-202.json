@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Соціологія конфлікту",
+        "lecturer": "Шевченко Ж.М., 004 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Соціологія конфлікту",
+        "lecturer": "Макух О.Є., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

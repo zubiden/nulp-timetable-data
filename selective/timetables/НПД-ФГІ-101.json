@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "Бабій Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayD5aHSU2j1Rx_NN_mbO_qaxJjae4cqM6clR-pNjuCJA1%40thread.tacv2/conversations?groupId=810bc8d3-dc0d-45aa-8828-3890647fadfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "Кузик З.О., 616а II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

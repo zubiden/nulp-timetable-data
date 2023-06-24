@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Японська мова",
+        "lecturer": "Козаченко Н.О., АР 3",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

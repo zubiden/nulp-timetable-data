@@ -1,0 +1,360 @@
+[
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Роїк О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71460675674?pwd=NYiRb7EgoyisdehVKqjI2vyJdpUgyX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз і облік діяльності туристичних підприємств",
+        "lecturer": "Роїк О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78796978952?pwd=ocoARzZXTT3aJLjsCGCyJI2fj0VfG8.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78767788038?pwd=Zk0fKmJ6TA4lITvsq76QqkYUF1LfUp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1%20%20https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75645024919?pwd=SX1SyWywrCEXbGzlgtrqqCnR5aaBIR.1%20%20https://us04web.zoom.us/j/75645024919?pwd=SX1SyWywrCEXbGzlgtrqqCnR5aaBIR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., анг.мовою",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg4NDQzOTAtYjVmZS00ZjEyLWIwYjMtOWE4MmQ5ZDcwMGVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg4NDQzOTAtYjVmZS00ZjEyLWIwYjMtOWE4MmQ5ZDcwMGVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура міжнародного туризму",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз і облік діяльності туристичних підприємств",
+        "lecturer": "Роїк О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72846319879?pwd=Rg3SuWM7e4SuFNR4QMvLugqEOOFboa.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., анг.мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y3Y2I3MzYtNzY3NS00ZmRmLWIwYjYtZjUzMGFkMDkxY2Fm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., анг.мовою",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y3Y2I3MzYtNzY3NS00ZmRmLWIwYjYtZjUzMGFkMDkxY2Fm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y3Y2I3MzYtNzY3NS00ZmRmLWIwYjYtZjUzMGFkMDkxY2Fm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2Y3Y2I3MzYtNzY3NS00ZmRmLWIwYjYtZjUzMGFkMDkxY2Fm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Світовий досвід організації діяльності в туристичній галузі",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGEyOTFjYzctYTcyMS00NGFhLTg3ZTQtNGQyZjg5NmM2MTUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Світовий досвід організації діяльності в туристичній галузі",
+        "lecturer": "Сеньків М.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGEyOTFjYzctYTcyMS00NGFhLTg3ZTQtNGQyZjg5NmM2MTUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "анг.мовою",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Світовий досвід організації діяльності в туристичній галузі",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzM0YzFjM2EtNjQ5ZC00NTU0LWE1MmItYmE0MTIwYmNmNThm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Організація досліджень тенденції розвитку туризму",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdhOWViNGEtOTU3MS00NDA5LWI0ZDctNzU5NWM0OWNiZTM5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Світовий досвід організації діяльності в туристичній галузі",
+        "lecturer": "Сеньків М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTAyYjdiMTYtNjg4Ni00M2VlLThjODgtY2QyZTEwZWIxZGFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура міжнародного туризму",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

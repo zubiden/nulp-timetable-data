@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "Майструк В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0MzkxOWEtYjc5Ni00NTkxLTkyNmQtODZjYWVlNGU5ODg5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "Майструк В.В., 80а XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "Майструк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA5N2QyYmEtYTE1MS00ZWQxLTlhNmUtOTUxM2Q5YTczODVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

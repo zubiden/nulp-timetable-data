@@ -1,0 +1,191 @@
+[
+    {
+        "subject": "Інформаційно-вимірювальні технології у робототехніці",
+        "lecturer": "Микитин І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, системи та комплекси",
+        "lecturer": "Яцишин С.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eye-kaet-rgf"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ-проектами",
+        "lecturer": "Петровська І.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Тестування смарт- сенсорів і актуаторів та їх програмного забезпечення",
+        "lecturer": "Ришковський О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79707654226?pwd=aCE9xNhhNLodkPjqorwQUGAblKPTt6.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-вимірювальні технології у робототехніці",
+        "lecturer": "Микитин І.П., 704 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Робототехніка, системи та комплекси",
+        "lecturer": "Яцишин С.П., 702 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-вимірювальні технології у робототехніці",
+        "lecturer": "Микитин І.П., 704 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, системи та комплекси",
+        "lecturer": "Яцишин С.П., 702 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-вимірювальні технології у робототехніці",
+        "lecturer": "Микитин І.П., 703 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ-проектами",
+        "lecturer": "Петровська І.Р., 703 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тестування смарт- сенсорів і актуаторів та їх програмного забезпечення",
+        "lecturer": "Ришковський О.П., 712в V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74892362376?pwd=1ExXJUIUWZ6JuqF1Pb3gxO53YY47xa.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Робототехніка, системи та комплекси",
+        "lecturer": "Яцишин С.П., 705а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Тестування смарт- сенсорів і актуаторів та їх програмного забезпечення",
+        "lecturer": "Ришковський О.П., 712в V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79843241085?pwd=ewQWSG0ml4qGxU5BMTNx55l9BQioRy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "Монька Н.Я., Стасевич М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456807995?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "Бучкевич І.Р., Курка М.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCdyhzKbP1eoqyjfqmAWlHi-YnfOJCB7ZXwV6lEEDHuw1%40thread.tacv2/1677229807547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "Монька Н.Я., Стасевич М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456807995?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "Бучкевич І.Р., Курка М.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCdyhzKbP1eoqyjfqmAWlHi-YnfOJCB7ZXwV6lEEDHuw1%40thread.tacv2/1677229807547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "Лубенець В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZa16_IlmWLo9DSlaALMffuhCOIyd4J5RC1-w4JdkPJ01%40thread.tacv2/1677239175810?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фармацевтична хімія",
+        "lecturer": "Болібрух Л.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3alxUuN9mz2nuxGr_fRnJSWN0j6_QNyAxFhEId2wkL-E01%40thread.tacv2/1677429395448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "Губицька І.І., Конечна Р.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/1677444634431?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d",
+            "https://teams.microsoft.com/l/team/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/conversations?groupId=1e5747b1-c890-4175-9573-dbe3797d16aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "Губицька І.І., Конечна Р.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/1677447425008?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d",
+            "https://teams.microsoft.com/l/team/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/conversations?groupId=1e5747b1-c890-4175-9573-dbe3797d16aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892364598?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892448436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фармацевтична хімія",
+        "lecturer": "Яремкевич О.С., Журахівська Л.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/modern-calling/",
+            "https://teams.microsoft.com/l/meetup-join/19%3aW70xq3I-hs0v4wHbjs3-zkn0M3u0X_LiKuuPEZC5jzQ1%40thread.tacv2/1676985288053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фармацевтична хімія",
+        "lecturer": "Журахівська Л.Р., Яремкевич О.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/modern-calling/",
+            "https://teams.microsoft.com/l/meetup-join/19%3aW70xq3I-hs0v4wHbjs3-zkn0M3u0X_LiKuuPEZC5jzQ1%40thread.tacv2/1676985288053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892555276?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Фармацевтична хімія",
+        "lecturer": "Болібрух Л.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3alxUuN9mz2nuxGr_fRnJSWN0j6_QNyAxFhEId2wkL-E01%40thread.tacv2/1677429873275?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "Лубенець В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZa16_IlmWLo9DSlaALMffuhCOIyd4J5RC1-w4JdkPJ01%40thread.tacv2/1677168126049?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

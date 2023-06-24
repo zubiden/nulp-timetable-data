@@ -1,0 +1,334 @@
+[
+    {
+        "subject": "Глобалізація та глобальні проблеми сучасності",
+        "lecturer": "Лукач Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/86797527389?pwd=ZWI4WFFGK2RTeXFIVkhLNlBtMTdjdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "Івасечко О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., +СР",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77837129714?pwd=Crz5o9Oh0YJgqCkqsygstE3IuYs4Vn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "Завада Я.І., англ мовою 12 студ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86721104128?pwd=WFlxTVMxMnVPYTNQVDlJUGFkS3cxdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Столярчук Л.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Столярчук Л.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Марціхів Х.Р., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTNlY2IyZGEtZDhmYi00NGFjLWFhMzUtZGQzOGVkODYxNWE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227af0da28-2004-4417-8f2b-9a62601611fe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Регіоналізм та регіональні проблеми сучасних міжнародних відносин",
+        "lecturer": "Лукач Н.М., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "Забавська Х.Ю., Сухорольський П.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4845566141?pwd=L1I4UGs0Y1UwUDdRYVdGdUU2bDJaQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "Весна М.П., Нанівський Р.С., ",
+        "location": " Практична",
+        "urls": [
+            "",
+            "https://us05web.zoom.us/j/9161386012?pwd=LzNRR0MrWlZ1TmRTazdjWXhiMVJKZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "Весна М.П., Нанівський Р.С., ",
+        "location": " Практична",
+        "urls": [
+            "",
+            "https://us05web.zoom.us/j/9161386012?pwd=LzNRR0MrWlZ1TmRTazdjWXhiMVJKZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "Завада Я.І., англ мовою 12 студ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86721104128?pwd=WFlxTVMxMnVPYTNQVDlJUGFkS3cxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "Демчишак Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Глобалізація та глобальні проблеми сучасності",
+        "lecturer": "Кукарцев О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71251907351?pwd=IQxosjHauQsvbg67LeeGV30f7rM48a.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Регіоналізм та регіональні проблеми сучасних міжнародних відносин",
+        "lecturer": "Лукач Н.М., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Крилова Г.В., 303 III н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aAAdorjYbQIL87pmRiyj-12oIyxTXSauxxXAW01Ln0h81%40thread.tacv2/1677347352472?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b63c1e0-9d67-4080-a93d-9a87a77bcdc6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Крилова Г.В., 303 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aAAdorjYbQIL87pmRiyj-12oIyxTXSauxxXAW01Ln0h81%40thread.tacv2/1677347352472?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b63c1e0-9d67-4080-a93d-9a87a77bcdc6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Марціхів Х.Р., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJlZjE5NjYtNzIwYi00NTkyLTlhZjktZjBjZWIzOTc2ZDhi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227af0da28-2004-4417-8f2b-9a62601611fe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "Завада Я.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "Завада Я.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "Бабкіна М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72632250721?pwd=ekwyBEHxQz5lVZZxuFbJYImrWpUU4B.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "Бабкіна М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72632250721?pwd=ekwyBEHxQz5lVZZxuFbJYImrWpUU4B.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

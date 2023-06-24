@@ -1,0 +1,192 @@
+[
+    {
+        "subject": "Промислове обладнання хіміко-фармацевтичних підприємств",
+        "lecturer": "Стасевич М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afO7WlKbtAAERLdO6ia43Q6kmJ6qHBFR1_ZW3hzWxOp01%40thread.tacv2/1676456123110?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і застосування лікувальних косметичних засобів",
+        "lecturer": "Федорова О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhOThiNWUtNmE4ZS00YTQyLWFkNzAtY2NkYjE2MjM3ODQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Промислова технологія фармацевтичних виробництв, частина 2",
+        "lecturer": "Губицька І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0M3H1D9DDAxi_LrI86PrwhOf9vifAmWlBm0tX8oGFso1%40thread.tacv2/1676574670628?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія біологічно-активних речовин, біомедполімерів і наноструктур",
+        "lecturer": "Стадницька Н.Є., Заярнюк Н.Л., Стасевич М.В., 240 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aD7zW5Jm4aF4jxmoWUPRsUb8_tNBchxE4yk1wmZTTXr41%40thread.tacv2/1679977093263?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c6d14d56-2bca-4f6d-bfe4-7a59001badee%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Промислова технологія фармацевтичних виробництв, частина 2",
+        "lecturer": "Губицька І.І., 201 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0M3H1D9DDAxi_LrI86PrwhOf9vifAmWlBm0tX8oGFso1%40thread.tacv2/1677447221539?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія біологічно-активних речовин, біомедполімерів і наноструктур",
+        "lecturer": "Стадницька Н.Є., Заярнюк Н.Л., Стасевич М.В., 240 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Контроль якості лікарських засобів",
+        "lecturer": "Федоришин О.М., Болібрух Л.Д., Хом'як С.В., 236 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCuJ6aAsTcI2HXPqYVD9D5S8nZhNjwqTmEu5AgnrWMxM1%40thread.tacv2/1676889152393?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія біологічно-активних речовин, біомедполімерів і наноструктур",
+        "lecturer": "Заярнюк Н.Л., Стадницька Н.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aD7zW5Jm4aF4jxmoWUPRsUb8_tNBchxE4yk1wmZTTXr41%40thread.tacv2/1676575415452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY4ZmQ5ZDAtNTI4YS00MmI2LTkxMGMtYTdlZGJjYTE1YTVm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Контроль якості лікарських засобів",
+        "lecturer": "Болібрух Л.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avj2eV7gj4IBQd_ACoXXEvOgjEQGkj5pkInVZATFs0k41%40thread.tacv2/1677434041212?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і застосування лікувальних косметичних засобів",
+        "lecturer": "Федорова О.В., Заярнюк Н.Л., 227 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQ3ODFkOWItYjBiNS00ZDgxLTk4ZDYtMzRjZTBkNjFlZDcy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Промислова технологія фармацевтичних виробництв, частина 2",
+        "lecturer": "Федоришин О.М., Заярнюк Н.Л., Крвавич А.С., 236 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Промислове обладнання хіміко-фармацевтичних підприємств",
+        "lecturer": "Стасевич М.В., 240 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afO7WlKbtAAERLdO6ia43Q6kmJ6qHBFR1_ZW3hzWxOp01%40thread.tacv2/1676457080661?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Промислова технологія фармацевтичних виробництв, частина 2",
+        "lecturer": "Федоришин О.М., Заярнюк Н.Л., Крвавич А.С., 240 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

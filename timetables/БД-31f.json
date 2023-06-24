@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Вибранець Ю.Ю., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aI-L47biEanY5Fr99QAvr9Dqg58d8s8qratm8zzDFRAI1%40thread.tacv2/1677449660696?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228ce511fa-49c6-41bc-b3b2-f4fc7bb300fe%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "Вибранець Ю.Ю., 313 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aI-L47biEanY5Fr99QAvr9Dqg58d8s8qratm8zzDFRAI1%40thread.tacv2/1677449660696?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228ce511fa-49c6-41bc-b3b2-f4fc7bb300fe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Гайда О.М., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:k5ZC4ZuWSeh4HWYKYh0tytShhfrumH_VXK_JNXWDT7A1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Була С.С., 313 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Була С.С., 227 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Метали та зварювання в будівництві",
+        "lecturer": "Войтович А.А., 6 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Метали та зварювання в будівництві",
+        "lecturer": "Войтович А.А., 11 XVII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Бутринський І.З., 313 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Була С.С., 313 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Гайда О.М., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:k5ZC4ZuWSeh4HWYKYh0tytShhfrumH_VXK_JNXWDT7A1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Вибранець Ю.Ю., 313 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aI-L47biEanY5Fr99QAvr9Dqg58d8s8qratm8zzDFRAI1%40thread.tacv2/1677449660696?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228ce511fa-49c6-41bc-b3b2-f4fc7bb300fe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "Вибранець Ю.Ю., 313 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aI-L47biEanY5Fr99QAvr9Dqg58d8s8qratm8zzDFRAI1%40thread.tacv2/1677449660696?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228ce511fa-49c6-41bc-b3b2-f4fc7bb300fe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "Була С.С., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "Бутринський І.З., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сертифікація та акредитація",
+        "lecturer": "Данкевич І.П., 313 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86726189893?pwd=RmxsK1VvakNGbWJDQUZiMTBXNVZyZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

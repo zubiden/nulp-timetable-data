@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Публічний аудит",
+        "lecturer": "Карковська В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71403951917?pwd=9LrUqTNh8vYmqDb4hPAR5JPvOQTewF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "Заяць Д.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=kh8CnyjGjveEjRu2Hg3ZIYFwIIg4h9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87036882322?pwd=MDdYTGZHaE9GTEJRcGw5dldOVWNEZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Комунікації в публічній системі, коучинг та переговори",
+        "lecturer": "Олійник А.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79250146909?pwd=16VraLhju3HY032AH2md793BQQiCJq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Економіка в прийнятті публічних рішень",
+        "lecturer": "Шуляр Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a31f3e57225af449ca17c2645e435805c%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6ef6b904-3717-440c-b3e1-5827220381a7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "Сірик З.О., 22 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Економіка в прийнятті публічних рішень",
+        "lecturer": "Дзюрах Ю.М., 22 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76678763232?pwd=wnY3dboLV2DM7BE2vg3UC2E3rBZiE4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Економіка в прийнятті публічних рішень",
+        "lecturer": "Дзюрах Ю.М., 22 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76678763232?pwd=wnY3dboLV2DM7BE2vg3UC2E3rBZiE4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Економіка в прийнятті публічних рішень",
+        "lecturer": "Дзюрах Ю.М., 22 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76678763232?pwd=wnY3dboLV2DM7BE2vg3UC2E3rBZiE4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., 22 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комунікації в публічній системі, коучинг та переговори",
+        "lecturer": "Дзяний Р.Б., 22 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Публічний аудит",
+        "lecturer": "Дзяний Р.Б., Васькович І.М., 22 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

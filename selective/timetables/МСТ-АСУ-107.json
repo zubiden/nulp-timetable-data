@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Міюшкович Ю.Г., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мультимедійні системи",
+        "lecturer": "Марцишин Р.С., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/kbr-wdxu-wtm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

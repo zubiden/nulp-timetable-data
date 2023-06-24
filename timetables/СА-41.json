@@ -1,0 +1,287 @@
+[
+    {
+        "subject": "Технології великих даних",
+        "lecturer": "Юринець Р.В., 126б IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології великих даних",
+        "lecturer": "Юринець Р.В., 126б IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології великих даних",
+        "lecturer": "Юринець Р.В., 126б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології великих даних",
+        "lecturer": "Юринець Р.В., 126б IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Правове забезпечення інтелектуальної власністі",
+        "lecturer": "Слотвінська Н.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78304478992?pwd=vqSUG8sdhqM2pFbTS5OiOBy7UvbaNC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Планування ІТ-проектів",
+        "lecturer": "Кунанець Н.Е., 207 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "Березко О.Л., 522 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Планування ІТ-проектів",
+        "lecturer": "Кунанець Н.Е., 207 VIa н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "Березко О.Л., 516 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології великих даних",
+        "lecturer": "Берко А.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення інтелектуальної власністі",
+        "lecturer": "Слотвінська Н.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73455318205?pwd=6jZmCfE4jDmcxZRD768BM9tipLceBT.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "Березко О.Л., 522 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ділові комунікації",
+        "lecturer": "Марценюк Н.В., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/98511679738?pwd=Qlhqc1FPZDRGbzFFZnhoazJlZ1FyUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інновації в бізнес-аналізі",
+        "lecturer": "Том'як О.І., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ipe-hmco-bxs"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Планування ІТ-проектів",
+        "lecturer": "Кунанець Н.Е., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інновації в бізнес-аналізі",
+        "lecturer": "Том'як О.І., 126 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/95080234862?pwd=dUxxREZyZSsrbXJZUEhpUUZwSit0UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ділові комунікації",
+        "lecturer": "Марценюк Н.В., 126а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/2027724910?pwd=dTBUQzFaSnFHdnVhKzBOaDE4cWVLUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інновації в бізнес-аналізі",
+        "lecturer": "Том'як О.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/xay-ocvv-nkr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Ділові комунікації",
+        "lecturer": "Марценюк Н.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/xay-ocvv-nkr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

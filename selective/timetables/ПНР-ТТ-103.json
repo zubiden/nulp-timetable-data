@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "Бойків Р.В., 206 VI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

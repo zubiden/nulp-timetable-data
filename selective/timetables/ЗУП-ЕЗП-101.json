@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "Одноріг З.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "Одноріг З.С., 113 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Теоретичні основи перероблення пластмас",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78794939522?pwd=lIW6JzUheCnbjaAKdmjlkPi8bSfidC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теоретичні основи перероблення пластмас",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78794939522?pwd=lIW6JzUheCnbjaAKdmjlkPi8bSfidC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології перероблення пластмас",
+        "lecturer": "Масюк А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81785465125?pwd=T29hZXVBQTdiaGNjTitYaElzUUgrQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології перероблення пластмас",
+        "lecturer": "Масюк А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81785465125?pwd=T29hZXVBQTdiaGNjTitYaElzUUgrQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи перероблення пластмас",
+        "lecturer": "Масюк А.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84624455408?pwd=T0xMZ2x6aWkyN1A2S0xrMlRRdlA0UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72339606824?pwd=NErnZS6VySvgeNr1MWDiA20Dn3Daby.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології перероблення пластмас",
+        "lecturer": "Масюк А.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82134505784?pwd=eEI3Tzh3aGEzYzhydS9YQjFWWWVZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Вашкурак Ю.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74582205011?pwd=JIqS0nH7Yybaja67uWllkEsb1zYvuQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "Гриценко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74582205011?pwd=JIqS0nH7Yybaja67uWllkEsb1zYvuQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "Стасюк І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

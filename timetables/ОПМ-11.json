@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Аналіз діяльності бюджетних установ",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Державний фінансовий контроль в секторі загального державного управління",
+        "lecturer": "Яструбський М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81400424820?pwd=VDJWd3BMMC8vUHlTUVNqM0o0blhDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Звітність бюджетних установ",
+        "lecturer": "Височан О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82886345514?pwd=cENDR054N2FSZENVTWNGN0M5Vm1UQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Облік та фінансова звітність за МСБО державного сектора",
+        "lecturer": "Воськало Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Державний фінансовий контроль в секторі загального державного управління",
+        "lecturer": "Яструбський М.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89270107310?pwd=dzNWalVGSW9YckkzZ3FnL3ZENExqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз діяльності бюджетних установ",
+        "lecturer": "Нашкерська М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Звітність бюджетних установ",
+        "lecturer": "Височан О.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82886345514?pwd=cENDR054N2FSZENVTWNGN0M5Vm1UQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Облік та фінансова звітність за МСБО державного сектора",
+        "lecturer": "Воськало Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

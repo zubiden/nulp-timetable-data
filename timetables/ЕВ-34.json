@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "Реверенда Н.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGv9fwiVZ-kM_LZm6xPK3sA89dvSInREdv6FEDO50HIk1%40thread.tacv2/1677152715530?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224ad6edd9-08a2-462e-8267-22aac5f2f6a6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Економічний аналіз та облік митної діяльності",
+        "lecturer": "Пшик-Ковальська О.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7Cyg9D0GFvpVDWVykAH6S1dqPIN1LquprASQHEar_sY1%40thread.tacv2/1676279479384?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c84fa7f6-33cd-42eb-b042-dc78d59cbd88%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економічний аналіз та облік митної діяльності",
+        "lecturer": "Пшик-Ковальська О.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7Cyg9D0GFvpVDWVykAH6S1dqPIN1LquprASQHEar_sY1%40thread.tacv2/1676280113640?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c84fa7f6-33cd-42eb-b042-dc78d59cbd88%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aj210E9KuQV2ulTOMPkoV-x3dY8y6Yr0Bn_9IKGl91481%40thread.tacv2/conversations?groupId=152be54d-6205-4a8c-93e4-36c39a42e036&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "Кара Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Економічний аналіз та облік митної діяльності",
+        "lecturer": "Пшик-Ковальська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7Cyg9D0GFvpVDWVykAH6S1dqPIN1LquprASQHEar_sY1%40thread.tacv2/1676280236674?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c84fa7f6-33cd-42eb-b042-dc78d59cbd88%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Економічний аналіз та облік митної діяльності",
+        "lecturer": "Пшик-Ковальська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7Cyg9D0GFvpVDWVykAH6S1dqPIN1LquprASQHEar_sY1%40thread.tacv2/conversations?groupId=a39fa07a-9a32-444d-8f44-ce02f14a8827&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 3",
+        "lecturer": "Сенькович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 3",
+        "lecturer": "Сенькович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Реверенда Н.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKjzg1VjkiNNMdfB75hJtVyqUPMx_zBgMhHaee1XXTLY1%40thread.tacv2/1677153697804?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224ad6edd9-08a2-462e-8267-22aac5f2f6a6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Реверенда Н.Ю., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKjzg1VjkiNNMdfB75hJtVyqUPMx_zBgMhHaee1XXTLY1%40thread.tacv2/1677154000565?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224ad6edd9-08a2-462e-8267-22aac5f2f6a6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Особливості соціальної роботи з біхевіоральними залежностями",
+        "lecturer": "Герасим Г.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології соціальної роботи з сім`ями з узалежненими особами",
+        "lecturer": "Козак М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89445723551?pwd=bCs2bndUL3UxdHNORW43T3VoQnN1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології соціальної роботи з сім`ями з узалежненими особами",
+        "lecturer": "Козак М.Я., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Соціогуманітарні проблеми сучасного українського суспільства",
+        "lecturer": "Макух О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика викладання соціальної роботи",
+        "lecturer": "Клос Л.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg2YjJlZTgtOWE5OC00MzUwLWJkZDItZmNhMDU0MTJjMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Здоров`єзбережувальна діяльність в соціальній роботі",
+        "lecturer": "Клос Л.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg2YjJlZTgtOWE5OC00MzUwLWJkZDItZmNhMDU0MTJjMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Соціогуманітарні проблеми сучасного українського суспільства",
+        "lecturer": "Макух О.Є., 205б XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9209743557?pwd=UkV2dWdwbWpBTVk0bWlYaWVQS1FQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Особливості соціальної роботи з біхевіоральними залежностями",
+        "lecturer": "Герасим Г.З., 205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

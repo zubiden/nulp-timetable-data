@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., 014 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDFiM2YxNjYtZDI0Ny00YjFiLWJjMTEtM2E3ZTQwNjQ3OTk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22649f937c-6af7-43b4-ae44-6154c3b8947a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., 014 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmJlZjAxYzUtZDc5Mi00NDIxLTg5NjQtMmE1MDNiNTQyY2Vi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22649f937c-6af7-43b4-ae44-6154c3b8947a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інструментальні матеріали",
+        "lecturer": "Тепла Т.Л., 014 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:32c30fd362a5428da7496d6d4944ab38@thread.tacv2/1602831765809?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=92785cf9-dea2-4e4f-9a48-3a903a926441&parentMessageId=1602831765809&teamName=%D0%9F%D0%9C%D0%9E%D0%9C%20Teams&channelName=%D0%9E%D0%B1%D1%89%D0%B8%D0%B9&createdTime=1602831765809"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "subject": "Інструменти програмного опису апаратних засобів кібербезпеки",
+        "lecturer": "Горпенюк А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні стандарти із кібербезпеки",
+        "lecturer": "Опірський І.Р., 221 а 20 к",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування та супровід КСЗІ",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні стандарти із кібербезпеки",
+        "lecturer": "Опірський І.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування та супровід КСЗІ",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками та інцидентами інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління ризиками та інцидентами інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інструменти програмного опису апаратних засобів кібербезпеки",
+        "lecturer": "Зеляновський Ю.Є., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 6,
+        "number": 1
+    },
+    {
+        "subject": "Інструменти програмного опису апаратних засобів кібербезпеки",
+        "lecturer": "Зеляновський Ю.Є., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 3
+    }
+]

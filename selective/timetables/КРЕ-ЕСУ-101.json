@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Керування режимами електропостачальних систем",
+        "lecturer": "Лисяк В.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a99c819c5f9b445c089fe73537f923618%40thread.tacv2/1674756839473?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Керування режимами електропостачальних систем",
+        "lecturer": "Лисяк В.Г., 305а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a99c819c5f9b445c089fe73537f923618%40thread.tacv2/1680190818614?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Керування режимами електропостачальних систем",
+        "lecturer": "Лисяк В.Г., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a99c819c5f9b445c089fe73537f923618%40thread.tacv2/1680190818614?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f9cee3a-2689-49d6-b0fa-f279e887df07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

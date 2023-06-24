@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/epo-zrks-iku"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/epo-zrks-iku"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Висоцька В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fvd-xqbd-skh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fcw-qcny-hfj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Висоцька В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jkw-vaom-yqx"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/rvh-mwsg-tuu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71403628588?pwd=gwisqOi1bOG6pM84uMOzFCipKrYQW3.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71403628588?pwd=gwisqOi1bOG6pM84uMOzFCipKrYQW3.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

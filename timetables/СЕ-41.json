@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750714507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., 405 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFMhqQ5Pn_h9y41ImI4YamFF_s0ojXHBQ0qdjnRp8CJs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fbdd8599-8c1d-40fe-92b5-17a7260cb4a5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., 405 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750791435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674751849722?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизовані системи управління в енергетичних системах відновлювальної енергетики",
+        "lecturer": "Покровський К.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a62cA9ycuWKIixfQ-oGW2KeqNt3JNQJY50aPMDbZm_qs1%40thread.tacv2/conversations?groupId=14b24300-e1d6-464e-a4c3-793af4e0c487&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoSIeJRY5HJpS2vlL_no9iBimyvqqY5qKZ0c9fH66v4k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d32be75-e9ab-4ae1-a72b-61160cf3fb4a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Моторнюк У.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aD1rAYcJjI6Dj9j7BipeQmDZikNJftfxrg8ln_uYXyyA1%40thread.tacv2/conversations?groupId=23df5e95-d32b-47bf-9740-d5abc7f95ca5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFMhqQ5Pn_h9y41ImI4YamFF_s0ojXHBQ0qdjnRp8CJs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fbdd8599-8c1d-40fe-92b5-17a7260cb4a5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

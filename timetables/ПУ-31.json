@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "Заяць Д.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=kh8CnyjGjveEjRu2Hg3ZIYFwIIg4h9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "Худоба О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5603098154?pwd=THpmL1Y0TmxuODl1eXM3TytOb3N3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "Гарбариніна В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "Гарбариніна В.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "Кіянка І.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "Вовжиняк М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "Вовжиняк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "Вовжиняк М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Співпраця з Європейським Союзом",
+        "lecturer": "Панфілова Т.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "Панфілова Т.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "Панфілова Т.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "Гарбариніна В.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "Худоба О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5603098154?pwd=THpmL1Y0TmxuODl1eXM3TytOb3N3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

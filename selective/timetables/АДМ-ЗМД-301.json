@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Адміністративний менеджмент",
+        "lecturer": "Петришин Н.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aiNHA4BE_JjxxCOqFtDnMKwbDFW_7hOzIBQUK0uOLpI81%40thread.tacv2/1677065059984?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22012cb6b0-7e6d-470f-a35d-d112205b4001%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Адміністративний менеджмент",
+        "lecturer": "Подра О.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akm3YCr-IGKfzfsy9q2T3iSZxCj3AiOgQElei2e7bzVI1%40thread.tacv2/1677064074542?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22585e6382-8d28-41d6-bc5b-9ff42ec227b0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "Маркович Б.М., 104 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

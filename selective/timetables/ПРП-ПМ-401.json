@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avSgnTJ4LZaTzYgrWl6tJ6ZJTcgvepRyX0b6JTWntrH01%40thread.tacv2/conversations?groupId=d803ec8a-8b8c-436a-8a95-2ee18f18162e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., Юзефович Р.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avSgnTJ4LZaTzYgrWl6tJ6ZJTcgvepRyX0b6JTWntrH01%40thread.tacv2/conversations?groupId=d803ec8a-8b8c-436a-8a95-2ee18f18162e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

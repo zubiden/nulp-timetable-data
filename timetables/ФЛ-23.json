@@ -1,0 +1,325 @@
+[
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Марків О.О., 505 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Бондарчук Н.І., 008 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Бондарчук Н.І., 008 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Череповська О.А., корп.21 вул.Самчука.11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Рішняк І.В., 215 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Кадикало А.М., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 217 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 129 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 129 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 129 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Гайдук М.С., 118 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "Марків О.О., 403 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Гайдук М.С., 118 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Гайдук М.С., 118 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 207 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Бондарчук Н.І., 008 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 517 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Бондарчук Н.І., 008 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "Горін О.Р., 130 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "Смеречинська О.В., 115 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 318 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "Кадикало А.М., 307 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проблемно-орієнтовані методи та засоби інформаційних технологій",
+        "lecturer": "Ханас Ю.Ю., 123 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

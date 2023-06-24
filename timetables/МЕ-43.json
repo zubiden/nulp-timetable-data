@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "Медведєв В.С., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "Медведєв В.С., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "Другов О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "Бойко В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Формування і розвиток команди інноваційного проекту",
+        "lecturer": "Кучер А.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/7771181691?pwd=eXEwRXVscVJRdFN5MnpocGNjQ3ptQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Формування і розвиток команди інноваційного проекту",
+        "lecturer": "Кучер А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7771181691?pwd=eXEwRXVscVJRdFN5MnpocGNjQ3ptQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "Другов О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "Другов О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Формування і розвиток команди інноваційного проекту",
+        "lecturer": "Кучер А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/7771181691?pwd=eXEwRXVscVJRdFN5MnpocGNjQ3ptQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

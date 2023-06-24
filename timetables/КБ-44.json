@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Ромака В.А., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA2ODQ3NzktMTY4NC00NDRlLTk1YmItMTQzNGNiMjUyNjc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE3YmMzYmEtNTA5OS00MTViLTgxZjItZWQ1OWM3YTBlNjAw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyZjhkZDgtYzdkOC00OGRjLTllM2MtNWI0OWE3N2M4M2Q2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "Бибик Р.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWMyOTEwOWYtNDA1ZS00YjMzLWEwZDItMmRiYjcxMTczYjMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "Пархуць Л.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

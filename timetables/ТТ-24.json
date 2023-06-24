@@ -1,0 +1,166 @@
+[
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "Артимович П.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRgIIyEcRnaxEQMd_PGOVxTNX4UyQ_drRSUwqiEvgXwA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c4184c8e-89af-4846-8ff8-c3b2b8aac467&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Організація контролю за транспортним процесом",
+        "lecturer": "Барвінська Х.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація контролю за транспортним процесом",
+        "lecturer": "Барвінська Х.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "Форнальчик Є.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "Осташук М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:Emah0OR4_YwIGH-Ebi10ZqQz4EMTA7EHXfIGIHtbZ5M1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "Форнальчик Є.Ю., Сьласкі Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3Aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2%2F%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5%3FgroupId%3Dbe1fbef9-665e-4984-8bc8-e43655575344%26tenantId%3D7631cd62-5187-4e15-8b8e-ef653e366e7a&type=channel&deeplinkId=f2025239-5b1e-4f79-92de-ddf3bef442cd&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true",
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "Плесак М.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRgIIyEcRnaxEQMd_PGOVxTNX4UyQ_drRSUwqiEvgXwA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c4184c8e-89af-4846-8ff8-c3b2b8aac467&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "Осташук М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:HekwAFvx5hTGId-4nrzBfVz-__AlAnMg4-QY4BOHGP01@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

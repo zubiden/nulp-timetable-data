@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Досвід ЄС у трансфері технологій: теорія і практика",
+        "lecturer": "Дума О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79860567036?pwd=fkbpoERZRmTtnwZKcbqoIfea0TPOGW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Досвід ЄС у трансфері технологій: теорія і практика",
+        "lecturer": "Дума О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79860567036?pwd=fkbpoERZRmTtnwZKcbqoIfea0TPOGW.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

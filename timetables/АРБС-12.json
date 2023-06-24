@@ -1,0 +1,125 @@
+[
+    {
+        "subject": "Архітектурне формування міських структур та громадських об`єктів",
+        "lecturer": "Крушельницький Р.О., 333 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне формування міських структур та громадських об`єктів",
+        "lecturer": "Василько Т.В., Крушельницький Р.О., 333 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Сенькович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "Базилевич В.В., Верхола Ю.В., 313в Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "Базилевич В.В., Верхола Ю.В., 313в Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "Базилевич В.В., Хамар І.Г., 313в Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "Базилевич В.В., Хамар І.Г., 313в Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "Кайдановська О.О., 324б Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74622766628?pwd=tzfNx8FxWmxTRfjKaTNXJSGwHlLLqb.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "Кайдановська О.О., 324б Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74622766628?pwd=tzfNx8FxWmxTRfjKaTNXJSGwHlLLqb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

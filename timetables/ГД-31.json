@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78850815657?pwd=vXtfUwK0iiWHMP0f8F9ahk24Ylq9UD.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Землеустрій",
+        "lecturer": "Сай В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "Третяк К.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fgh-jetx-psb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Шило Є.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519221161?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "Петров С.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77682185821?pwd=RUP0ycmBpRdazQJrsFrLsadBaeCWl6.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Витрикуш Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72886460419?pwd=AhuwbDWljmwzmtv87BamTLe5uaq2mt.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "Серант О.В., Третяк К.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/rcm-cmhu-pef"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "Серант О.В., Третяк К.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/rcm-cmhu-pef"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Землеустрій",
+        "lecturer": "Сай В.М., Чернявська Л.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Землеустрій",
+        "lecturer": "Сай В.М., Чернявська Л.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Шило О.М., Церклевич А.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "Шило О.М., Церклевич А.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "Віват А.Й., Петров С.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "Віват А.Й., Петров С.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

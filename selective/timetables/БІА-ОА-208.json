@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Микитюк Н.О., 117 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77314094446?pwd=MWiVrjAK8hDjLeIWHqi8FUoLbSSQJv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "Микитюк Н.О., 109 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

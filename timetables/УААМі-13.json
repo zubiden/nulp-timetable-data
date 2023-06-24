@@ -1,0 +1,249 @@
+[
+    {
+        "subject": "Фінансовий менеджмент та ризик підприємництва",
+        "lecturer": "Білик О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78051283029?pwd=XrCqTllFEmuu0dqWvMoZc0p0jbfi4i.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "Заяць Д.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=kh8CnyjGjveEjRu2Hg3ZIYFwIIg4h9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87036882322?pwd=MDdYTGZHaE9GTEJRcGw5dldOVWNEZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "Блинда Ю.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9805345511?pwd=QUJpTkY3YVhBR3gwWUlHUnBNWHY1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Статистика та економетрія в адміністративній діяльності",
+        "lecturer": "Познякова О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73097277577?pwd=b0xKTjdrSmgvZ2hUN1ZqVUFhemY3Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "Сірик З.О., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Статистика та економетрія в адміністративній діяльності",
+        "lecturer": "Познякова О.І., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73097277577?pwd=b0xKTjdrSmgvZ2hUN1ZqVUFhemY3Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "Весоловська М.К., 509 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85181045400?pwd=dVRlb1VrbTg2eWhKU0JzdlFGUmFXdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "Весоловська М.К., 507 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85181045400?pwd=dVRlb1VrbTg2eWhKU0JzdlFGUmFXdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Статистика та економетрія в адміністративній діяльності",
+        "lecturer": "Познякова О.І., 507 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73097277577?pwd=b0xKTjdrSmgvZ2hUN1ZqVUFhemY3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Статистика та економетрія в адміністративній діяльності",
+        "lecturer": "Познякова О.І., 509 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73097277577?pwd=b0xKTjdrSmgvZ2hUN1ZqVUFhemY3Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фінансовий менеджмент та ризик підприємництва",
+        "lecturer": "Стеців І.С., 110 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "Блинда Ю.О., 110 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінансовий менеджмент та ризик підприємництва",
+        "lecturer": "Білик О.І., 5 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72788929019?pwd=UNovo6oogj8Lz2SI8FKj2mRRPP89f0.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фінансовий менеджмент та ризик підприємництва",
+        "lecturer": "Білик О.І., 5 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72788929019?pwd=UNovo6oogj8Lz2SI8FKj2mRRPP89f0.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., 3 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Державна політика: аналіз та механізм впровадження",
+        "lecturer": "Яремко І.І., 3 IV н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Якубовський В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aGsqL5288l-rc_JnIq5cb6v-phinJh2ASzdO_2PSH2f81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3af8cbed-87b3-4f9c-81fa-2d6ad256ce55&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83786844882?pwd=U3Y5SEQ0NTRRSUpNZjZZWVprUXpPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Віхоть С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYVo5E1V1thorHoLOazPBRsp0zMcgBQ2TCU2eMebF_mA1%40thread.tacv2/1677152716351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "Знак І.Б., Кашуба О.М., Михайлюк Б.Ф., Якубовський В.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5eBUDvDLdSMv4V88eDkGHNHWw4g3OEfTCmRfeqzcebM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=851dee6f-558f-4897-8c37-c5184ce8a2dc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3aCZnm74exrxavzwaO3JZ8QDPYwWDeWI51sKMQ6YsUozA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=29617029-96ab-42d9-82c0-03d035f38dbf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "Знак І.Б., Кашуба О.М., Михайлюк Б.Ф., Якубовський В.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5eBUDvDLdSMv4V88eDkGHNHWw4g3OEfTCmRfeqzcebM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=851dee6f-558f-4897-8c37-c5184ce8a2dc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3aCZnm74exrxavzwaO3JZ8QDPYwWDeWI51sKMQ6YsUozA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=29617029-96ab-42d9-82c0-03d035f38dbf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 1 тижд",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84337161171?pwd=R2pmcC9ycVdoc1RFSG95azlXSFpPUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 2тижд",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84337161171?pwd=R2pmcC9ycVdoc1RFSG95azlXSFpPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., 4тижд",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84337161171?pwd=R2pmcC9ycVdoc1RFSG95azlXSFpPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "Пекарчук О.П., Покладок О.В., Яців С.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/1677015533801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d",
+            "https://teams.microsoft.com/l/team/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/conversations?groupId=3aadd9a0-4126-4031-a21f-3f2791670b49&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "Пекарчук О.П., Покладок О.В., Яців С.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/1677015533801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d",
+            "https://teams.microsoft.com/l/team/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/conversations?groupId=3aadd9a0-4126-4031-a21f-3f2791670b49&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Якубовський В.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac6eUkz8vC8QZIkgBolkZTepLgIqOZlI9LtxpKSvjGN81%40thread.tacv2/conversations?groupId=50087126-de62-445f-a3e1-6b2f64fb98b7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Демчина Х.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYlch5F4Wr3FM2PNhr2NO9X30BFEtnc62GSt2xAEsfvA1%40thread.tacv2/conversations?groupId=f1939be0-c256-4cb2-b7f0-a85055b0a7d7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

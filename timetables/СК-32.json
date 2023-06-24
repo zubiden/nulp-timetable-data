@@ -1,0 +1,467 @@
+[
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., 526 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677146459416?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., 526 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677146512789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "lecturer": "Лісіна С.О., 526 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0514dc0c5d514c23b4a9356a0600f3aa@thread.tacv2/1613050440025?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=b2baf076-ca4e-4cb0-ade5-bd136ca0f121&parentMessageId=1613050440025&teamName=%D0%94%D0%9A-2%D1%85&channelName=%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%BE-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97&createdTime=1613050440025"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сокіл М.Б., 520 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677143032704?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f90aa4e2-2c53-40a4-a973-1e2a3263ef71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "lecturer": "Лісіна С.О., 526 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0514dc0c5d514c23b4a9356a0600f3aa@thread.tacv2/1613050440025?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=b2baf076-ca4e-4cb0-ade5-bd136ca0f121&parentMessageId=1613050440025&teamName=%D0%94%D0%9A-2%D1%85&channelName=%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%BE-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97&createdTime=1613050440025"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., англ мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677146655355?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., 524 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677146794555?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., англ мовою524 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677146907515?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Гуманізація інформаційного обміну",
+        "lecturer": "Морушко О.О., 526а IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6885d3d8ef7947c8b6ad75a3f9e6cf93%40thread.tacv2/1677231993534?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22be8cae9c-e1a9-4de3-895e-26944f57c511%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-технології та ресурси",
+        "lecturer": "Андрухів А.І., 526а IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a49253e1ed703458fa20c906d094a5fbe%40thread.tacv2/1677240988024?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-технології та ресурси з управління документаційними процесами",
+        "lecturer": "Андрухів А.І., 517 IV н.к., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1c1a7a143904baeb4cd759027b696f2%40thread.tacv2/1677241128193?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання обміну соціальною інформацією",
+        "lecturer": "Морушко О.О., 517 IV н.к., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a20fa9aacae754acbab71682581e193e9%40thread.tacv2/1677233344149?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22be8cae9c-e1a9-4de3-895e-26944f57c511%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сєров Ю.О., англ мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677147185863?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація проектної діяльності з управління документаційними процесами",
+        "lecturer": "Трач О.Р., 526 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:39b6e8e1c9d54bdc9dd6bcb5b22d17e4@thread.tacv2/1677228772568?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677228772568&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%B7%20%D1%83%D0%BF%D1%80.%20%D0%B4%D0%BE%D0%BA.%20%D0%BF%D1%80%D0%BE%D1%86&createdTime=1677228772568&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання обміну соціальною інформацією",
+        "lecturer": "Морушко О.О., 524 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a20fa9aacae754acbab71682581e193e9%40thread.tacv2/1677232849242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22be8cae9c-e1a9-4de3-895e-26944f57c511%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтернет-технології та ресурси",
+        "lecturer": "Андрухів А.І., 521 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a49253e1ed703458fa20c906d094a5fbe%40thread.tacv2/1677241504058?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Гуманізація інформаційного обміну",
+        "lecturer": "Морушко О.О., 524 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6885d3d8ef7947c8b6ad75a3f9e6cf93%40thread.tacv2/1677233032118?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22be8cae9c-e1a9-4de3-895e-26944f57c511%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Організація проектної діяльності",
+        "lecturer": "Трач О.Р., 526 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1647e0937ace4e4eb9c318c6bf61ed61@thread.tacv2/1677228620235?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677228620235&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96&createdTime=1677228620235&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "lecturer": "Вовк Н.С., 524 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aff2083bda63b498c9209993a7b2bf0c6%40thread.tacv2/1676976044844?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224895e068-983c-4130-9bd1-29e08d895f9f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація проектної діяльності",
+        "lecturer": "Трач О.Р., 526а IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1647e0937ace4e4eb9c318c6bf61ed61@thread.tacv2/1677227960208?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677227960208&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96&createdTime=1677227960208&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розроблення спеціалізованих сайтів",
+        "lecturer": "Федушко С.С., 526а IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:98d2cf688fe24847b1826153e85bfd36@thread.tacv2/1677147742360?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677147742360&teamName=%D0%A1%D0%9A-3x&channelName=%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%D0%B2&createdTime=1677147742360&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація проектної діяльності з управління документаційними процесами",
+        "lecturer": "Трач О.Р., 524 IV н.к., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:39b6e8e1c9d54bdc9dd6bcb5b22d17e4@thread.tacv2/1677228699004?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677228699004&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%B7%20%D1%83%D0%BF%D1%80.%20%D0%B4%D0%BE%D0%BA.%20%D0%BF%D1%80%D0%BE%D1%86&createdTime=1677228699004&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розроблення спеціалізованих сайтів з управління документаційними процесами",
+        "lecturer": "Федушко С.С., 524 IV н.к., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:d6529836c2b546d29d14f67e618d8caf@thread.tacv2/1677147919802?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677147919802&teamName=%D0%A1%D0%9A-3x&channelName=%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%D0%B2%20%D0%B7%20%D1%83%D0%BF%D1%80.%D0%B4%D0%BE%D0%BA.%D0%BF%D1%80%D0%BE%D1%86&createdTime=1677147919802&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація проектної діяльності",
+        "lecturer": "Трач О.Р., англ мовою524 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1647e0937ace4e4eb9c318c6bf61ed61@thread.tacv2/1677228170823?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677228170823&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96&createdTime=1677228170823&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація проектної діяльності",
+        "lecturer": "Трач О.Р., англ мовою524 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1647e0937ace4e4eb9c318c6bf61ed61@thread.tacv2/1677228399627?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677228399627&teamName=%D0%A1%D0%9A-3x&channelName=%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D1%97%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96&createdTime=1677228399627&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтернет-технології та ресурси з управління документаційними процесами",
+        "lecturer": "Андрухів А.І., 521 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1c1a7a143904baeb4cd759027b696f2%40thread.tacv2/1677242106356?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розроблення спеціалізованих сайтів з управління документаційними процесами",
+        "lecturer": "Трач О.Р., 520 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:d6529836c2b546d29d14f67e618d8caf@thread.tacv2/1677229050757?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1677229050757&teamName=%D0%A1%D0%9A-3x&channelName=%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%D0%B2%20%D0%B7%20%D1%83%D0%BF%D1%80.%D0%B4%D0%BE%D0%BA.%D0%BF%D1%80%D0%BE%D1%86&createdTime=1677229050757&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Розроблення спеціалізованих сайтів",
+        "lecturer": "Кравець Р.Б., 526 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a98d2cf688fe24847b1826153e85bfd36%40thread.tacv2/1677149590854?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f95c00f-f91d-47ff-b03d-93564ba85cef%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "lecturer": "Лісіна С.О., 516 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0514dc0c5d514c23b4a9356a0600f3aa@thread.tacv2/1613050440025?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=b2baf076-ca4e-4cb0-ade5-bd136ca0f121&parentMessageId=1613050440025&teamName=%D0%94%D0%9A-2%D1%85&channelName=%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%BE-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97&createdTime=1613050440025"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Електронне урядування",
+        "lecturer": "Сокіл М.Б., 521 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9523479c91bd476382c83a2a027752af%40thread.tacv2/1677143339036?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f90aa4e2-2c53-40a4-a973-1e2a3263ef71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "lecturer": "Лісіна С.О., 516 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0514dc0c5d514c23b4a9356a0600f3aa@thread.tacv2/1613050440025?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=b2baf076-ca4e-4cb0-ade5-bd136ca0f121&parentMessageId=1613050440025&teamName=%D0%94%D0%9A-2%D1%85&channelName=%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%BE-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97&createdTime=1613050440025"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

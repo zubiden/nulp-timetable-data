@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Штучні нейронні мережі",
+        "lecturer": "Левкович М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86269261264?pwd=c2hqWXBaVEVSS3BpT3FBZzBOVlAydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Штучні нейронні мережі",
+        "lecturer": "Левкович М.В., 323 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Штучні нейронні мережі",
+        "lecturer": "Левкович М.В., 323 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

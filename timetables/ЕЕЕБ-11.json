@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "Зазуляк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86751454775?pwd=LzkvRWdISWRVYlZIV1FjVGFLOG9TUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "Зазуляк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83861338573?pwd=ZDNadGxKNVZMZkJJKzdBWnhJV05kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "lecturer": "Щур І.З., 2 пол сем150 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "lecturer": "Щур І.З., 2 пол сем150 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "lecturer": "Щур І.З., 2 пол сем150 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "Олійник Н.Ю., 210 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79485016451?pwd=OUVxWFFHalB0MlJuM1NlblNKTEFqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Антикризове та стратегічне управління у сфері енергетичної безпеки",
+        "lecturer": "Завербний А.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0066026432ac4e9c8249c13979fe266a%40thread.tacv2/1677323204767?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a625db5-fdeb-4717-96c6-9756556ed4d1%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи системного аналізу та теорії прийняття рішень",
+        "lecturer": "Паранчук Я.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOICZuMbx22zkNHS0QNflQ7o28Xc1AXpLGMK--b12cJw1%40thread.tacv2/1676827756817?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225427ba8e-794e-4898-8982-0a01dcbb7164%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Антикризове та стратегічне управління у сфері енергетичної безпеки",
+        "lecturer": "Завербний А.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0066026432ac4e9c8249c13979fe266a%40thread.tacv2/1677323243169?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a625db5-fdeb-4717-96c6-9756556ed4d1%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи системного аналізу та теорії прийняття рішень",
+        "lecturer": "Паранчук Я.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOICZuMbx22zkNHS0QNflQ7o28Xc1AXpLGMK--b12cJw1%40thread.tacv2/1676827220374?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225427ba8e-794e-4898-8982-0a01dcbb7164%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "lecturer": "Заяць М.Ф., 1 пол.сем213 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "lecturer": "Заяць М.Ф., 1 пол сем213 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

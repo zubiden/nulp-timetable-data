@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Фітодизайн",
+        "lecturer": "Олешко О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5c0e860qM8wYWoqIip5Wuc9UEkTanf-j2atUkTAPvc41%40thread.tacv2/conversations?groupId=6a486a06-6f97-4a3b-9b8e-e381d5efafc4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Фітодизайн",
+        "lecturer": "Олешко О.П., 216 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5c0e860qM8wYWoqIip5Wuc9UEkTanf-j2atUkTAPvc41%40thread.tacv2/conversations?groupId=6a486a06-6f97-4a3b-9b8e-e381d5efafc4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Дизайн міського середовища",
+        "lecturer": "Служинська М.С., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Дизайн міського середовища",
+        "lecturer": "Служинська М.С., 313б Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "Радомська В.Р., Дида І.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFHwz6ayaDrl_iQ8KYqpjNiG7Jm2sDtRfuaqd-BGz6dE1%40thread.tacv2/conversations?groupId=ff65cc5e-dd59-415b-8332-4285a92046f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Перспективи розвитку дизайну та інформаційного середовища",
+        "lecturer": "Мельник О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9t0z17tY-JH7IPfmnzoSH5nsizJTqNi0GF6AKMvRPvk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=387b0566-886b-497d-a2bf-315e34e3bf17&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "Дида І.А., Радомська В.Р., кп304 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "Дида І.А., Радомська В.Р., 304 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "Дида І.А., Радомська В.Р., кп304 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комплексне проектування",
+        "lecturer": "Франків Р.Б., Галишич Р.Я., кп224 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adBl98K3xyyrB9Tu2lg6MnsiuIQq9FJN6-Ce5M0VFXZQ1%40thread.tacv2/conversations?groupId=66f6caf7-60a9-441f-b57d-5a23c3c48708&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "Галишич Р.Я., 224 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aknaeT0_vGvmar0PbpZ1DfZdaMn1e89VRKOtZGeXc2-M1%40thread.tacv2/conversations?groupId=83bdb014-5eeb-48bc-8937-96140c50db2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали в дизайні сучасного інтер`єру",
+        "lecturer": "Оконченко О.М., 105а Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1JCO77KLkCMU0hdX2La7YNuS1Jxx4HumQ-xXw9fShwM1%40thread.tacv2/conversations?groupId=eb12ed3f-1db5-4f7d-a0d1-1f4079cfa9af&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології і матеріали в дизайні сучасного інтер`єру",
+        "lecturer": "Оконченко О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1JCO77KLkCMU0hdX2La7YNuS1Jxx4HumQ-xXw9fShwM1%40thread.tacv2/conversations?groupId=eb12ed3f-1db5-4f7d-a0d1-1f4079cfa9af&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

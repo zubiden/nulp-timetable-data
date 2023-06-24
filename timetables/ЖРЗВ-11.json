@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Методологія , методика наукових медіадосліджень та викладання фахових дисциплін",
+        "lecturer": "Гарматій О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84971224707?pwd=cmlaYlVWN3AvSnZSdERsL0laSW1OUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Сценарна майстерність радіо- і телепередач",
+        "lecturer": "Федів І.М., 108 XX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Режисура радіо- і телепередач",
+        "lecturer": "Федів І.М., 108 XX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Випусковий редактор на радіо і телебаченні",
+        "lecturer": "Дворянин П.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82905368250?pwd=aW9yWWlxTjVselFTczZBR25LQ3Qvdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Випусковий редактор на радіо і телебаченні",
+        "lecturer": "Дворянин П.Я., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82905368250?pwd=aW9yWWlxTjVselFTczZBR25LQ3Qvdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "Білограць Х.Р., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79324214786?pwd=mgWCaWBTm7acR9RW1t0eoI2HLflk1M.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "Білограць Х.Р., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сценарна майстерність радіо- і телепередач",
+        "lecturer": "Федів І.М., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Режисура радіо- і телепередач",
+        "lecturer": "Федів І.М., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методологія , методика наукових медіадосліджень та викладання фахових дисциплін",
+        "lecturer": "Гарматій О.В., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84971224707?pwd=cmlaYlVWN3AvSnZSdERsL0laSW1OUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

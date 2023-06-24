@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Психологія журналістської творчості",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74767721117?pwd=wbq2lxF3UCRbZGwYby5rGGvCqu3tVs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Галів О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна політика",
+        "lecturer": "Олійник Н.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72141193221?pwd=OHJpTlE4ek80ckRBVmNtdEluY21Gdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Галів О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "Галів О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "Мудра І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "Мудра І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "Мудра І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "Мудра І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна політика",
+        "lecturer": "Олійник Н.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72141193221?pwd=OHJpTlE4ek80ckRBVmNtdEluY21Gdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Психологія журналістської творчості",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73782739957?pwd=WZw4yd0oyGWbncAu0G97iiXzwlzYpx.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

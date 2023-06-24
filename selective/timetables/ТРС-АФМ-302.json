@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Корчинська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75875096186?pwd=vwoV5RrdaA7LaanEVMMii6eumew7mS.1%20%20Meeting%20ID:%20758%207509%206186%20Passcode:%205uEL4Z"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "Корчинська О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75267089779?pwd=4RIpG6RSkTgCQTe7oMlaAV1hYgy9KC.1%20%20Meeting%20ID:%20752%206708%209779%20Passcode:%20Fp2FwV"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

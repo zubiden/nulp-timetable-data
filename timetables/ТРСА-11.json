@@ -1,0 +1,206 @@
+[
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., 303 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., 303 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jwa-oewt-hof"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтернет речей та повсюдний комп`ютинг",
+        "lecturer": "Гордійчук-Бублівська О.В., 304 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтернет речей та повсюдний комп`ютинг",
+        "lecturer": "Гордійчук-Бублівська О.В., 304 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Побудова та протоколи гетерогенних мереж мобільного зв`язку",
+        "lecturer": "Медвецький М.Б., 305 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jmz-jbqj-axd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Побудова та протоколи гетерогенних мереж мобільного зв`язку",
+        "lecturer": "Медвецький М.Б., 303 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/dxd-yqxp-aej"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Байбакова І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/zbRF8AP7xxiS"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., 308 XI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6auo-HTTjVhKYSF7uXzk1nNjqHfLIKL_4OUS0hXO6Mo1%40thread.tacv2/1677093127175?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tgz-ubbm-tvx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Товстюк К.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0PKyxxaoX_EybHl-thccsGHdBj1ksPFNFf5maUuSmL41%40thread.tacv2/1677094292209?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ea5e83-9fa9-4f9b-986f-674caeca972f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Побудова та протоколи гетерогенних мереж мобільного зв`язку",
+        "lecturer": "Бешлей М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uge-dqcx-bvh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Побудова та протоколи гетерогенних мереж мобільного зв`язку",
+        "lecturer": "Бешлей М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uge-dqcx-bvh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет речей та повсюдний комп`ютинг",
+        "lecturer": "Демидов І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4cac012f897f4dde8881bfd591085f5d%40thread.tacv2/1677152295435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac31a5d3-1eb0-4455-b90a-e52b18414e83%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет речей та повсюдний комп`ютинг",
+        "lecturer": "Демидов І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4cac012f897f4dde8881bfd591085f5d%40thread.tacv2/1677152295435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac31a5d3-1eb0-4455-b90a-e52b18414e83%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

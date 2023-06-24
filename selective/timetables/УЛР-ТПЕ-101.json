@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Управління людськими ресурсами",
+        "lecturer": "Садова У.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5488e309b3d5421ba1574598edaa7c3f%40thread.tacv2/1677355774835?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22277dcf8b-67d2-47de-a3cc-e747de964435%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління людськими ресурсами",
+        "lecturer": "Садова У.Я., 205 I н.к.",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5488e309b3d5421ba1574598edaa7c3f%40thread.tacv2/1677485398178?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22277dcf8b-67d2-47de-a3cc-e747de964435%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

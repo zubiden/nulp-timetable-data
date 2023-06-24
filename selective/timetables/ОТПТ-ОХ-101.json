@@ -1,0 +1,73 @@
+[
+    {
+        "subject": "Основи товарознавства продовольчих товарів та косметичних засобів",
+        "lecturer": "Дончак В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWY1MjVmZmQtZTY0Mi00NGRjLWEzNzktMWY3NjAzMmQzOTUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fa2addbc-b1aa-4e34-91f8-385133317946%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів та косметичних засобів",
+        "lecturer": "Дончак В.А., 218 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWY1MjVmZmQtZTY0Mi00NGRjLWEzNzktMWY3NjAzMmQzOTUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fa2addbc-b1aa-4e34-91f8-385133317946%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів та косметичних засобів",
+        "lecturer": "Дончак В.А., 218 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів та косметичних засобів",
+        "lecturer": "Дончак В.А., 218 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWY1MjVmZmQtZTY0Mi00NGRjLWEzNzktMWY3NjAzMmQzOTUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fa2addbc-b1aa-4e34-91f8-385133317946%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Основи товарознавства продовольчих товарів та косметичних засобів",
+        "lecturer": "Дончак В.А., 218 VIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

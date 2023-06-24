@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Семантичний аналіз даних",
+        "lecturer": "Бойко Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Семантичний аналіз даних",
+        "lecturer": "Вовк О.Б., 101 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72624307529?pwd=toMWHbSYetLOme2j1NUePaajZbqZT7.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Семантичний аналіз даних",
+        "lecturer": "Вовк О.Б., 101 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71161516848?pwd=qhptJdEkVyalt5Cg0JjZxoejGhZJrq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

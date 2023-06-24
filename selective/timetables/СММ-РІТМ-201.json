@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Гурський В.М., 21 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao5G87CgiMYaq0tgl7xiO9FZ2pLeJp0rJ-NeoMIOHi8I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c539131c-89d1-4407-9c72-a537ca374428&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи математичного та імітаційного моделювання",
+        "lecturer": "Гурський В.М., 21 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao5G87CgiMYaq0tgl7xiO9FZ2pLeJp0rJ-NeoMIOHi8I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c539131c-89d1-4407-9c72-a537ca374428&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

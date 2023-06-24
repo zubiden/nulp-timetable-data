@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., 005 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., 005 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

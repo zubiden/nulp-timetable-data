@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "Хім'як О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжкультурна комунікація",
+        "lecturer": "Пасічний Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "Бойко О.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "Бойко О.Я., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжкультурна комунікація",
+        "lecturer": "Пасічний Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "Лавренчук М.В., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77892754166?pwd=EGeZm7j3fsWmzxWVDSkBwju0dcdC6T.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "Бусько М.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0a9ece7654554446a2a32450f0c288c3%40thread.tacv2/conversations?groupId=0133d747-5940-4641-ae1c-c2cb3e7dcc42&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "Лавренчук М.В., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77892754166?pwd=EGeZm7j3fsWmzxWVDSkBwju0dcdC6T.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "Бусько М.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0a9ece7654554446a2a32450f0c288c3%40thread.tacv2/conversations?groupId=0133d747-5940-4641-ae1c-c2cb3e7dcc42&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "Хім'як О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "Гуцалюк В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "Гуцалюк В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжкультурна комунікація",
+        "lecturer": "Пасічний Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "Корнат Л.Я., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://meet.google.com/ybc-idtt-ynu?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "Хім'як О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "Ільницька У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

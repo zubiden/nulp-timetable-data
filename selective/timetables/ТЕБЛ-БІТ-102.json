@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "Полотай О.І., СТ212 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "Полотай О.І., 212 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "Коробейнікова Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

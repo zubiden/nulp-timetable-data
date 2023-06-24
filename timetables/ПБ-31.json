@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Пожежна профілактика в будівництві",
+        "lecturer": "Білінський Б.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87059371994?pwd=K25PK0oyeHpXb2dUUG1neHJhaHVwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Пожежна профілактика в будівництві",
+        "lecturer": "Білінський Б.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89868019181?pwd=a2RwT0R5T0Q0WGw0NjlSUStHZDN6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Архітектура будівель і споруд",
+        "lecturer": "Гладишев Д.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aysO0-7PLilf6GVcwB82ent73ZqcMIHlJiXAiwIDjhFA1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=55cf1fdc-2073-4319-9c04-78e44060bf4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектура будівель і споруд",
+        "lecturer": "Гладишев Д.Г., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aysO0-7PLilf6GVcwB82ent73ZqcMIHlJiXAiwIDjhFA1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=55cf1fdc-2073-4319-9c04-78e44060bf4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи досліджень вогнестійкості будівельних конструкцій",
+        "lecturer": "Демчина Б.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSuK46nhkYO1qJahgkBbZq5BGHTwnRHi7IYDHIIo7YiA1%40thread.tacv2/conversations?groupId=06d8afb7-582a-4cbc-b288-61b648d0c82a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи досліджень вогнестійкості будівельних конструкцій",
+        "lecturer": "Пелех А.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2077152328?pwd=Xt2bEiVa4jeJrpNTEjYdCbyrchyQyM.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 2",
+        "lecturer": "Канюк В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6878344359?pwd=SkFkcWtrZHJsT1ZseUFmUVEzSlBEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 2",
+        "lecturer": "Канюк В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6878344359?pwd=SkFkcWtrZHJsT1ZseUFmUVEzSlBEQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи досліджень вогнестійкості будівельних конструкцій",
+        "lecturer": "Пелех А.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2077152328?pwd=Xt2bEiVa4jeJrpNTEjYdCbyrchyQyM.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "Верба В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "Верба В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "Верба В.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

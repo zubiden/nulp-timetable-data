@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Данчак Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Данчак Л.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Газополуменева обробка матеріалів нафтогазового комплексу",
+        "lecturer": "Похмурська Г.В., 4 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Газополуменева обробка матеріалів нафтогазового комплексу",
+        "lecturer": "Похмурська Г.В., 4 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Газополуменева обробка матеріалів нафтогазового комплексу",
+        "lecturer": "Похмурська Г.В., 4 XVI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Газополуменева обробка матеріалів нафтогазового комплексу",
+        "lecturer": "Похмурська Г.В., 4 XVI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Газополуменева обробка матеріалів нафтогазового комплексу",
+        "lecturer": "Похмурська Г.В., 4 XVI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сертифікація та акредитація трубопроводів та нафтогазосховищ",
+        "lecturer": "Назар І.Б., 4 XVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://undp.zoom.us/j/89345589454?pwd=OWpKeS94TmpXbFdWbkdRUXFnOGt5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

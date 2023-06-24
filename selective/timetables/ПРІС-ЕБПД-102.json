@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Природоохоронні інформаційні системи",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71375044818?pwd=yg36UU1MRmPBs0DDHTXdJT6f4BfJa6.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Природоохоронні інформаційні системи",
+        "lecturer": "Мокрий В.І., 211-1 корп",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71375044818?pwd=yg36UU1MRmPBs0DDHTXdJT6f4BfJa6.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

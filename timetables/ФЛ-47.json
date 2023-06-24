@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "Шийка Ю.І., 117 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/var-dohi-zgv"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Захарчук М.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/621845169"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Лотоцька Н.Я., 132 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/nhb-uuoj-yvi"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Захарчук М.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/621845169"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "Федоришин М.С., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a--2PMWjZAKuoaDUS-piqXBJ7EqMItKI47O_-EBJqRmI1%40thread.tacv2/1676993036025?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Козаченко Н.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Вовк М.В., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84801128981?pwd=aFJqK1NQYVI0bjN6ZlRUZ09NVGowQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Козаченко Н.О., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Козаченко Н.О., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "Федоришин М.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFomWD4hgPc2nk-3lk3JcAxaoWFl-LN55mSehUGZd901%40thread.tacv2/1682017558510?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "Вовк М.В., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84801128981?pwd=aFJqK1NQYVI0bjN6ZlRUZ09NVGowQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "Голтвян В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/qqo-muhs-ktc?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Лотоцька Н.Я., 117 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/nhb-uuoj-yvi"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "Козаченко Н.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 4",
+        "lecturer": "Хомицька І.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/yzh-qmef-unf"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 4",
+        "lecturer": "Хомицька І.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/yzh-qmef-unf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "Шестакевич Т.В., 114 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=5421"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

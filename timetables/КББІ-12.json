@@ -1,0 +1,251 @@
+[
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "Журавель І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFtk_z0lDCCDm4jDgwvkCt7OZpD_bFiX0bHjTxE8LEq01%40thread.tacv2/conversations?groupId=1a133658-b4f1-4a35-b130-db0789d3776c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розширена мережева безпека",
+        "lecturer": "Нємкова О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86537040262?pwd=SVJ6dU9EdExVeFE2U0N6UkI0anRPUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "Мельник В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Етичний хакінг",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a08268639e4424b52b7e213fcfca14283%40thread.tacv2/conversations?groupId=50c2ddee-0913-492a-8568-b1daf087800a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Лужецька Н.М., 215 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/81418529559?pwd=aVpFWjJmbzdnYklRMTBzdGlLdk9GUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Лужецька Н.М., 215 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/81418529559?pwd=aVpFWjJmbzdnYklRMTBzdGlLdk9GUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "Мельник В.А., 221 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "Мельник В.А., 221 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розширена мережева безпека",
+        "lecturer": "Нємкова О.А., 220 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86537040262?pwd=SVJ6dU9EdExVeFE2U0N6UkI0anRPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розширена мережева безпека",
+        "lecturer": "Нємкова О.А., 220 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/86537040262?pwd=SVJ6dU9EdExVeFE2U0N6UkI0anRPUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Етичний хакінг",
+        "lecturer": "Піскозуб А.З., 214 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a08268639e4424b52b7e213fcfca14283%40thread.tacv2/conversations?groupId=50c2ddee-0913-492a-8568-b1daf087800a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "Костів Ю.М., 215 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Етичний хакінг",
+        "lecturer": "Піскозуб А.З., 214 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a08268639e4424b52b7e213fcfca14283%40thread.tacv2/conversations?groupId=50c2ddee-0913-492a-8568-b1daf087800a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "Костів Ю.М., 216а XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Лужецька Н.М., 215 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/81418529559?pwd=aVpFWjJmbzdnYklRMTBzdGlLdk9GUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Лужецька Н.М., 215 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/81418529559?pwd=aVpFWjJmbzdnYklRMTBzdGlLdk9GUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Захист баз даних та знань",
+        "lecturer": "Войтусік С.С., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

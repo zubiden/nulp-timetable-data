@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Вегера П.І., 224а II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85951051497?pwd=M2t5QTBmSWFXeWtmaWJHaDdPMUtyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Вегера П.І., 224а II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85951051497?pwd=M2t5QTBmSWFXeWtmaWJHaDdPMUtyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування в сейсмічних районах",
+        "lecturer": "Вегера П.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85198241328?pwd=SVpJcWdQajVQaXJjanBMSDdxR2xxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Комп`ютерні системи штучного інтелекту",
+        "lecturer": "Лучечко А.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Карбовник І.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Дослідження і проектування вбудованих комп`ютерних систем",
+        "lecturer": "Кочан Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac472e0a228cc4a29abc86bc436b46fe0%40thread.tacv2/1677499554068?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження і проектування спеціалізованих комп`ютерних систем",
+        "lecturer": "Клим Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування спеціалізованих комп`ютерних систем",
+        "lecturer": "Клим Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження і проектування спеціалізованих комп`ютерних систем",
+        "lecturer": "Клим Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дослідження і проектування спеціалізованих комп`ютерних систем",
+        "lecturer": "Клим Г.І., 505а2 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Карбовник І.Д., 904а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування спеціалізованих комп`ютерних систем",
+        "lecturer": "Клим Г.І., 904а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "Карбовник І.Д., 904б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження і проектування вбудованих комп`ютерних систем",
+        "lecturer": "Кочан Р.В., 405 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab72e2199ba304e21bbf7a6997fb03316%40thread.tacv2/1677500216177?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні системи штучного інтелекту",
+        "lecturer": "Лучечко А.П., 510 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування вбудованих комп`ютерних систем",
+        "lecturer": "Кочан Р.В., 405 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3abae1e7f5b4ad4c2db16640ca7c51926c%40thread.tacv2/1677500303839?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні системи штучного інтелекту",
+        "lecturer": "Лучечко А.П., 904б V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

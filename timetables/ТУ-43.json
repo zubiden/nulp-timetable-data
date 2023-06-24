@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Різновиди міжнародних туристичних подорожей",
+        "lecturer": "Москвяк Я.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75563635215?pwd=hdvsdyq57bUk4sNCNV40xAa1qEC5aM.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "Теодорович Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корчак Б.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9RLg6iz9P6qeb9NnV6ZtHr1jZBOaCmYyfY5OawxLOEc1%40thread.tacv2/1677531097394?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корчак Б.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9RLg6iz9P6qeb9NnV6ZtHr1jZBOaCmYyfY5OawxLOEc1%40thread.tacv2/1677531097394?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "Габа М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWNhNTU4YjQtYzcyZC00ZDAxLThlMWEtOTAxMjdhYzQzODFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Різновиди міжнародних туристичних подорожей",
+        "lecturer": "Москвяк Я.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72317101440?pwd=eauysvM5FGoqySIiv0ycTLIrhIJpbi.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Різновиди міжнародних туристичних подорожей",
+        "lecturer": "Москвяк Я.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75563635215?pwd=hdvsdyq57bUk4sNCNV40xAa1qEC5aM.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корчак Б.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9RLg6iz9P6qeb9NnV6ZtHr1jZBOaCmYyfY5OawxLOEc1%40thread.tacv2/1677660502022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корчак Б.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9RLg6iz9P6qeb9NnV6ZtHr1jZBOaCmYyfY5OawxLOEc1%40thread.tacv2/1677660502022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "Теодорович Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "Теодорович Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "Теодорович Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корчак Б.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9RLg6iz9P6qeb9NnV6ZtHr1jZBOaCmYyfY5OawxLOEc1%40thread.tacv2/1677660591035?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "Теодорович Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "Теодорович Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

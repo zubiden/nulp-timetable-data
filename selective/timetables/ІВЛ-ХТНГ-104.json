@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Присяжний Ю.В., 320 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/99768028712?pwd=ZjFpUjF6N0M0LzRRTHB1ZDhsQWZmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

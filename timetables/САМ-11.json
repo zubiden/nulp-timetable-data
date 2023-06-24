@@ -1,0 +1,131 @@
+[
+    {
+        "subject": "Онтологічний інжиніринг",
+        "lecturer": "Басюк Т.М., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/99116018613?pwd=VlY5Z3VxaThEdVNiK3BnV1VlcUZSQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології аналітики даних",
+        "lecturer": "Берко А.Ю., 207 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології аналітики даних",
+        "lecturer": "Берко А.Ю., 208 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Розподілені бази даних та знань",
+        "lecturer": "Пасічник В.В., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Шаблони проектування інформаційних систем",
+        "lecturer": "Кісь Я.П., 207 VIa н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розподілені бази даних та знань",
+        "lecturer": "Пасічник В.В., 207 VIa н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Онтологічний інжиніринг",
+        "lecturer": "Басюк Т.М., 126 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Шаблони проектування інформаційних систем",
+        "lecturer": "Кісь Я.П., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Шаблони проектування інформаційних систем",
+        "lecturer": "Кісь Я.П., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

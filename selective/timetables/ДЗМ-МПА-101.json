@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Дизайн мислення",
+        "lecturer": "Винничук Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Дизайн мислення",
+        "lecturer": "Винничук Р.О., 3 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

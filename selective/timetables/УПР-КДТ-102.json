@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Губар Ю.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Губар Ю.П., 506 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

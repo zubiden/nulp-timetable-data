@@ -1,0 +1,258 @@
+[
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYG0812Ub0MVirT10O_kApvE2KVsxIHGnNK-OgAGztX81%40thread.tacv2/conversations?groupId=3a5ddd06-6067-4ee7-9032-7bf5b5258cc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Пиріг Ю.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/bxv-smkb-fqp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/jmq-huuf-sun"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "Николишин М.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/kgm-dsde-yqj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1677426189990?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1677426999711?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи моделювання та проектування програмно-апаратних радіоелектронних засобів",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wty-woah-kfp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи моделювання та проектування програмно-апаратних радіоелектронних засобів",
+        "lecturer": "Матієшин Ю.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/jud-jaxa-csh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "Оборжицький В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://tel.meet/fdk-dkno-ayv?pin=5583354862404"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "Оборжицький В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://tel.meet/hcm-kcts-jyy?pin=4485304937927"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1677452393712?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "Климаш М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dvm-npwy-vvi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Протасевич В.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ioo-pjyo-ava"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання радіоелектронних засобів",
+        "lecturer": "Фаст В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dqn-qvup-ptm?hs=122&authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Пристрої генерування і формування сигналів",
+        "lecturer": "Кузик А.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1677427276987?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи моделювання та проектування програмно-апаратних радіоелектронних засобів",
+        "lecturer": "Шаповалов Ю.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/enh-cjvu-scm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіомовлення і телебачення",
+        "lecturer": "Матієшин Ю.М., Протасевич В.Г., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gsm-tavn-yxx",
+            "https://meet.google.com/xwg-qmpw-hrg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

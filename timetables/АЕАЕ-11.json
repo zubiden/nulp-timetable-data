@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "Шепітчак В.Б., 115 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjRhMDc1M2ItODUwMi00MTE0LTgyOTctNDVjYWNiMmU5MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація атомних електричних станцій",
+        "lecturer": "Шепітчак В.Б., 115 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Аварійні процеси та системи безпеки на атомних електричних станціях",
+        "lecturer": "Мисак С.Й., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "Римар Т.І., 207 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Нестаціонарні процеси в ядерних реакторах",
+        "lecturer": "Семерак М.М., 57 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aswqQ6qUA8bvLkwVylIKioo3hEWoiLOgCDQGTGe_ISkc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=730939eb-2188-4ec2-81bf-c0e463f3a8bc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "Римар Т.І., 57 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "Лис С.С., 115 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "Лис С.С., 213 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація атомних електричних станцій",
+        "lecturer": "Лис С.С., 213 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Аварійні процеси та системи безпеки на атомних електричних станціях",
+        "lecturer": "Мисак С.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aq7_YxHESdcgJ8WrwZX1oNRPg8w53kA9h4YW8qlNDu7Q1%40thread.tacv2/1680082623818?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225552ac35-dfe8-487d-99b7-fc8fa0e54f70%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Нестаціонарні процеси в ядерних реакторах",
+        "lecturer": "Семерак М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aswqQ6qUA8bvLkwVylIKioo3hEWoiLOgCDQGTGe_ISkc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=730939eb-2188-4ec2-81bf-c0e463f3a8bc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

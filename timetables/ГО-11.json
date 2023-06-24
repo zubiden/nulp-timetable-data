@@ -1,0 +1,280 @@
+[
+    {
+        "subject": "Географія туризму та туристичне країнознавство",
+        "lecturer": "Дністрянська Н.І., 311 III н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "Ратушна О.М., 231 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5370339791?pwd=OE1SUEtqQWlqaEhnR2pvTUJkSDFEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація послуг харчування",
+        "lecturer": "Москвяк Я.Є., 407 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація послуг харчування",
+        "lecturer": "Москвяк Я.Є., 410 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Ухач Л.Д., 17 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи економічної теорії",
+        "lecturer": "Косовська В.В., 406 I н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "Лущик М.В., 111 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "Лущик М.В., 215 I н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Географія туризму та туристичне країнознавство",
+        "lecturer": "Дністрянська Н.І., 313 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "Ратушна О.М., 311 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація послуг харчування",
+        "lecturer": "Москвяк Я.Є., 410 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи економічної теорії",
+        "lecturer": "Косовська В.В., 111 I н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Географія туризму та туристичне країнознавство",
+        "lecturer": "Дністрянська Н.І., 406 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Географія туризму та туристичне країнознавство",
+        "lecturer": "Дністрянська Н.І., 406 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація послуг харчування",
+        "lecturer": "Москвяк Я.Є., 403 XXVIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація послуг харчування",
+        "lecturer": "Москвяк Я.Є., 403 XXVIII н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Хрипач А.Г., корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Географія туризму та туристичне країнознавство",
+        "lecturer": "Дністрянська Н.І., 311 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "Лущик М.В., 215 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "Лущик М.В., 215 I н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

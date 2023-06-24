@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "Сухорольська І.Ю., ІЕСК+МВМВ-11(1 ст)",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "Сухорольська І.Ю., 526а IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

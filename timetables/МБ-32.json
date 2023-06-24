@@ -1,0 +1,268 @@
+[
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "Банга В.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8951750334?pwd=cmF2ZUw1YXhTRy9URWFmZmZpZDdNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE5ZTBkNzMtOTdiNC00NjVlLTk3Y2QtNTFjNGRkMmIyMzBm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Велика О.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODM3NzFlZDgtZTQ2Zi00NWU1LTlhM2UtZmQ5YmNiMzY5MTVk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Велика О.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODM3NzFlZDgtZTQ2Zi00NWU1LTlhM2UtZmQ5YmNiMzY5MTVk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Велика О.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM1MjkxYzItZTkwOC00MTgzLTg0MDAtMGY2MjhlMTdjOTI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Гаврильченко О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:meeting_YzJjYzUwYWEtYTg2YS00N2E0LTkyMTUtMWU1YTY4MWMzY2Fk@thread.v2/0?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "Майструк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkMDc3MmQtNTY1Zi00OTBmLTlmMTMtZTdlM2FjZGU1OGVk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "Стоцько З.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Бойко М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "Бойко М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Малащенко В.О., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Дмитерко П.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3alyR7sTOnd7ZdxmfjZfJb0GfKcPkBij5prJS-XTkYkYA1%40thread.tacv2/conversations?groupId=76ea2396-3cf0-4fa3-9cd1-a95724a8d1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Литвиняк Я.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677063380264?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "Литвиняк Я.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677063641708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "Банга В.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8951750334?pwd=cmF2ZUw1YXhTRy9URWFmZmZpZDdNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Малащенко В.О., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "Малащенко В.О., Предко Р.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73233822148?pwd=67hfZJSnltrbWdKhvwgAanuvA3ZZIb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "Квасниця Р.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anBmkODpbhvHpkRzB6NeR12zz4wyRutDARr_s823lPnM1%40thread.tacv2/1677491770520?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "Квасниця Р.Б., Киселенко М.О., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6wanxOZ1IJcSeIeyw_a6b7UGrLA0Vi_Rz0dFSxOXcnE1%40thread.tacv2/1677491521330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5d0cd2a-27c4-496d-9d6f-e3098c642195%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a6wanxOZ1IJcSeIeyw_a6b7UGrLA0Vi_Rz0dFSxOXcnE1%40thread.tacv2/conversations?groupId=2d927f15-0b23-4c4f-8655-4632c1a4026d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "Квасниця Р.Б., Киселенко М.О., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6wanxOZ1IJcSeIeyw_a6b7UGrLA0Vi_Rz0dFSxOXcnE1%40thread.tacv2/1677491521330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5d0cd2a-27c4-496d-9d6f-e3098c642195%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a6wanxOZ1IJcSeIeyw_a6b7UGrLA0Vi_Rz0dFSxOXcnE1%40thread.tacv2/conversations?groupId=2d927f15-0b23-4c4f-8655-4632c1a4026d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "Гладчук М.Ю., Мотиль Р.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afed47f59729843858507aeaa3d8919f6%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-32?groupId=0e79a287-0ce3-4981-9f28-3b849d280b74&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3aG1cJ8_zbIzi6_lRA98XXsWPB9bpHjdVpl1M45HI8ds01%40thread.tacv2/1677086860663?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260ff81a-034f-4c31-8188-b24108b40c81%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "Галишич Р.Я., Мер'є О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:xXyzlIaRk8QcALHsrYpmYdNfflBGTrHBP7Rgdbdu8w01@thread.tacv2/1676101041377?groupId=905e8877-c05a-4864-9f6e-701a023f061c",
+            "https://teams.microsoft.com/l/team/19%3a6686f176b2114b01bc0424164b48df61%40thread.tacv2/conversations?groupId=3545bd04-f251-4463-ba01-5356d61c1974&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "Киселенко М.О., Проскуряков О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_qi-8kVQD6nZVLppmblfg93sIoEa-ocoh6FIrjXCG7c1%40thread.tacv2/1677747946516?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Боднар О.Я., Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Боднар О.Я., Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "Боднар О.Я., Задорожний Б.В., Челомбітько О.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "Мотиль Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a7f40de62ca594b9e9a50fb9e9a40c9d1%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C%2520%25D0%2594%25D0%25A1-3?groupId=c7cd46b6-8499-4f67-85ce-e0b57d6a6d98&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "Галишич Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aknaeT0_vGvmar0PbpZ1DfZdaMn1e89VRKOtZGeXc2-M1%40thread.tacv2/conversations?groupId=83bdb014-5eeb-48bc-8937-96140c50db2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "Проскуряков О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPE_wkaOOmyK_U36hZN9rPiIyIsQ1J23PIDAkzMvQSEE1%40thread.tacv2/1677747837021?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "Галишич Р.Я., Мер'є О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:11zaSJFiJD_focJMtBbpy4LKecpmnCUhxVilVyqvR581@thread.tacv2/1676101563562?groupId=d8047a8e-21bd-4023-986e-2608fc5d2f6c",
+            "https://teams.microsoft.com/l/team/19%3a6686f176b2114b01bc0424164b48df61%40thread.tacv2/conversations?groupId=3545bd04-f251-4463-ba01-5356d61c1974&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

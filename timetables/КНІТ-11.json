@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Системи автоматизації конструкторського проектування",
+        "lecturer": "Корпильов Д.В., 327 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jxb-aiec-tgb?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи структурного, функціонально-логічного і схемотехнічного проектування",
+        "lecturer": "Стех Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ymm-osso-tko"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизовані системи технологічної підготовки виробництва",
+        "lecturer": "Здобицький А.Я., 321 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83157853092?pwd=NHIyR0tGSXpQNzRBZExXQkdDNFNjdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизовані системи технологічної підготовки виробництва",
+        "lecturer": "Здобицький А.Я., 321 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83157853092?pwd=NHIyR0tGSXpQNzRBZExXQkdDNFNjdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи структурного, функціонально-логічного і схемотехнічного проектування",
+        "lecturer": "Стех Ю.В., 319 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/hoz-mgrw-hob"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи структурного, функціонально-логічного і схемотехнічного проектування",
+        "lecturer": "Стех Ю.В., 319 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/hoz-mgrw-hob"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи автоматизації конструкторського проектування",
+        "lecturer": "Корпильов Д.В., 319 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pec-tnif-sdr?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Системи автоматизації конструкторського проектування",
+        "lecturer": "Корпильов Д.В., 319 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pec-tnif-sdr?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "Колесник К.К., 501 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "Колесник К.К., 501 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "Колесник К.К., 327 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизовані системи технологічної підготовки виробництва",
+        "lecturer": "Здобицький А.Я., 322 IV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81289189945?pwd=Qnk0T2JlRTZoekkzWURLOEhZaGdUdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

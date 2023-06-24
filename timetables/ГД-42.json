@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Техніко-нормативне забезпечення оцінки землі та нерухомого майна",
+        "lecturer": "Хавар Ю.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "Хавар Ю.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "Хавар Ю.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "Хавар Ю.С., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Техніко-нормативне забезпечення оцінки землі та нерухомого майна",
+        "lecturer": "Хавар Ю.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління розвитком  територій",
+        "lecturer": "Ступень Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління розвитком  територій",
+        "lecturer": "Ступень Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи  технічного забезпечення оцінки нерухомості",
+        "lecturer": "Губар Ю.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи  технічного забезпечення оцінки нерухомості",
+        "lecturer": "Губар Ю.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "Винарчик Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "Винарчик Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "Маланчук М.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87831746354?pwd=WGw3dXJmWVNkeFdKRHUyRTRRQmU3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи  автоматизації робіт з кадастру та землеустрою",
+        "lecturer": "Винарчик Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи  автоматизації робіт з кадастру та землеустрою",
+        "lecturer": "Винарчик Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

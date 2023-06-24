@@ -1,0 +1,161 @@
+[
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативні процеси в педагогічній діяльності",
+        "lecturer": "Колодій І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89185942693?pwd=YXNtWUpLeUpZR29nRWo2YUxzTXJudz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комунікативні процеси в педагогічній діяльності",
+        "lecturer": "Колодій І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89185942693?pwd=YXNtWUpLeUpZR29nRWo2YUxzTXJudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Психопедагогіка управління",
+        "lecturer": "Сікорський П.І., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психопедагогіка управління",
+        "lecturer": "Сікорський П.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Психопедагогіка управління",
+        "lecturer": "Сікорський П.І., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Педагогічна майстерність",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Педагогічна майстерність",
+        "lecturer": "Дольнікова Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

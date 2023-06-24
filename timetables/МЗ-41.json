@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262218073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262218073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "Тростянчин А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2ZiZWYzZTMtY2FkZS00MGNmLWI1NzEtN2FiY2E4YzhhYTBk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація виробничих процесів і мікропроцесорна техніка",
+        "lecturer": "Васильківський І.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76165254450?pwd=Pe1MQifGRwyIRwYbMdCpkxmxYK2qgp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "Тростянчин А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcyOWJhZTEtZGVlYS00YzU0LThkNWUtMzc4ODM0MTdiZTRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "Тростянчин А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGY4ZGQ0MTQtNjVkYS00MDNlLWIyOTQtNDIzZmVkZDA5MzE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262935200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262935200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація виробничих процесів і мікропроцесорна техніка",
+        "lecturer": "Ділай І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87273032918?pwd=dTU5cTdDbTQzMnkvR04yMDY0dTIwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація виробничих процесів і мікропроцесорна техніка",
+        "lecturer": "Ділай І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86959241792?pwd=RHR6VlFXZVZ1VVFQOUVCZXZyQXA5UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677263325233?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "Ковбасюк Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677263325233?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

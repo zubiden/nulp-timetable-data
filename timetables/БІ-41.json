@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/vht-mtvs-rix"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Нанотехнології в медицині та біології",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a93IG7EKIliyH9D_wrXUdrl4GvouAviW_0w0fYiWs2sc1%40thread.tacv2/conversations?groupId=aab34691-1530-4784-8ae4-3a03c09204fc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eqw-nzwc-gdn"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eqw-nzwc-gdn"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Нанотехнології в медицині та біології",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a93IG7EKIliyH9D_wrXUdrl4GvouAviW_0w0fYiWs2sc1%40thread.tacv2/conversations?groupId=aab34691-1530-4784-8ae4-3a03c09204fc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Нанотехнології в медицині та біології",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a93IG7EKIliyH9D_wrXUdrl4GvouAviW_0w0fYiWs2sc1%40thread.tacv2/conversations?groupId=aab34691-1530-4784-8ae4-3a03c09204fc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

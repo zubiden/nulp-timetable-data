@@ -1,0 +1,317 @@
+[
+    {
+        "subject": "Цифрові мережі",
+        "lecturer": "Обельовська К.М., 807 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72689582725?pwd=d2N6MEM2dE92b1VZVzZySkVzZUNMdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "3D графіка",
+        "lecturer": "Лотошинська Н.Д., 311 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75171309016?pwd=him1LbY9RMN3xBOPdaqNafM6AHbUtR.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи автоматизованого проектування видавничих систем",
+        "lecturer": "Ковівчак Я.В., 311 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDgwMjc1YmYtODNjZi00OTFiLWE4OTctNzBiOTY2YzI5MWYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "WEB -  програмування",
+        "lecturer": "Міюшкович Ю.Г., 311 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "3D графіка",
+        "lecturer": "Сеньківська Н.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73544057529?pwd=iGeKKnebs9edOCedhiaurqAMRpLZo9.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20735%204405%207529%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20VX3Rtt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "3D графіка",
+        "lecturer": "Сеньківська Н.Є., 409 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78661776113?pwd=Oxwb4iuFTJC1uOHlWczjQbgEJX1XjG.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20786%206177%206113%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20kQYUR3"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "WEB -  програмування",
+        "lecturer": "Міюшкович Ю.Г., 912 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи анімаційних технологій",
+        "lecturer": "Гавриш Б.М., 908 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89994782397?pwd=ckN2aFQvS2VuVFY5ekQvMFJSYUhoZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи анімаційних технологій",
+        "lecturer": "Гавриш Б.М., 908 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89994782397?pwd=ckN2aFQvS2VuVFY5ekQvMFJSYUhoZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи автоматизованого проектування видавничих систем",
+        "lecturer": "Ковівчак Я.В., 804а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljNzBmODctZjRjMy00N2Q3LWIzNmMtOTBhMjYxNWZjZGJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи автоматизованого проектування видавничих систем",
+        "lecturer": "Ковівчак Я.В., 804а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTljNzBmODctZjRjMy00N2Q3LWIzNmMtOTBhMjYxNWZjZGJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "WEB -  програмування",
+        "lecturer": "Міюшкович Ю.Г., 908 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова фотографія",
+        "lecturer": "Семенова О.Є., 912 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/rys-bqjx-otg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова фотографія",
+        "lecturer": "Семенова О.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/rys-bqjx-otg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія розробки електронних видань",
+        "lecturer": "Міюшкович Ю.Г., 912 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія розробки електронних видань",
+        "lecturer": "Міюшкович Ю.Г., 912 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія розробки електронних видань",
+        "lecturer": "Міюшкович Ю.Г., 414 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи анімаційних технологій",
+        "lecturer": "Гавриш Б.М., 414 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82263371687?pwd=VkdUODV6RlNVN0tuT1RTU2pDa25XZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова фотографія",
+        "lecturer": "Рашкевич Ю.М., 908 V н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tgx-tpkr-wtw?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові мережі",
+        "lecturer": "Сидоренко Р.В., 107a V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRoe9w75NweIUNhQDoIOhvhOmZejsK5V6DjRnTJPQodU1%40thread.tacv2/1677667694139?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові мережі",
+        "lecturer": "Сидоренко Р.В., 107a V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRoe9w75NweIUNhQDoIOhvhOmZejsK5V6DjRnTJPQodU1%40thread.tacv2/1677667694139?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

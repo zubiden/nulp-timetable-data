@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Маркетинг бібліотечних та архівних послуг",
+        "lecturer": "Вовк Н.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Електронна демократія",
+        "lecturer": "Федушко С.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71104458597?pwd=ejLfFGNESW0QhAO5TbYKvKw8JaU4bx.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація роботи з архівними та бібліотечними фондами",
+        "lecturer": "Петрушка А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.jit.si/lpnuchinameeting"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронна демократія",
+        "lecturer": "Федушко С.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71104458597?pwd=ejLfFGNESW0QhAO5TbYKvKw8JaU4bx.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю бібліотечної та архівної справи",
+        "lecturer": "Мина Ж.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2380820340?pwd=WVJMZGVJa0F2UUg0TzdFTFJWMkhKQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.jit.si/lpnuchinameeting"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.jit.si/lpnuchinameeting"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.jit.si/lpnuchinameeting"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82832353053?pwd=TzRjSVdhaDdncTNhckdkUzFSZ3VnUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маркетинг бібліотечних та архівних послуг",
+        "lecturer": "Вовк Н.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація роботи з архівними та бібліотечними фондами",
+        "lecturer": "Петрушка А.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.jit.si/lpnuchinameeting"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління якістю бібліотечної та архівної справи",
+        "lecturer": "Мина Ж.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2380820340?pwd=WVJMZGVJa0F2UUg0TzdFTFJWMkhKQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Технології радіаційного захисту",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76618174742?pwd=t857Fdk7vlmBxayawRIPp7UoUw2rIV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інженерні методи захисту довкілля, частина 2",
+        "lecturer": "Петрушка І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71040183539?pwd=75ymlBA5q8bEvku1TKMb3N94Q0cuby.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Моніторинг довкілля, частина 2",
+        "lecturer": "Гивлюд А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71665796888"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Екологія міських систем",
+        "lecturer": "Руда М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78910873194?pwd=uKIJ8i58p2wlijipZObHHotbcZGPeU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системи автоматичного екологічного контролю та спостереження",
+        "lecturer": "Стасевич С.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75756240755?pwd=2ruaqAClfME9axSdBblxtYP5khRlaA.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний аудит",
+        "lecturer": "Гивлюд А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72094835067"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи автоматичного екологічного контролю та спостереження",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76942637204?pwd=onPMWlcCTmioVzZVXUiPPgQW9SOo7I.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології радіаційного захисту",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76618174742?pwd=t857Fdk7vlmBxayawRIPp7UoUw2rIV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Екологія міських систем",
+        "lecturer": "Руда М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78018432490?pwd=xAugQF2dhzzJEbsT2hKzumCzlp1WKO.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інженерні методи захисту довкілля, частина 2",
+        "lecturer": "Петрушка І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76228247304?pwd=yCUY38bnhBI6NSaqfytitOllrbNlHN.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Моніторинг довкілля, частина 2",
+        "lecturer": "Гивлюд А.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77154000778"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний аудит",
+        "lecturer": "Гивлюд А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76594118923"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

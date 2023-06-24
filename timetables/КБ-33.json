@@ -1,0 +1,300 @@
+[
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Лах Ю.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Піскозуб А.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aff12ae5080154f479c26cfe7718e770f%40thread.tacv2/conversations?groupId=137c925c-70b4-44dd-86aa-12d06574ce0c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Горпенюк А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auxU9ff_GXRe7xgJ28OSxwzHKXRo9MALOeNvrdjSZUNA1%40thread.tacv2/conversations?groupId=d774f507-c6f9-42d8-8dd4-8bb31537de3c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Гамула П.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXKQqZOPiTi6GyeTDFl18nuUvlYIZkzgnIcIRQce0XPM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=400a3b9f-e456-4914-9d0b-221bb2f02bb0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "Гаранюк П.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7rQLd9Xpmv0TCc9IIkMWTFCwYUeU0_2k9irIsYsRhkg1%40thread.tacv2/conversations?groupId=8d0fe115-260a-4b84-bf9f-fea4c09ccb25&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "Марчук М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76312107699?pwd=Fqr69i38ERDCa2mjFIETfz5ysDoaOs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "Гаранюк П.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Крет Т.Б., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYsSiK3NiOf9EZ78Oopv4ZlU4FsphPUk7e0KZeaySRO41%40thread.tacv2/conversations?groupId=17bd31e3-af6e-4a9b-aeca-d1e8fe21744c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Скоропад П.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmNlODk5NjQtNmZjNC00NmZiLTg2OTUtZGFlMmE4NjNkYTU3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "Марчук М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78797163325?pwd=E34JjWP44vIiy92idwQsmpobtlLjme.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "Марчук М.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71922007637?pwd=T98OSXQIVQ2usviiUdaPBQeytZ2TMO.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "Гаранюк П.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Михайлова О.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "Петровська І.Р., 703 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "Михайлова О.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Лах Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "Лах Ю.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71996532303?pwd=gqQppafizeKPCNyz1NR6a6mefabjQV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Носкова М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ode-kngg-vbc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "Ієвлєв О.М., вибіркова",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "Колодій І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84661701058?pwd=SFBVSjdweDRwbk1Wa1hySGEwZHJnZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., вибіркова405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72579771591?pwd=zBWbY8An24e03hYAY5NPy7lbvkFQvY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "Ієвлєв О.М., вибіркова405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методика навчання і права: контроль якості та тестування",
+        "lecturer": "Чубінська Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "Криштанович М.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "Криштанович М.Ф., 402 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "Криштанович М.Ф., 402 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "Колодій І.С., 402 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Носкова М.В., 402 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/pst-iibm-kcx"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Методика навчання і права: контроль якості та тестування",
+        "lecturer": "Чубінська Н.Б., 709 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

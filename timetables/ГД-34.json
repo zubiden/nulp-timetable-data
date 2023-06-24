@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "Янків-Вітковська Л.М., 346 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5ISB3NTVYb4KBy6RF2Th4GJK9xWZxF_V521KoYX2Few1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=911c03bb-533f-48f9-8557-212f3b6e6174&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "Янків-Вітковська Л.М., 346 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5ISB3NTVYb4KBy6RF2Th4GJK9xWZxF_V521KoYX2Few1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=911c03bb-533f-48f9-8557-212f3b6e6174&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "Цюпак І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "Цюпак І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "Цюпак І.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "Цюпак І.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "Доскіч С.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8id6iRPpku-dzFP_qfDIX6AsQTqlWIVXn3q3kZthC6I1%40thread.tacv2/1677241132310?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "Доскіч С.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8id6iRPpku-dzFP_qfDIX6AsQTqlWIVXn3q3kZthC6I1%40thread.tacv2/1677241132310?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

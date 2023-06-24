@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Адміністрування міжнародних бізнес-структур",
+        "lecturer": "Пшик-Ковальська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_m_XRyKlQIpxIV7b86L9y3Yv7vBGSntBq0xRa94KSx01%40thread.tacv2/1676279298768?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c84fa7f6-33cd-42eb-b042-dc78d59cbd88%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Адміністрування приватно-державного партнерства в бізнесі",
+        "lecturer": "Процик І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2781647847?pwd=WDJBcHpTVVJ6ZXkrcnNjbGtua0taZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Розвиток бізнес-структур",
+        "lecturer": "Дуляба Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGanHPYiu82n2K5QVixTgBgCd3BmHfjxrCPctNfW3ou81%40thread.tacv2/1677167068025?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2220002aa2-e55b-46ef-b23b-c44ad73d4d60%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Корпоративна аналітика",
+        "lecturer": "Одрехівський М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKTFmmfLMCJBiVoEiyp_LtDVdGv-j9s1Yf6bgcnBdHgs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=591dbb72-4ffa-40f3-8696-555f783c8a26&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Адміністрування міжнародних бізнес-структур",
+        "lecturer": "Одрехівський М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ar-hPSphQnW4rG8xD5M-VT_XJRumH4QHXKaJfWTHjBQg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=03f9f701-e41a-4e1d-8def-85166918eca4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Адміністрування міжнародних бізнес-структур",
+        "lecturer": "Одрехівський М.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ar-hPSphQnW4rG8xD5M-VT_XJRumH4QHXKaJfWTHjBQg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=03f9f701-e41a-4e1d-8def-85166918eca4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Корпоративна аналітика",
+        "lecturer": "Чапран С.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUffXEqAGYHaA9SWqT-6q0JVzkUNnqsamt-4pq_voBAU1%40thread.tacv2/conversations?groupId=bde6d3e4-0ae5-44cd-bd4f-57b43905fdbc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Корпоративна аналітика",
+        "lecturer": "Чапран С.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUffXEqAGYHaA9SWqT-6q0JVzkUNnqsamt-4pq_voBAU1%40thread.tacv2/conversations?groupId=bde6d3e4-0ae5-44cd-bd4f-57b43905fdbc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Адміністрування приватно-державного партнерства в бізнесі",
+        "lecturer": "Процик І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2781647847?pwd=WDJBcHpTVVJ6ZXkrcnNjbGtua0taZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розвиток бізнес-структур",
+        "lecturer": "Дуляба Н.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGanHPYiu82n2K5QVixTgBgCd3BmHfjxrCPctNfW3ou81%40thread.tacv2/1677167278769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2220002aa2-e55b-46ef-b23b-c44ad73d4d60%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Розвиток бізнес-структур",
+        "lecturer": "Дуляба Н.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGanHPYiu82n2K5QVixTgBgCd3BmHfjxrCPctNfW3ou81%40thread.tacv2/1677167278769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2220002aa2-e55b-46ef-b23b-c44ad73d4d60%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

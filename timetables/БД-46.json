@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Гоголь М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYXoyTMo7Y-hN_GekvyDuWYcfTSFfsXh_oaLoWWmDoT01%40thread.tacv2/conversations?groupId=0977caab-4639-46eb-bd98-0fd65af93436&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Гоголь М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYXoyTMo7Y-hN_GekvyDuWYcfTSFfsXh_oaLoWWmDoT01%40thread.tacv2/conversations?groupId=0977caab-4639-46eb-bd98-0fd65af93436&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шуляр Р.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шуляр Р.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Гоголь М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYXoyTMo7Y-hN_GekvyDuWYcfTSFfsXh_oaLoWWmDoT01%40thread.tacv2/conversations?groupId=0977caab-4639-46eb-bd98-0fd65af93436&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Підземні транспортні споруди",
+        "lecturer": "Гоголь М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYXoyTMo7Y-hN_GekvyDuWYcfTSFfsXh_oaLoWWmDoT01%40thread.tacv2/conversations?groupId=0977caab-4639-46eb-bd98-0fd65af93436&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

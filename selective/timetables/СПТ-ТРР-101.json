@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., 214 XI н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/ezb-yitk-vut?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., 214 XI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/act-bjfh-dyc?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системотехнічне проектування ТК систем та мереж",
+        "lecturer": "Волочій Б.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/yei-iozr-rgk?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

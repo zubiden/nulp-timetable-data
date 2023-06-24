@@ -1,0 +1,181 @@
+[
+    {
+        "subject": "Біоніка в дизайні предметно-просторового середовища",
+        "lecturer": "Казанцева Т.Є., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз в інтер`єрі",
+        "lecturer": "Лінда С.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an3-lChhe2BJEzxRBjAm4Jk-ZuAvgv-YEqJeGxWbrptI1%40thread.tacv2/conversations?groupId=cf36bd16-532e-4554-a454-c849dedaac3c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Біоніка в дизайні предметно-просторового середовища",
+        "lecturer": "Казанцева Т.Є., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Береговська Х.О., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akw1UzKSbrlBSZy_uW6pUD8kBCJRsl1XWvMaKYQei_3k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8a8a23b1-81e4-4752-bf16-03eb49e9b143&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Береговська Х.О., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akw1UzKSbrlBSZy_uW6pUD8kBCJRsl1XWvMaKYQei_3k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8a8a23b1-81e4-4752-bf16-03eb49e9b143&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Рисунок, частина 8",
+        "lecturer": "Береговська Х.О., Кузів К.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akw1UzKSbrlBSZy_uW6pUD8kBCJRsl1XWvMaKYQei_3k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8a8a23b1-81e4-4752-bf16-03eb49e9b143&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Криворучко Ю.І., Кузьмич В.І., Радомська В.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azYGYLn4Jv74JUqY56lCkUf4c1By84gKBRRJQrhkpZKU1%40thread.tacv2/1677426092053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Криворучко Ю.І., Кузьмич В.І., Радомська В.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azYGYLn4Jv74JUqY56lCkUf4c1By84gKBRRJQrhkpZKU1%40thread.tacv2/1677426092053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "Криворучко Ю.І., Кузьмич В.І., Радомська В.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azYGYLn4Jv74JUqY56lCkUf4c1By84gKBRRJQrhkpZKU1%40thread.tacv2/1677426092053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22afa802cf-8a20-42e9-8cde-b8ab68d9132a%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Петровська Ю.Р., Служинська М.С., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auLRNv749ASYWnwgbJGP0rRaA_Rx_45nYDON0dLV8hnM1%40thread.tacv2/1677067163055?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "Петровська Ю.Р., Служинська М.С., кп",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auLRNv749ASYWnwgbJGP0rRaA_Rx_45nYDON0dLV8hnM1%40thread.tacv2/1677067163055?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз в інтер`єрі",
+        "lecturer": "Оконченко О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3az9nv64vpTvlf5EeYb521DDO5fN4lHKRhfi4CfS3i8101%40thread.tacv2/conversations?groupId=af29381e-cc6e-492d-b0e0-87230c31ca92&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

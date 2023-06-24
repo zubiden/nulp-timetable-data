@@ -1,0 +1,229 @@
+[
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "",
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pxv-rqaa-zuk",
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Тушницький Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Франко А.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a28Rcuf4tYwTPOmxEKb9sU8Z00HxvAYJ_tsxK_fdtUMg1%40thread.tacv2/1644887677651?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d26275e-2e55-4cc8-85ea-f31eb390df75%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Майхер В.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Франко А.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a28Rcuf4tYwTPOmxEKb9sU8Z00HxvAYJ_tsxK_fdtUMg1%40thread.tacv2/1644887677651?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d26275e-2e55-4cc8-85ea-f31eb390df75%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/qne-tsar-gfo"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Майхер В.Ю., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Павич Н.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc1ZjVhMzEtYTQwNi00MmU0LWExOTYtYTFkODljYzE0NGQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Тушницький Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88313302881?pwd=Ti9qc3p5MUhLTE4yM3NJNjY3TVBRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Тушницький Р.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88313302881?pwd=Ti9qc3p5MUhLTE4yM3NJNjY3TVBRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https:// meet.google.com/vgw-wasd-vcs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Майхер В.Ю., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Майхер В.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Федорчук Є.Н., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/bah-qypf-qrb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

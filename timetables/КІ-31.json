@@ -1,0 +1,326 @@
+[
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Козак Н.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://kozaknazar.github.io/pdc_labs_31.html"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Козак Н.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://kozaknazar.github.io/pdc_labs_31.html"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "Жолубак І.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77080300700?pwd=ekpeupcRqTdorCSZTTB7YmAaYFKbfI.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "Жолубак І.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77080300700?pwd=ekpeupcRqTdorCSZTTB7YmAaYFKbfI.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Захист інформації в комп`ютерних системах",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "Жолубак І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77080300700?pwd=ekpeupcRqTdorCSZTTB7YmAaYFKbfI.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Захист інформації в комп`ютерних системах",
+        "lecturer": "Муляревич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Захист інформації в комп`ютерних системах",
+        "lecturer": "Замроз П.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tui-vsth-hjx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/awn-sohi-ajd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "Ваврук Є.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eyp-ieyz-mfi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Параняк Н.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/qrz-xpxg-wcq"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Бойко Г.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Бойко Г.В., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Бойко Г.В., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Тестування і діагностика програмно-апаратних засобів",
+        "lecturer": "Хомуляк М.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aN6YP-glu1QGEBHOJoG2PHFOgpR_7u5cK7_b8XgL-4Qg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2877dc53-1b52-43f2-8d8c-ebc28f3a1163&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Тестування і діагностика програмно-апаратних засобів",
+        "lecturer": "Хомуляк М.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aN6YP-glu1QGEBHOJoG2PHFOgpR_7u5cK7_b8XgL-4Qg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2877dc53-1b52-43f2-8d8c-ebc28f3a1163&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Параняк Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/hkd-bvtf-hkv"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Морозов Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72286827387?pwd=zAgZtfU60PSDfbbaiucUJ0XTgQIHbm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "Морозов Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72286827387?pwd=zAgZtfU60PSDfbbaiucUJ0XTgQIHbm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "Гаваньо Б.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ost-ksuy-bio"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Параняк Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/mum-xmyr-ifs"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тестування і діагностика програмно-апаратних засобів",
+        "lecturer": "Глухов В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82143611590?pwd=RkEvMkFEUkNSY1dHN0JqUjIyNzVRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

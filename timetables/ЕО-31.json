@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Інженерна екологія, частина 2",
+        "lecturer": "Гумницький Я.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1d3cce618784cb9a5a83f654578626f%40thread.tacv2/1660207227706?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний моніторинг",
+        "lecturer": "Петрушка К.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/99441617629?pwd=S3ZWRmxhSXUrd3psOHpEVGlVVXN2dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіка в галузі",
+        "lecturer": "Кучер Л.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5098281342?pwd=VFZIVVJ2RGhyR2tpRzd6YkxsV3p2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "Гумницький Я.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a540550c7c67a41eba9f07bebb77da22f%40thread.tacv2/1676890634708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інженерна екологія, частина 2",
+        "lecturer": "Сабадаш В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1d3cce618784cb9a5a83f654578626f%40thread.tacv2/1677061589428?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Енергозберігаючі технології, частина 2",
+        "lecturer": "Сабадаш В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4548d85482414feaa2bb66b2cd9f4851%40thread.tacv2/1677063587210?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Раціональне природокористування та ресурсозбереження",
+        "lecturer": "Вронська Н.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-wr3pd1uIcVT-KZqsjFJiaQVy7LJwIXEFL-XbeUH7881%40thread.tacv2/1676568563811?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інженерна екологія, частина 2",
+        "lecturer": "Гумницький Я.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM0ODllOTQtMGQxMC00ZDQyLWE2NjUtZDcxOWFhOGVmNGYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "Гумницький Я.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a540550c7c67a41eba9f07bebb77da22f%40thread.tacv2/1676892514941?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Раціональне природокористування та ресурсозбереження",
+        "lecturer": "Вронська Н.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-wr3pd1uIcVT-KZqsjFJiaQVy7LJwIXEFL-XbeUH7881%40thread.tacv2/1676568822306?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний моніторинг",
+        "lecturer": "Петрушка К.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/99441617629?pwd=S3ZWRmxhSXUrd3psOHpEVGlVVXN2dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Економіка в галузі",
+        "lecturer": "Стояновський А.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Енергозберігаючі технології, частина 2",
+        "lecturer": "Сабадаш В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4548d85482414feaa2bb66b2cd9f4851%40thread.tacv2/1677065668738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

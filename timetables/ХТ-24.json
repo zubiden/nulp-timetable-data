@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "Гуменецький Т.В., 319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77332887053?pwd=3HaKiRBp8GWckdAiy34mo4zgXJJeJU.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "Гуменецький Т.В., 319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75156239078?pwd=ecEzmQlvW93ptw6d0eHWu3TcTvpwOb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "Гуменецький Т.В., 319 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71689829687?pwd=XnLhCyu4519amNQYAGPwKofdYMbalW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "Семенюк Н.Б., 023 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74294924444?pwd=8QsuI4iiOhUUzhfMM9mnDxteWr4BGM.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "Семенюк Н.Б., 023 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74294924444?pwd=8QsuI4iiOhUUzhfMM9mnDxteWr4BGM.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 023 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/71091033602?pwd%3DTuWepNHjrhkeyS0LP0Ljh10RD9udW4.1&sa=D&source=calendar&usd=2&usg=AOvVaw0xBeQgzxLnaB_-flV-Mth8"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 023 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/75438715817?pwd%3DAfUZjrXQQaB3pGxbImCwCUo3C3D5gQ.1&sa=D&source=calendar&usd=2&usg=AOvVaw2YtG-3OQ8hgND1xVEip7da"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "Моравський В.С., 023 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77413090336?pwd%3D0HBR6jiqaeyK6djUq2LU1VlZqVaDjZ.1&sa=D&source=calendar&usd=2&usg=AOvVaw10CSfn54rrYU3kXJFqPivS"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77463945856?pwd%3DuasRIVDGGzlq6yymopgZuYg0Ln3iHt.1&sa=D&source=calendar&usd=2&usg=AOvVaw0_QUD6nIRBXcYeJI9MhEZc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "корп. 21 , вул. Самчука 11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "Баран Н.М., 301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "Баран Н.М., 301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "Баран Н.М., 301 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Харчук В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2803481874?pwd=YmpVRGtrcWRYbHZxdW5va3NCMVc5UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72494390183?pwd=ZgopAav3Xn5fv7zK0JrRatwC1Bm08G.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73413847608?pwd=gIedNppdujEZolUJpHp9vH6AlyaDg4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Стратегічний менеджмент",
+        "lecturer": "Калиновський А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73413847608?pwd=gIedNppdujEZolUJpHp9vH6AlyaDg4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіка та управлінсько-правове забезпечення діяльності бізнесу",
+        "lecturer": "Адамик В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81686625542?pwd=UjFia1NPVithWXZudkVmaExXQUxaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Українська мова як іноземна",
+        "lecturer": "Бойко Г.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8926651311?pwd=K2wvY0RCZnJTOHFrTlZGbFNEVC9zZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Економіка та управлінсько-правове забезпечення діяльності бізнесу",
+        "lecturer": "Адамик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81686625542?pwd=UjFia1NPVithWXZudkVmaExXQUxaUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Лема Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88161944503?pwd=WmxDUGsvbENEQk5QZEVHU0h3SFlTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінансовий менеджмент",
+        "lecturer": "Хоменко А.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81133103338?pwd=dlpLV2VTbUNaa2xJalgxeEhJbzBZZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Економіка та управлінсько-правове забезпечення діяльності бізнесу",
+        "lecturer": "Адамик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81686625542?pwd=UjFia1NPVithWXZudkVmaExXQUxaUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Англійська мова (за професійним спрямуванням)",
+        "lecturer": "Баглай О.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9036768266?pwd=6rgINZ8pVKK1obbDlmyi03ZxQPHdja.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Економіка та управлінсько-правове забезпечення діяльності бізнесу",
+        "lecturer": "Адамик В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81686625542?pwd=UjFia1NPVithWXZudkVmaExXQUxaUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність бізнес-структур",
+        "lecturer": "Найчук-Хрущ М.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLHaQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність бізнес-структур",
+        "lecturer": "Найчук-Хрущ М.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLHaQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність бізнес-структур",
+        "lecturer": "Найчук-Хрущ М.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLHaQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

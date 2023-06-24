@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/99319819363?pwd=Z3VWN1FIWUdUeHZEMXBaMWtEd3p6QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/99319819363?pwd=Z3VWN1FIWUdUeHZEMXBaMWtEd3p6QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологія альтернативних палив і олив",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/99319819363?pwd=Z3VWN1FIWUdUeHZEMXBaMWtEd3p6QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

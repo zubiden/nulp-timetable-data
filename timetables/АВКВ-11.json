@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Інтеграційні технології в автоматизованих системах керування",
+        "lecturer": "Сорокун В.Г., 78 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/6330691952?pwd=eWprcXNGR3YydE4vRUtWakJmTkJFUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., 209 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектування комп`ютерно-інтегрованих систем керування хімічних та харчових виробництв",
+        "lecturer": "Васильківський І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78359331184?pwd=06Jw2WQzoRMzk0xaMgxbD6y9likxWi.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "lecturer": "Фединець В.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87831309864?pwd=L1N4b2pxYmFlMUxicmZkMit2NUtOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Процеси та апарати хімічних та харчових виробництв",
+        "lecturer": "Мних Р.В., 317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "lecturer": "Вашкурак Ю.З., 82 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Процеси та апарати хімічних та харчових виробництв",
+        "lecturer": "Мних Р.В., 317 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування комп`ютерно-інтегрованих систем керування хімічних та харчових виробництв",
+        "lecturer": "Васильківський І.С., 82 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74522813208?pwd=BQLbY54z7iMGUmBcEmdF0Z9KkZKmGP.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "lecturer": "Фединець В.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88283512064?pwd=VUZIcGRja2MyMmZNNzdJRUduUzFWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Процеси та апарати хімічних та харчових виробництв",
+        "lecturer": "Мних Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3apoEKik-jFSbEXCUa8KPMbnxlC_1EcK_H0xnDawQ2hOw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f8b2296b-5fef-4d3b-a7e2-cf6b36f9d2cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтеграційні технології в автоматизованих системах керування",
+        "lecturer": "Матіко Ф.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae3aa1da9c02d43d59572d5b7aec4327c%40thread.tacv2/1677327401005?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

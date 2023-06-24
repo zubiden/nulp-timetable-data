@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Карий О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74638488936?pwd=8jVre8UaEx9gVLt4bzE7HJ0aBio3kJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "Мірошник Р.О., МЕІД-11420 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86416578810?pwd=clp0U3V1c3BuazlWaSszalVPNXdsUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

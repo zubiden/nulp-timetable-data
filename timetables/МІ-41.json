@@ -1,0 +1,246 @@
+[
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "Максимець В.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "Максимець В.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-пропагандистське забезпечення зовнішньої політики",
+        "lecturer": "Гриньох Н.В., Пахолок І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/91533636681?pwd=QTdDWnpSdlkwN3ZjdzBCOUxZQlE4UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20915%203363%206681%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20f7Cfkh",
+            "https://zoom.us/j/94843009202?pwd=cmVGNTN4eGkveXpuU2dDbk9TYng0QT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20948%204300%209202%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20BUAeq4"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-пропагандистське забезпечення зовнішньої політики",
+        "lecturer": "Гриньох Н.В., Пахолок І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/91533636681?pwd=QTdDWnpSdlkwN3ZjdzBCOUxZQlE4UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20915%203363%206681%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20f7Cfkh",
+            "https://zoom.us/j/94843009202?pwd=cmVGNTN4eGkveXpuU2dDbk9TYng0QT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20948%204300%209202%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20BUAeq4"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "Павлюх М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73171319867?pwd=pwAqeN8ERonZ6JHmbLfOYqMa6jvvFL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "Максимець В.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73171319867?pwd=pwAqeN8ERonZ6JHmbLfOYqMa6jvvFL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "Базилюк К.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "Гулай В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73164285981?pwd=bM2Yv4TqJ5SvSsJ7OR4P9JV4jeFFRc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "Павлюх М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71616001743?pwd=tcG7hUZYNrWmXAnYRDHq0I925KUC3L.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "Павлюх М.В., Гулай В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77977570468?pwd=4TDGS4b5PkeGRbAnDiMvmHLNXIu6Ye.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "Павлюх М.В., Гулай В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74357400410?pwd=rSB6DaXU8cjI39bVEkT6xoNZqz3ll8.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Інформаційно-пропагандистське забезпечення зовнішньої політики",
+        "lecturer": "Хахула Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86830877641?pwd=eW52ZUJpeVQwdXNyMnpSSXd4OE1jQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-пропагандистське забезпечення зовнішньої політики",
+        "lecturer": "Хахула Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88614157203?pwd=Y0hleGRScEhnYlEzU3Vjck96LzJtZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "Базилюк К.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "Базилюк К.Ф., Павлюх М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72205061080?pwd=UE21OOtenNdS5rlU5CrkN8HqBZbP20.1",
+            "https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "Базилюк К.Ф., Павлюх М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09",
+            "https://us04web.zoom.us/j/76975906346?pwd=HNdYPaOswH7XaN3Ax09LAh9joDODCN.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

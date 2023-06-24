@@ -1,0 +1,213 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 236 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662165682?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662165682&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662165682&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "Климанська Л.Д., Яцишин У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "",
+            "https://us04web.zoom.us/j/77184920268?pwd=IwvTXz2HSicgGyzDAava8GajFawMYN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Вступ до супервізії у соціальній роботі",
+        "lecturer": "Шевченко Ж.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ax45XYcJkRFS46TYBrnh5Gbflb0PbgYLIDMjNuboiZl81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dafc506f-3467-47bf-989d-16fa172493b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "Климанська Л.Д., Яцишин У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77184920268?pwd=IwvTXz2HSicgGyzDAava8GajFawMYN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Моніторинг і оцінювання соціальних проектів",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75026654402?pwd=n5icY0xEGS5KEBbaev434uLf97vDpe.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вступ до супервізії у соціальній роботі",
+        "lecturer": "Шевченко Ж.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ax45XYcJkRFS46TYBrnh5Gbflb0PbgYLIDMjNuboiZl81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dafc506f-3467-47bf-989d-16fa172493b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Вступ до супервізії у соціальній роботі",
+        "lecturer": "Шевченко Ж.М., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ax45XYcJkRFS46TYBrnh5Gbflb0PbgYLIDMjNuboiZl81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dafc506f-3467-47bf-989d-16fa172493b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "Климанська Л.Д., Яцишин У.В., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "Климанська Л.Д., Яцишин У.В., 107 XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 302 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662331479?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662331479&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662331479&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 302 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662331479?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662331479&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662331479&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вступ до супервізії у соціальній роботі",
+        "lecturer": "Шевченко Ж.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ax45XYcJkRFS46TYBrnh5Gbflb0PbgYLIDMjNuboiZl81%40thread.tacv2/1676045330672?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240bbe214-a8e1-4ec4-8e1f-4a8bc907b836%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Моніторинг і оцінювання соціальних проектів",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71172994864?pwd=FwxJCV7k3wrYP98jRdPOB7CzMbqZD1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Моніторинг і оцінювання соціальних проектів",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71172994864?pwd=FwxJCV7k3wrYP98jRdPOB7CzMbqZD1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

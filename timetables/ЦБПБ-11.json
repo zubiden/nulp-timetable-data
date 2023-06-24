@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "Ступницька Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6GgWqURm1WwDtqOXAzgg_JfK3RnPtJJUvBLe-FF8Yzs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ab0991b2-2a39-4eaa-8a33-c97a76598039&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "Ступницька Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6GgWqURm1WwDtqOXAzgg_JfK3RnPtJJUvBLe-FF8Yzs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ab0991b2-2a39-4eaa-8a33-c97a76598039&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Психолого-педагогічні основи професійної діяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3auT7rmT5HyS0nm1NhF7YIkhJ_0DGCyfNfHcpCXd4E0G81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=524db25d-49d1-4126-b04a-b4c10b4ae6a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Страхування професійних ризиків",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFS8WoqOsxo03DwXO7ctDuSCgSg7tctJ-kauNNlTruV41%40thread.tacv2/1676624414005?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Страхування професійних ризиків",
+        "lecturer": "Литвиняк О.Я., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "Ступницька Н.В., 307 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFXQYJXoocOA8pBefoAM5y6_DE2WXnQSTqL7auby2CnI1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=f1cee9aa-af51-463c-a251-a95791492c73&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психолого-педагогічні основи професійної діяльності",
+        "lecturer": "Корж Г.І., 307 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auT7rmT5HyS0nm1NhF7YIkhJ_0DGCyfNfHcpCXd4E0G81%40thread.tacv2/1677089392202?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22969e6386-48c6-4f2f-a2ab-99358b0d01cf%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Нагурський О.А., 307 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aHCN5u5oT0KNFoQatadxQUim1c8d5_yMPC9R8fWIg-5Y1%40thread.tacv2/1677069151261?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Нагурський О.А., 307 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aHCN5u5oT0KNFoQatadxQUim1c8d5_yMPC9R8fWIg-5Y1%40thread.tacv2/1677069151261?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "Лучит Л.В., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a21dd04f0cea343ae9be5a5f4d9bc545c%40thread.tacv2/TSBPB-11?groupId=5889f107-ef04-45ae-b94c-1291d9520b9e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "Нагурський О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "Нагурський О.А., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

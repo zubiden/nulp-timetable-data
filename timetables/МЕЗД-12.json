@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "Малиновська Ю.Б., +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління витратами в зовнішньоекономічній діяльності",
+        "lecturer": "Адамів М.Є., +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a11BNB2Xmv4MUNJBQMJla9faRZ1wpJUHicacLFWiDws01%40thread.tacv2/conversations?groupId=11ed6ae9-03a8-4d63-ae6d-0af649f71cc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Нетарифне регулювання зовнішньоекономічної діяльності",
+        "lecturer": "Подра О.П., +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azSgjjA38KjnL0v740M4nNvsYmoe35lpHdzcEjy72vW41%40thread.tacv2/1677063642160?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22585e6382-8d28-41d6-bc5b-9ff42ec227b0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний маркетинг",
+        "lecturer": "Горбаль Н.І., +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anbNcFOzT_-Xf-Lq20gmXeITM8vkuHjPbZXzZH-yxfiE1%40thread.tacv2/conversations?groupId=f7019d41-cf6c-40a6-9c14-a32ba43e09c0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний маркетинг",
+        "lecturer": "Горбаль Н.І., анг. мовою +МЕМ-11",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anbNcFOzT_-Xf-Lq20gmXeITM8vkuHjPbZXzZH-yxfiE1%40thread.tacv2/conversations?groupId=f7019d41-cf6c-40a6-9c14-a32ba43e09c0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "Малиновська Ю.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aomrhX2KhVvN-3JS3WLgZFs2igf-pLEQQi7ZftASyo7o1%40thread.tacv2/conversations?groupId=0232840a-3972-4659-af46-01f1e0575045&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Нетарифне регулювання зовнішньоекономічної діяльності",
+        "lecturer": "Подра О.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aycoTrKbzZlpk9hSK4aisqoyda2hLPkNrfqqVnaG-c1Q1%40thread.tacv2/1677064197411?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22585e6382-8d28-41d6-bc5b-9ff42ec227b0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Нетарифне регулювання зовнішньоекономічної діяльності",
+        "lecturer": "Подра О.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aycoTrKbzZlpk9hSK4aisqoyda2hLPkNrfqqVnaG-c1Q1%40thread.tacv2/1677064197411?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22585e6382-8d28-41d6-bc5b-9ff42ec227b0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління витратами в зовнішньоекономічній діяльності",
+        "lecturer": "Адамів М.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3BKilF2_d8-6SlrG32JVEzac1venev4IFap6JfLVgq41%40thread.tacv2/conversations?groupId=20afb514-60f2-45e5-adf3-ddff31fb608c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "Малиновська Ю.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aomrhX2KhVvN-3JS3WLgZFs2igf-pLEQQi7ZftASyo7o1%40thread.tacv2/conversations?groupId=0232840a-3972-4659-af46-01f1e0575045&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний маркетинг",
+        "lecturer": "Калиновський А.О., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aaddaWqG_Fy3hEuXwtsSqpSLMH8qZLASzRxHqX9hcLJI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=14b3812b-5392-4bbe-86d2-54846d4e65ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний маркетинг",
+        "lecturer": "Горбаль Н.І., анг. мовою +МЕМ-11",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aeXNQUfz-PHWGeol_U3e2vsYAoapX50u8af2x9XekIOw1%40thread.tacv2/conversations?groupId=0f57aedd-bb9d-4829-a4b2-105e9ebb598a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний маркетинг",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aaddaWqG_Fy3hEuXwtsSqpSLMH8qZLASzRxHqX9hcLJI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=14b3812b-5392-4bbe-86d2-54846d4e65ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

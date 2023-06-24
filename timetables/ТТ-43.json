@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Транспортні мережі",
+        "lecturer": "Могила І.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIe581yjUBXXnFgSC8AP-yjiWPbB5eWMUj4jzYytsAVM1%40thread.tacv2/1677144085308?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223970c0dd-e30f-4312-afd0-23497d494b43%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Транспортні мережі",
+        "lecturer": "Могила І.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIe581yjUBXXnFgSC8AP-yjiWPbB5eWMUj4jzYytsAVM1%40thread.tacv2/1677144561970?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223970c0dd-e30f-4312-afd0-23497d494b43%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків М.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Безпека руху транспортних засобів",
+        "lecturer": "Вельган І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5UKn5lu99_v7gDUAjwfdQMOzLvJLNOD4CB_3XGmvaVk1%40thread.tacv2/conversations?groupId=9d72221b-3327-45b2-b0fb-9cf297b481ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "Бойків Р.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Транспортні мережі",
+        "lecturer": "Могила І.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIe581yjUBXXnFgSC8AP-yjiWPbB5eWMUj4jzYytsAVM1%40thread.tacv2/1677144706609?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223970c0dd-e30f-4312-afd0-23497d494b43%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

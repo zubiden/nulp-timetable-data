@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBOjBWkgoTex01d-JKcb8ISune5RjDkD7BqepyHbNh6A1%40thread.tacv2/conversations?groupId=cfe9fe0d-9103-47ae-bbed-e768a67c1e81&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "Лакіза В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBOjBWkgoTex01d-JKcb8ISune5RjDkD7BqepyHbNh6A1%40thread.tacv2/conversations?groupId=cfe9fe0d-9103-47ae-bbed-e768a67c1e81&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "Лакіза В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Гнилянська Л.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aj210E9KuQV2ulTOMPkoV-x3dY8y6Yr0Bn_9IKGl91481%40thread.tacv2/conversations?groupId=152be54d-6205-4a8c-93e4-36c39a42e036&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "Кара Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "Лакіза В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "Лакіза В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "Сай Л.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73737134431"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 3",
+        "lecturer": "Сенькович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 3",
+        "lecturer": "Сенькович О.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

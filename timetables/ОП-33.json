@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Ясінська А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afb8032de85b846539504aa25208d0834%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=72f7ee94-52c1-427d-9eb5-741c086540ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Ясінська А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afb8032de85b846539504aa25208d0834%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=72f7ee94-52c1-427d-9eb5-741c086540ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Внутрішньогосподарський контроль",
+        "lecturer": "Гик В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3464357198?pwd=Ri9aMzh0RU5ublB4YWpwSGppcWVudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Ясінська А.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afb8032de85b846539504aa25208d0834%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=72f7ee94-52c1-427d-9eb5-741c086540ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Облік у небюджетних неприбуткових організаціях",
+        "lecturer": "Ясінська А.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afb8032de85b846539504aa25208d0834%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=72f7ee94-52c1-427d-9eb5-741c086540ea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72706771514?pwd=xPtal3I1ilqonI36mkgZqBu75iDw1M.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "Яструбський М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89735457735?pwd=bGQ1RHdNWHRjZ3R6ZFpRSmJXYXk5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73356490467?pwd=7e9I8KAVr3POatvX8Kn0gDxnRULUnx.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Облікова політика підприємства",
+        "lecturer": "Мохняк В.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73356490467?pwd=7e9I8KAVr3POatvX8Kn0gDxnRULUnx.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "Яструбський М.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84441280603?pwd=bERxVFJCUEtGak5zSkJFWE91bTZlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "Яструбський М.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81971499174?pwd=SGlmaGg5MjVEWmJuRWNtczQvRGNVZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

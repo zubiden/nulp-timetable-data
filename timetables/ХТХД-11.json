@@ -1,0 +1,128 @@
+[
+    {
+        "subject": "Полімери у виробництві продуктів харчування та косметичних засобів",
+        "lecturer": "Когут А.М., Варваренко С.М., +ХТМ218 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTkzZjk1OGYtZjllYi00NzE1LTkyMjEtODgyMjZmNTQzODEw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkNDU4ODAtY2FjYS00OWQwLWI3NWUtMGQ2ZjU1ZjNjNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "Васильєв В.П., Панченко Ю.В., +ХТМ218 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "Васильєв В.П., +ХТМ202 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "Васильєв В.П., Панченко Ю.В., +ХТМ218 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "Васильєв В.П., +ХТМ202 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmNjYWViOWEtYzk1Yi00NzA0LThmY2QtZDUzNzIzYjcxOWNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "Васильєв В.П., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTVlZTk1ZGEtOGMyNC00MjNjLTk1ZWMtNWQ5YTA4MGEwNTdl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Полімери у виробництві продуктів харчування та косметичних засобів",
+        "lecturer": "Когут А.М., +ХТМ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwNjI3NzUtZDNmYS00ZWVhLThiMGQtYWI4YWM0OGY2Mzkw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "Панченко Ю.В., +ХТМ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "Панченко Ю.В., +ХТМ202 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технології перероблення та утилізації відходів",
+        "lecturer": "Шибанова А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72021714828?pwd=B2abijawOawuFBqb6SYkWUiYmbaWip.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "Мокрий В.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в екології",
+        "lecturer": "Шибанова А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78629724620?pwd=ay3z2IzM4IaBuxrnzeTIgua113DaPt.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в екології",
+        "lecturer": "Шибанова А.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71175254900?pwd=1xoNsvwnvMfT2Wn7xvP4zZp7dtMVw1.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "Мокрий В.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дистанційні методи екологічних досліджень",
+        "lecturer": "Петрушка І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75485970692?pwd=34KYGg3pT0z5pBvUQcM5j3hUZ2i4CF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології перероблення та утилізації відходів",
+        "lecturer": "Шибанова А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74466639270?pwd=KjcBoYhYzbXDUZqsdxC8efSRc2QEWB.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Дистанційні методи екологічних досліджень",
+        "lecturer": "Петрушка І.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74296657221?pwd=6ZKPQnBAYd8z1rBxMDoXD0t21m2z0d.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Дистанційні методи екологічних досліджень",
+        "lecturer": "Петрушка І.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72487177602?pwd=gU4zPyutDNQ305ksp1tFHm2Dt02oMj.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

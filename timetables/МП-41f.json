@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "САПР різальних інструментів, оснащення та технологічних процесів",
+        "lecturer": "Юрчишин І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_0GfMcErea-gaNzscrKzYF4wOVEewpGjhiCE06JyzVs1%40thread.tacv2/1676907691970?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "Кусий Я.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76324434585?pwd=COQafNtvSnFDSAY3da1Xo3o67VtyIX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "Кусий Я.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79667308290?pwd=j6MvXa3AN8mIw36gE6Tj7cS5eEjzcc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677325815159?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677618709955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677618798138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "Кусий Я.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75096869678?pwd=jyJ2fQZBnU7LsvY98YIWZGF6CQblXe.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "Гурей В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677620362786?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "САПР різальних інструментів, оснащення та технологічних процесів",
+        "lecturer": "Юрчишин І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_0GfMcErea-gaNzscrKzYF4wOVEewpGjhiCE06JyzVs1%40thread.tacv2/1676907503232?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "САПР різальних інструментів, оснащення та технологічних процесів",
+        "lecturer": "Юрчишин І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_0GfMcErea-gaNzscrKzYF4wOVEewpGjhiCE06JyzVs1%40thread.tacv2/1676907589547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Обладнання та транспорт механообробних цехів",
+        "lecturer": "Новіцький Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aID7ODVQyYb3BISJYEnFUzk8Gjpr5bCgIQ9mMNugE6o01%40thread.tacv2/1677148647648?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Обладнання та транспорт механообробних цехів",
+        "lecturer": "Новіцький Ю.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aID7ODVQyYb3BISJYEnFUzk8Gjpr5bCgIQ9mMNugE6o01%40thread.tacv2/1677148854243?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

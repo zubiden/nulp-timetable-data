@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., АВМ-1+ЕЕЕ-1171 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "Николин Г.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

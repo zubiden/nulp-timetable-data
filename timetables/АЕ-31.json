@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Підготовка та кондиціювання води",
+        "lecturer": "Матіко Г.Ф., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJ3M8ghP9BBHwbg-aA76bKwWqImDWQGy55bSywlHHCFE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4c695ec0-a4d7-4a35-bd85-d560dcb6f15a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ядерних реакторів, частина 2",
+        "lecturer": "Лукіянець Б.А., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09%20%20Meeting%20ID:%20818%206962%204170%20Passcode:%20JR62MG"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "Кузнецова М.Я., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "Кузнецова М.Я., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Турбіни атомних електростанцій, частина 2",
+        "lecturer": "Кравець Т.Ю., 57 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "Римар Т.І., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Теорія ядерних реакторів, частина 2",
+        "lecturer": "Лукіянець Б.А., 115 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09%20%20Meeting%20ID:%20818%206962%204170%20Passcode:%20JR62MG"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Підготовка та кондиціювання води",
+        "lecturer": "Матіко Г.Ф., 209 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJ3M8ghP9BBHwbg-aA76bKwWqImDWQGy55bSywlHHCFE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4c695ec0-a4d7-4a35-bd85-d560dcb6f15a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Підготовка та кондиціювання води",
+        "lecturer": "Матіко Г.Ф., 209 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJ3M8ghP9BBHwbg-aA76bKwWqImDWQGy55bSywlHHCFE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4c695ec0-a4d7-4a35-bd85-d560dcb6f15a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Математичне моделювання в атомній енергетиці",
+        "lecturer": "Галянчук І.Р., 211 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8i3bqpyyRog5ClBl68qCYVlyyjpn8Tgj9yYJDUwngQs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=999f0f40-9086-4264-a4ca-59e1c1f14973&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання в атомній енергетиці",
+        "lecturer": "Галянчук І.Р., 211 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8i3bqpyyRog5ClBl68qCYVlyyjpn8Tgj9yYJDUwngQs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=999f0f40-9086-4264-a4ca-59e1c1f14973&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "Юрасова О.Г., 209 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/NnwWg62wYemx"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "Шепітчак В.Б., 209 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZjNDNkOTYtNDZiZC00MDdiLWI4ZDgtOTNhMDA1YWFiYTdl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Турбіни атомних електростанцій, частина 2",
+        "lecturer": "Кравець Т.Ю., 57 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

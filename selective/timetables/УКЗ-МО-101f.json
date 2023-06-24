@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81606944976?pwd=NzBxemF5aWdpUmNOUmRmSXhWT1Q0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82298176283?pwd=TFhKMUw1QTRyTmkxbmt5bGdReFdZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Польовий В.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Польовий В.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQnWXM1tpUtLVtZUDtNEEiRjSxzjcw1xSckX0K70hIU01%40thread.tacv2/conversations?groupId=182059d8-8e90-4b69-91f4-c8c8bd20d44e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "Маркович Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQnWXM1tpUtLVtZUDtNEEiRjSxzjcw1xSckX0K70hIU01%40thread.tacv2/conversations?groupId=182059d8-8e90-4b69-91f4-c8c8bd20d44e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Польовий В.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Польовий В.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/aoj-coaq-qci"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Юзефович Р.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Юзефович Р.М., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avSgnTJ4LZaTzYgrWl6tJ6ZJTcgvepRyX0b6JTWntrH01%40thread.tacv2/conversations?groupId=d803ec8a-8b8c-436a-8a95-2ee18f18162e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "Кузь А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0gs6EnlWo-P24WU5U2E51DNBIBduJVgH7989eKsPgMU1%40thread.tacv2/conversations?groupId=cdc98f2e-d2e8-47a0-9c9a-68118a02ccc2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "Кузь А.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0gs6EnlWo-P24WU5U2E51DNBIBduJVgH7989eKsPgMU1%40thread.tacv2/conversations?groupId=cdc98f2e-d2e8-47a0-9c9a-68118a02ccc2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "Бунь Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQnWXM1tpUtLVtZUDtNEEiRjSxzjcw1xSckX0K70hIU01%40thread.tacv2/conversations?groupId=182059d8-8e90-4b69-91f4-c8c8bd20d44e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "Маркович Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3adkFw7OH7Uszf7vlsAuNRYfGtqDvg3MJXLou8YEm1BaI1%40thread.tacv2/General?groupId=64dada56-7dbd-4e16-9c1f-41a20906e943&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Промислова розробка програмних продуктів",
+        "lecturer": "Любінський Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3adkFw7OH7Uszf7vlsAuNRYfGtqDvg3MJXLou8YEm1BaI1%40thread.tacv2/General?groupId=64dada56-7dbd-4e16-9c1f-41a20906e943&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

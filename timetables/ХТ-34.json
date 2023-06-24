@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Обладнання заводів виробництва полімерів",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72415699751?pwd%3DBrb2GSzH6qBCjHWda7YzkWYPA1KWLL.1&sa=D&source=calendar&usd=2&usg=AOvVaw26tgOS_qPB_jU4SrlueOlC"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології синтезу високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77357623193?pwd%3DebbYHe5Lk8xB4x5ftiXYZe686uwVCz.1&sa=D&source=calendar&usd=2&usg=AOvVaw1A4F8nzTJ2rx_HCZSlttTl"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Обладнання заводів виробництва полімерів",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79328514319?pwd=9GbB4bprvuWaAt7WXssmCgavzbnk2i.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології синтезу високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/78086579022?pwd%3DwGqWOE0Jnkt6feYTJNsHNHAHQJPm4V.1&sa=D&source=calendar&usd=2&usg=AOvVaw0_bixh9EMZPEGfgefZHZ8M"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обладнання заводів виробництва полімерів",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72367530968?pwd%3D6ztWsZ7sS6WTKbvcyE2q8DBXxLLFb0.1&sa=D&source=calendar&usd=2&usg=AOvVaw0iHmnAA1c_NeIODsFGz47_"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обладнання заводів виробництва полімерів",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/71985570738?pwd%3DgrKTPS29cG3sOzHjyETGoaxzaY8rrm.1&sa=D&source=calendar&usd=2&usg=AOvVaw1ABm47Df8BxYlfIBidFnza"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Проектування та промислова екологія в технології синтезу високомолекулярних сполук",
+        "lecturer": "Братичак М.М., 028 VIII н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/73662762118?pwd%3DAurDkTrY59JAIC9IjiJJvplYUJNM95.1&sa=D&source=calendar&usd=2&usg=AOvVaw3vxNqTyhy3EpjQjR9kAoa9"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

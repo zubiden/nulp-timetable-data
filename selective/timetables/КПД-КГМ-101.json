@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Комп`ютерна поліграфія та дизайн картографічних творів",
+        "lecturer": "Ярема Н.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/seu-hgfq-cyt"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна поліграфія та дизайн картографічних творів",
+        "lecturer": "Ярема Н.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/seu-hgfq-cyt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

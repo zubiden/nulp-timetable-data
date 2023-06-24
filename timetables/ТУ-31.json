@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Роїк О.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71460675674?pwd=NYiRb7EgoyisdehVKqjI2vyJdpUgyX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інфраструктура туризму",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Планування діяльності організацій турбізнесу",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Дуцяк І.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77397894092?pwd=aQsMNSJadQTIz7GLyMaXt3G2nUqqHm.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Дуцяк І.З., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74341135196?pwd=rKCDD5GUrADJvqbxOiaeHgPGT2MaqW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація підприємницької діяльності в туризмі",
+        "lecturer": "Макар О.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72054348217?pwd=Po9fNJ27rbSIocEl4Fzj0rAcoX2CyG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "Недзвецька О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1%20%20https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація підприємницької діяльності в туризмі",
+        "lecturer": "Макар О.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72054348217?pwd=Po9fNJ27rbSIocEl4Fzj0rAcoX2CyG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78897321313?pwd=bY8XVYbh3hV3RwQyISTjiXUx1tqvTQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75187511747?pwd=oy6wMID2ih4UEan0xtNzrqkjvrcrRS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Дуцяк І.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79032760489?pwd=Vam3iFUgN3CcHzOAFBKGJop39sJkUa.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація підприємницької діяльності в туризмі",
+        "lecturer": "Макар О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77714794243?pwd=argAUGp5xLv7DJIqrcDV5Uvsk0COVJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71814747629?pwd=0NWyVbS2N1J0lbYHPZfrdmfobYFpyR.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "Недзвецька О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація підприємницької діяльності в туризмі",
+        "lecturer": "Макар О.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72169741474?pwd=XawNVyzAJDzF5O8aoaHsDaNoESTIbR.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "Дуцяк І.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73915384994?pwd=P9evZvPaVMDlOpx3xvbv3al5B1wwcI.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура туризму",
+        "lecturer": "Кошова Б.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

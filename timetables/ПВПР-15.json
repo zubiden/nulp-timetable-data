@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "Ромців О.І., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "Ромців О.І., 302 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "Ковальчук В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84105205818?pwd=Um1WOW5XdzJDV3p0Zzh6Zk13NTBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "Ковальчук В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84105205818?pwd=Um1WOW5XdzJDV3p0Zzh6Zk13NTBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "subject": "Інвестування",
+        "lecturer": "Бондаренко Л.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2211f038f9074bd495c9c5b0858de54c%40thread.tacv2/1677229147481?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінансова звітність",
+        "lecturer": "Бондаренко Л.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a42ffbb6a030a480aac45139bf4208eb9%40thread.tacv2/1677228946624?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Фінансова звітність",
+        "lecturer": "Бондаренко Л.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a42ffbb6a030a480aac45139bf4208eb9%40thread.tacv2/1677228832882?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Діджиталізація у фінансах",
+        "lecturer": "Мазур А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa1a01fc024b146e4aa4b206b474cc396%40thread.tacv2/1677497623266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228520bd3f-af32-4be1-82a2-63cdecc8549f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Діджиталізація у фінансах",
+        "lecturer": "Джурик Х.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa1a01fc024b146e4aa4b206b474cc396%40thread.tacv2/1676549374318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220dac6bcc-b305-43f7-b17b-326941d783ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Діджиталізація у фінансах",
+        "lecturer": "Джурик Х.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa1a01fc024b146e4aa4b206b474cc396%40thread.tacv2/1676549374318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220dac6bcc-b305-43f7-b17b-326941d783ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Діджиталізація у фінансах",
+        "lecturer": "Джурик Х.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa1a01fc024b146e4aa4b206b474cc396%40thread.tacv2/1676549374318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220dac6bcc-b305-43f7-b17b-326941d783ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Діджиталізація у фінансах",
+        "lecturer": "Джурик Х.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa1a01fc024b146e4aa4b206b474cc396%40thread.tacv2/1676549374318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220dac6bcc-b305-43f7-b17b-326941d783ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "Піхоцька О.М., Червінська О.С., Ярошевич Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7050b671723596e47d9010000000000000000100000000a6cdf3587bbb14899c7ce1cbc2f6b44&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1",
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1676892976076?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce6b48df-85a5-4312-9327-c954e455705c%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1677060116499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "Піхоцька О.М., Червінська О.С., Ярошевич Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7050bc47076ec6e47d901000000000000000010000000f07ebf5dc758c14aac0dd23f8b335839&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1",
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1676894123035?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce6b48df-85a5-4312-9327-c954e455705c%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1677060116499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "Віблий П.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "Віблий П.І., анг.мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "Віблий П.І., анг.мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "Бондаренко Л.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2211f038f9074bd495c9c5b0858de54c%40thread.tacv2/1680845856745?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "Бондаренко Л.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2211f038f9074bd495c9c5b0858de54c%40thread.tacv2/1677229391318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "Піхоцька О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e703032da835bb0045d901000000000000000010000000e3adc7d3be5ec445ae19ba5bde6acd74&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "Піхоцька О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e70303e0ff1e350145d9010000000000000000100000001f8ca87395a9c84d882883568e856554&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

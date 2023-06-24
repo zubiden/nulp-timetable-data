@@ -1,0 +1,131 @@
+[
+    {
+        "subject": "Технічні засоби управління дорожнім рухом",
+        "lecturer": "Грицунь О.М., 207 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби управління дорожнім рухом",
+        "lecturer": "Грицунь О.М., 207 VI н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Транспортне планування великих та значних міст",
+        "lecturer": "Артимович П.А., 202 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRgIIyEcRnaxEQMd_PGOVxTNX4UyQ_drRSUwqiEvgXwA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c4184c8e-89af-4846-8ff8-c3b2b8aac467&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "Ковальчук В.В., 218 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "Ковальчук В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби управління дорожнім рухом",
+        "lecturer": "Ковалишин В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agXQhGuo0Nbx_gym7L2bLTbB57mbDjhojifsEa86Nbf01%40thread.tacv2/conversations?groupId=0784377f-d5a1-4610-b368-eb3cc54d1d38&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Транспортне планування великих та значних міст",
+        "lecturer": "Артимович П.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікромоделювання в середовищі PTV VISSIM",
+        "lecturer": "Грицунь О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anNmL-eliuHRKQKBUgh5TckTdWfZ4VPabfoU5TEv34oI1%40thread.tacv2/1677143271886?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2281cc7fe3-067a-4a2b-8904-10a785dba059%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікромоделювання в середовищі PTV VISSIM",
+        "lecturer": "Грицунь О.М., Євчук Ю.Ю., 205 VI н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

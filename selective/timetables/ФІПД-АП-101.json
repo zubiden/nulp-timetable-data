@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Філософія професійної діяльності",
+        "lecturer": "Кайдановська О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71083694771?pwd=IFito0xez31IkCyxe1kdZJm75Djc9r.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Філософія професійної діяльності",
+        "lecturer": "Кайдановська О.О., 333 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71083694771?pwd=IFito0xez31IkCyxe1kdZJm75Djc9r.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

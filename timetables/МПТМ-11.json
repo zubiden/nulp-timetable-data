@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "Гаврильченко О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWNjNDhjNTYtNTVjMS00OWIwLTkxYTktZGQ0ZjBlNzUzOTBm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Управління проектами на виробництві",
+        "lecturer": "Назар І.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://undp.zoom.us/j/86787251913?pwd=N25USi9ZSkNGTU9Tb05Ua0dtaXpPUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Схемотехніка систем керування",
+        "lecturer": "Качур О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asCByYQYG9NxnhodNnB0s9jbsgEW1lkNMzGfElM8Wza81%40thread.tacv2/1677263362869?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в технології машинобудування",
+        "lecturer": "Гурей І.В., 11 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3axOYaKOOVvYI5d7Ry06VXVejBgc5qzUipP_qzUYtgwpo1%40thread.tacv2/1678563244100?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Наукові дослідження в технології машинобудування",
+        "lecturer": "Гурей І.В., 11 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3axOYaKOOVvYI5d7Ry06VXVejBgc5qzUipP_qzUYtgwpo1%40thread.tacv2/1678563478280?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Схемотехніка систем керування",
+        "lecturer": "Качур О.Ю., 35 XIV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPjRfdp_4kQWjEx_lG5lozRjUaFoIy9V62ZPwdMBUpwg1%40thread.tacv2/1677263717031?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUHwRUWqyW-hCx0todu2wtPct_OCeIv8m5auVXonQrv41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ce693fcd-86a0-4300-9c4d-9b756c5c7783&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "Гаврильченко О.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Проектування технологічного оснащення та транспортних систем",
+        "lecturer": "Кусий Я.М., 11 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79344132723?pwd=wTQb800szi5OHfEimSlbD2kcbrksfw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проектування технологічного оснащення та транспортних систем",
+        "lecturer": "Кусий Я.М., 11 XIV н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79344132723?pwd=wTQb800szi5OHfEimSlbD2kcbrksfw.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління проектами на виробництві",
+        "lecturer": "Назар І.Б., 11 XIV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://undp.zoom.us/j/86787251913?pwd=N25USi9ZSkNGTU9Tb05Ua0dtaXpPUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Гурський В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUHwRUWqyW-hCx0todu2wtPct_OCeIv8m5auVXonQrv41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ce693fcd-86a0-4300-9c4d-9b756c5c7783&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

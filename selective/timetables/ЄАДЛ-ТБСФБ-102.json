@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "Лубенець В.І., Заярнюк Н.Л., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "Лубенець В.І., 236 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

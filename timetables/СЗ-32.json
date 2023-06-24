@@ -1,0 +1,285 @@
+[
+    {
+        "subject": "Соціальне підприємництво",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76265629573?pwd=8EPqiiUnkL6VLlXRF7IlI9VollgyTA.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання та протидія корупції в соціальному забезпеченні",
+        "lecturer": "Андрейчук С.К., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інвестиційні технології в соціальному забезпеченні",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79945650116?pwd=EnqNBDr6OtcBfkRF1llylvrrWSbVhY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Пенсійне забезпечення в Україні",
+        "lecturer": "Зеленко Н.М., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент соціального забезпечення",
+        "lecturer": "Обіход М.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84148027176?pwd=N1oxZmZTMEg0THpZTHpOQllGeGtXUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Ринок праці та зайнятості",
+        "lecturer": "Андрейчук С.К., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи управління якістю в соціальному забезпеченні",
+        "lecturer": "Яцишин І.І., ",
+        "location": ", Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aH_cd8MDf8jLOUvd0YA-kIPkaRMGGzAcfv4EPSmdF9w41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=31c42bff-98ae-40be-9d94-16cf5d2a0189&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Професійна деформація та вигорання",
+        "lecturer": "Шевченко Ж.М., +СР-32",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aO44WPSopMyOtTGAnQDNuJ38Mu0gMWgI7c2CxXs09FKU1%40thread.tacv2/1676045986696?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240bbe214-a8e1-4ec4-8e1f-4a8bc907b836%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Професійна деформація та вигорання",
+        "lecturer": "Шевченко Ж.М., +СО+СР",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3yvO5MeKWsN_Uvdq7U0-IcWpOJUNn3WYj5KmkkC9szE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a2b5f02d-50b5-48e2-a519-1e21efdc6500&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Пенсійне забезпечення в Україні",
+        "lecturer": "Зеленко Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7w7V2BreeZtG5m0l3H4tv1ZCClDS3BIeApgMdD666bc1%40thread.tacv2/1676282808286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент соціального забезпечення",
+        "lecturer": "Обіход М.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84148027176?pwd=N1oxZmZTMEg0THpZTHpOQllGeGtXUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "Шаповалова Т.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "Шаповалова Т.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "Шаповалова Т.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи управління якістю в соціальному забезпеченні",
+        "lecturer": "Яцишин І.І., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aH_cd8MDf8jLOUvd0YA-kIPkaRMGGzAcfv4EPSmdF9w41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=31c42bff-98ae-40be-9d94-16cf5d2a0189&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Соціальне підприємництво",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76265629573?pwd=8EPqiiUnkL6VLlXRF7IlI9VollgyTA.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інвестиційні технології в соціальному забезпеченні",
+        "lecturer": "Лукашевська У.Т., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79945650116?pwd=EnqNBDr6OtcBfkRF1llylvrrWSbVhY.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ринок праці та зайнятості",
+        "lecturer": "Андрейчук С.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання та протидія корупції в соціальному забезпеченні",
+        "lecturer": "Андрейчук С.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

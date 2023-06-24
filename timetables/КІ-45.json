@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "Парамуд Я.С., 504 V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Муляревич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "Парамуд Я.С., 504 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека мережних і хмарних технологій",
+        "lecturer": "Костик А.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77431382448?pwd=7VG4e3DEwEvhUHbt5TQhBeIMR86rHO.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Безпека мережних і хмарних технологій",
+        "lecturer": "Костик А.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77431382448?pwd=7VG4e3DEwEvhUHbt5TQhBeIMR86rHO.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Безпека мережних і хмарних технологій",
+        "lecturer": "Костик А.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76407466532?pwd=0vZk9Vz9EgJmAVXWCgcA3yEUgESTFQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Безпека мережних і хмарних технологій",
+        "lecturer": "Костик А.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76407466532?pwd=0vZk9Vz9EgJmAVXWCgcA3yEUgESTFQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "Пуйда В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87228734813?pwd=WnMwMGVRT3NyZC84aFdzYXZRNHpIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "Пуйда В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87228734813?pwd=WnMwMGVRT3NyZC84aFdzYXZRNHpIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Веб програмування",
+        "lecturer": "Муляревич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 2
+    }
+]

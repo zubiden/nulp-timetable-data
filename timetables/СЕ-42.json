@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676878528955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676878528955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750714507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Моторнюк У.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHVsnAbWsMh_3MtpUpWVSU-MWgPXi_ZD0ielh5lhrvzM1%40thread.tacv2/conversations?groupId=f5a0a132-ffad-4fb1-b946-65dafc98c66d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676879758056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750791435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Пастух О.Р., 305б V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1laFQjNnbic7Qy__-u27W46oqTVzbhI7EuNaML9Qck1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cff741fa-41b4-407d-b4f3-7cd762c042b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Лисяк Г.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674751789705?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "Пастух О.Р., 305а V н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0ATm9rJo1D3Lbbs_iZJFLAFJ_8vZaR_8ZUj2NHmX09Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ec21b1b1-da67-421e-927b-948ed058d5f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., 148 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., 148 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., 148 Гол. н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "Кузнєцов О.О., 148 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

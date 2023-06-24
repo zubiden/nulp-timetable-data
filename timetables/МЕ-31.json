@@ -1,0 +1,319 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Руда М.В., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5Y2YxN2YtN2E2ZC00NmIzLThkYjUtYTU4MTI1NzYyNjYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9L7Kl3auGMahwQ86tknlHKse00S-_FDcj9cGHWZx75M1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=1cd44b09-cdfc-4132-99c8-8cc0531f72ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Бочко О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a55vYxE7gTIUxOuJXWWOAtuS-3HYFN8EH5P_Nn1TeqiQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8b3163c0-6145-42e7-93ad-4f62855c13a0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "Карий О.І., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79754372484?pwd=q7YzhYQYx4UaXDnrPNO0vADn0Ovz8Q.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Бочко О.Ю., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQcLDSFFwzx5VVvvm83BGvk0umZseQmGyuyvjhqC_JLY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f5c0346a-6c25-4fff-837b-1e48c811dfe6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Бочко О.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQcLDSFFwzx5VVvvm83BGvk0umZseQmGyuyvjhqC_JLY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f5c0346a-6c25-4fff-837b-1e48c811dfe6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Карпій О.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQcLDSFFwzx5VVvvm83BGvk0umZseQmGyuyvjhqC_JLY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f5c0346a-6c25-4fff-837b-1e48c811dfe6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "Бойко В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Бала Р.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFBEnxSet2y0YLuYyi-cFcczSPqvhZxdiuI0GhuLaoRc1%40thread.tacv2/1676964878032?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263d73d77-88af-4834-9809-8c614857063a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Бала Р.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFBEnxSet2y0YLuYyi-cFcczSPqvhZxdiuI0GhuLaoRc1%40thread.tacv2/1676964878032?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263d73d77-88af-4834-9809-8c614857063a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Бала Р.Д., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFBEnxSet2y0YLuYyi-cFcczSPqvhZxdiuI0GhuLaoRc1%40thread.tacv2/1676964878032?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263d73d77-88af-4834-9809-8c614857063a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "Карий О.І., анг. мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79537864651?pwd=DxebTcQWNS3JyaNKt1RlBMaNFaO5Fb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "Бойко В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "Рачинська Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "Дзюбіна А.В., анг. мовою",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "Іванюк У.В., анг. мовою",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84995415525?pwd=N0tzb0tYc3lvZlYwWGNYMG93WVpkZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Моторнюк У.І., анг. мовою",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Моторнюк У.І., анг. мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "Рачинська Г.В., Прокопишин-Рашкевич Л.М., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09",
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "Новаківський І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441403728?pwd=d3ZpS2JpTnRPMDFKNFFSeHRVNGJVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "Адамовський О.М., Бойко В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj",
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

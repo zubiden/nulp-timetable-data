@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Гірна О.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "Гірна О.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Практика соціального адміністрування",
+        "lecturer": "Шаповалова Т.В., СЗУУ205а XXIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676472746008?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Практика соціального адміністрування",
+        "lecturer": "Козак М.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81602575346?pwd=NHM2MkxERG1WRHdUVlM5MlNHcVdSdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

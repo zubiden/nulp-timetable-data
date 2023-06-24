@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., 127 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., 126а IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., 122в IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., 122в IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75781046930?pwd=zzOr8yGkfHte6V9ImiMTbrjNEEieRE.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75781046930?pwd=zzOr8yGkfHte6V9ImiMTbrjNEEieRE.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Висоцька В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73657446071?pwd=a1CP2jIOGRSItOhR98Y0McPPcGasrj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/fvd-xqbd-skh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 127 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Чирун Л.В., 127 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77184189383?pwd=13YJtxbkhEGHBNpRRskuh84hXY90Wg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "Назаркевич Г.Я., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "Висоцька В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73657446071?pwd=a1CP2jIOGRSItOhR98Y0McPPcGasrj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

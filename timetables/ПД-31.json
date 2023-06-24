@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "Ієвлєв О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "Ієвлєв О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіка будівництва",
+        "lecturer": "Музиченко-Козловська О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3agMnKidmYkWzqEKae4Rra0MSrc29RWd_DqSf3dSk5mWE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=47de8d77-8917-45ad-94fc-718c3f6b032a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "Ієвлєв О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Економіка будівництва",
+        "lecturer": "Музиченко-Козловська О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aot2409haephRpnkAz3v6FKNBpksJf6VxPgLqkQs1J141%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=09280292-f021-4cad-8d16-96341e89d476&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та методика професійного навчання",
+        "lecturer": "Гузій І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія та методика професійного навчання",
+        "lecturer": "Гузій І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "Шевчук Г.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розвиток педагогічної креативності",
+        "lecturer": "Чубінська Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розвиток педагогічної креативності",
+        "lecturer": "Чубінська Н.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "Шевчук Г.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

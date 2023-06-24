@@ -1,0 +1,240 @@
+[
+    {
+        "subject": "Міжнародне страхування у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Дарміць Р.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atb23Ml31jFLCMQJcxwMIkHy5xOYuvjVw-JTdiu6ffuc1%40thread.tacv2/1676381697162?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228138cd91-f703-4871-a1fc-0c4fd5da56ff%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Лакіза В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні валютно-фінансові відносини",
+        "lecturer": "Адамик В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-jlSL2qrgb794B080ApKwH3fA6hwNbFysixH-EOjUXU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=874ecb73-6250-4939-8d2c-3e5b13478522&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні валютно-фінансові відносини",
+        "lecturer": "Адамик В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-jlSL2qrgb794B080ApKwH3fA6hwNbFysixH-EOjUXU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=874ecb73-6250-4939-8d2c-3e5b13478522&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні валютно-фінансові відносини",
+        "lecturer": "Пасінович І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ascY5WeueM3tWPdmkflzpefd_u7MgjMcYOikoL0WquV41%40thread.tacv2/1675088692287?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a47e0a74-9ec5-42ee-b1c1-0c7b0085c477%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне страхування у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Дарміць Р.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUUU3r87KMNqw4ZlaR0ZDdJTLMr-3RFWXvW86cq947CQ1%40thread.tacv2/conversations?groupId=b93607ee-a52b-4331-8c50-a03be8323535&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Лакіза В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародне страхування у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Дарміць Р.З., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aERBmh1nBbVs3ZVi3GqWZUUREHpiL2WkkXsd6fmyKXGM1%40thread.tacv2/conversations?groupId=e15fcb00-ee01-4f9a-8a83-7abb75d60c8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародні валютно-фінансові відносини",
+        "lecturer": "Пасінович І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aqT6fUgvhrZ0Hz9Ily6R31a3UvB_VLt9UOUH0HEoXBOQ1%40thread.tacv2/1675089380963?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a47e0a74-9ec5-42ee-b1c1-0c7b0085c477%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "Лісович Т.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae1993fd7c82543de8dfff02ede09dcee%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cc132504-3bbf-45e9-a68e-da783e726377&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "Лісович Т.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae1993fd7c82543de8dfff02ede09dcee%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cc132504-3bbf-45e9-a68e-da783e726377&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "Лісович Т.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae1993fd7c82543de8dfff02ede09dcee%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cc132504-3bbf-45e9-a68e-da783e726377&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Лакіза В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне страхування у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "Дарміць Р.З., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "Лема Г.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "Бублик М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83975163907?pwd=SE9PUE9CaGJYTXNYMytaM0hFcEdmUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

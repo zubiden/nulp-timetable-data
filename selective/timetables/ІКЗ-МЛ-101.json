@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Кузьо Н.Є., Крикавський Є.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Кузьо Н.Є., 426в IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційне та комп`ютерне забезпечення маркетингової діяльності",
+        "lecturer": "Кузьо Н.Є., 426в IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

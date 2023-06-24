@@ -1,0 +1,146 @@
+[
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "Копець Г.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/5443591836?pwd%3DYU92N2VjVmM2R1llWk9YcmI5OU1qUT09&sa=D&source=calendar&usd=2&usg=AOvVaw1mu8ApMKfDyRu1eSFIol0j"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління ризиками інноваційної діяльності",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг інновацій",
+        "lecturer": "Чухрай Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/82424490377?pwd=TkdlZUlzaUFsVEw3OUprZlRLc3FRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83965992808?pwd=VWxUNGQ5Z2hoUjZmTExXNm4zSCs0dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84534521584?pwd=Ull3cGJXS0RxQ2RtY1RTdDdHdDVnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "Іванюк У.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84534521584?pwd=Ull3cGJXS0RxQ2RtY1RTdDdHdDVnQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "Копець Г.Р., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками інноваційної діяльності",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг інновацій",
+        "lecturer": "Стангурська Б.О., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Маркетинг інновацій",
+        "lecturer": "Стангурська Б.О., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

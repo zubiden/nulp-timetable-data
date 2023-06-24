@@ -1,0 +1,197 @@
+[
+    {
+        "subject": " Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89968292298?pwd=TDJHREl6ZXBMTzZuM2xlNWEzQkNJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": " Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89968292298?pwd=TDJHREl6ZXBMTzZuM2xlNWEzQkNJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мікроелектронні засоби інформаційних технологій",
+        "lecturer": "Нічкало С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUw6R3ur5ekP6WIY98VQfZ2wgL8kfBr6I4AWIupbGBPg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0bad3c08-6b15-4ea9-a4c8-72a995bab853&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні системи, частина 2",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5rbtVdXSI-qm3fys5O_z_n271jkKs88EFIJg7pD38dg1%40thread.tacv2/1677159649160?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Електронні системи, частина 2",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5rbtVdXSI-qm3fys5O_z_n271jkKs88EFIJg7pD38dg1%40thread.tacv2/1677159796258?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": " Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89968292298?pwd=TDJHREl6ZXBMTzZuM2xlNWEzQkNJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": " Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Яцюк Р.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89968292298?pwd=TDJHREl6ZXBMTzZuM2xlNWEzQkNJUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Електронні системи, частина 2",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5rbtVdXSI-qm3fys5O_z_n271jkKs88EFIJg7pD38dg1%40thread.tacv2/1677159948425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Електронні системи, частина 2",
+        "lecturer": "Убізський С.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5rbtVdXSI-qm3fys5O_z_n271jkKs88EFIJg7pD38dg1%40thread.tacv2/1677159948425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікроелектронні засоби інформаційних технологій",
+        "lecturer": "Нічкало С.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUw6R3ur5ekP6WIY98VQfZ2wgL8kfBr6I4AWIupbGBPg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0bad3c08-6b15-4ea9-a4c8-72a995bab853&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікроелектронні засоби інформаційних технологій",
+        "lecturer": "Нічкало С.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUw6R3ur5ekP6WIY98VQfZ2wgL8kfBr6I4AWIupbGBPg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0bad3c08-6b15-4ea9-a4c8-72a995bab853&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Електронні системи, частина 2",
+        "lecturer": "Убізський С.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5rbtVdXSI-qm3fys5O_z_n271jkKs88EFIJg7pD38dg1%40thread.tacv2/1677160690460?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікроелектронні засоби інформаційних технологій",
+        "lecturer": "Нічкало С.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUw6R3ur5ekP6WIY98VQfZ2wgL8kfBr6I4AWIupbGBPg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0bad3c08-6b15-4ea9-a4c8-72a995bab853&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

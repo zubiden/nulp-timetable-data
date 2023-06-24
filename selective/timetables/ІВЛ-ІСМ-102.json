@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Лозицький О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Лозицький О.А., 128 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Лозицький О.А., 128 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    }
+]

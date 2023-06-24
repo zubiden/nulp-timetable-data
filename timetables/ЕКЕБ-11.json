@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Проектне фінансування",
+        "lecturer": "Кривцун І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/nvo-hkjb-qob"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "Мищишин О.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azcN1yii1XBxOna32yGoipCOapGETW_W5VJ1A_kbheUE1%40thread.tacv2/1677499018060?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222b64fc03-d127-43bf-83e0-eb9488a3bdea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інноваційний розвиток бізнесу",
+        "lecturer": "Ємельянов О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Конкурентоспроможність бізнесу",
+        "lecturer": "Мрихіна О.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75953042919?pwd=YvxrwrY455t7fjOtNKbpyja6NkrRx9.1%20%20Meeting%20ID:%20759%205304%202919%20Passcode:%20g0mMyR"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інноваційний розвиток бізнесу",
+        "lecturer": "Лесик Л.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72905977459?pwd=UEo3aS9uRzA1MThEVXY0NHdYRFp4dz09%20%20Meeting%20ID:%20729%200597%207459%20Passcode:%208vgvde"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "Мищишин О.Л., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azcN1yii1XBxOna32yGoipCOapGETW_W5VJ1A_kbheUE1%40thread.tacv2/1677615511320?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222b64fc03-d127-43bf-83e0-eb9488a3bdea%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Конкурентоспроможність бізнесу",
+        "lecturer": "Мрихіна О.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75953042919?pwd=YvxrwrY455t7fjOtNKbpyja6NkrRx9.1%20%20Meeting%20ID:%20759%205304%202919%20Passcode:%20g0mMyR"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проектне фінансування",
+        "lecturer": "Кривцун І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/jcd-wcuc-wgm"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

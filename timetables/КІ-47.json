@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Колодчак О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8790946798?pwd=cVg0NFBSS2xRcTZmTHc0bFBPcEZGZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізовані мікропроцесорні системи",
+        "lecturer": "Кочан Р.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa983d484ece04d6ab71cd09a76711134%40thread.tacv2/1677498558425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізовані мікропроцесорні системи",
+        "lecturer": "Кочан Р.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa983d484ece04d6ab71cd09a76711134%40thread.tacv2/1677498603727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "Клим Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "Клим Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86492455128?pwd=RFJkWjJ4UlY2UTJDTlQzYm9MbzdpUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Методи та засоби автоматизованого проектування комп`ютерних систем",
+        "lecturer": "Гонсьор О.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aji0NBemtMCDfkYN04Y0-7uufnLoNOH_J03PWn25sAdY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=309ecc88-5361-4646-9c07-226631ff5b5c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "Дячок Р.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae9ebf8f862bc483a850c0185259b6f1f%40thread.tacv2/1678734475593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "Дячок Р.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae9ebf8f862bc483a850c0185259b6f1f%40thread.tacv2/1678734550120?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "Карбовник І.Д., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи та засоби автоматизованого проектування комп`ютерних систем",
+        "lecturer": "Гонсьор О.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aji0NBemtMCDfkYN04Y0-7uufnLoNOH_J03PWn25sAdY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=309ecc88-5361-4646-9c07-226631ff5b5c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані мікропроцесорні системи",
+        "lecturer": "Кочан Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4c4b48417765458f8915f86ca7b0ec0d%40thread.tacv2/1677498899020?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "Дячок Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1ad7bce1a6874741a6de9c096b453d01%40thread.tacv2/1678216894698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "Дячок Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1ad7bce1a6874741a6de9c096b453d01%40thread.tacv2/1678217000762?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Муляревич О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Спеціалізовані мікропроцесорні системи",
+        "lecturer": "Кочан Р.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4c4b48417765458f8915f86ca7b0ec0d%40thread.tacv2/1677498291910?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи та засоби автоматизованого проектування комп`ютерних систем",
+        "lecturer": "Гонсьор О.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aji0NBemtMCDfkYN04Y0-7uufnLoNOH_J03PWn25sAdY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=309ecc88-5361-4646-9c07-226631ff5b5c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби автоматизованого проектування комп`ютерних систем",
+        "lecturer": "Гонсьор О.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aji0NBemtMCDfkYN04Y0-7uufnLoNOH_J03PWn25sAdY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=309ecc88-5361-4646-9c07-226631ff5b5c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи управління базами даних",
+        "lecturer": "Муляревич О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "Карбовник І.Д., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

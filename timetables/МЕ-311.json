@@ -1,0 +1,287 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Руда М.В., анг. мовою",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5Y2YxN2YtN2E2ZC00NmIzLThkYjUtYTU4MTI1NzYyNjYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "Люльчак З.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09%20https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09%20%20https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Калиновський А.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4ZBMAL9zAl_jMFFBdGG67IbSMLEfvNDdSDEi25PPows1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=6211c7ab-4dca-4cf7-afbe-898456272118&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Гайванович Н.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74384987055?pwd=fgrm3JeOPK7bqXbCdNYEcFNnq5i9RU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Калинець К.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzkxYzdlNGUtNzlkOS00ZTg3LWFlOGUtNzA5OGU3Y2JiMzUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0621c08-b7d0-4b25-8d37-6edf3fb1e94e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Калинець К.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzkxYzdlNGUtNzlkOS00ZTg3LWFlOGUtNzA5OGU3Y2JiMzUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0621c08-b7d0-4b25-8d37-6edf3fb1e94e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "Демко М.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTBlZDgzNzYtODY4NS00NTBjLWI5NzctM2ZjOGIxZjc3ZGZj%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252C%2522Oid%2522%253A%2522f0621c08-b7d0-4b25-8d37-6edf3fb1e94e%2522%257D%26anon%3Dtrue&type=meetup-join&deeplinkId=ceefbf46-36c8-440d-8dc2-fb3f86a44828&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "Гринів Н.Т., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "Гринів Н.Т., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Маслак О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad_lCU-G9-6BYxGAUkRVmVjxsDRd4iVc97e8F99z261g1%40thread.tacv2/conversations?groupId=f2825008-7199-4719-a1ee-03feaaedf567&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Рудницька О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awh0e_rDTJSJd9-WqEYyYhwlHI60zjyWk3ovAGx-o_tA1%40thread.tacv2/1677069278789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Рудницька О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awh0e_rDTJSJd9-WqEYyYhwlHI60zjyWk3ovAGx-o_tA1%40thread.tacv2/1677069278789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "Миськів Г.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "Гринів Н.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Страхування в логістиці",
+        "lecturer": "Рикованова І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76249195951?pwd=hYAe7rBit7o2bQDxUH9CoRnNmmRLbC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Моторнюк У.І., анг. мовою",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "Моторнюк У.І., анг. мовою",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Страхування в логістиці",
+        "lecturer": "Таранський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "Гринів Н.Т., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

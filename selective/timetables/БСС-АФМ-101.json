@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Безпека соціальних систем",
+        "lecturer": "Карковська В.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78497166821?pwd=qFS0SA2dbagif09NRPliEazajhLu5F.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Безпека соціальних систем",
+        "lecturer": "Карковська В.Я., МЕФБ-1122 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

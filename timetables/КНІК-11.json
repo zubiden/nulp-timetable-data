@@ -1,0 +1,191 @@
+[
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "Янішевський В.С., 225а IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., 217 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "Янішевський В.С., 225c IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "Маркович Б.М., 221 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Паралельні обчислення та засоби їх реалізації",
+        "lecturer": "Яджак М.С., 221 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "Янішевський В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "Янішевський В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Паралельні обчислення та засоби їх реалізації",
+        "lecturer": "Яджак М.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8952334719?pwd=RElHOVpydVlSZUNmVUNXNGhDRjlZUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "Маркович Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "Маркович Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "Маркович Б.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/rfv-nwhb-eow"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "Мединський І.П., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Верба В.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Верба В.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

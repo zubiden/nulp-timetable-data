@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "Литвин І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76456017748?pwd=rMrL3fI4DZGybn9g3nn8eCABPuJWux.1%20%20Meeting%20ID:%20764%205601%207748%20Passcode:%202023"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "Станасюк Н.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71947578616?pwd=ObmYhpAlgbPuGrosd9FyxKXQeAOUgn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "lecturer": "Найчук-Хрущ М.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLHaQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "lecturer": "Найчук-Хрущ М.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLHaQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інфраструктурне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Лема Г.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09#success"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інфраструктурне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Лема Г.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний фінансовий менеджмент",
+        "lecturer": "Харчук В.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний фінансовий менеджмент",
+        "lecturer": "Харчук В.Ю., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "Станасюк Н.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія культури та європейська інтеграція України",
+        "lecturer": "Весоловська М.К., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89921699860?pwd=M0pFa1dXQUtGanNZTHByQmRScTlFdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "Чернобай Л.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Історія культури та європейська інтеграція України",
+        "lecturer": "Весоловська М.К., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89921699860?pwd=M0pFa1dXQUtGanNZTHByQmRScTlFdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "Литвин І.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73450172216?pwd=npGflPfAl4ilbSs0b9ekL9ToJbBon1.1%20%20Meeting%20ID:%20734%205017%202216%20Passcode:%202023"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

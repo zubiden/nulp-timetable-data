@@ -1,0 +1,229 @@
+[
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Рак Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avkQ3shaZZIFWU9LIlo7Ff_O3KGgWM2spCMdr3-fQWas1%40thread.tacv2/1685643765389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Рак Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avkQ3shaZZIFWU9LIlo7Ff_O3KGgWM2spCMdr3-fQWas1%40thread.tacv2/1685643765389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "lecturer": "Боднар Т.О., Дмитришин Н.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73914726658?pwd=Y49O0MbTJJdL9ay9tIcd2P4pBRWcGw.1",
+            "https://us05web.zoom.us/j/83056637572?pwd=djZ2S3YwcmNtZjc3N0tWOGRGOUF1dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика інформаційно-знаннєвого суспільства",
+        "lecturer": "Анісімович-Шевчук О.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86085713787?pwd=Njgra09GMlBzS1BDR2RHeWYxcUI5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Теорія і практика інформаційно-знаннєвого суспільства",
+        "lecturer": "Анісімович-Шевчук О.З., Пахолок І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86085713787?pwd=Njgra09GMlBzS1BDR2RHeWYxcUI5QT09",
+            "https://us05web.zoom.us/j/91533636681?pwd=QTdDWnpSdlkwN3ZjdzBCOUxZQlE4UT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20915%203363%206681%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20f7Cfkh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "Базилюк К.Ф., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74675536009?pwd=XJyuJIqaszfO1m39wpFnpun0QGl4tG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "Базилюк К.Ф., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74675536009?pwd=XJyuJIqaszfO1m39wpFnpun0QGl4tG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661712079?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661712079&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661712079&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661837408?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661837408&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661837408&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661837408?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661837408&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661837408&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розвідувальні служби у забезпеченні зовнішньої політики держав",
+        "lecturer": "Максимець В.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "lecturer": "Дмитришин Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75043629195?pwd=ombAHI0jnJz1LbzwpL3r4qk22aDF33.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "Базилюк К.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79241187101?pwd=QytuTnhXWmF3M2hrRWVIT1dQb2xVZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розвідувальні служби у забезпеченні зовнішньої політики держав",
+        "lecturer": "Максимець В.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "Рак Н.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avkQ3shaZZIFWU9LIlo7Ff_O3KGgWM2spCMdr3-fQWas1%40thread.tacv2/1677701214917?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

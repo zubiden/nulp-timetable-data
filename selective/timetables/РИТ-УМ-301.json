@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "Литвин О.Г., АР 3",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84504994951?pwd=SlM2cGhHY01WejFjeGo0b1NwcEtSUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

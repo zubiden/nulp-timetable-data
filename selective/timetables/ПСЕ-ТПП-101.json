@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "Ткалич М.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "Ткалич М.Г., 68 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

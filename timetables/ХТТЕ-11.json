@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Гальванотехніка",
+        "lecturer": "Кунтий О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Методи досліджень електрохімічних систем і процесів",
+        "lecturer": "Зозуля Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Корозія металів під напруженням",
+        "lecturer": "Кунтий О.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Корозія металів під напруженням",
+        "lecturer": "Кунтий О.І., 303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Корозія металів під напруженням",
+        "lecturer": "Зозуля Г.І., 303 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методи досліджень електрохімічних систем і процесів",
+        "lecturer": "Зозуля Г.І., 303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Корозія металів під напруженням",
+        "lecturer": "Кунтий О.І., 303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Корозія металів під напруженням",
+        "lecturer": "Зозуля Г.І., 303 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи досліджень електрохімічних систем і процесів",
+        "lecturer": "Зозуля Г.І., 303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Гідрометалургія",
+        "lecturer": "Знак З.О., 207 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao8FtZ0QaK5malzUMSHlkcveGCZHUo6eTgqn3UM9zcYk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c9e2604-6116-4d42-89a9-189f4483cf0b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Гідрометалургія",
+        "lecturer": "Знак З.О., 207 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ao8FtZ0QaK5malzUMSHlkcveGCZHUo6eTgqn3UM9zcYk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c9e2604-6116-4d42-89a9-189f4483cf0b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Гальванотехніка",
+        "lecturer": "Кунтий О.І., 1 раз в місяць303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Гальванотехніка",
+        "lecturer": "Кунтий О.І., 1 раз в місяць303 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avwsQ9TY5jnxn8gAo65O2oF3BhTlP38zRqoF6muna_Oo1%40thread.tacv2/conversations?groupId=303513a7-5612-48c8-8259-93119567e302&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Гідрометалургія",
+        "lecturer": "Знак З.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aO3iW_ZEO2I8HupEuSv4-sNYY52wQJcEIES5KcTW3MdU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cc5ad95f-aa91-42bd-9eb5-cb7ad80d5b45&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

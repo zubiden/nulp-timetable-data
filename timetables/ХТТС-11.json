@@ -1,0 +1,225 @@
+[
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Луцюк І.В., 005 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "Вахула Я.І., Магорівська Г.Я., 010 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "Вахула Я.І., Магорівська Г.Я., 010 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., 012 IX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., 012 IX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "Вахула Я.І., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "Боровець З.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

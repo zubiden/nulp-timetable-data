@@ -1,0 +1,254 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "Івасик Г.В., 105 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72001623738?pwd=uuiMV24FTiDUovQxv1Wfz2lFarKOU2.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "Конюхов С.В., 105 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "Мисак С.Й., 211 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "Кушка Б.Г., 26 VII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "Фестрига С.В., корпус 21 в.Самчука11",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "Каркульовська М.С., Лобойко В.І., ел.3лаб Гол. н.к., опт.1лаб. Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "Лобойко В.І., 134 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "Мисак С.Й., 213 X н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "Маляр В.С., 011 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "Маляр В.С., 115 Гол. н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "Шепітчак В.Б., Юрасова О.Г., 213 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "Конюхов С.В., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6139139505?pwd=U0ZBTGllNStuZU9iL2NCSEhueE1TZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "Прикарпатський А.К., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aNLTAUc8La5wSe9dbt5yDkZEyRWrlDR1gtNAQDiDjnNU1%40thread.tacv2/Og%25C3%25B3lny?groupId=51de0e4d-c57c-4a07-873d-ec8f3bbd4240&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "Прикарпатський А.К., 407 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKqy3NhSydm-H0HNIHj-Q6h4fPNvlD7AnLAah0K32rR41%40thread.tacv2/Og%25C3%25B3lny?groupId=a6ac8f66-ac1b-4760-b71b-5049f62851b8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "Маляр В.С., +АЕ114 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "Лис С.С., 207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "Лобойко В.І., 139 Гол. н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "Лис С.С., 207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

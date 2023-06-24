@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "Монька Н.Я., Бучкевич І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIvcxLjBaySac6q9ct2n1PsB4KOSkFSA4n0t_aYv8sE1%40thread.tacv2/1677228747795?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "Бучкевич І.Р., Монька Н.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIvcxLjBaySac6q9ct2n1PsB4KOSkFSA4n0t_aYv8sE1%40thread.tacv2/1677228747795?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "Баранович Д.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7da6ee553a924abfaaa19750ecbdedfa%40thread.tacv2/1677565525954?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "Баранович Д.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7da6ee553a924abfaaa19750ecbdedfa%40thread.tacv2/1677565285975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Загальна іммунологія",
+        "lecturer": "Федорова О.В., Заярнюк Н.Л., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY3MDI4YTItN2M5Yi00NzQ0LTlhMGQtYmFhMGUzYzYzMmVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Загальна іммунологія",
+        "lecturer": "Заярнюк Н.Л., Федорова О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY3MDI4YTItN2M5Yi00NzQ0LTlhMGQtYmFhMGUzYzYzMmVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Загальна іммунологія",
+        "lecturer": "Федорова О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmRiNzNhN2YtYzhiZS00NzA5LWJlZDUtZjIyZGU5ODI4NTRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "Баранович Д.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e3f71c6c5b6431f8351f83120e433a4%40thread.tacv2/1677588068736?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Енергозберігаючі технології в біотехнології",
+        "lecturer": "Крвавич А.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2f7f894dc74143d0b97534bc7daea3ea%40thread.tacv2/1677744805485?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2260cdaa8f-c147-4082-ba4b-8a5473f5f314%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація та управління біотехнологічним виробництвом",
+        "lecturer": "Вашкурак Ю.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизація та управління біотехнологічним виробництвом",
+        "lecturer": "Вашкурак Ю.З., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Енергозберігаючі технології в біотехнології",
+        "lecturer": "Крвавич А.С., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Енергозберігаючі технології в біотехнології",
+        "lecturer": "Крвавич А.С., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та управління біотехнологічним виробництвом",
+        "lecturer": "Фединець В.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86314042061?pwd=S2FFVXNQMmN2ekZ5VlR6cy9WcjFhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "Цимбалюк І.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7a04f77722ad4202bccc2dab2627d8c9%40thread.tacv2/1679225831257?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242fb7469-43ca-4463-9ca9-947c5bbc082f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "Николишин М.Й., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgd-bzik-rff"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "Цимбалюк І.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7a04f77722ad4202bccc2dab2627d8c9%40thread.tacv2/1679225910643?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242fb7469-43ca-4463-9ca9-947c5bbc082f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahCSXxWL2AtdPGO5aAFj4klqVNL0oJ9S_zsOwT6YriyA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7fc4b01c-5a86-40ca-82a0-02bc78f8b9d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/jon-gvkt-xfv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/kwa-ikcz-rgy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "Бенч А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akfusLktiG7VBZuLqv-G4ozvZ7WVnS59QbvLcU8RIqLk1%40thread.tacv2/1677592412561?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "Николишин М.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gmw-mcjb-fsj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 4 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "Бенч А.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akfusLktiG7VBZuLqv-G4ozvZ7WVnS59QbvLcU8RIqLk1%40thread.tacv2/1678263186380?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 4 тижд.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

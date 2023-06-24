@@ -1,0 +1,228 @@
+[
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "Побережник В.О., 211 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Забезпечення інформаційної та кібербезпеки держави",
+        "lecturer": "Опірський І.Р., 202 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "Бибик Р.Т., 202 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRkNzMxMjAtMmVhMy00YTg1LWIyNjgtODJmYjc4ZWIzNzMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-npcoul5rcke0z9QFvaD88VmkqVbJz-H7HMxKcRd1qQ1%40thread.tacv2/conversations?groupId=28b35b7c-32f5-4f6e-8c7b-f300a09753aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціотехнічна безпека та інформаційно-аналітичне забезпечення кібербезпеки",
+        "lecturer": "Тишик І.Я., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a7CMO7mjymPMcsRFDFOcow-Upp5ZfUwfELq3Uzz0JrJs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=1820746c-c851-4099-bcda-4f0e72ddccd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Соціотехнічна безпека та інформаційно-аналітичне забезпечення кібербезпеки",
+        "lecturer": "Тишик І.Я., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aVRMQGogdzU5qULXRORPEWXD5X2MIHdOs9MQ7plZT8uQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6d41ff9a-28d6-4439-b9c6-a256cca774da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Соціотехнічна безпека та інформаційно-аналітичне забезпечення кібербезпеки",
+        "lecturer": "Тишик І.Я., 210 XIX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7CMO7mjymPMcsRFDFOcow-Upp5ZfUwfELq3Uzz0JrJs1%40thread.tacv2/1679336880620?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226524921c-9ad1-4075-b276-4ca24a51fd69%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "Журавчак Д.Ю., 212 XIX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Соціотехнічна безпека та інформаційно-аналітичне забезпечення кібербезпеки",
+        "lecturer": "Тишик І.Я., 221 20 н.к",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aVRMQGogdzU5qULXRORPEWXD5X2MIHdOs9MQ7plZT8uQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6d41ff9a-28d6-4439-b9c6-a256cca774da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "Журавчак Д.Ю., 215 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "Обшта А.Ф., 220 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azCkLJX36ZZLXPesxlFEO43MohsWVpJhy4UOsC4zCda41%40thread.tacv2/conversations?groupId=52fe704c-dcc5-4789-908f-297a77964936&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізичне виховання, частина 4",
+        "lecturer": "Гребінка Г.Я., 14.40-16.10  в.Самчука 11.кор.21",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Забезпечення інформаційної та кібербезпеки держави",
+        "lecturer": "Опірський І.Р., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "Опірський І.Р., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "Гарасимчук О.І., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "Гарасимчук О.І., 208 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

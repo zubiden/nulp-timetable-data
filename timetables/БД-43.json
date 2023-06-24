@@ -1,0 +1,168 @@
+[
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "Гоголь М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "Гоголь М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Кропивницька Т.П., Сидор Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Кропивницька Т.П., Сидор Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Кропивницька Т.П., Сидор Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:vJI9S0dn14iu2u2g7Kl8i1LeXXjhd2u9hprY1ycKA-g1@thread.tacv2&ctx=channel",
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "Гоголь М.В., Сидорак Д.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aYk2jWXeSF_L1UgpWZ2ddPg64CXfdPpK143D_aw-Cc7A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e38e4ba6-95fd-44ef-886a-3cc66e6de555&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Сидор Н.І., Камінський А.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:vJI9S0dn14iu2u2g7Kl8i1LeXXjhd2u9hprY1ycKA-g1@thread.tacv2&ctx=channel",
+            "https://teams.microsoft.com/l/meetup-join/19%3aigvUQemuCxSg-gS8kB5fvcgfUWG200_QyjR081PT0G41%40thread.tacv2/1679993997085?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2271b50a43-241c-4277-9017-ee4c62a0d681%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Камінський А.Т., Сидор Н.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:vJI9S0dn14iu2u2g7Kl8i1LeXXjhd2u9hprY1ycKA-g1@thread.tacv2&ctx=channel",
+            "https://teams.microsoft.com/l/meetup-join/19%3aigvUQemuCxSg-gS8kB5fvcgfUWG200_QyjR081PT0G41%40thread.tacv2/1679994280252?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2271b50a43-241c-4277-9017-ee4c62a0d681%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "Камінський А.Т., Сидор Н.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:vJI9S0dn14iu2u2g7Kl8i1LeXXjhd2u9hprY1ycKA-g1@thread.tacv2&ctx=channel",
+            "https://teams.microsoft.com/l/meetup-join/19%3aigvUQemuCxSg-gS8kB5fvcgfUWG200_QyjR081PT0G41%40thread.tacv2/1679994280252?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2271b50a43-241c-4277-9017-ee4c62a0d681%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

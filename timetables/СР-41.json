@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 236 III н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662165682?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662165682&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662165682&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управлінські аспекти супервізії",
+        "lecturer": "Герасим Г.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Управлінські аспекти супервізії",
+        "lecturer": "Герасим Г.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "Байбакова І.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/FKkR4YvXVskY"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "Мишок Р.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "Мишок Р.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., 302 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662506149?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662506149&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662506149&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "Мишок Р.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "Мишок Р.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управлінські аспекти супервізії",
+        "lecturer": "Герасим Г.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Управлінські аспекти супервізії",
+        "lecturer": "Герасим Г.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Почапська І.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662655044?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662655044&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662655044&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

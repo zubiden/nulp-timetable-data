@@ -1,0 +1,155 @@
+[
+    {
+        "subject": "Біобезпека та методи контролю в біотехнології",
+        "lecturer": "Яремкевич О.С., 227 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Біобезпека та методи контролю в біотехнології",
+        "lecturer": "Яремкевич О.С., 227 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "Петріна Р.О., Федоришин О.М., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Біобезпека та методи контролю в біотехнології",
+        "lecturer": "Швед О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vad-yqnt-aqw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Біотехнологія ферментних діагностикумів",
+        "lecturer": "Гавриляк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZlZGE4MzgtYzBlOC00MDliLTk1MDEtNjkyMzc2NzI5Njg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія барвників та біопігментів",
+        "lecturer": "Стадницька Н.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/yuf-gnwn-iin"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "Петріна Р.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agBk6XrAqMfYhT1hzY6nOZD0wG8zqfFeuUX3fsEWoSp81%40thread.tacv2/1677751853697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Біотехнологія біоактивних речовин та біоконверсія",
+        "lecturer": "Федоришин О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:HOEPzTZRs96v7OA1UWi2Ibrp0vNUNmmnfTX977q77PY1@thread.tacv2/1686065079047?groupId=3f386fc4-4fd5-4f8e-bec9-74c1bfbf9e0d&parentMessageId=1686065079047&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія барвників та біопігментів",
+        "lecturer": "Стадницька Н.Є., Стасевич М.В., 227 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Біотехнологія ферментних діагностикумів",
+        "lecturer": "Половкович С.В., Гавриляк В.В., 226 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Біотехнологія біоактивних речовин та біоконверсія",
+        "lecturer": "Федоришин О.М., 201 VIII н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

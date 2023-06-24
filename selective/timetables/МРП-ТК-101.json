@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/jwa-oewt-hof"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Шубин Б.П., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "Кирик М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tgz-ubbm-tvx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

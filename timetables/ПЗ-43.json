@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676622895885?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "Самбір Н.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676624024239?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "Самбір Н.Б., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676623120821?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Литвиняк О.Я., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYAp32OJeqwPD6Cr0qZ7wpnFEAJkaVULoXjqGJJqA-eA1%40thread.tacv2/1676623288975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eiy-dupu-tpk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/eiy-dupu-tpk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "Самбір Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "Самбір Н.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "Самбір Н.Б., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Віртуальна реальність",
+        "lecturer": "Терендій О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/fgv-boph-bkd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

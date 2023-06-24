@@ -1,0 +1,256 @@
+[
+    {
+        "subject": "Сучасні проблеми регіональних систем безпеки",
+        "lecturer": "Корнат Л.Я., 510 II н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "Малик І.Р., 526а IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "lecturer": "Хома Н.М., 510 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз та прогнозування зовнішньої політики",
+        "lecturer": "Тишкун Ю.Я., 311 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "Малик І.Р., 526а IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Діловий протокол і корпоративний етикет",
+        "lecturer": "Климчук І.І., 313 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міграційна безпека",
+        "lecturer": "Малик І.Р., 312 IV н.к., ",
+        "location": ", Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Релігійний фактор у міжнародних відносинах",
+        "lecturer": "Волинець О.О., Пасічний Р.Я., 313 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9709252327?pwd=VmFHaVBSZGpNbWlqUGxaY3pJVThTQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Енергетична безпека у міжнародних відносинах",
+        "lecturer": "Івасечко О.Я., 312 IV н.к., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Історія і теорія дослідження міжнародних систем та глобального розвитку",
+        "lecturer": "Тишкун Ю.Я., 407 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Релігійний фактор у міжнародних відносинах",
+        "lecturer": "Волинець О.О., Пасічний Р.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9709252327?pwd=VmFHaVBSZGpNbWlqUGxaY3pJVThTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні проблеми регіональних систем безпеки",
+        "lecturer": "Луцишин Г.І., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84119677618?pwd=Yjh3MjZOT2JWOTdJQTY1alcySmZrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Діловий протокол і корпоративний етикет",
+        "lecturer": "Климчук І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71487073190?pwd=AhN37jPWvQjqlgDQbhnscpLDb6EJq8.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "lecturer": "Хома Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71666543572?pwd=bqQ9vnW45I6x67yLVb1YlbAm4PCFO6.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міграційна безпека",
+        "lecturer": "Малик І.Р., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9114879537?pwd=RUk1Wm9QWjVhcE03VGpEVmhRMjg5dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз та прогнозування зовнішньої політики",
+        "lecturer": "Тишкун Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86329164542?pwd=RGZEQXBMZ1lBMmpEbXU0dmVQV1ZvQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Енергетична безпека у міжнародних відносинах",
+        "lecturer": "Івасечко О.Я., ",
+        "location": ", Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Історія і теорія дослідження міжнародних систем та глобального розвитку",
+        "lecturer": "Тишкун Ю.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83848725390?pwd=dk9NY1NMckVHdzhtUE9uTTlEVTNzZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

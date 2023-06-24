@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "Білограць Х.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79324214786?pwd=mgWCaWBTm7acR9RW1t0eoI2HLflk1M.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "Білограць Х.Р., 108 XX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

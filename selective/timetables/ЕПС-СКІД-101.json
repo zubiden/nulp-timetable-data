@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., ДКІБ-11 ДКІБ-12",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0813845f5dc5447daded37cc04e81d8c%40thread.tacv2/1677484092250?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221b9495b9-3e8c-4e3c-b6d4-2e688e1bc66d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., СМУС(2 студ) ДКІБ-11521 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0813845f5dc5447daded37cc04e81d8c%40thread.tacv2/1677484219176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221b9495b9-3e8c-4e3c-b6d4-2e688e1bc66d%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

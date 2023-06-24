@@ -1,0 +1,161 @@
+[
+    {
+        "subject": "Динаміка розвитку пожеж",
+        "lecturer": "Шналь Т.М., 217 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування металевих конструкцій будівель та споруд з врахуванням впливу температур",
+        "lecturer": "Крамарчук А.П., 224а II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2505515573?pwd=b2FXWmF5N0ExTjFWSVlybGNSQ1Nydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування металевих конструкцій будівель та споруд з врахуванням впливу температур",
+        "lecturer": "Крамарчук А.П., 224а II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2505515573?pwd=b2FXWmF5N0ExTjFWSVlybGNSQ1Nydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Динаміка розвитку пожеж",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "Шналь Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "Гаврилко О.А., 218 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88153247950?pwd=QUJibTRkSVVwVGw5bnBMaGlvN2VUQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Тактика пожежогасіння та рятувальних робіт",
+        "lecturer": "Гаврилко О.А., 218 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82013870072?pwd=Uk1rQi9NMGNhS0ZUQ3JtN3lmNWVtdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування залізобетонних конструкцій будівель та споруд з врахуванням впливу температур",
+        "lecturer": "Хміль Р.Є., 209 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування залізобетонних конструкцій будівель та споруд з врахуванням впливу температур",
+        "lecturer": "Хміль Р.Є., 218 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тактика пожежогасіння та рятувальних робіт",
+        "lecturer": "Гаврилко О.А., 202 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "Гаврилко О.А., 202 II н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

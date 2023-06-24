@@ -1,0 +1,229 @@
+[
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "",
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., Федорчук Є.Н., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pxv-rqaa-zuk",
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Тушницький Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Кутельмах Р.К., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3an_fQm9ztI-7cH9JPcNlF60dO2F4gJSQ8HCON_1BbkXI1%40thread.tacv2/1677140750544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f399f962-7497-4074-9c43-7e4e045e5ace%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Луцик І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Кутельмах Р.К., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3an_fQm9ztI-7cH9JPcNlF60dO2F4gJSQ8HCON_1BbkXI1%40thread.tacv2/1677140750544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f399f962-7497-4074-9c43-7e4e045e5ace%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Луцик І.І., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Павич Н.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc1ZjVhMzEtYTQwNi00MmU0LWExOTYtYTFkODljYzE0NGQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Луцик І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Кутельмах Р.К., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3an_fQm9ztI-7cH9JPcNlF60dO2F4gJSQ8HCON_1BbkXI1%40thread.tacv2/1677140750544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f399f962-7497-4074-9c43-7e4e045e5ace%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "Луцик І.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Сховища даних",
+        "lecturer": "Кутельмах Р.К., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3an_fQm9ztI-7cH9JPcNlF60dO2F4gJSQ8HCON_1BbkXI1%40thread.tacv2/1677140750544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f399f962-7497-4074-9c43-7e4e045e5ace%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "Ваврук І.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

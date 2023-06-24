@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Управління ризиками IT-проектів",
+        "lecturer": "Кулиняк І.Я., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76009602155?pwd=ykXObiw8Efx5aMxnlKFR4ga9i10Lm4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління ризиками IT-проектів",
+        "lecturer": "Дзюбіна А.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

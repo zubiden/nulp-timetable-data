@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Усний переклад (німецька мова)",
+        "lecturer": "Перхач Р.Т., ",
+        "location": ", Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89212219166?pwd=ZXF1WDEvSE9aalgzQStjb3MyU3dpUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Усний переклад (німецька мова)",
+        "lecturer": "Перхач Р.Т., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89212219166?pwd=ZXF1WDEvSE9aalgzQStjb3MyU3dpUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

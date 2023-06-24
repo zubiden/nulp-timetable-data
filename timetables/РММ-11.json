@@ -1,0 +1,159 @@
+[
+    {
+        "subject": "Хіміко-технологічні процеси і явища в реставрації",
+        "lecturer": "Новосад П.В., 102 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хіміко-технологічні процеси і явища в реставрації",
+        "lecturer": "Новосад П.В., 102 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Скульптурне копіювання твору мистецтва з натурального каменю, частина 2",
+        "lecturer": "Гетьманчук С.В., 010 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Скульптурне копіювання твору мистецтва з натурального каменю, частина 2",
+        "lecturer": "Гетьманчук С.В., 010 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Концептуальні проблеми сучасної реставрації творів мистецтва та архітектурної деталі з каменю",
+        "lecturer": "Демків М.В., 113 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методика реставрації фасадів пам`яток архітектури",
+        "lecturer": "Рибчинський О.В., 113 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Концептуальні проблеми сучасної реставрації творів мистецтва та архітектурної деталі з каменю",
+        "lecturer": "Демків М.В., 113 XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методика реставрації фасадів пам`яток архітектури",
+        "lecturer": "Рибчинський О.В., 113 XIX н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "Рибчинський О.В., 010 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "Рибчинський О.В., 010 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "Рибчинський О.В., 010 XIX н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

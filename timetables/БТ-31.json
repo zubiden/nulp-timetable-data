@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "Комаровська-Порохнявець О.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a14a60e38e8b341b799d62c226db1051c%40thread.tacv2/1677152288443?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "Гавриляк В.В., Комаровська-Порохнявець О.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1677152582278?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "Гавриляк В.В., Комаровська-Порохнявець О.З., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1677152746268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "Комаровська-Порохнявець О.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a956a2973c067422d8fcf81a946cbed74%40thread.tacv2/1677152913588?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Процеси та апарати біотехнологічних виробництв",
+        "lecturer": "Кархут А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQqUWiYh2et_WCsTOG8HsVuPceCdzSEytz0VRVsKU8K41%40thread.tacv2/conversations?groupId=d4cb0b1e-5114-4cb1-ba81-7e6a003ddf24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні технології та статистика в біотехнології",
+        "lecturer": "Бучкевич І.Р., Яремкевич О.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as2-r2JqiNitZ-YvEEb1liMfC1eDtcLgOP7n5kdVg15U1%40thread.tacv2/1677232455582?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Ензимологія та іммобілізація",
+        "lecturer": "Гавриляк В.В., Крвавич А.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJlNDM5YTktMmNjMy00ZGE0LTgzNzctOWU3MTNjYjhkM2M4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Процеси та апарати біотехнологічних виробництв",
+        "lecturer": "Кархут А.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQqUWiYh2et_WCsTOG8HsVuPceCdzSEytz0VRVsKU8K41%40thread.tacv2/conversations?groupId=d4cb0b1e-5114-4cb1-ba81-7e6a003ddf24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676891484565?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Огар Г.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892209090?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання мікробіологічних процесів",
+        "lecturer": "Василюк С.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKQC8jV0C1YvcwnfAFKtrUrGD_zmQXEzneJ9ROF5xFc1%40thread.tacv2/1677670730578?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Токарєва М.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892555276?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математичне моделювання мікробіологічних процесів",
+        "lecturer": "Василюк С.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_w808EscjuhzFduCKCb_Tr_aZ-T_4izbXgjwytTVElc1%40thread.tacv2/1677671868743?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології та статистика в біотехнології",
+        "lecturer": "Бучкевич І.Р., Яремкевич О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as2-r2JqiNitZ-YvEEb1liMfC1eDtcLgOP7n5kdVg15U1%40thread.tacv2/1677232550940?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ензимологія та іммобілізація",
+        "lecturer": "Гавриляк В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2FiNjVkMDYtZDVjOC00YmY4LWEyYzctYzUwNDFhYmVjYWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

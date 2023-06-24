@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "Савченко О.О., Фурдас Ю.В., 411 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "Савченко О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7B-iIrluowU9OxVAnrTwvs36atzvDEEbo6hKSW-XR3U1%40thread.tacv2/1677582432376?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

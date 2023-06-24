@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "Ємченко І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "Ємченко І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "Ягольник С.Г., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "Попович Н.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "Шайда О.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "Попович Н.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "Ємченко І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза тари і пакувальних матеріалів",
+        "lecturer": "Ємченко І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза тари і пакувальних матеріалів",
+        "lecturer": "Ємченко І.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

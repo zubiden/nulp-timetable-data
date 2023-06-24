@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли і сенсори мехатроніки",
+        "lecturer": "Хай М.В., ЕЕЕЕ_12116 Гол. н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Електромеханічні та оптикомеханічні вузли і сенсори мехатроніки",
+        "lecturer": "Біляковський І.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akUI1YN6ubDj_8F2TdlMjtf1eqQ4Mu4HhDfpb8ags_Ww1%40thread.tacv2/conversations?groupId=3d110f11-4d86-40b6-b63b-b858ec28debf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/uqp-uhge-svx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Прогресивні методи проектування і виробництва мікро- та наносистем",
+        "lecturer": "Кособуцький П.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розширене проектування мікросенсорів і мікроактюаторів",
+        "lecturer": "Корендій В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aol2-vBab_G2OINxdXk-Y-Tp6s319MAxyqWgwtkdWPPo1%40thread.tacv2/1677263877351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прогресивні мікро-та нанотехнології",
+        "lecturer": "Качур О.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aol2-vBab_G2OINxdXk-Y-Tp6s319MAxyqWgwtkdWPPo1%40thread.tacv2/1677263877351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., 322 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Прогресивні мікро-та нанотехнології",
+        "lecturer": "Іванина В.В., 322 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83008165021?pwd=NzVXTkZWQWNGdU1DRjNld3NDUXJpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи проектування мультиагентних систем",
+        "lecturer": "Яворський Н.Б., 319 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Прогресивні мікро-та нанотехнології",
+        "lecturer": "Іванина В.В., 321 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82321309307?pwd=d21MVE56VVZmWTI0ZnZyeE5qVVNHdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розширене проектування мікросенсорів і мікроактюаторів",
+        "lecturer": "Гурей В.І., 319 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Розширене проектування мікросенсорів і мікроактюаторів",
+        "lecturer": "Качур О.Ю., 319 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aol2-vBab_G2OINxdXk-Y-Tp6s319MAxyqWgwtkdWPPo1%40thread.tacv2/1677264661354?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Прогресивні методи проектування і виробництва мікро- та наносистем",
+        "lecturer": "Кособуцький П.С., 323 IV н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Прогресивні методи проектування і виробництва мікро- та наносистем",
+        "lecturer": "Кособуцький П.С., 323 IV н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

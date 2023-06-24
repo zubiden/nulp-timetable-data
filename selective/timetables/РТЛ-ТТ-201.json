@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., 205 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., 205 VI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., 205 VI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "Понкратов Д.П., 205 VI н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

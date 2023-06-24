@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "Андруник В.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "Андруник В.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "Андруник В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

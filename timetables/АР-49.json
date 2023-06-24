@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Кашуба О.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aAx9DPncw_O7LbjKSVuKwxg_99JhZSf7TPxO7MJBW97c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=1776afb7-5df2-4f69-8666-9eeee1b7aa76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Дацько О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2dc31fcf286c44c7bc99f260a2494251%40thread.tacv2/1676014215789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "Соснова Н.С., Тупісь С.П., Щегольська С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a0e2e67-1c96-4728-a0e6-997dd40e47f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/1677508263773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229cdcee8f-ac68-468f-9cc3-6cf818d34f46%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "Соснова Н.С., Тупісь С.П., Щегольська С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a0e2e67-1c96-4728-a0e6-997dd40e47f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/1677508263773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229cdcee8f-ac68-468f-9cc3-6cf818d34f46%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "Соснова Н.С., Тупісь С.П., Щегольська С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/scheduling-form/?eventId=AQMkAGY3OTgyZjNhLWZhMTMtNDQBOC1hM2RlLWM2YzczYzM2NTBmNwBGAAAD0lLYKaVjd0_e4RWRJsnMDgcAj50wNONgNkairsAZ0bfGXQAAAgENAAAAj50wNONgNkairsAZ0bfGXQAAAg0uAAAA&conversationId=19:RocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1@thread.tacv2&opener=0&providerType=1&navCtx=channel",
+            "https://teams.microsoft.com/l/channel/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a0e2e67-1c96-4728-a0e6-997dd40e47f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "Соснова Н.С., Тупісь С.П., Щегольська С.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/scheduling-form/?eventId=AQMkAGY3OTgyZjNhLWZhMTMtNDQBOC1hM2RlLWM2YzczYzM2NTBmNwBGAAAD0lLYKaVjd0_e4RWRJsnMDgcAj50wNONgNkairsAZ0bfGXQAAAgENAAAAj50wNONgNkairsAZ0bfGXQAAAg0uAAAA&conversationId=19:RocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1@thread.tacv2&opener=0&providerType=1&navCtx=channel",
+            "https://teams.microsoft.com/l/channel/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a0e2e67-1c96-4728-a0e6-997dd40e47f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Демчина Х.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aiUx9FDxqbXv1rTS-eYT5pAAVBeZdjJ1taGQdw_0XKDg1%40thread.tacv2/conversations?groupId=ba6ffbf8-45ec-494e-abf0-04e7203aa0f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія проектного процесу",
+        "lecturer": "Якубовський В.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac6eUkz8vC8QZIkgBolkZTepLgIqOZlI9LtxpKSvjGN81%40thread.tacv2/conversations?groupId=50087126-de62-445f-a3e1-6b2f64fb98b7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Дацько О.С., 1 тижд",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e0a56edd0d644df91cf6680820aab91%40thread.tacv2/1676017810499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Дацько О.С., 2 тижд",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e0a56edd0d644df91cf6680820aab91%40thread.tacv2/1676017810499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Дацько О.С., 4 тижд",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e0a56edd0d644df91cf6680820aab91%40thread.tacv2/1676017810499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Санація і ремонт будівель",
+        "lecturer": "Петренко О.В., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "Юхман Л.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7926945992?pwd=0vnwhmtZPactXCbdSWBRXZAsGVZOFP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

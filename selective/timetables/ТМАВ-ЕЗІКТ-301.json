@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Телекомунікаційні мережі в авіації",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Телекомунікаційні мережі в авіації",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/qou-phnv-znj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

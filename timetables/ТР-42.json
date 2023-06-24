@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahCSXxWL2AtdPGO5aAFj4klqVNL0oJ9S_zsOwT6YriyA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7fc4b01c-5a86-40ca-82a0-02bc78f8b9d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gwy-ynqz-hbz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gwy-ynqz-hbz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "lecturer": "Лазько Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gwy-ynqz-hbz"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/cyw-qxwf-zvf"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/nsi-pdtk-uju"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/cuk-dzdb-cto"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vyp-spoz-mzs"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "Фабіровський С.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/tno-krfm-cwf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Цифрова обробка сигналів",
+        "lecturer": "Лазько Л.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/pwz-nfqx-pcj?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/gwy-ynqz-hbz"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 2 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "lecturer": "Лазько Л.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/gwy-ynqz-hbz"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Основи наукових досліджень в землеустрої та оцінці нерухомості",
+        "lecturer": "Винарчик Л.В., 504 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи наукових досліджень в землеустрої та оцінці нерухомості",
+        "lecturer": "Винарчик Л.В., 504 II н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Основи наукових досліджень в землеустрої та оцінці нерухомості",
+        "lecturer": "Ступень Н.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

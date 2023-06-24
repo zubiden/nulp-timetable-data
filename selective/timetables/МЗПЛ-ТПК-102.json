@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "Мельниченко Б.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "Мельниченко Б.Б., 324а XIX н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

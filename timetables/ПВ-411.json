@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Судова медицина",
+        "lecturer": "Сибірна Р.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "Тарнавська М.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "Марич Х.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFhMmY4MTMtNDE3MC00Y2RiLThjZjktYzM1Mzc5NmFhZTA0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "Тарнавська М.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "Гузела М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "Канцір В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73136832695?pwd=AEPUiEu0lltY4xIb42buHthbqVITal.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "Богів Я.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/zud-zbnr-gtd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення інформаційної безпеки",
+        "lecturer": "Смотрич Д.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79789619736?pwd=vB7KT1SEHyUbhz6sVFJWUEiWb0U3VP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "Богів Я.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/bvh-siwk-exp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "Шай Р.Я., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "Фартушок Т.Б., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86021930364?pwd=am8reHBnNUd2NHZncHc1bFNUZ01nZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення інформаційної безпеки",
+        "lecturer": "Батько І.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71047824070?pwd=NbQ05NyQsYxPDcf2Kxj9v8TQQeLzC4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

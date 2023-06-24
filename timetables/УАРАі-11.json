@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Секторальне прогнозування та сталий розвиток територій",
+        "lecturer": "Комаринець С.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBEvqLDcm5lMnOUrsEJxIyQvk2RstW8iiQgrJr-isHLg1%40thread.tacv2/conversations?groupId=2f9f5e67-bff5-4a1b-b8c6-c059896fc777&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Державний контроль за товарними ринками",
+        "lecturer": "Михальчишин Н.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a17b8bba140de46c0ab5055688568d4ef%40thread.tacv2/conversations?groupId=ff26d55f-411b-4fc6-98c2-4594a6922736&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Секторальне прогнозування та сталий розвиток територій",
+        "lecturer": "Комаринець С.О., 504 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBEvqLDcm5lMnOUrsEJxIyQvk2RstW8iiQgrJr-isHLg1%40thread.tacv2/conversations?groupId=2f9f5e67-bff5-4a1b-b8c6-c059896fc777&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи управлінського консультування",
+        "lecturer": "Поплавська Ж.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWERrxRbjLsDJL_eoKSUyXoU8JslqPp9K12jhgesmwDY1%40thread.tacv2/conversations?groupId=7f7872b6-3b54-453c-8bd7-89acc4e2abfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи управлінського консультування",
+        "lecturer": "Поплавська Ж.В., 504 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWERrxRbjLsDJL_eoKSUyXoU8JslqPp9K12jhgesmwDY1%40thread.tacv2/conversations?groupId=7f7872b6-3b54-453c-8bd7-89acc4e2abfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Макроекономічний аналіз та національна безпека",
+        "lecturer": "Данилович-Кропивницька М.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Макроекономічний аналіз та національна безпека",
+        "lecturer": "Данилович-Кропивницька М.Л., 401 IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Державний контроль за товарними ринками",
+        "lecturer": "Михальчишин Н.Л., 505 IV н.к.",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a17b8bba140de46c0ab5055688568d4ef%40thread.tacv2/conversations?groupId=ff26d55f-411b-4fc6-98c2-4594a6922736&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Державний контроль за товарними ринками",
+        "lecturer": "Михальчишин Н.Л., 505 IV н.к.",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a17b8bba140de46c0ab5055688568d4ef%40thread.tacv2/conversations?groupId=ff26d55f-411b-4fc6-98c2-4594a6922736&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Діагностика обладнання теплових електростанцій",
+        "lecturer": "Матіко Г.Ф., 57 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6jMD9kUiD_q5tBuPPZnqNxurzHjnu_NJmepceBefR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13a0bbbd-5328-49d7-ac8b-e8a3e90b41ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Діагностика обладнання теплових електростанцій",
+        "lecturer": "Матіко Г.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6jMD9kUiD_q5tBuPPZnqNxurzHjnu_NJmepceBefR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13a0bbbd-5328-49d7-ac8b-e8a3e90b41ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

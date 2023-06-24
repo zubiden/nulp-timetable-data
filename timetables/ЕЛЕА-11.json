@@ -1,0 +1,238 @@
+[
+    {
+        "subject": "Математичні моделі та алгоритми проектування елементів та структур електронної техніки",
+        "lecturer": "Гельжинський І.І., 215 III н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589314263?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі та алгоритми проектування елементів та структур електронної техніки",
+        "lecturer": "Гельжинський І.І., 215 III н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589314263?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Мікросхемотехніка",
+        "lecturer": "Гельжинський І.І., 227 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589141595?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Фізико-хімічні процеси в мікроелектронній технології",
+        "lecturer": "Кучмій Г.Л., 108 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIdS-85qRBlfTlFjHlFV-ydOcXFkAO5b-KgpQNefek01%40thread.tacv2/1685952312769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 229 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685952648464?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "Кучмій Г.Л., 108 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685365842924?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685952723375?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "Кучмій Г.Л., 108 III н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685365888211?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фізико-хімічні процеси в мікроелектронній технології",
+        "lecturer": "Кучмій Г.Л., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIdS-85qRBlfTlFjHlFV-ydOcXFkAO5b-KgpQNefek01%40thread.tacv2/1685952806826?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мікросхемотехніка",
+        "lecturer": "Гельжинський І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589141595?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Мікросхемотехніка",
+        "lecturer": "Гельжинський І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589141595?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі та алгоритми проектування елементів та структур електронної техніки",
+        "lecturer": "Гельжинський І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aye_s26IlpP4j16V86hbl2w6TMpSoTE1cD0fXLhIrJEE1%40thread.tacv2/1677589314263?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Микитюк З.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ah3nxAhnOYBY8vLCHkrsT0My984IsfUBPC29UBTcOSHk1%40thread.tacv2/1676621565941?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "Микитюк З.М., 110 III н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5443591836?pwd=YU92N2VjVmM2R1llWk9YcmI5OU1qUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

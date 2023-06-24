@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку й аудиті",
+        "lecturer": "Лемішовська О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку й аудиті",
+        "lecturer": "Лемішовська О.С., 326 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

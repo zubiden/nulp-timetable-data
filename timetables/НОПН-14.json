@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71996532303?pwd=gqQppafizeKPCNyz1NR6a6mefabjQV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Носкова М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/ode-kngg-vbc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "Ієвлєв О.М., вибіркова",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "Колодій І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84661701058?pwd=SFBVSjdweDRwbk1Wa1hySGEwZHJnZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку та оподаткуванні",
+        "lecturer": "Яремко І.Й., 326б IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "Горохівська Т.М., вибіркова405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72579771591?pwd=zBWbY8An24e03hYAY5NPy7lbvkFQvY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "Ієвлєв О.М., вибіркова405 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "Лемішовська О.С., 326б IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "Лемішовська О.С., 326б IV н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "Лемішовська О.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку та оподаткуванні",
+        "lecturer": "Яремко І.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "Шевчук Г.Й., 705 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72543886562?pwd=9cDMLLsWAmSAKRfSwLeZEGYY21FuRc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "Колодій І.С., 705 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

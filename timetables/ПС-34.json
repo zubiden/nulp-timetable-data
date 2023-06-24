@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "Кудряшова А.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us02web.zoom.us/j/85321398824?pwd=SkJtcDE1aW1nMm5VTW51cnhxdWVQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи коучингової практики",
+        "lecturer": "Бакаїм Ю.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amVpSacBenRjezu-THSsOmYogVm8WyeGh5Hfpm2IqUNY1%40thread.tacv2/1678808892215?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2261f68916-ae38-4f03-8609-2d7597715687%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Психологічна служба",
+        "lecturer": "Боженко Л.Р., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDk1MTdlMTktMGE1Zi00MWViLTkxYjEtNDRkNjJkNjRiNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Психологічне консультування за різними напрямами, частина 1",
+        "lecturer": "Лешко Д.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3Ameeting_NmFjMmMzMzgtZWRmNy00YmVjLWIwMjAtMjQ2MTJiY2ZlYjRk%40thread.v2/0?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%224ac4ca17-64c7-40ef-ac81-d4e531cc7f08%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "Мороз О.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk1ZGRjMTctYThiZi00MGFhLWJhMjgtNjJhZDIzMzY1MjEw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228c791108-733d-4339-8b26-baca37ceec50%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Психологічне консультування за різними напрямами, частина 1",
+        "lecturer": "Шамлян К.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-NiWDeOAge6A07yHtB9BGFCjy6z59L8ufZqKHUMYTSw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=9109e874-5a15-4e0b-b032-2a46b6e56878&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "Клименко М.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89914923424?pwd=TXFGSkI2Q0NlWjBHeERYUmxvdkZEUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Психологія здоров`я",
+        "lecturer": "Шиделко А.В., вибіркова",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/6083336618?pwd=dzRYckRsbzdDeHlIbkloamc4Y2VWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи коучингової практики",
+        "lecturer": "Дубова О.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82635796504?pwd=bUxhL3NSMlhPSGlpL0hSSGU4NEEwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "Книш А.Є., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71613684687?pwd=7Q65uCxpztbsCBP6MtbBvXqWN0bEa3.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Етичні норми психологічного консультування",
+        "lecturer": "Савка І.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e70302f4dfe5076943d901000000000000000010000000cad6a371ef5d19488e9e12403fe34df2&conversationId=19:XRsJuPsyPmoj4CHcqOoE-g6N1M3PZF3Q9LDxYTkFoFg1@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психологічна служба",
+        "lecturer": "Боженко Л.Р., вибіркова",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg2OTMzMDgtYWI1Ni00OGUxLWFhYTYtNDRjNjk2Nzk0MmVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Психологія здоров`я",
+        "lecturer": "Куций О.А., вибіркова ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Етичні норми психологічного консультування",
+        "lecturer": "Лешко Д.Д., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:Ii9_LX1v1LlsOSt8gBVVI3FiDBtCIfIth52nr5D05Rk1@thread.tacv2/1678450796379?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224ac4ca17-64c7-40ef-ac81-d4e531cc7f08%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

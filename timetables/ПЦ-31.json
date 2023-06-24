@@ -1,0 +1,225 @@
+[
+    {
+        "subject": "Інформаційні системи прийняття рішень",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=15198"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи прийняття рішень",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=15198"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальні системи",
+        "lecturer": "Пелещак Р.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи прийняття рішень",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=15198"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальні системи",
+        "lecturer": "Пелещак Р.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи прийняття рішень",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=15198"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні системи прийняття рішень",
+        "lecturer": "Шестакевич Т.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=15198"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальні системи",
+        "lecturer": "Пелещак Р.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи педагогіки відкритих освітніх систем",
+        "lecturer": "Гузій І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та методика професійного навчання",
+        "lecturer": "Гузій І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи педагогіки відкритих освітніх систем",
+        "lecturer": "Стечкевич О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74516750730?pwd=uTT7jA4BFWRdLNo8fAgz8TnFouCSdn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Теорія та методика професійного навчання",
+        "lecturer": "Гузій І.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "Шевчук Г.Й., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "Шевчук Г.Й., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "Шевчук Г.Й., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

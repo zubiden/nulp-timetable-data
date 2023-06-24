@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Спеціалізовані протоколи для систем авіоніки",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/kvp-ykvr-rfx"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізовані протоколи для систем авіоніки",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/xfv-aqaf-yhb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем, частина 2",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/hey-xpds-fps"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Спеціалізовані протоколи для систем авіоніки",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/icx-ynnn-eqy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "Романишин Ю.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3awRJxrPXz__pXP39hlndUlWVKhwl8Mo7ar3WuGvXndEg1%40thread.tacv2/General?groupId=f27004f0-6e5c-4ace-bb65-c06469541dcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "Романишин Ю.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3awRJxrPXz__pXP39hlndUlWVKhwl8Mo7ar3WuGvXndEg1%40thread.tacv2/General?groupId=f27004f0-6e5c-4ace-bb65-c06469541dcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи реєстрації параметрів польоту, частина 2",
+        "lecturer": "Васьків Г.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/83466778848?pwd%3DWEJUZytsTDI2SjF6Y1huZWZFcWx0dz09&sa=D&source=calendar&ust=1677590291146751&usg=AOvVaw0ONS4hJSmluIBUYqhV0LTo"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи реєстрації параметрів польоту, частина 2",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/83466778848?pwd%3DWEJUZytsTDI2SjF6Y1huZWZFcWx0dz09&sa=D&source=calendar&ust=1677590291146751&usg=AOvVaw0ONS4hJSmluIBUYqhV0LTo"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "Романишин Ю.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aj4UA1h2Zny0eAPyqZAWE_2bQmTPjThe1jcAC1g0Dxs81%40thread.tacv2/General?groupId=5c8039bd-bb94-4b74-96ac-fd7fabb931cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи реєстрації параметрів польоту, частина 2",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/83466778848?pwd%3DWEJUZytsTDI2SjF6Y1huZWZFcWx0dz09&sa=D&source=calendar&ust=1677591175376659&usg=AOvVaw2c5CeTyJCzTFtWR8yPrnrc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем, частина 2",
+        "lecturer": "Павлиш В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aCRuwVRXxbLJv240bCOzTkz_XxugoK8r-BOwBxADHaZk1%40thread.tacv2/conversations?groupId=68d7017e-1ea5-4b91-967d-0a87c0bb5575&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи реєстрації параметрів польоту, частина 2",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/83466778848?pwd%3DWEJUZytsTDI2SjF6Y1huZWZFcWx0dz09&sa=D&source=calendar&ust=1677591175376659&usg=AOvVaw2c5CeTyJCzTFtWR8yPrnrc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані протоколи для систем авіоніки",
+        "lecturer": "Лаврів О.А., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/ffi-gokg-fme"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

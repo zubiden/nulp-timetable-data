@@ -1,0 +1,170 @@
+[
+    {
+        "subject": "Автоматика електроенергетичних систем",
+        "lecturer": "Равлик Н.О., 305а V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "Кідиба В.П., 312в V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "Кідиба В.П., 304 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматика електроенергетичних систем",
+        "lecturer": "Коновал В.С., 312в V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPJ0m20B6h7JDk2Eay-p6OUO-DP6JeOA5Z-fCtXfWIRM1%40thread.tacv2/General?groupId=d42336f7-8138-4a87-a4ef-bea58dc7e935&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові технології в системах захисту й автоматики розподільних електричних мереж",
+        "lecturer": "Баран П.М., 312а V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові технології в системах захисту й автоматики розподільних електричних мереж",
+        "lecturer": "Баран П.М., 303 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "Пришляк Я.Д., 303 V н.к., 304 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3b8af6174e8f4eae94d4f9a2ea2fd385%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D0%25B0?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "Пришляк Я.Д., 303 V н.к., 304 V н.к., ",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматика електроенергетичних систем",
+        "lecturer": "Коновал В.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPJ0m20B6h7JDk2Eay-p6OUO-DP6JeOA5Z-fCtXfWIRM1%40thread.tacv2/General?groupId=d42336f7-8138-4a87-a4ef-bea58dc7e935&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові технології в системах захисту й автоматики розподільних електричних мереж",
+        "lecturer": "Баран П.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad4fa406ad5ac4903a9f534e87546a24e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%2595%25D0%2595-16%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "Пришляк Я.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a81d8045f2b92497fbef6b31238cfafd3%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "Кідиба В.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8aa93aef5b4548d18d104f0ad498393e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%2595%25D0%2595-16%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

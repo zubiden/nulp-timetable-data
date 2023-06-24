@@ -1,0 +1,215 @@
+[
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "Шаповал С.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aeJRw8o72KoADiiNLYQ6XCZdxpRmakW7Qv1Xeh2RJ7Pc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=178de8c0-968a-4275-bb93-194c326c5d0e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Радіаційне охолодження та опалення приміщень",
+        "lecturer": "Савченко О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7bGEdFBTdmES2k2DP2Mp5Sos52AdVP5JzON1khu-urw1%40thread.tacv2/1676839611776?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "Желих В.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a48d59b2795b64a639832ef15009558b4%40thread.tacv2/1677415792960?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229f0e9621-e256-4c6b-b49e-b194ec1de7f0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "Савченко О.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7bGEdFBTdmES2k2DP2Mp5Sos52AdVP5JzON1khu-urw1%40thread.tacv2/1676839973166?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "Шаповал С.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/conversations?groupId=4df938ff-9bca-42aa-8e65-58489411f405&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "Касинець М.Є., Шаповал С.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4df938ff-9bca-42aa-8e65-58489411f405&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/meetup-join/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/1677659320770?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2261822e71-cb33-493f-b608-96546aa9a958%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "Возняк О.Т., Савченко О.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676840203416?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a88amkXw6QX1G2vns59HCvirosPHTmsjYEJrm8eK2RiQ1%40thread.tacv2/conversations?groupId=f6d8d255-2a37-4c5f-a000-22d392274b8f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Радіаційне охолодження та опалення приміщень",
+        "lecturer": "Савченко О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676840960549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "Возняк О.Т., Клименко Г.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a80b7397894834949940b327fb8642152%40thread.tacv2/1684911779248?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7e17544-3290-477a-91cf-c0750880f931%22%7d",
+            "https://teams.microsoft.com/l/team/19%3a88amkXw6QX1G2vns59HCvirosPHTmsjYEJrm8eK2RiQ1%40thread.tacv2/conversations?groupId=f6d8d255-2a37-4c5f-a000-22d392274b8f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "Гідей В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRhNmYxMWEtYzQ2MS00OTJiLWIxYTYtYmFmYjNhYjdhZjI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e6351de5-0806-4f79-9dda-100228138e72%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "Савченко О.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676841313145?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "Пізнак Б.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azMbYTH6ousmSY6SYim-b3dJtmerFVhANAPp4idAvEWE1%40thread.tacv2/1677835938045?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222be84bc-ca1c-46de-aec1-e0994585e482%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія заготівельних і монтажних робіт та інженерні мережі систем ТГВ (практикум)",
+        "lecturer": "Довбуш О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9RUhOmNRrEA9_zyPo4Z1vtLyz2fsYNTwIz3-Duxredg1%40thread.tacv2/conversations?groupId=662571ff-cebf-49ea-8482-727533ad3449&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологія заготівельних і монтажних робіт та інженерні мережі систем ТГВ (практикум)",
+        "lecturer": "Довбуш О.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9RUhOmNRrEA9_zyPo4Z1vtLyz2fsYNTwIz3-Duxredg1%40thread.tacv2/conversations?groupId=662571ff-cebf-49ea-8482-727533ad3449&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

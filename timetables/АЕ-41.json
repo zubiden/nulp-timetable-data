@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "Кузик М.П., 213 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76542044200?pwd=iPp6gAIKR2kaOHdapJVoMeUTJAU0IU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "Кузик М.П., 209 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79254823979?pwd=8AJ538YThcAoUFagv0cp3avxML2wuL.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "Химко О.М., 318 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "Римар Т.І., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "Римар Т.І., 207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "Кузик М.П., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76542044200?pwd=iPp6gAIKR2kaOHdapJVoMeUTJAU0IU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "Химко О.М., 318 II н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "Кузик М.П., 209 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77779085909?pwd=rrZcyvwfNZiQFbey4FbsWnCoU0kLLM.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "Брилинський Р.Б., 209 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "Брилинський Р.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Передало Х.С., 207 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFMXbAsR5cjK3BY3KqzngSUo6npE5-0OqznrAS63aVo41%40thread.tacv2/conversations?groupId=2809b2a5-eaba-4923-9cc4-8c248bf6761e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "Моторнюк У.І., 211 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqqM_ERINRWsAkQUaREzETMzrA_5ock6PoGAG19Lydcw1%40thread.tacv2/conversations?groupId=4cba132f-0f16-4c0c-ac4b-0a7b397c1233&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "Юрасова О.Г., 211 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/CC4zyEIz8D7s"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

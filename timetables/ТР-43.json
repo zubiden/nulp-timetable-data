@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "Невінський Д.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/hco-ffcs-smv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Корж Г.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahCSXxWL2AtdPGO5aAFj4klqVNL0oJ9S_zsOwT6YriyA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7fc4b01c-5a86-40ca-82a0-02bc78f8b9d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "Павлиш В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5VspmQVW1NvMQks-IWG6wD5P023VZUyB_Jevp7v96W41%40thread.tacv2/conversations?groupId=8d2ffd3d-0b92-4fe1-a6c4-649777d2f899&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "Павлиш В.А., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5VspmQVW1NvMQks-IWG6wD5P023VZUyB_Jevp7v96W41%40thread.tacv2/conversations?groupId=8d2ffd3d-0b92-4fe1-a6c4-649777d2f899&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи мікро- та нанотехнологій",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agYOWblWVqSpgf6vyDkqlm7KrImtcO4AFWlHJBFb8uf81%40thread.tacv2/conversations?groupId=73e8d4ca-d435-4632-8db8-10e6998ace37&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Термінальні засоби інфокомунікаційних систем",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/86940990848?pwd%3DQmNTK2g2UjhNRjBCdnB4YnpvSG5ZUT09&sa=D&source=calendar&ust=1677589505677168&usg=AOvVaw3fbmEWgFIxbPiRoFXzI3_w"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи мікро- та нанотехнологій",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agYOWblWVqSpgf6vyDkqlm7KrImtcO4AFWlHJBFb8uf81%40thread.tacv2/conversations?groupId=73e8d4ca-d435-4632-8db8-10e6998ace37&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Термінальні засоби інфокомунікаційних систем",
+        "lecturer": "Васьків Г.М., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/86940990848?pwd%3DQmNTK2g2UjhNRjBCdnB4YnpvSG5ZUT09&sa=D&source=calendar&ust=1677589505677168&usg=AOvVaw3fbmEWgFIxbPiRoFXzI3_w"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи мікро- та нанотехнологій",
+        "lecturer": "Заячук Д.М., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agYOWblWVqSpgf6vyDkqlm7KrImtcO4AFWlHJBFb8uf81%40thread.tacv2/conversations?groupId=73e8d4ca-d435-4632-8db8-10e6998ace37&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Термінальні засоби інфокомунікаційних систем",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/86940990848?pwd%3DQmNTK2g2UjhNRjBCdnB4YnpvSG5ZUT09&sa=D&source=calendar&ust=1677589706207495&usg=AOvVaw0X1dwL4UgYY5zqMDET-zL4"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "Ташак М.С., 2 тижд.",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89744137459?pwd=eGtjU2VpdWhjWTVtUXVZVWVmOWppUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Термінальні засоби інфокомунікаційних систем",
+        "lecturer": "Васьків Г.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/86940990848?pwd%3DQmNTK2g2UjhNRjBCdnB4YnpvSG5ZUT09&sa=D&source=calendar&ust=1677589706207495&usg=AOvVaw0X1dwL4UgYY5zqMDET-zL4"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

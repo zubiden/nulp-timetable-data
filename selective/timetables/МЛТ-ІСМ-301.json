@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Басюк Т.М., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/99116018613?pwd=VlY5Z3VxaThEdVNiK3BnV1VlcUZSQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Назаркевич М.А., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/wgc-ddfd-ewz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "Назаркевич М.А., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/wgc-ddfd-ewz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    }
+]

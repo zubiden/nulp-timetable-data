@@ -1,0 +1,287 @@
+[
+    {
+        "subject": "Веб-технології та бази даних",
+        "lecturer": "Кочан О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlmOWNlYmItNTE0ZC00NDY5LWExNjMtOTZmODBhMTcxMjk3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "Куць В.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81070646521?pwd=aHJITjUwVHVEQUMwbWN6Umpuc3JkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "Куць В.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86098083381?pwd=QXlNbng5bWpNYTBUenhIWFlFZlpnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Операційні системи",
+        "lecturer": "Микитин І.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "Хома Ю.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Актуатори та сенсори робототехніки",
+        "lecturer": "Ришковський О.П., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73020780354?pwd=1bsDktKB47s6zPHwyNCRh3keaQJXCJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Веб-технології та бази даних",
+        "lecturer": "Кочан О.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzJlZWM3NjgtOTYzOS00YzAwLWJiOGUtNmQwNzZhNDQ3NmMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Веб-технології та бази даних",
+        "lecturer": "Кочан О.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmJkYzg2NGUtYzVjNS00NzFiLTk5NDAtOTFhMWQ4MTI3ZjRk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "Куць В.Р., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83109062058?pwd=Sm0yeWE1SXFlUm5IMnhiVGlrYkRYdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "Куць В.Р., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83109062058?pwd=Sm0yeWE1SXFlUm5IMnhiVGlrYkRYdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Презентаційні навички",
+        "lecturer": "Паракуда В.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://meet.google.com/gfg-udkw-fox"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "Хома Ю.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Актуатори та сенсори робототехніки",
+        "lecturer": "Ришковський О.П., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78647331794?pwd=O5yJnsobE6114PKOayiLquastcK90t.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "Хома Ю.В., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Актуатори та сенсори робототехніки",
+        "lecturer": "Ришковський О.П., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71973539724?pwd=t9ItLbueWH5Q6CuudVp7YCMmFabsMP.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Операційні системи",
+        "lecturer": "Микитин І.П., ",
+        "location": " Практична",
+        "urls": [
+            "https://meet.google.com/vew-dvqr-akh"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Веб-технології та бази даних",
+        "lecturer": "Кочан О.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZkNmIxZGUtOGY4OS00ZWRkLWE4MmItZTY5ZGQ1ZWRlMjg3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

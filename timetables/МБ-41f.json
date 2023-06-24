@@ -1,0 +1,105 @@
+[
+    {
+        "subject": "Ергономіка та дизайн автомобілів і тракторів",
+        "lecturer": "Бур'ян М.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85731271297?pwd=aE03djFsakkxMHFlenF4aktKOXFpZz0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Бур'ян М.В., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88001083460?pwd=bW5xeTNRa2lHcExWdlBjTUpVbXNhUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "Горбай О.З., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82025417592?pwd=TjhSM2oybHdpREttNjdXY09ORkd2UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Ергономіка та дизайн автомобілів і тракторів",
+        "lecturer": "Бур'ян М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85731271297?pwd=aE03djFsakkxMHFlenF4aktKOXFpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Бур'ян М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84127377032?pwd=bVhHdXM0NmRGbG8xdTNsNXZ4ckJPQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Сертифікаційні випробовування автомобіля",
+        "lecturer": "Бур'ян М.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84127377032?pwd=bVhHdXM0NmRGbG8xdTNsNXZ4ckJPQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Лук'янова Г.Ю., 709 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Лук'янова Г.Ю., 709 XXXVI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Адміністративно-правове регулювання інноваційної діяльності",
+        "lecturer": "Лук'янова Г.Ю., ",
+        "location": " Лекція",
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

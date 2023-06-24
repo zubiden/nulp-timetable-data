@@ -1,0 +1,60 @@
+[
+    {
+        "subject": "Інноваційні оптичні технології дослідження матеріалів",
+        "lecturer": "Гніліцький Я.М., 35 X н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/6915696195?pwd=N3dqYVJWamlEVTRpV25wYzhCTTk4Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні оптичні технології дослідження матеріалів",
+        "lecturer": "Гніліцький Я.М., 35 X н.к., ",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні оптичні технології дослідження матеріалів",
+        "lecturer": "Гніліцький Я.М., 35 X н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/6915696195?pwd=N3dqYVJWamlEVTRpV25wYzhCTTk4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інноваційні оптичні технології дослідження матеріалів",
+        "lecturer": "Гніліцький Я.М., 35 X н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/6915696195?pwd=N3dqYVJWamlEVTRpV25wYzhCTTk4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Основи наукових досліджень та інтелектуальна власність",
+        "lecturer": "Баранович Д.Б., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a67b9b931e9974a56a51506b2fa3b3f35%40thread.tacv2/1677456414953?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи наукових досліджень та інтелектуальна власність",
+        "lecturer": "Баранович Д.Б., 240 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]
